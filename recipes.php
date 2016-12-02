@@ -4,6 +4,8 @@ require_once './vendor/autoload.php';
 
 use sylouuu\MarmitonCrawler\Recipe\Recipe;
 
+$recipes = array();
+
 function get_links($url) {
 
 	global $recipes;
@@ -68,22 +70,75 @@ function get_links($url) {
 
 
 $to_crawl = "http://www.marmiton.org/recettes/recette-hasard.aspx";
-$recipes = array();
+$file = fopen('sorties_02122016.txt', 'a');
 
 foreach (get_links($to_crawl) as $page) {
 	$recipe = new Recipe($page);
 	$recipe = $recipe -> getRecipe();
-	print $recipe."\n";
-	$file = fopen('sorties_02122016.txt', 'a');
-	fwrite($file, $recipe."\n");
-	fclose($file);
+	var_dump($recipe);
+	fwrite($file,"recipe_name\t");
+	fwrite($file, $recipe["recipe_name"]."\n");
+	fwrite($file,"type\t");
+	fwrite($file, $recipe["type"]."\n");
+	fwrite($file,"difficulty\t");
+	fwrite($file, $recipe["difficulty"]."\n");
+	fwrite($file,"cost\t");
+	fwrite($file, $recipe["cost"]."\n");
+	fwrite($file,"guests_number\t");
+	fwrite($file, $recipe["guests_number"]."\n");
+	fwrite($file,"preparation_time\t");
+	fwrite($file, $recipe["preparation_time"]."\n");
+	fwrite($file,"cook_time\t");
+	fwrite($file, $recipe["cook_time"]."\n");
+	foreach ($recipe["ingredients"] as $ing) {
+		fwrite($file, "ingredient\t");
+		fwrite($file, $ing."\n");
+	}
+	fwrite($file,"instructions\t");
+	foreach (explode("\n", $recipe["instructions"]) as $s) {
+		fwrite($file, trim($s)." ");
+	}
+	fwrite($file, "\n\n");
+
 }
 
+fclose($file);
+
 /*
-$page = 'http://www.marmiton.org/recettes/recette_vacherin-aux-fraises-en-verrine_88208.aspx';
+$page = 'http://www.marmiton.org/recettes/recette_gratin-de-pommes-granny-au-chevre_37910.aspx';
 $recipe = new Recipe($page);
-$recipe = $recipe -> getRecipe();	
-print $recipe."\n";
+$recipe = $recipe -> getRecipe();
+var_dump($recipe);
+
+$file = fopen('output.txt', 'a');
+
+fwrite($file,"recipe_name\t");
+fwrite($file, $recipe["recipe_name"]."\n");
+fwrite($file,"type\t");
+fwrite($file, $recipe["type"]."\n");
+fwrite($file,"difficulty\t");
+fwrite($file, $recipe["difficulty"]."\n");
+fwrite($file,"cost\t");
+fwrite($file, $recipe["cost"]."\n");
+fwrite($file,"guests_number\t");
+fwrite($file, strval($recipe["guests_number"])."\n");
+fwrite($file,"preparation_time\t");
+fwrite($file, $recipe["preparation_time"]."\n");
+fwrite($file,"cook_time\t");
+fwrite($file, $recipe["cook_time"]."\n");
+foreach ($recipe["ingredients"] as $ing) {
+	fwrite($file,"ingredient\t");
+	fwrite($file, $ing."\n");
+}
+fwrite($file,"instructions\t");
+foreach (explode("\n", $recipe["instructions"]) as $s) {
+	fwrite($file, trim($s)." ");
+}
+fwrite($file, "\n\n");
+
+fclose($file);
+
+echo mb_detect_encoding($recipe["instructions"]);
 */
 
 ?>
