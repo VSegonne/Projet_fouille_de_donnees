@@ -1,6 +1,7 @@
 <?php
 
 require_once './vendor/autoload.php';
+include_once('vendor/simplehtmldom_1_5/simple_html_dom.php');
 
 use sylouuu\MarmitonCrawler\Recipe\Recipe;
 
@@ -64,13 +65,24 @@ function get_links($url) {
 
 }
 
+function fetch_ingredients ($html) {
+  $html = file_get_html($html);
+  $ret = $html->find('script[type="text/javascript"]');
+  foreach ($ret as $r) {
+    if (substr($r,0,46) == "<script type=\"text/javascript\">var m_dataLayer") {
+      $r = preg_replace('/\s+/', '', $r);
+      return explode(",",explode("\",\"recipeType\"",explode("\"contentInfo\":{\"recipeIngredients\":\"",explode(';',$r)[0])[1])[0]);
+    }
+  }
+}
+
 # ======
 #  MAIN
 # ======
 
 
 $to_crawl = "http://www.marmiton.org/recettes/recette-hasard.aspx";
-$file = fopen('sorties_02122016.txt', 'a');
+$file = fopen('sorties_02132016.txt', 'a');
 
 foreach (get_links($to_crawl) as $page) {
 	$recipe = new Recipe($page);
@@ -90,7 +102,7 @@ foreach (get_links($to_crawl) as $page) {
 	fwrite($file, $recipe["preparation_time"]."\n");
 	fwrite($file,"cook_time\t");
 	fwrite($file, $recipe["cook_time"]."\n");
-	foreach ($recipe["ingredients"] as $ing) {
+	foreach (fetch_ingredients($page) as $ing) {
 		fwrite($file, "ingredient\t");
 		fwrite($file, $ing."\n");
 	}
@@ -126,7 +138,7 @@ fwrite($file,"preparation_time\t");
 fwrite($file, $recipe["preparation_time"]."\n");
 fwrite($file,"cook_time\t");
 fwrite($file, $recipe["cook_time"]."\n");
-foreach ($recipe["ingredients"] as $ing) {
+foreach (fetch_ingredients($page) as $ing) {
 	fwrite($file,"ingredient\t");
 	fwrite($file, $ing."\n");
 }
@@ -137,8 +149,6 @@ foreach (explode("\n", $recipe["instructions"]) as $s) {
 fwrite($file, "\n\n");
 
 fclose($file);
-
-echo mb_detect_encoding($recipe["instructions"]);
 */
 
 ?>

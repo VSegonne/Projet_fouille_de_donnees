@@ -1,0 +1,747 @@
+recipe_name	Lapin à la Lorientaise
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	60
+cook_time	60
+ingredient	ail
+ingredient	beurre
+ingredient	calvados
+ingredient	carotte
+ingredient	champignon-de-paris
+ingredient	cidre
+ingredient	clou-de-girofle
+ingredient	echalote
+ingredient	huile-d-olive
+ingredient	lapin-entier
+ingredient	laurier
+ingredient	muscade
+ingredient	poivre
+ingredient	pomme
+ingredient	pomme-de-terre
+ingredient	sel
+ingredient	thym
+instructions	Couper grossièrement les carottes, les mettre à cuire à la vapeur avec les petites pommes de terre (dans un cuit vapeur a étages par exemple) pour 30 min. Pendant ce temps, faire dorer le lapin dans le mélange huile d'olive/beurre à feu fort. Une fois le lapin un peu doré, ajouter l'ail écrasé et les échalotes coupées en rondelles. Une fois l'échalote translucide, verser le cidre et le calva, puis ajouter les herbes et les épices. Faire mijoter jusqu'à la fin de la cuisson des légumes. Une fois les légumes cuits, les incorporer dans la marmite ainsi que les pommes et les champignons. A servir bien chaud, avec un peu de crème fraîche épaisse pour les gourmands. Remarques : Cette recette marche aussi bien avec une poule faisane ou une pintade. Boisson conseillée : Cidre 
+
+recipe_name	Cuisses de canard au miel et à l'orange
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	60
+ingredient	carotte
+ingredient	cuisse-de-canard
+ingredient	fond-de-volaille
+ingredient	huile-d-olive
+ingredient	miel
+ingredient	oignon
+ingredient	orange
+ingredient	paprika
+ingredient	poivre
+ingredient	sel
+ingredient	thym
+instructions	Épluchez et émincez l'oignon et la carotte. Prélevez le zeste de l'orange et pressez le jus. Faites chauffer l'huile d'olive dans une cocotte et colorez les cuisses sur chaque côté. Salez, poivrez et ajoutez un peu de paprika (selon vos goûts). Ajoutez les légumes, le zeste et faites légèrement colorer. Ajoutez le miel puis déglacez avec le jus de l'orange. Ajoutez ensuite le thym et complétez avec le fond de volaille. Portez à ébullition, couvrez et laissez mijoter pendant 50 min à 1h (surveillez la cuisson). 10 min avant la fin de la cuisson, j'ai pour ma part ajouté une cuillère à soupe de farine pour épaissir la sauce, mais chacun à sa guise ! Servez avec une semoule ou un riz basmati. 
+
+recipe_name	Tajine aux cuisses de canard
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	25
+cook_time	90
+ingredient	abricot
+ingredient	ail
+ingredient	carotte
+ingredient	coriandre
+ingredient	cuisse-de-canard
+ingredient	cumin-en-poudre
+ingredient	eau
+ingredient	huile-d-olive
+ingredient	menthe
+ingredient	oignon-rouge
+ingredient	piment
+ingredient	poivre
+ingredient	sel
+instructions	Mettre la tajine, sur feu doux, avec l'huile d'olive. Couper, en tranches très fines, l'oignon rouge et le faire dorer dans la tajine, avec la gousse d'ail écrasée dans sa peau. Couper, en rondelle de 5 mm d'épaisseur, les carottes et les mettre dans la tajine. Mélanger le cumin, et la pincée de piments, dans le verre d'eau et verser dans la tajine. Couvrir et laisser mijoter pendant 5 min. Préparer les cuisses de canard, enlever les éventuelles plumes restantes, et ôter une partie de la peau. Poser les deux cuisses de canard dans la tajine, au dessus des carottes, et laisser cuire pendant 15 min. Couper en 4, chaque abricot, et les disposer dans la tajine. Laisser mijoter, à feu très doux, pendant 1h. Emincer la coraindre et la menthe, et parsemer sur les cuisses de canard. Laisser cuire encore 15 min. A chaque étape, vérifier le niveau d'eau et rajouter une à deux cuillères à soupe, si besoin. La tajine doit toujours avoir un fond de sauce liquide, durant la cuisson. Remarques : Servir bien chaud, avec une semoule aux épices, ou un bourgoul à la tomate. Boisson conseillée : Vin rouge léger type pays de loire ou vin rosé 
+
+recipe_name	Boules de polenta
+type	Amuse-gueule
+difficulty	Facile
+cost	Bon marché
+guests_number	35
+preparation_time	25
+cook_time	35
+ingredient	ail
+ingredient	basilic-frais
+ingredient	bouillon
+ingredient	chapelure
+ingredient	chevre-frais
+ingredient	huile-de-friture
+ingredient	huile-d-olive
+ingredient	oeuf
+ingredient	piment-d-espelette
+ingredient	poivre
+ingredient	polenta
+ingredient	sel
+instructions	Couper finement la gousse d'ail et le basilic puis les mettre dans 80 cl avec le cube de bouillon de légumes.  Une fois que l'eau bout et que le cube s'est désagrégé, ajouter la polenta en pluie.  Baisser le feu et remuer à l'aide d'une spatule jusqu'à ce que la polenta soit bien épaisse.  Hors du feu ajouter le chèvre et l'huile d'olive.  Mélanger et mettre la polenta dans un plat à gratin.  Mettre le plat au frais pendant 2H30.  Sortir le plat du frigo puis confectionner des boules avec vos mains.  Mettre l'huile de friture à chauffer dans une sauteuse.  Une fois les boules confectionnées, tremper les boules dans la farine puis les oeufs battus et enfin la chapelure.  Plonger les boules dans la friture (180°C).  Les retirer une fois qu'elles sont bien dorées et les mettre sur un papier absorbant afin de retirer l'excédent d'huile. Remarques : Vous pouvez remplacer le chèvre par d'autre fromage comme de la tomme ou du fromage à raclette. Vous pouvez même remplacer le fromage par de la tapenade et des tomates séchées Boisson conseillée : Côte du rhône rosé bien frais 
+
+recipe_name	Quiche lorriane façon gâteau magique
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	35
+ingredient	beurre
+ingredient	farine
+ingredient	fromage-rape
+ingredient	lait
+ingredient	lardons
+ingredient	muscade
+ingredient	oeuf
+ingredient	poivre
+ingredient	sel
+instructions	Préchauffer le four à 160°C (thermostat 5-6).  Séparer les blancs des jaunes d'oeufs. Travailler les jaunes avec le beurre fondu. Incorporer la farine puis le lait tiédit (en 2 ou 3 fois). Ajouter le fromage, la noix de muscade, saler et poivrer. Bien mélanger.  Battre les blancs en neige ferme et les incorporer délicatement à la préparation avec une maryse. Au fond du moule, beurré, répartir les lardons puis couvrir avec la préparation.  Enfourner 35 minuter (le gâteau doit être doré sur le dessus et tremblant à l'intérieur). 
+
+recipe_name	Cannelés façon pommes d'amour
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	16
+preparation_time	20
+cook_time	60
+ingredient	beurre
+ingredient	colorant
+ingredient	eau
+ingredient	extrait-de-vanille-liquide
+ingredient	farine
+ingredient	lait
+ingredient	oeuf
+ingredient	rhum
+ingredient	sucre
+ingredient	sucre-en-poudre
+instructions	Préparation des cannelés. La veille : faire bouillir le lait avec la vanille et le beurre. Pendant ce temps, mélanger la farine, le sucre puis incorporer les oeufs d'un seul coup, verser ensuite le lait bouillant. Mélanger doucement afin d'obtenir une pâte fluide comme une pâte à crêpes, laisser refroidir, puis ajouter le rhum. Placer au réfrigérateur 24 heures au minimum, 48 heures au maximum. Le jour J : sortir la pâte du frigo au moins une heure avant la cuisson. Préchauffer le four à thermostat 9 (270°C). Verser la pâte dans les moules, en ne les remplissant qu'aux 3/4: poser les moules sur une tôle, et cuire à th. 9 pendant 5 minutes, puis baisser le thermostat à 6 (180°C) et continuer la cuisson pendant 1 heure : le cannelé doit avoir une croûte brune et un intérieur bien moelleux. Démouler encore chaud.  Préparation du caramel. Versez dans une casserole 1/2 verre d'eau et le colorant rouge puis ajoutez le sucre en pluie. Faites bouillir le sucre, l'eau et le colorant dans la casserole pendant 8 minutes afin d'obtenir un caramel rouge. Laissez reposer pendant 2 minutes hors du feu.  Piquez les cannelés sur un petit bâtonnet et trempez-les dans le caramel rouge, en inclinant la casserole afin de bien les enrober. 
+
+recipe_name	Boulettes de viande à la sauce tomate
+type	Entrée
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	25
+cook_time	20
+ingredient	courgette
+ingredient	huile-d-olive
+ingredient	oeuf
+ingredient	oignon
+ingredient	paprika
+ingredient	persil
+ingredient	poivre
+ingredient	poivron
+ingredient	sel
+ingredient	thym
+ingredient	tomate-pelee
+ingredient	viandes
+instructions	Hachez l'oignon et faites-le dorer dans une poêle huilée, avec la moitié du persil. Saupoudrez de paprika. Malaxez la viande avec l'oignon cuit et le jaune d'oeuf. Façonnez des boulettes et faites-les cuire dans l'huile chaude pendant une dizaine de minutes. Préparez la sauce : faites fondre les 2 autres oignons hachés dans l'huile avec le thym, du sel et du poivre. Ajoutez les tomates et laissez mijoter 15 minutes. Emincez le poivron en lanières et découpez la courgette en cubes. Cuisez-les 5 minutes dans l'eau bouillante, égouttez et versez-les dans la sauce. Ajoutez les boulettes et poursuivez la cuisson 5 minutes. Parsemez de persil haché. 
+
+recipe_name	Brownie marbré cheesecake
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	20
+cook_time	45
+ingredient	beurre
+ingredient	chocolat
+ingredient	farine
+ingredient	fromage-frais
+ingredient	oeuf
+ingredient	sucre-glace
+ingredient	vanille
+instructions	Faites fondre le chocolat avec le beurre à feu très doux. Réservez. Battez le fromage avec la vanille, 2 oeufs et 125 g de sucre glace. Réservez. D'autre part, battez les 3 oeufs restants et le reste de sucre en crème, ajoutez la farine puis le chocolat fondu. Remplissez un moule en alternant les deux mélanges et remuez avec un couteau pour former des marbrures. Enfournez pour 40 à 45 minutes à 180°C (thermostat 6), laissez tiédir et... régalez-vous !! Remarques : Vous pouvez aussi ajouter quelques noisettes ou des noix de pécans. La préparation au fromage permet de rendre le traditionnel brownie plus léger et plus fondant. 
+
+recipe_name	Gratin francomtois
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	40
+ingredient	cancoillotte
+ingredient	cumin
+ingredient	emmental
+ingredient	gingembre
+ingredient	lait
+ingredient	noix
+ingredient	pomme-de-terre
+ingredient	saucisses
+instructions	Préchauffer le four à 180°C (thermostat 6). Éplucher les pommes de terre et les couper en fines rondelles. Couper la saucisse en tranches d'environ 2 centimètres. Dans un petit plat à gratin, répartir une couche de pomme de terre. Saupoudrer de gingembre et ajouter une petite pincée de cumin et de sel. Mettre une couche de saucisse, une couche de cancoillotte et ajouter des petits morceaux de noix. Finir par une couche de pomme de terre, ajouter le lait et parsemer d'emmental râpé pour que le plat soit gratiné. Laisser cuire environ 40 min. Remarques : Accompagner ce plat d'une salade. Boisson conseillée : Un vin du Jura. 
+
+recipe_name	Gratton de canard
+type	Entrée
+difficulty	Facile
+cost	Bon marché
+guests_number	8
+preparation_time	30
+cook_time	1
+ingredient	canard
+ingredient	eau
+ingredient	poivre
+ingredient	sel
+instructions	Placer les manchons de canard gras dans une cocotte minute, sans rien enlever, le sel, le poivre, l'eau. Faire cuire 1h à partir du chuintement. Laisser refroidir jusqu'à ce que l'ensemble soit tiède. Détacher la viande et la peau des os, les placer dans un grand saladier. Prendre soin d'enlever en même temps, le 'nerf blanc' et les vaisseaux sanguins. Ajouter une partie du gras fondu lors de la cuisson.  Malaxer tout ensemble avec les mains, jusqu'à faire pénétrer ce gras dans la viande. Si besoin (tout dépend de la façon dont vous les aimez : sec ou plus gras) ajouter un peu plus de gras. Placer ensuite dans des pots et, pour une conservation optimale, stériliser pendant 1h30.  Il est préférable de laisser vieillir les pots avant de déguster. Remarques : Excellent sur du pain grillé. 
+
+recipe_name	Gwentadu des pépettes
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	8
+preparation_time	20
+cook_time	30
+ingredient	arôme
+ingredient	beurre
+ingredient	beurre-doux
+ingredient	cassonade
+ingredient	chocolat
+ingredient	farine
+ingredient	lait
+ingredient	lait-entier
+ingredient	levure
+ingredient	levure-chimique
+ingredient	oeuf
+ingredient	riz-blanc
+ingredient	sel
+ingredient	sucre
+ingredient	sucre-vanille
+instructions	Le gâteau se fait en 4 temps (si vous avez 3 paires de mains disponibles, c'est plus simple encore !): Tout d'abord, préparez la pâte à cookies: Faites ramollir le beurre et malaxez-le avec le sucre. Ajoutez l'oeuf et le sucre vanillé. Versez peu à peu la farine, la levure, le sel et les pépites de chocolat. Mélangez bien. Etalez une feuille de papier sulfurisé sur une plaque de four puis étalez la pâte à cookies sur la feuille. Le but est de faire l'étage un inférieur du gâteau: cookies en miettes. Faire cuire 10 minutes à 180°C (quand le bord durci) Une fois cuit, sortez le cookie géant et émiettez-le dans le plat que vous avez préalablement BIEN beurré. Pour l'étage muffins: Préchauffez le four à 200°C (augmentez sans éteindre après les cookies) Faites fondre doucement le beurre. Ajoutez et mélangez la farine, le sucre (cassonade) et la levure chimique. Faites fondre le chocolat au micro-ondes avec un fond d'eau, puis, ajoutez au mélange. Délayez les oeufs avec le lait. Ajoutez à la préparation et mélangez bien. Versez le mélange dans le plat, sur les miettes de cookies. Enfournez à 200°C pendant 20 minutes (lorsque vous plongerez un couteau dans le gâteau, il devra ressortir sans pâte) Pour l'étage riz au lait: Faire bouillir le lait avec le sucre, la vanille. Lorsque le lait bout, jeter le riz en pluie et baisser le feu pour que l'ébullition soit très lente, le riz doit cuire très lentement. Lorsque le riz affleure le lait, couper le feu et laisser refroidir ; le riz va finir de s'imbiber de lait en refroidissant. Une fois prêt, versez le riz au lait comme nappage sur le gâteau. -Mettez au réfrigirateur pendant quelques heures. (que le tout durcisse un peu). Démoulez et servez de petites parts (le gateau est délicieux mais un peu lourd...) 
+
+recipe_name	Mes lasagnes bolognaises (sans béchamel)
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	40
+cook_time	30
+ingredient	creme-fraiche
+ingredient	huile-d-olive
+ingredient	lasagnes
+ingredient	maizena
+ingredient	mozzarella
+ingredient	parmesan
+ingredient	poivre
+ingredient	ricotta
+ingredient	sauce-bolognaise
+instructions	Préchauffer le four à 210 °C (180° si chaleur tournante) Si les lasagnes doivent être précuites, faire chauffer une grande marmite d'eau et les cuire 1 min de moins que le temps indiqué sur le paquet. Les laisser dans l'eau le temps de l'assemblage, ca évite qu'elles collent entre elles. Mixer ensemble ricotta, crème ou mascarpone, 25g de parmesan. Ajouter la maizena diluée dans le lait, poivrer, saler éventuellement si ca ne l'est pas assez à votre goût avec le parmesan. Huiler le plat. Couvrir le fond avec 3 plaques de lasagne (les éponger en les sortant de la gamelle si elles ont été précuites) Recouvrir du tiers de la sauce bolognaise et d'env. 1/5eme du mélange à la ricotta. Recommencer 2 fois l'enchainement lasagne-bolognaise-ricotta. Terminer par une couche de lasagnes. Verser dessus le reste de la sauce à la ricotta en s'assurant de bien recouvrir toutes les plaques de lasagne. Égoutter la mozzarella, la découper et en recouvrir le plat. Saupoudrer le reste du parmesan par dessus. Mettre au four pour 30 à 40 min (le dessus doit etre bien doré) Remarques : C'est pas du tout une recette régime mais c'est plus parfumé qu'une lasagne classique à la béchamel. Boisson conseillée : Rouge un peu corsé genre Cahors, ou Chianti 
+
+recipe_name	Mousse au citron légère
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	0
+ingredient	citron
+ingredient	creme-fraiche
+ingredient	fromage-blanc
+ingredient	gelatine
+ingredient	oeuf
+ingredient	sucre-en-poudre
+instructions	Presser le jus de citron et râper son zeste. Faire tremper les feuilles de gélatine pour les ramollir, puis les faire fondre à feu très doux dans une casserole avec le jus de citron. Séparer le blanc du jaune d'oeuf et monter le blanc en neige bien ferme. Dans un saladier, battre le jaune d'oeuf avec le sucre. Ajouter le fromage blanc, la crème fraiche, le zeste de citron râpé, puis la gélatine. Bien mélanger. Enfin, incorporer délicatement les bancs en neige à la préparation. Verser dans de petits ramequins. Mettre au réfrigérateur environ 6 h avant de servir. Remarques : Une décoration avec de petits fruits sur le dessus peut en mettre plein la vue. Quantité de sucre à adapter selon les goûts ! Dessert très bon et léger pour la silhouette... et rafraîchissant ! 
+
+recipe_name	Papillotte de Poisson, coriandre, gingembre
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	20
+ingredient	cabillaud
+ingredient	citron
+ingredient	courgette
+ingredient	feuille-de-coriandre
+ingredient	gingembre
+ingredient	huile-d-olive
+ingredient	oignon
+ingredient	tomate
+instructions	Monder les tomates, les vider de leurs pépins et les couper en petits dés. Peler la courgette et la couper en petits dés. Sur une grande feuille d'aluminium, préparer un lit de courgettes et tomates, recouvrir de petits oignons (émincés si vous le souhaitez), disposer coriandre et gingembre râpé en fines tranches par dessus puis placer le dos de cabillaud sur la préparation. Arroser d'un filer d'huile d'olive et jus de citron. Refermez la papillote. Enfourner à four chaud à 200°C (thermostat 6-7) +/- 20 minutes Servir avec du riz basmati ou thai...selon vos goûts. 
+
+recipe_name	Ananas rôti à la vanille
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	45
+ingredient	ananas
+ingredient	banane
+ingredient	citron-vert
+ingredient	gingembre
+ingredient	rhum
+ingredient	sucre
+ingredient	vanille
+instructions	Préchauffer le four à 180°C. Faire fondre 150 g de sucre avec une bonne cuillère de gingembre haché et une gousse de vanille fendue en deux (gratter les graines avec un couteau). ATTENTION il ne faut pas que ça brûle.... Pendant ce temps éplucher l'ananas en enlevant tous les yeux, récupérer le jus et piquer l'ananas comme un rôti avec des morceaux des 2 gousses de vanille. Quand c'est fondu (le sucre) ajouter un verre d'eau (attention aux projections) le jus d'ananas et deux cuillères à soupes de rhum. Mettre l'ananas dans un plat à gratin et arroser du caramel et mettre au four 45 mn à 180°C, il faut retourner et arroser l'ananas souvent et vérifier qu'il reste bien assez de liquide (au besoin ajouter 1/2 verre d'eau). Ensuite mettre le tout à refroidir. Qand l'ananas est froid, récupérer le caramel, ajouter encore une cuillère de rhum, le jus d'un demi-citron vert et 1/2 banane écrasée (facultatif mais super bon). Donner un petit coup de bouillon au caramel. Servir les tranches d'ananas froid avec la sauce chaude. Remarques : C'est bon c'est léger et ça fait chic... En plus on peut servir avec une boule de glace à la vanille, ou plus exotique, c'est comme on veut. 
+
+recipe_name	BABA AU RHUM FACON D'AVANT....
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	20
+cook_time	30
+ingredient	eau
+ingredient	farine
+ingredient	huile
+ingredient	levure
+ingredient	oeuf
+ingredient	rhum
+ingredient	sel
+ingredient	sucre
+ingredient	vanille
+instructions	Mélanger tous les ingrédients pour le gâteau, homogénéiser et verser dans un moule. Mettre au four 30 min à 170°, thermostat 5-6. Pendant que le gâteau cuit, chauffer dans une casserole le sucre et l?eau, porter à ébullition puis retirer su feu pour ajouter 12,5 cl de rhum. Une fois le gâteau sorti du four, l?arroser du sirop. Remarques : Servi avec une crème pâtissière à la vanille, c'est excellent.... 
+
+recipe_name	Crêpes (sans lait)
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	3
+ingredient	eau
+ingredient	farine
+ingredient	huile-de-tournesol
+ingredient	oeuf
+ingredient	sel
+ingredient	sucre-en-poudre
+instructions	Mélangez tous les ingrédients et faire chauffer dans une poêle à crêpes. 
+
+recipe_name	Fougasse traditionnelle à l'huile d'olive
+type	Amuse-gueule
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	20
+ingredient	farine
+ingredient	huile-d-olive
+ingredient	lardons
+ingredient	levure-de-boulanger
+ingredient	oignon
+ingredient	origan
+ingredient	poivre
+ingredient	sel
+instructions	Délayer la levure dans 2 cuillères à soupe d'eau tiède. Dans un saladier, mélanger la farine, 2 pincées de sel, 2 cuillères à soupe d'huile d'olive et la levure.  Ajouter 15 cl d'eau et pétrir, jusqu'à ce que le pâte forme une boule élastique. Laisser lever pendant 1h30 environ à température ambiante. Préchauffer le four à 210°C. Etaler la pâte sur le plan de travail fariné, pour lui donner une forme rectangle d'environ 3 cm d'épaisseur. Dans une poêle, faire revenir l'oignon émincé avec de l'huile d'olive pour le faire dorer. Laisser quelques minutes puis ajouter les lardons quelques minutes également. Retirer du feu et disposer (sans la graisse) au centre de la pâte. Pétrir afin que les lardons et les oignons se répartissent dans toute la pâte.  Une fois terminé, disposer la pâte dans un plat fariné. Badigeonner d'huile d'olive et parsemer d'origan. Avec un couteau faire des entailles en forme d'épis. Mettre au four 20 minutes. Déguster tiède ou froid. 
+
+recipe_name	Gambas flambées au whisky sur lit de crème
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	33
+ingredient	bouquet-garni
+ingredient	carotte
+ingredient	creme
+ingredient	echalote
+ingredient	gambas
+ingredient	huile-d-olive
+ingredient	oignon
+ingredient	persil
+ingredient	poivre
+ingredient	sel
+ingredient	whisky
+instructions	Faites revenir les têtes de gambas dans 2 cuillères à soupe d'huile, ajoutez l'échalote, l'oignon et la carotte coupés en dés. Laissez revenir 3 minutes, déglacez avec 10 cl de whisky et flambez. Ajoutez le bouquet garni, du sel, du poivre et laissez mijoter 30 minutes. Mouillez avec la crème en fin de cuisson. Décortiquez les queues de gambas, fendez-les dans la longueur. Faites-les revenir dans 2 cuillères à soupe d'huile pendant 3 minutes, salez, poivrez, arrosez de whisky et flambez. Passez la sauce au chinois, nappez les gambas et parsemez de persil. Boisson conseillée : Vinn blanc d'Alsace, type pinot blanc ou riesling 
+
+recipe_name	Knacki pieuvre
+type	Amuse-gueule
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	5
+ingredient	saucisses
+instructions	Couper les saucisses en deux, sur chaque morceau entailler en faisant une incision en croix sur la moitié de la longueur de chaque morceau afin de former quatre pattes (du côté qui n'est pas arrondi...ce dernier formant la tête). Les cuire comme si elles n'étaient pas coupées...les pattes se recroquevillent d'elles-même ! Finir la cuisson en les disposant sur leurs pattes ! Remarques : Cela donne aussi aux enfants une raison valable de manger ces petites pieuvres rigolotes en saucisses... 
+
+recipe_name	Le potage au potiron de Mamyvonne
+type	Entrée
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	40
+ingredient	beurre
+ingredient	bouillon
+ingredient	creme-fraiche
+ingredient	lait
+ingredient	oignon
+ingredient	poireau
+ingredient	pomme-de-terre
+ingredient	potiron
+ingredient	sucre
+instructions	Peler les pommes de terre et les couper en cubes. Chauffer le bouillon de volaille et le lait (chacun dans une casserole). Couper le potiron en dés et émincer les oignons et les blancs de poireau et les faire revenir 5 min dans le beurre. Ajouter le potiron et une cuillère à café de sucre. Saler et poivrer. Bien mélanger et laisser suer 5 minutes. Verser le bouillon chaud, mélanger. Verser le lait chaud, mélanger, puis les pommes de terre. Cuire à couvert 30-40 minutes. Passer le potage au moulin. Crèmer. Vérifier l'assaisonnement. Remarques : Faire chauffer le lait et le bouillon auparavant pour éviter que le lait ne tourne... 
+
+recipe_name	Chausson de poulet au curry
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	35
+ingredient	ail
+ingredient	blanc-de-poulet
+ingredient	coriandre
+ingredient	coulis-de-tomate
+ingredient	creme-liquide
+ingredient	cumin
+ingredient	curcuma
+ingredient	curry
+ingredient	emmental
+ingredient	huile-d-olive
+ingredient	oeuf
+ingredient	oignon
+ingredient	olive-noire
+ingredient	pate-feuilletee
+ingredient	piment
+ingredient	poivre
+ingredient	sel
+instructions	Préchauffer le four à 180°C (thermostat 6). Couper finement le poulet, l'oignon, l'ail, le piment et les olives dénoyautées. Les mettre dans un bol avec les épices, l'huile d'olive ainsi que le sel et le poivre. Mélanger le tout avec les mains. Verser le mélange dans une casserole. Faire revenir à feux vif pendant quelques secondes puis après avoir baissé le feu y ajouter le coulis de tomate et la crème liquide. Ajouter un ?uf et mélanger. Dès que l??uf commence à cuire et que le préparation prend, couper le feu. Couper le rond de pâte en quatre. Répartir le poulet au curry sur les quatre quarts de pâte. Ajouter si vous le souhaitez une tranche d'emmental sur chaque tas de poulet avant de fermer. Badigeonner le pourtour de la pâte avec le jaune de l??uf restant. Fermer les chaussons et y étaler du jaune d??uf pour obtenir de jolis chaussons dorés. Enfourner pour 30/35 minutes. Bon appétit. 
+
+recipe_name	Poulet aux cacahuètes
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	20
+cook_time	15
+ingredient	arachide
+ingredient	cube-de-bouillon
+ingredient	lait-de-coco
+ingredient	massala
+ingredient	miel
+ingredient	oignon
+ingredient	poulet
+ingredient	sauce-soja
+instructions	Couper le poulet en lamelles. Faire bouillir de l'eau dans une casserole, et faire fondre le bouillon de volaille. Faire chauffer une poêle, et y mettre les lamelles de poulet à cuire, à feu moyen, et ajouter immédiatement du bouillon de volaille, de sorte que le poulet soit recouvert de liquide. Faire cuire 10 min dans ce bouillon. Couper l'oignon en petits morceaux, et le mixer en purée. Mixer les cacahuètes en grains, pas en purée, sinon ça colle. Mettre les cacahuètes dans un bol, et ajouter la sauce soja, le lait de coco et le miel. Mélanger. Enlever les 3/4 du bouillon de la poêle, et ajouter au poulet la purée d'oignon, et le massalé. Faire mijoter à feu doux, pendant 5 min. Verser cette préparation dans un plat allant au four, et recouvrir de la préparation contenue dans le bol (cacahuètes, miel et sauce soja). Faire cuire environ 5 min au four à 200°C (thermostat 6-7), et à la dernière minute, mettre en route le gril. Servir aussitôt. Boisson conseillée : vin rouge fruité 
+
+recipe_name	Tarte Majuau
+type	Dessert
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	6
+preparation_time	25
+cook_time	30
+ingredient	abricot
+ingredient	beurre
+ingredient	farine
+ingredient	oeuf
+ingredient	sucre
+ingredient	sucre-vanille
+instructions	Travailler la farine avec le beurre fondu et le sucre vanillé. Ajouter le sucre petit à petit. Faire une fontaine et introduire les ?ufs un par un. Pétrir en rajoutant de la farine si c?est nécessaire. Cuire la pâte à blanc : Sur la pâte crue en place dans le moule, posez une 2 de feuille de papier cuisson. Couvrez-la de légumes secs ; faites les remonter sur les bords. Piquez abondamment à travers le papier. Placez au moins 15 min au frigo tandis que vous préchauffer le four à 200 °C. Enfourner 15 min. Otez légumes et papier. Réenfournez aussitôt 3-4 min : il s?agit de sécher le fond et de le rendre croquant. Sortez du four. Encore molle quand elle chaude, la croûte durcit en refroidissant. Après avoir lavé les abricots, les couper en deux et les dénoyauter. Placer les ensuite sur la garniture. Et réenfourner environ 15 min. Les différentes garnitures... A la crème pâtissière : Mettre ½ litre de lait à bouillir avec un bâtonnet de vanille. Travailler 2 ?ufs avec 80 gr de sucre jusqu?à ce que le mélange blanchisse. Ajouter 60 gr de farine. Versez le lait bouillant sur le mélange en tournant bien. Remettre dans la casserole sur le feu doux. Faire cuire, toujours à feu doux, en tournant sans interruption (environ 35 min). Retirer après quelques minutes d?ébullition. Au chocolat : Mélanger 100g de sure, 30 gr de farine, 1 cuil à soupe de crème fraîche, 4 gros carreaux de chocolat noir, 1 ?uf entier + 1 jaune. A la frangipane : Mélanger 100 gr de sucre, 2 ?ufs et 1 jaune avec 90 gr de farine et 30 gr de beurre. Ajouter 3 dl de lait bouillant et faire cuire en tournant constamment jusqu?à ce que le mélange épaississe. Incorporer 60 gr de poudre d?amandes. 
+
+recipe_name	Courgette spaghetti en gratin
+type	Accompagnement
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	40
+cook_time	5
+ingredient	chapelure
+ingredient	courgette
+ingredient	gruyere-rape
+ingredient	noisette
+ingredient	poivre
+ingredient	sel
+instructions	Ouvrir la courgette spaguetti en 2 dans le sens de la longueur, la disposer dans un plat allant au four (côté chair vers le haut). Versez un verre d'eau dans le plat et parsemez de noisettes de beurre les 2 moitiers de courgette. Mettre au four à 180°C pendant environ 30 min (vérifiez la cuisson en plantant une lame de couteau dans la chair, celle-ci doit être molle).   Lorsque la courgette est cuite, gratez la chair à l'aide d'une fourchette (elle se détache alors en "spaguettis"!) et disposez-la dans un plat à gratin, salez, poivrez et mélangez bien le tout.   Mettre le gruyère et la chapelure et faire gratiner sous le grill 5 min. 
+
+recipe_name	Tortillas (recette sans farine de maïs)
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	2
+preparation_time	20
+cook_time	2
+ingredient	eau
+ingredient	farine-de-ble
+ingredient	huile-de-tournesol
+ingredient	sel
+instructions	La quantité d'eau nécessaire peut varier un peu en fonction du 'cru' de la farine : elle absorbe plus ou moins d'eau. Préparation : Mélangez la farine avec l'huile, puis ajoutez l'eau tiède salée. Si vous mélangez à la main, ne chauffez pas trop l'eau, vous pourriez vous brûler! Ajoutez de l'eau jusqu'à pouvoir former une boule lisse mais non collante. Si vous utilisez un robot, versez l'eau petit à petit jusqu'à ce que la pâte se rassemble en une seule grosse boule. Attention : lorsque des petits grumeaux se forment, vous n'êtes plus très loin. Si vous rajoutez trop d'eau, la pâte devient trop collante. Il est possible de récupérer un rajoutant 1 cuillère de farine. Facultatif : Faites une boule avec la pâte, entourez-la dans un torchon propre et laissez-la reposer 1 h. Découpez la boule de pâte en 6 petites boules de même taille. Farinez le plan de travail et un rouleau à pâtisserie. Étalez chaque boule pour obtenir un crêpe épaisse (blinis fin) d'1 diamètre de 20 cm environ. Pas la peine de s'acharner pour avoir un cercle parfait! En effet, une forme carrée peut même se révéler plus pratique à l'usage. Vous pouvez faire cuire les tortillas à la poêle, au plat crisp du micro-ondes ou au four (mais je ne donnerais pas d'indications pour le four). Pour une cuisson à la poêle, n'utilisez pas de matière grasse, faites-les cuire environ 1 min par face. Lors de la cuisson de la 1ère face, des petites bulles doivent apparaître; vous pouvez retourner les tortillas en les lançant comme des crêpes. Les tortillas ne doivent pas dorer, ni sur la 1ère ni la 2ème face; trop cuites, elles seraient dures et cassantes. Pour la cuisson au plat crisp, n'utilisez pas de gras. Lancez la cuisson (s'il y a 2 mode, c'est le 1 qu'il faut choisir). Surveillez la fin du mode 'sense'. Le micro-ondes calcule alors un temps de cuisson nécessaire. N'appuyez pas sur 'stop', mais ouvrez juste la porte (pour suspendre le mode sans l'arrêter), retournez la tortilla et faites repartir le programme. En garniture, consultez les recettes de fajitas, enchiladas, burritos. Il existe aussi des sachets d'épices dans le commerce. Remarques : En général, en plat mexicain, forme un repas plat unique. 
+
+recipe_name	Cookies aux pépites de couleur
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	10
+ingredient	beurre
+ingredient	cassonade
+ingredient	farine
+ingredient	levure-chimique
+ingredient	oeuf
+ingredient	sel
+ingredient	smartie
+ingredient	sucre
+ingredient	sucre-vanille
+instructions	Battre l'oeuf, ajouter le sucre et la cassonade, puis le beurre fondu. Mélanger et rajouter les autres ingrédients. A l'aide d'une cuillère à soupe, faire des tas sur une plaque (bien les espacer, ça s'étale...). Et hop, au four préchauffé à 220°C (th 7-8), pendant 10 min. Dès qu'ils sont colorés, les sortir du four, et laisser refroidir sur une grille, un tout petit moment avant de les engloutir! Bon appétit! 
+
+recipe_name	Crevettes au curry
+type	Entrée
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredient	beurre
+ingredient	creme-fraiche
+ingredient	crevette
+ingredient	curry
+ingredient	pomme
+instructions	Couper les pommes en carrés. Décortiquer les crevettes entièrement. Faire dorer la moitié des carrés de pommes dans le beurre fondu dans une sauteuse jusqu'à ce qu'ils soient bien fondants. Les retirer et les conserver. Verser la crème fraîche dans la sauteuse, puis ajouter les crevettes, saupoudrer de curry et laisser cuire 10 mn à feu doux tout en remuant constamment (rajouter un peu de crème fraîche si nécessaire). Rajouter la totalité des pommes et remettre sur le feu 2 ou 3 minutes en remuant. Servir sans attendre seul ou accompagné d'un peu de riz basmati. Remarques : L'association des pommes croquantes et fondantes est importante. Bon appétit! Boisson conseillée : Vin blanc doux 
+
+recipe_name	Haricots plats (coco) à l'huile d'olive (recette libanaise)
+type	Accompagnement
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	25
+cook_time	30
+ingredient	ail
+ingredient	haricot-plat
+ingredient	huile-d-olive
+ingredient	oignon
+ingredient	sel
+ingredient	tomate
+instructions	Laver les haricots. Enlever les extrémités et les couper en tronçons de 2/3 cm. Couper en biseaux. Réserver. Peler les oignons et les hacher finement. Réserver. Enlever la peau des tomates et les couper en 8 (ne pas enlever les pépins). Réserver. Peler les gousses d'ail et les couper 1 fois dans la sens de la longueur et une fois ou deux dans le sens de la largeur (en fonction de la taille des gousses). Réserver. Faire chauffer de l'huile d'olive dans une sauteuse (être généreux sur l'huile). Mettre à rosir les oignons. Ensuite, verser les haricots et les laisser revenir environ 5 minutes le temps qu'il deviennent bien verts. Ajouter les tomates et l'ail. Saler. Mélanger et laisser cuire à couvert pendant une vingtaine minutes. Une fois les 20 min écoulées, mélanger un peu et écraser avec le dos de la spatule les tomates dans la sauteuse. Mélanger. Rectifier l'assaisonnement et finir la cuisson. Déguster tiède ou froid en entrée ou accompagnement. Remarques : Je vous recommande vivement de manger cette recette froide : c'est divin et encore meilleur le lendemain! 
+
+recipe_name	Moelleux au chocolat et à la crème de spéculoos
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	12
+preparation_time	25
+cook_time	15
+ingredient	beurre
+ingredient	cassonade
+ingredient	chocolat-patissier
+ingredient	creme
+ingredient	farine
+ingredient	oeuf
+instructions	Faire fondre le beurre dans une casserole et ajoutez le chocolat. lorsque le chocolat est fondu, verser le sucre et la farine. Eteindre le feu et ajouter les oeufs un à un. Dans des moules à muffins en silicone, verser la pâte à moitié du moule. Ajouter au centre une cuillère à café de "crème de spéculoos" puis recouvrir de pâte au chocolat. Enfourner à 180°C pendant environ 15 min (il faut que le dessus soit craquelé). Laisser refroidir quelques instant et servir accompagné par exemple d'une boule de glace. Bon appétit Remarques : Il est préférable de les manger tiède que froid car le c?ur sera coulant. 
+
+recipe_name	Palette de porc 1/2 sel façon boulangère
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredient	bouillon
+ingredient	oignon
+ingredient	palette
+ingredient	pomme-de-terre
+ingredient	thym
+instructions	Rincer le porc à l'eau froide. Le mettre dans une casserole, recouvrir d'eau froide et porter lentement à ébullition. Laisser frémir le temps de préparer le reste. Eplucher et couper les oignons et les pommes de terre en rondelles. Les mettre dans une casserole d'eau froide, avec le thym et le laurier(2 feuilles). Porter à ébullition, égoutter aussitôt. Dans un grand plat à four, diposer le porc, l'entourer du mélange oignons et pommes de terre,thym et laurier et arroser avec le bouillon. Cuire 1 heure à 170°C (thermostat 6) 
+
+recipe_name	Pâte d'amandes ou massepain
+type	Confiserie
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	15
+cook_time	0
+ingredient	amande
+ingredient	eau
+ingredient	sucre
+instructions	Mélanger la poudre d'amandes et le sucre. Ajouter l'eau et l'essence d'amandes. Pétrissez le tout jusqu'à obtenir une masse compacte. Laisser reposer quelques heures. Variante : Vous pouvez en faire des boulettes et les rouler dans du cacao en poudre ou le déguster tel quel ! 
+
+recipe_name	Petits cakes légers au yaourt
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	30
+ingredient	edulcorant
+ingredient	farine
+ingredient	levure
+ingredient	oeuf
+ingredient	yaourts
+instructions	Préchauffer le four à 180°C (thermostat 6/7). Mélanger tous les ingrédients au fouet. Répartir dans un moule à cakes en silicone (aux 3/4). Faire cuire 30 minutes à four chaud. Déguster. Remarques : Très rapides, très simples, et pour seulement 100 calories par cakes, à déguster tiédes ou froids! 
+
+recipe_name	Tourte au lapin
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	7
+preparation_time	45
+cook_time	45
+ingredient	ail
+ingredient	huile-d-olive
+ingredient	lapin
+ingredient	lardons
+ingredient	laurier
+ingredient	oeuf
+ingredient	oignon
+ingredient	pate-brisee
+ingredient	persil
+ingredient	poivre
+ingredient	sel
+ingredient	thym
+ingredient	vin-rouge
+instructions	Le matin, détailler le lapin en morceaux et le désosser, le faire mariner plusieurs heures dans le vin avec thym, laurier, poivre. La veille, au soir, hacher finement le persil, l'ail, les oignons. Faire cuire le lapin dans l'huile d'olive avec le hachis et les lardons. Rectifier l'assaisonnement en sel et poivre. Une fois cuit, mettre au frais. Le lendemain, mettre une pâte brisée au fond d'une tourtière. Étaler le lapin cuit sur la pâte en formant un monticule au milieu. Poser la deuxième pâte, souder les bords avec la première. Dorer avec le jaune d'oeuf. Décorer à la fourchette. Mettre au four à 180°C pendant 30 mn. 
+
+recipe_name	Pâté de thon ou de crabe rapide
+type	Entrée
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	35
+ingredient	ciboulette
+ingredient	creme-fraiche
+ingredient	farine
+ingredient	huile-d-olive
+ingredient	jus-de-citron
+ingredient	lait
+ingredient	levure
+ingredient	oeuf
+ingredient	poivre
+ingredient	sel
+ingredient	thon
+instructions	Mélanger tous les ingrédients du pâté ensemble et enfourner dans un plat à cake pendant 35 min à 200°C (thermostat 7). Vérifier la cuisson avec une lame de couteau. Dans un bol, verser la crème fraîche, ajouter le jus de citron. Mélanger. Saler, poivrer. Disperser quelques morceaux de ciboulette. Verser la sauce sur le pâté au moment de servir ! 
+
+recipe_name	Rôti de boeuf à l'oignon caramélisé
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredient	ail
+ingredient	beurre
+ingredient	huile-de-noix
+ingredient	lait
+ingredient	oignon
+ingredient	poivre
+ingredient	roti-de-boeuf
+ingredient	sucre
+ingredient	thym
+instructions	Sortir le rôti du réfrigérateur 30 minutes avant la préparation et le laisser à l'air ambiant. Préchauffer le four à 250°C (thermostat 8-9). Couper l'ail en fines lamelles puis, avec un couteau fin et aiguisé, faire de petites incisions dans le rôti et glisser dedans les lamelles d'ail. Avec un morceau de beurre, badigeonner tout le rôti. Emincer les oignons. Faire fondre la moitié du beurre et l'huile dans une poêle à feu vif puis y faire revenir les oignons avec le sucre. Ajouter les herbes. Une fois que les oignons ont bruni, griller rapidement le rôti sur chaque face avec les oignons et le retirer. Mettre le rôti dans un plat allant au four et mettre les oignons caramélisés par dessus. Mettre au four et laisser cuire 10 minutes. Ensuite, déglacer avec le lait, poivrer et laisser cuire encore environ 10 minutes. Ajuster le temps de cuisson en fonction de votre préférence : viande bien cuite ou saignante. Remarques : Pour ne pas vider le rôti de son sang, il ne faut jamais le saler pendant la préparation ou la cuisson. Une fois coupé en tranched et servi dans l'assiette, vous pouvez saler à votre convenance. Vous pouvez servir avec des haricots verts ou des pommes de terre. Le rôti sera encore meilleur servi froid le lendemain. 
+
+recipe_name	Soupe de chou-fleur et roquefort
+type	Entrée
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	20
+ingredient	ail
+ingredient	bouillon
+ingredient	chou-fleur
+ingredient	fromages
+ingredient	oignon
+ingredient	poivre
+ingredient	sel
+instructions	Couper les oignons et les faire revenir dans de l'huile (ou du beurre pour les plus gourmands) pendant 3 mn. Couper le chou-fleur en petits morceau et le faire revenir avec les oignons encore 2 mn. Couvrir d'eau et ajouter un cube bouillon, de l'ail, du sel, du poivre. Laisser mijoter 20 mn. Mixer la soupe et la verser dans des bols. Parsemer de fromage bleu coupé en petits morceaux. Remarques : Le Roquefort va bien avec le chou-fleur. Ce potage est très réconfortant quand il fait bien froid dehors! 
+
+recipe_name	Bonbons coco-caramel
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	20
+preparation_time	8
+cook_time	5
+ingredient	barre-chocolatee
+ingredient	chocolat-noir
+ingredient	lait-concentre
+ingredient	muesli
+ingredient	noix-de-coco-rapee
+instructions	Faites fondre les barres avec le lait. Ajoutez le muesli et la noix de coco. Remuez délicatement. Répartir la préparation dans des petits moules. Mettez au réfrigérateur pendant 1 h. Sortez les bonbons et plongez-les dans le chocolat noir fondu. Remettez au réfrigérateur pour que le chocolat durcisse. 
+
+recipe_name	Biscuits à la banane et aux dattes - Sans gluten, sans lactose
+type	Dessert
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	10
+cook_time	45
+ingredient	banane
+ingredient	datte
+ingredient	farine
+ingredient	lait
+ingredient	noix-de-coco-rapee
+ingredient	oeuf
+ingredient	sucre
+instructions	Préchauffer le four à 110°C (thermostat 3-4) en chaleur tournante (il est conseillé de ne pas dépasser cette température de cuisson en général, c'est bien meilleur pour la santé !) Dénoyauter les dattes et les couper en petits morceaux. Réserver. Battre l'oeuf dans un saladier. Ajouter le sucre, puis le lait d'amande, la farine et la noix de coco (l'avantage de la farine de riz, en plus de ne pas contenir de gluten et qu'elle ne fait jamais de grumeaux !). Ajouter la banane après l'avoir écrasée en purée. Enfin incorporer les morceaux de dattes à la préparation. Garnir de petits moules à tartelettes ou à muffins en silicone et enfourner à mi-hauteur pendant 45 minutes. Bon appétit ! 
+
+recipe_name	Boules noix de coco (comme celles de l'ange ;-)
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	30
+preparation_time	20
+cook_time	5
+ingredient	amande
+ingredient	céréale
+ingredient	chocolat-blanc
+ingredient	lait-concentre-sucre
+ingredient	noix-de-coco
+instructions	Faire griller les amandes 5 min à four chaud. Dans un saladier mettre la noix de coco et le lait concentré sucré, bien mélanger pour en faire une pâte. Mettre une nuit au frigo. Le lendemain, écraser légèrement les rice krispies dans une assiette. Faire fondre le chocolat blanc. Prendre la préparation à la noix de coco du frigo, en prendre une cuillerée à café, glisser une amande à l'intérieur, faire une boule, la rouler dans les krispies et la tremper dans le chocolat blanc. Faire de même avec toute la préparation. Laisser durcir au frais et au sec. Remarques : Voila après les Ferrero, les Raphaello, c'est quand j'ai trouvé la recette des premiers que j'ai pensé à faire de même avec de la noix de coco. Alors allez-y essayez. C'est un peu long à préparer mais ô combien délicieux avec tout le croquant de ces bouchées ! 
+
+recipe_name	Boules de polenta
+type	Amuse-gueule
+difficulty	Facile
+cost	Bon marché
+guests_number	35
+preparation_time	25
+cook_time	35
+ingredient	ail
+ingredient	basilic-frais
+ingredient	bouillon
+ingredient	chapelure
+ingredient	chevre-frais
+ingredient	huile-de-friture
+ingredient	huile-d-olive
+ingredient	oeuf
+ingredient	piment-d-espelette
+ingredient	poivre
+ingredient	polenta
+ingredient	sel
+instructions	Couper finement la gousse d'ail et le basilic puis les mettre dans 80 cl avec le cube de bouillon de légumes.  Une fois que l'eau bout et que le cube s'est désagrégé, ajouter la polenta en pluie.  Baisser le feu et remuer à l'aide d'une spatule jusqu'à ce que la polenta soit bien épaisse.  Hors du feu ajouter le chèvre et l'huile d'olive.  Mélanger et mettre la polenta dans un plat à gratin.  Mettre le plat au frais pendant 2H30.  Sortir le plat du frigo puis confectionner des boules avec vos mains.  Mettre l'huile de friture à chauffer dans une sauteuse.  Une fois les boules confectionnées, tremper les boules dans la farine puis les oeufs battus et enfin la chapelure.  Plonger les boules dans la friture (180°C).  Les retirer une fois qu'elles sont bien dorées et les mettre sur un papier absorbant afin de retirer l'excédent d'huile. Remarques : Vous pouvez remplacer le chèvre par d'autre fromage comme de la tomme ou du fromage à raclette. Vous pouvez même remplacer le fromage par de la tapenade et des tomates séchées Boisson conseillée : Côte du rhône rosé bien frais 
+
+recipe_name	Quiche lorriane façon gâteau magique
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	35
+ingredient	beurre
+ingredient	farine
+ingredient	fromage-rape
+ingredient	lait
+ingredient	lardons
+ingredient	muscade
+ingredient	oeuf
+ingredient	poivre
+ingredient	sel
+instructions	Préchauffer le four à 160°C (thermostat 5-6).  Séparer les blancs des jaunes d'oeufs. Travailler les jaunes avec le beurre fondu. Incorporer la farine puis le lait tiédit (en 2 ou 3 fois). Ajouter le fromage, la noix de muscade, saler et poivrer. Bien mélanger.  Battre les blancs en neige ferme et les incorporer délicatement à la préparation avec une maryse. Au fond du moule, beurré, répartir les lardons puis couvrir avec la préparation.  Enfourner 35 minuter (le gâteau doit être doré sur le dessus et tremblant à l'intérieur). 
+
+recipe_name	Cannelés façon pommes d'amour
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	16
+preparation_time	20
+cook_time	60
+ingredient	beurre
+ingredient	colorant
+ingredient	eau
+ingredient	extrait-de-vanille-liquide
+ingredient	farine
+ingredient	lait
+ingredient	oeuf
+ingredient	rhum
+ingredient	sucre
+ingredient	sucre-en-poudre
+instructions	Préparation des cannelés. La veille : faire bouillir le lait avec la vanille et le beurre. Pendant ce temps, mélanger la farine, le sucre puis incorporer les oeufs d'un seul coup, verser ensuite le lait bouillant. Mélanger doucement afin d'obtenir une pâte fluide comme une pâte à crêpes, laisser refroidir, puis ajouter le rhum. Placer au réfrigérateur 24 heures au minimum, 48 heures au maximum. Le jour J : sortir la pâte du frigo au moins une heure avant la cuisson. Préchauffer le four à thermostat 9 (270°C). Verser la pâte dans les moules, en ne les remplissant qu'aux 3/4: poser les moules sur une tôle, et cuire à th. 9 pendant 5 minutes, puis baisser le thermostat à 6 (180°C) et continuer la cuisson pendant 1 heure : le cannelé doit avoir une croûte brune et un intérieur bien moelleux. Démouler encore chaud.  Préparation du caramel. Versez dans une casserole 1/2 verre d'eau et le colorant rouge puis ajoutez le sucre en pluie. Faites bouillir le sucre, l'eau et le colorant dans la casserole pendant 8 minutes afin d'obtenir un caramel rouge. Laissez reposer pendant 2 minutes hors du feu.  Piquez les cannelés sur un petit bâtonnet et trempez-les dans le caramel rouge, en inclinant la casserole afin de bien les enrober. 
+
