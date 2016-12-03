@@ -102,10 +102,13 @@ foreach (get_links($to_crawl) as $page) {
 	fwrite($file, $recipe["preparation_time"]."\n");
 	fwrite($file,"cook_time\t");
 	fwrite($file, $recipe["cook_time"]."\n");
-	foreach (fetch_ingredients($page) as $ing) {
-		fwrite($file, "ingredient\t");
-		fwrite($file, $ing."\n");
+	fwrite($file, "ingredient\t");
+	$a = fetch_ingredients($page);
+	for ($i=0; $i<count($a)-1; $i++) { 
+		fwrite($file, $a[$i].",");
 	}
+	fwrite($file, $a[count($a)-1]);
+	fwrite($file, "\n");
 	fwrite($file,"instructions\t");
 	foreach (explode("\n", $recipe["instructions"]) as $s) {
 		fwrite($file, trim($s)." ");
