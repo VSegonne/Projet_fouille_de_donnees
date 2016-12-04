@@ -87,6 +87,7 @@ $file = fopen('output_recipes_0312.txt', 'a');
 foreach (get_links($to_crawl) as $page) {
 	$recipe = new Recipe($page);
 	$recipe = $recipe -> getRecipe();
+	echo $page."\n";
 	fwrite($file,"url\t");
 	fwrite($file, $page."\n");
 	fwrite($file,"recipe_name\t");
@@ -103,10 +104,10 @@ foreach (get_links($to_crawl) as $page) {
 	fwrite($file, $recipe["preparation_time"]."\n");
 	fwrite($file,"cook_time\t");
 	fwrite($file, $recipe["cook_time"]."\n");
-	fwrite($file, "ingredient\t");
+	fwrite($file, "ingredients\t");
 	$a = fetch_ingredients($page);
 	for ($i=0; $i<count($a)-1; $i++) { 
-		fwrite($file, $a[$i].",");
+		fwrite($file, $a[$i]."|");
 	}
 	fwrite($file, $a[count($a)-1]);
 	fwrite($file, "\n");
