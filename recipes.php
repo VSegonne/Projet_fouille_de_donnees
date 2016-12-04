@@ -82,12 +82,13 @@ function fetch_ingredients ($html) {
 
 
 $to_crawl = "http://www.marmiton.org/recettes/recette-hasard.aspx";
-$file = fopen('sorties_02132016.txt', 'a');
+$file = fopen('output_recipes_0312.txt', 'a');
 
 foreach (get_links($to_crawl) as $page) {
 	$recipe = new Recipe($page);
 	$recipe = $recipe -> getRecipe();
-	var_dump($recipe);
+	fwrite($file,"url\t");
+	fwrite($file, $page."\n");
 	fwrite($file,"recipe_name\t");
 	fwrite($file, $recipe["recipe_name"]."\n");
 	fwrite($file,"type\t");
