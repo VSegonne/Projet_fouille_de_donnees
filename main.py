@@ -35,7 +35,7 @@ for i, recipe in enumerate(recipes):
             print("LEn RECIPES",len(recipes))
             print("LEn VECTOR RECIPES",len(vectorized_recipes))
 
-    if len(liked_recipes) == 10:
+    if len(liked_recipes) == 20:
         break
 
 kmeans = KMeans(n_clusters=4).fit(liked_recipes)
