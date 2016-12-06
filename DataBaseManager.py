@@ -40,11 +40,11 @@ def load_recipes_from_textFile(recipes_file):
 
 
 
-def create_recipes_database_from_textFile(recipes_file):
+def create_recipes_database_from_textFile(database_name, recipes_file):
 
     recipes = load_recipes_from_textFile(recipes_file)
 
-    conn = sq.connect("Recipes.db")
+    conn = sq.connect()
     cursor = conn.cursor()
     cursor.execute("""
                 CREATE TABLE IF NOT EXISTS Recipes(
@@ -95,7 +95,7 @@ def load_recipes_from_database(database_file):
     conn = sq.connect(database_file)
     cursor = conn.cursor()
 
-    col_names = ["url","recipe_name","type","difficulty","cost","guest_number", "preparation_time", "cook_time","ingredients","instructions" ]
+    col_names = ["url","recipe_name","type","difficulty","cost","guests_number", "preparation_time", "cook_time","ingredients","instructions" ]
     recipes = []
 
     for row in cursor.execute("SELECT * FROM Recipes"):
@@ -180,6 +180,7 @@ def load_liked_recipes_from_profile(profile_name):
             recipe[col_names[i]] = col
         liked_recipes.append(recipe)
 
+
     conn.close()
     return liked_recipes
 
@@ -208,6 +209,39 @@ def load_disliked_recipes_from_profile(profile_name):
 
     conn.close()
     return disliked_recipes
+
+
+def add_liked_recipes_to_profile(profile_name, liked_recipes):
+    #TODO Changer dict pour obj
+
+    conn = sq.connect("Profile.db")
+    cursor = conn.cursor()
+
+    for recipe in liked_recipes:
+        recipe["opinion"] = "like"
+        #recipe_to_dump["opinion"] = "like"
+        #recipe_to_dump["url"] = recipe["url"]
+        #recipe_to_dump["recipe_name"] = recipe["recipe_name"]
+        #recipe_to_dump["type"] = recipe["type"]
+        #recipe_to_dump["difficulty"] = recipe["difficulty"]
+        #recipe_to_dump["cost"] = recipe["cost"]
+        #recipe_to_dump["guests_number"] = recipe["guests_number"]
+        #recipe_to_dump["preparation_time"] = recipe["preparation_time"]
+        #recipe_to_dump["cook_time"] = recipe["cook_time"]
+        #recipe_to_dump["ingredients"] = recipe["ingredients"]
+        #recipe_to_dump["instructions"] = recipe["instructions"]
+
+        insert = """INSERT INTO """ + profile_name +"""
+                (opinion, url, recipe_name, type, difficulty, cost, guests_number, preparation_time, cook_time,
+                ingredients, instructions)
+                values (:opinion, :url, :recipe_name, :type, :difficulty, :cost, :guests_number, :preparation_time,
+                :cook_time, :ingredients, :instructions)
+                """
+
+        cursor.execute(insert, recipe)
+
+    conn.commit()
+    conn.close()
 
 
 
