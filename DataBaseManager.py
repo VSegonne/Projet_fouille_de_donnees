@@ -29,7 +29,7 @@ def load_recipes_from_textFile(recipes_file):
         else:
             line = line.rstrip()
             line = line.split('\t')
-
+            print(line)
             recipe[line[0]] = line[1]
 
         #line = database.readline().decode("UTF-8")
