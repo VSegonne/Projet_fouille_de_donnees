@@ -1,6 +1,7 @@
 # Projet_fouille_de_donnees
 Projet pour le cours de fouille de données
 
-Test..
+Lancer le programme via main.py
+	python main.py
 
-Another test..
+=> suivre les instructions

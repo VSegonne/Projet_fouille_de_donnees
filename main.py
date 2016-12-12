@@ -56,6 +56,8 @@ if exists_profile(profile_name):
     for i, recipe in enumerate(recipes):
         if recipe["recipe_name"] not in liked_recipes_names:
             matrix = centers + v_recipes[i]
+            print("Matrix", matrix)
+            sys.exit()
             cos_matrix = cosine_similarity(matrix)
             score_best_sim = max(cos_matrix[0][1:])
             unranked_cos_sim.append((i,score_best_sim))

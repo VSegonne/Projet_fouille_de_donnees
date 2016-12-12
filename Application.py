@@ -12,8 +12,9 @@ class Application():
     def start(self):
         root = tk.Tk()
         root.title("EatAWeek")
-        root.attributes("-topmost", True)
-        root.geometry('500x300+350+400')
+        #root.attributes("-topmost", True)
+        root.geometry('+350+400')
+        root.resizable(width=True, height=True)
         model = Model(root, self.DBManager)
         model.display_main_menu(root, self.DBManager)
         root.mainloop()
