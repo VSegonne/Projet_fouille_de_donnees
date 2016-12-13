@@ -1,0 +1,1837 @@
+url	http://www.marmiton.org/recettes/recette_filet-d-abadeche-a-la-creme-de-soja_72174.aspx
+recipe_name	Filet d'abadèche à la crème de soja
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	2
+preparation_time	5
+cook_time	20
+ingredients	abadeche|creme-fraiche|huile-d-olive|poivre|sauce-soja
+instructions	Dans une poêle, faites revenir les filets d'abadèche dans très peu d'huile d'olive (l'abadèche est un poisson assez gras), pendant 10 min en les retournant régulièrement. Poivrez généreusement, ajoutez la crème fraîche, laissez chauffer quelques minutes puis incorporez la sauce soja avec une spatule pour décoller les sucs de cuisson. Servir aussitôt avec du riz. Remarques : L'abadèche est un poisson de la famille des anguilles, chair ferme et qui tient bien à la cuisson, assez gras donc limitez l'apport de matière grasse. 
+
+url	http://www.marmiton.org/recettes/recette_emince-de-poulet-aux-poires-et-cornes-d-abondance_72108.aspx
+recipe_name	Emincé de poulet aux poires et cornes d'abondance
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	20
+ingredients	abondance|beurre|cognac|creme|oignon|poire|poivre|poulet|sel|vin-blanc
+instructions	2 heures avant le début de la cuisson, mettez à tremper les cornes d'abondance dans un bol avec un peu d'eau. Émincez l'oignon et les cornes d'abondance préalablement bien rincées. Coupez les poires en petit dés. Faites revenir l'oignon avec un peu de beurre dans une poêle antiadhésive et ajoutez les cornes d'abondance. Après 5 minutes, ajoutez les poires et 5 cl de vin et faites évaporer à feu vif. Lorsque le vin est évaporé, ajoutez le cognac, salez, poivrez, puis réservez la préparation au chaud dans un autre récipient. Dans la même poêle, faites rôtir l'émincé de poulet une petite dizaine de minutes (en fonction de la grosseur des morceaux). Ajoutez le vin restant et faites évaporer. Salez et poivrez. Ajoutez à la viande la préparation aux poires et champignons. Ajoutez la crème et chauffez sans bouillir. Servez aussitôt. 
+
+url	http://www.marmiton.org/recettes/recette_fondue-aux-4-fromages_54455.aspx
+recipe_name	Fondue aux 4 fromages
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	60
+cook_time	20
+ingredients	abondance|ail|appenzeller|beaufort|comte|croûtons|kirsch|maizena|vin-blanc
+instructions	Frotter le caquelon avec la gousse d'ail. Mettre à chauffer le vin à feu moyen. Lorsqu'il bout, ajouter le fromage préalablement râpé et mélangé. Lorsque le fromage est bien fondu, ajouter la Maïzena délayée dans l'alcool. Laisser frémir 5 min puis poser le caquelon sur le réchaud. Déguster la fondue ! 
+
+url	http://www.marmiton.org/recettes/recette_fondue-aux-fromages-a-ma-facon_84782.aspx
+recipe_name	Fondue aux fromages à ma façon
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	30
+cook_time	20
+ingredients	abondance|ail|beaufort|cafe|comte|emmental|liqueur|poivre-5-baies|vins
+instructions	Couper tous les fromages en petits dés. Couper la gousse d'ail en 2, enlever le germe, frotter le fond du caquelon avec, puis émincer l'ail et le mettre dedans. Mettre à chauffer, ajouter les fromages, le vin blanc, le poivre. Pendant que le fromage commence à fondre, diluer la maïzena dans le kirsch. Quand le liquide se forme au dessus du fromage, ajouter le kirsch et bien mélanger pour lier et pour éviter qu'il y ait le fromage au fond et le liquide dessus. Remarques : Elle est très goûteuse, tous mes invités ont apprécié. Boisson conseillée : Apremont comme la fondue. 
+
+url	http://www.marmiton.org/recettes/recette_fondue-savoyarde-aux-5-fromages_46645.aspx
+recipe_name	Fondue savoyarde aux 5 fromages
+type	Plat principal
+difficulty	Très facile
+cost	Assez Cher
+guests_number	4
+preparation_time	15
+cook_time	10
+ingredients	abondance|ail|beaufort|comte|emmental|mont-d-or|vin-blanc
+instructions	Tout d'abord, on m'a toujours appris qu'il y avait 5 fromages dans la fondue savoyarde... avis au savoyard ! Enlever la croûte des fromages. Râper l'emmental, le comté, le beaufort, et l'abondance. Frotter le réchaud avec une gousse d'ail. Faire chauffer à feu doux le vin blanc avec la deuxième gousse d'ail, puis rajouter tous les fromages petit à petit jusqu'à ce qu'ils soient tous fondus. Déguster. Remarques : Moi je sers la fondue avec de la charcuterie, donc je ne mets pas des "grosses" doses de fromages, mais si vous sevez la fondue seule, je pense qu'il faut augmenter toutes les doses. Boisson conseillée : Vin blanc 
+
+url	http://www.marmiton.org/recettes/recette_abricotine-facile_232993.aspx
+recipe_name	Abricotine Facile
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	15
+ingredients	abricot|pate-feuilletee|sucre-glace
+instructions	Préchauffez votre four à 180°C. Déroulez votre pâte feuilletée et coupez la en 4 carrés. Prenez deux abricots et déposez-les sur un carré de pâte feuilletée dans la diagonale. Rabattez les deux autres cotés et collez les avec un peu du sirop de la conserve. Idem pour les autres carrés. Enfournez pendant 15 min environ (cuisson selon votre goûts) puis saupoudrez de sucre glace. Boisson conseillée : un petit thé 
+
+url	http://www.marmiton.org/recettes/recette_abricotises_45471.aspx
+recipe_name	Abricotises
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	5
+cook_time	0
+ingredients	abricot|amande|creme-chantilly|framboise|sucre-roux
+instructions	Coupez les abricots en 2 et dénoyautez-les. Remplissez-les de chantilly, posez dessus une framboise. Saupoudrez de sucre et des amandes grillées. Remarques : Vous pouvez remplacer la chantilly par de la glace à la vanille, les framboises par des fraises ou cerises, les amandes par des noisettes et même le sucre par du chocolat en poudre ou des vermicelles de couleur... Il y a mille facons de transformer cette recette avec des touches personnelles. PARFAIT POUR UN GOUTER D"ENFANTS ! Boisson conseillée : Limonade 
+
+url	http://www.marmiton.org/recettes/recette_abricots-au-chevre-et-au-lard-fume_33714.aspx
+recipe_name	Abricots au chèvre et au lard fumé
+type	Amuse-gueule
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	10
+ingredients	abricot|fromage-de-chevre|lard-fume
+instructions	Préchauffer le four à 200°C . Prendre un abricot sec et appliquer dessus l'équivalent d'une cuillère à café de fromage de chèvre. Rouler une tranche de lard autour en prenant garde de ne pas trop écraser le chèvre. Le lard peut faire plusieurs fois le tour de l'abricot. Déposer l'abricot garni sur un plat allant au four, chèvre vers le dessus ! Recommencer l'opération jusqu'à ne plus avoir de lard (ou d'abricots). Mettre au four. Lorsque le lard est doré et que le chèvre à un peu fondu, c'est prêt ! Servir chaud avec des cure-dents. Faire bien attention à ne pas se brûler, c'est extrêmement chaud !. Il vaut mieux en prévoir trop que trop peu...Ca part vraiment très vite ! Remarques : Cette recette est une variante de l'éternel pruneau au lard avec un petit goût frais en plus ! 
+
+url	http://www.marmiton.org/recettes/recette_abricots-au-nid_170309.aspx
+recipe_name	Abricots au nid
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	25
+ingredients	abricot|beurre|chocolat-noir|lait|oeuf|sel|semoule|sucre
+instructions	Faire chauffer le lait. Ajouter le chocolat en carrés et le sucre, délayer à la cuillère en bois pour faire fondre le chocolat. Dès l'ébullition, verser la semoule en pluie. Cuire 10 minutes à feu doux à moyen sans cesser de remuer. Ajouter, hors du feu, les jaunes d''ufs un à un, en fouettant. Monter les blancs d''ufs en neige ferme avec une pincée de sel, les incorporer délicatement à la préparation. Beurrer un plat allant au four, verser la semoule, la lisser. Poser dessus les oreillons d'abricots bien égouttés. Cuire 15 minutes dans le four préchauffé à 200°C thermostat 7). Dégustez tiède ou froid. Remarques : Vous pouvez remplacer les abricots par des pêches, des poires ou des mangues au sirop. 
+
+url	http://www.marmiton.org/recettes/recette_abricots-au-sirop-maison_21952.aspx
+recipe_name	Abricots au sirop maison
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	15
+cook_time	5
+ingredients	abricot|alcools|eau|sucre-en-poudre
+instructions	Dénoyautez les abricots, puis cassez une dizaine de noyaux d'abricots pour en extraire l'amande. Faites tremper ces amandes dans l'alcool quelques heures. Préparez un sirop en faisant bouillir ensemble le sucre et l'eau et le sucre. Placez les abricots dans le sirop, puis laissez cuire 5 minutes à petits bouillons. Laissez refroidir le sirop, puis retirez les abricots et placez-les dans le plat de service. Faites épaissir le sirop à feu doux. Après quelques minutes, ajoutez le kirsch parfumé aux amandes d'abricots (sans les amandes), puis laissez refroidir. Nappez les abricots avec ce sirop et servez de suite, ou bien mettez en bocaux et stérilisez. 
+
+url	http://www.marmiton.org/recettes/recette_abricots-au-sirop-sans-alcool_24679.aspx
+recipe_name	Abricots au sirop sans alcool
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	20
+ingredients	abricot|cannelle|eau|fleur-d-oranger|sucre-en-poudre|vanille
+instructions	Couper les abricots en deux. Les dénoyauter. Les mettre dans une casserole avec l'eau et le sucre. Ajouter, le cuillère à soupe échéant, l'arôme choisi. Faire cuire à feu doux 20 mn. Laisser refroidir. Enlever la peau des abricots (qui se détache toute seule) Remarques : Un dessert de grand-mère tout simple, pour répondre à un appel aux gourmands. 
+
+url	http://www.marmiton.org/recettes/recette_abricots-en-oeufs-au-plat_30763.aspx
+recipe_name	Abricots en ' oeufs au plat '
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	0
+ingredients	abricot|boudoir|fromage-blanc|lait|sucre|vanille
+instructions	Disposer 2 couches de boudoirs dans un plat. Préparer le flan à la vanille, puis le verser chaud sur les boudoirs de façon à juste les recouvrir. Dans un autre récipient, bien fouetter le fromage blanc avec le sucre et en recouvrir aussitôt les boudoirs et le flan. Mettre au frais pendant 8 heures minimum. Avant de servir, disposer les abricots au sirop, ce qui fait ressembler ce dessert à des oeufs au plat. Servir dans le plat. Remarques : Recette très facile à réussir : pas de cuisson - pas de démoulage! 
+
+url	http://www.marmiton.org/recettes/recette_abricots-fourres-au-foie-gras_19990.aspx
+recipe_name	ABRICOTS FOURRES AU FOIE GRAS
+type	Amuse-gueule
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	0
+ingredients	abricot|foie-gras
+instructions	Ouvrir les abricots en deux sans pour autant dissocier complètement les deux morceaux d'abricots. Il est utile de maintenir un lien entre les deux moitiés pour les fourrer et obtenir une présentation facile à déguster. Couper de beaux morceaux de foie gras (un peu épais) de la longueur et de la largeur des abricots. Introduire les morceaux de foie gras entre les deux moitiés d'abricots. Rabattre les deux moitiés en les pressant légèrement pour solidifier l'ensemble. Rectifier pour obtenir un abricot fourré bien homogène. Une fois, les abricots fourrés les mettre au frais quelques instants puis les sortir quelques minutes avant de les servir. Une réfrigération prolongée ne doit pas nuire à la dégustation. Bon appétit. Remarques : Le couple abricot/foie gras peut surprendre à priori, mais finalement ne laisse pas indifférent. Il est important d'utiliser des abricots le plus moelleux possible.  Boisson conseillée : Champagne 
+
+url	http://www.marmiton.org/recettes/recette_abricots-gratines-a-la-cannelle_29001.aspx
+recipe_name	Abricots gratinés à la cannelle
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	10
+ingredients	abricot|beurre|cannelle|sucre
+instructions	Dénoyauter les abricots, les disposer dans un saladier avec le sucre et la cannelle. Remuer et laisser les abricots mariner 10 minutes. Répartir les abricots sur 4 feuilles d'aluminium ou de papier sulfurisé beurrées. Parsemer de morceaux de beurre. Fermer les papillotes hermétiquement et faire cuire 10 minutes sous le grill du four ou sur la grille du barbecue. Retourner à mi-cuisson. Laisser reposer 2-3 minutes avant de servir. Accompagner de glace à la vanille ou de fromage blanc. 
+
+url	http://www.marmiton.org/recettes/recette_abricots-meringues_21349.aspx
+recipe_name	Abricots Meringués
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	20
+ingredients	abricot|oeuf|poudre-d-amande|sucre-en-poudre
+instructions	Disposez les abricots égouttés au fond d'un plat à four (la partie creuse vers le haut). Mélangez la poudre d'amandes, les jaunes d'oeufs et un quart de jus des abricots. Nappez les abricots avec ce mélange. Battez les blancs en neige très ferme puis y ajoutez le sucre. Etendez cette meringue sur les abricots. Faites dorer lentement à four chaud 20 mn. Servez ce dessert chaud. 
+
+url	http://www.marmiton.org/recettes/recette_abricots-rotis_40562.aspx
+recipe_name	Abricots rôtis
+type	Accompagnement
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	5
+ingredients	abricot|beurre|sucre
+instructions	Faire chauffer le beurre et le sucre dans une poêle à feu moyen. Côté peau, faire chauffer les abricots dans la poêle pendant 3 minutes. Retourner côté pulpe pendant 1 minute. Servir 8 morceaux par personne. Remarques : Ce plat accompagne à merveille une viande blanche. Des filets mignons au cacao par exemple. Boisson conseillée : Rosé d'anjou 
+
+url	http://www.marmiton.org/recettes/recette_abricots-rotis-au-romarin-et-faisselle-au-caramel-de-lavande_310511.aspx
+recipe_name	Abricots rôtis au romarin et faisselle au caramel de lavande
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	0
+ingredients	abricot|faisselle|miel|romarin
+instructions	Coupez les abricots en 2 et ôtez le noyau. Piquez chaque branche de romarin de 2 demi-abricots pour former une brochette. Mettez les brochettes dans une poêle antiadhésive et recouvrez-les d'une cuillère de miel de lavande. Faites cuire à feu doux une bonne quinzaine de minutes pour que les abricots deviennent moelleux et que le miel prenne une consistance de "confiture", transparent et brillant, en se mélangeant au jus des fruits. Éteignez le feu et laissez refroidir. Dressez dans 4 assiettes les faisselles et ajoutez à côté les 2 médaillons d'abricots rôtis en brochette. Nappez la faisselle et les fruits de la "confiture" récupérée dans la poêle. Servez très frais. Remarques : Le romarin va agréablement parfumer la faisselle pendant le passage au frigo. Dessert très agréable, frais et léger pour clore un repas et "qui en jette" malgré sa simplicité. Boisson conseillée : Un rosé de Provence 
+
+url	http://www.marmiton.org/recettes/recette_agneau-a-l-abricot-recette-turque_50367.aspx
+recipe_name	Agneau à l'abricot (recette turque)
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	6
+preparation_time	120
+cook_time	60
+ingredients	abricot|agneau|beurre|bouillon|matiere-grasse|poivre|riz|sel|sucre-en-poudre
+instructions	Faites tremper les abricots pendant 1 heure dans l'eau froide puis égouttez-les. Coupez la viande en cube de 4 cm environ puis faites-les dorer en cocotte dans la matière grasse. Saupoudrez de sucre et laissez caraméliser. Lorsque la viande est bien rissolée, ôtez la graisse et mouillez de 15 cl d'eau tiède. Grattez le fond de la cocotte pour décoller les sucs de cuisson de la viande. Ajoutez les abricots égouttés, du sel et du poivre puis couvrez et laissez cuire à petit feu pendant 40 minutes en remuant de temps en temps. Faites fondre le beurre dans une poêle, versez le riz et remuez jusqu'à ce qu'il soit bien enrobé de gras puis ajoutez-le au contenu de la cocotte avec le bouillon chaud. Couvrez et laissez cuire à feu très doux jusqu'à ce que le riz est absorbé tout le liquide. 
+
+url	http://www.marmiton.org/recettes/recette_aigre-doux-de-porc-aux-fruits-secs-de-cat_62510.aspx
+recipe_name	Aigre-doux de porc aux fruits secs de Cat
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredients	abricot|beurre|bouquet-garni|huile|miel|oignon|poivre|porc|quatre-epices|raisins-secs|sel|vinaigre-de-cidre|vin-blanc
+instructions	Faire dorer la viande dans l'huile bien chaude. La retirer et mettre dans la même cocotte l'oignon à revenir. Une fois réalisé, remettre la viande en ajoutant le miel et laisser cuire jusqu'à une légère caramélisation. Ajouter ensuite le vinaigre, le vin blanc, les raisins secs, les abricots et le bouquet garni. Saler, poivrer et ajouter les quatre-épices. Couvrir et laisser mijoter une heure. Au bout de ce temps, retirer la viande, les fruits et le bouquet garni. Faire fondre le beurre dans le jus de cuisson sirupeux et verser cette sauce sur la viande. Déguster avec du riz blanc ou des graines de couscous, ou ce que vous voulez... Remarques : Plus longtemps vous laisserez mijoter et plus fondante sera la viande. Boisson conseillée : Gewürtztraminer 
+
+url	http://www.marmiton.org/recettes/recette_aiguillettes-de-canard-aux-abricots_48532.aspx
+recipe_name	Aiguillettes de canard aux abricots
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	15
+cook_time	10
+ingredients	abricot|aiguillette-de-canard|ail|beurre|cube-de-bouillon|miel
+instructions	Couper les abricots et l'ail. Les verser dans une casserole et racler légèrement le cube de bouillon au dessus de la casserole. Faire cuire la sauce à feu fort pendant quelques minutes en remuant bien. Ajouter le miel en fin de cuisson. Réserver la sauce. Faire cuire les aiguillettes 5 minutes à feu doux dans une poêle avec un peu de beurre. Saler et poivrer. Retirer le canard du feu et le servir nappé de la sauce aux abricots. 
+
+url	http://www.marmiton.org/recettes/recette_amandine-aux-abricots_18515.aspx
+recipe_name	Amandine aux abricots
+type	Dessert
+difficulty	Très facile
+cost	Moyen
+guests_number	8
+preparation_time	10
+cook_time	35
+ingredients	abricot|amande|beurre|oeuf|sucre
+instructions	Faire blanchir tout le mélange. Beurrer un plat à gratin. Mettre les abricots côté bombé sur le plat. Recouvrir du mélange. Faire cuire 35 mn au four thermostat 5. Servir froid ou tiède. Remarques : Il est important de mettre les abricots côté bombé contre le plat car cela évite que le jus de l'abricot ne reste dans le fruit pendant la cuisson. 
+
+url	http://www.marmiton.org/recettes/recette_amandine-aux-abricots-a-ma-facon_57404.aspx
+recipe_name	Amandine aux abricots à ma façon
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	35
+ingredients	abricot|amande|beurre|farine|kirsch|levure-chimique|oeuf|sel|sucre
+instructions	Préchauffez le four à 200°C (th 6-7). Beurrez et saupoudrez de sucre un moule à manquer de 22 cm de diamètre. Lavez et essuyez 6 beaux abricots, coupez les en deux et dénoyautez-les. Fouettez 3 oeufs, 100 g de sucre en poudre et une pincée de sel. Incorporez 50 g de farine, 75 g d'amandes en poudre et un sachet de levure chimique. Mélangez jusqu'à obtention d'une pâte homogène. Faites fondre 100g de beurre dans une petite casserole à feu doux. Laissez tiédir puis versez-le dans la pâte. Mélangez bien. Parfumez avec une cuillère à café de kirsch. Disposez les moitiés d'abricots face bombée contre le moule. Versez la pâte dessus. Enfournez 35 minutes. Laissez refroidir. Retournez le gâteau pour le démouler. (Décorez avec une cuillère à soupe d'amades effilées) Remarques : Hors saison, vous pouvez aussi utiliser 300 g d'oreillons d'abricot au sirop. A mi-cuisson, protégez le dessus de l'amandine avec une feuille de papier aluminium. 
+
+url	http://www.marmiton.org/recettes/recette_amaretto_30998.aspx
+recipe_name	Amaretto
+type	Boisson
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	20
+cook_time	0
+ingredients	abricot|alcools|lait|sucre
+instructions	Mettre dans un bocal 35 noyaux cassés (bois et amandes) et 35 amandes d'abricots grossièrement écrasées. Verser l'alcool et laisser infuser 3 semaines. Ce temps écoulé, verser un grand verre de lait sur le sucre et faire fondre jusqu'à ébullition. Verser le sirop bouillant dans le bocal. Laisser infuser 10 jours de plus en remuant le mélange 2 fois par jour. Filtrer le mélange et mettre en bouteille. Remarques : Boisson italienne à déguster avec des petits gâteaux secs à l'amande amère. 
+
+url	http://www.marmiton.org/recettes/recette_amuse-bouches-abricots-et-pruneaux_17481.aspx
+recipe_name	Amuse-bouches abricots et pruneaux
+type	Amuse-gueule
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	10
+ingredients	abricot|poitrine-fumee|pruneaux
+instructions	Couper les tranches de poitine fumée en deux. Attention: il est important de ne pas avoir des tranches trop épaisses, mais tout de même un minimum pour la tenue du fruit, l'idéal est de 2 à 3 mm d'épaisseur. Prendre un abricot le plier en deux, l'enrouler avec une tranche de poitrine fumée, traverser le tout avec un pic. Le disposer sur un plat. Enrouler un pruneau de même. Et ainsi de suite, en alternant les couleurs pour donner un côté plus guilleret. Mettre le plat dans le haut du four (position grill), laisser dorer 10 mn tout en surveillant. Servir chaud. Remarques : Laisser bien dorer, le goût de la poitrine sera développé par la saveur sucrée des fruits. Vous pouvez essayer avec d'autres fruits à votre convernance, en respectant la règle du sucré-salé (les fruits doivent être assez sucrés pour exulter la saveur de la poitrine fumée). Préférer une poitrine fumée au feu de bois. Boisson conseillée : Blanc sec type Alsace Gewurtztramminer ou bien Bordeaux Blanc Sucré 
+
+url	http://www.marmiton.org/recettes/recette_amusez-vos-enfants-avec-du-fromage-blanc_17919.aspx
+recipe_name	Amusez vos enfants avec du fromage blanc !
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	5
+cook_time	0
+ingredients	abricot|fromage-blanc|sucre|vanille
+instructions	Il s'agit de faire une imitation des oeufs au plat, ce qui amusera beaucoup vos enfants. Sucrer le fromage blanc et le présenter dans une petite assiette. Poser les 2 moitiés d'abricot dessus et saupoudrez de sucre en poudre (pour imiter le sel) et des grains de vanille (pour imiter le poivre). Et le tour est joué! Remarques : Il s'agit plus d'un jeu que d'une véritable recette de cuisine, mais il peut peut-être pousser vos enfants à consommer des produits laitiers, surtout si vous créez bien l'effet de surprise... 
+
+url	http://www.marmiton.org/recettes/recette_aspic-de-foie-gras-aux-fruits_39512.aspx
+recipe_name	Aspic de foie gras aux fruits
+type	Entrée
+difficulty	Facile
+cost	Assez Cher
+guests_number	4
+preparation_time	20
+cook_time	0
+ingredients	abricot|figue|foie-gras|gelatine|noisette|pistache|porto
+instructions	Dans une casserole, préparez la base pour obtenir 1/2 litre de gelée, le verre de porto compris dans la quantité de liquide totale. Pendant que la gelée refroidit, coupez les figues et les abricots secs en petits dés, et hachez grossièrement les noisettes et les pistaches. A l'aide d'un couteau, dont vous aurez passé la lame sous un filet d'eau très chaude, détaillez le foie gras en gros dés, et réservez-les au réfrigérateur. Remplissez 4 verres, de morceaux de fruits secs et de dés de foie gras, en alternant les différents ingrédients. Lorsque la gelée est froide mais encore liquide, remplissez délicatement les verres garnis, puis les placer au réfrigirateur, pendant 3 heures. Boisson conseillée : Sauternes 
+
+url	http://www.marmiton.org/recettes/recette_assiette-de-fromages-panes_36758.aspx
+recipe_name	Assiette de fromages panés
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	30
+cook_time	15
+ingredients	abricot|bacon|buche-de-chevre|camembert|munster|oeuf|pruneaux|salade|sesame
+instructions	Décortiquez et mixer les noix. Couper le munster en 6, passer chacun des quartier de fromage dans une assiette avec 2 oeufs battus, puis dans les noix mixés. Réserver sur la plaque de la lèchefrite, recouverte d'un papier sulfurisé. Recommencer la même procédure avec la bûche de chèvre et les graines de sésame préalablement grillées (ou achetées déjà grillées). Recommencer avec le camembert et la panure simple MAIS paner 2 fois, c'est à dire recommencer l'opération aprés un premier passage dans la panure. Enfourner le tout 10 minutes sous le grill. Préparer une vinaigrette assez forte et mélanger à la mâche. Faire griller le bacon à la poêle. Dresser les assiettes avec la mâche au milieu, le bacon, les fruits secs et les fromages chauds (attention, ça refroidit rapidement). Remarques : Attention à bien surveiller le four, car les fromages peuvent fondre rapidement. 
+
+url	http://www.marmiton.org/recettes/recette_assortiment-de-mini-brochettes-aperitives_83696.aspx
+recipe_name	Assortiment de mini-brochettes apéritives
+type	Amuse-gueule
+difficulty	Très facile
+cost	Moyen
+guests_number	16
+preparation_time	50
+cook_time	45
+ingredients	abricot|ananas|boeuf-hache|champignon-de-paris|chorizo|courgette|crevette|farce|fromages|huile-d-olive|jambon|oeuf|pain-de-mie|sauce-barbecue|sauce-worcestershire|tabasco|tomate-cerise
+instructions	Brochettes crevettes et ananas : Couper chaque tranche d'ananas en 4. Décortiquer les crevettes (en laissant la queue ça fait plus beau). Intercaler sur chaque pic à brochettes 2 crevettes et 2 morceaux d'ananas. Faire dorer les brochettes à la poêle dans une noix de beurre. Saler et poivrer. (pour les amateurs il est possible d'ajouter un peu de curry). Servir chaud. 4 Brochettes de champignons farcis et tomates-cerise : Préchauffer le four à 180°C (thermostat 6). Ôter les queues des champignons et farcir les "chapeaux" avec la chair à saucisse. Les mettre dans un plat et arroser d'un filet d'huile d'olive. Faire cuire au four pendant 15 min. Laisser refroidir. Intercaler sur chaque pic à brochette 2 champignons farcis et 2 tomates-cerise. Réchauffer au four avant de servir chaud. 4 Brochettes de boulettes de b'uf et courgette : Couper la courgette en cubes assez gros et les faire cuire 3 à 5 min à la vapeur ou dans l'eau bouillante de manière à ce qu'ils restent bien fermes. Dans un saladier écraser à la fourchette, le b'uf avec l''uf, la mie de pain et les sauces. Saler et poivrer. Faire 8 boulettes assez grosses et bien compactes de manière à ce qu'elles tiennent sur les pics. Faire cuire les boulettes à la poêle pendant 10-15 min (il est possible de les faire cuire au four également). Laisser refroidir. Intercaler sur chaque pic à brochettes 2 boulettes de b'uf et 2 cubes de courgette. Réchauffer au four avant de servir chaud. 4 Brochettes basques (chorizo, fromage de brebis, jambon cru abricots secs) : Couper 4 cubes de fromage de brebis et 4 lamelles larges de jambon cru. Enrouler chaque cube de fromage dans une lanière de jambon. Couper les abricots en 2. Mettre sur chaque pic à brochettes un cube de fromage enroulé dans le jambon, un demi-abricot et 1 rondelle de chorizo. Ces brochettes sont servies froides. Remarques : Ces brochettes peuvent être préparées à l'avance et réchauffée 10 min au four à 150°C (thermostat 5) avant d'être servies. NDLR : Une recette de Noel parfaite pour réaliser un assortiment de brochettes apéritives pour votre amuse-bouche de Noël. Chaque convive se fera une joie de donner son ordre de préférence. 
+
+url	http://www.marmiton.org/recettes/recette_aumonieres-au-foie-gras-poires-et-abricots_64268.aspx
+recipe_name	Aumônières au foie gras, poires et abricots
+type	Entrée
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	20
+cook_time	10
+ingredients	abricot|beurre|crepe|eau|foie-gras|poire|poivre|vinaigre-de-framboise
+instructions	Couper les abricots en tout petits dés et les faire tremper dans de l'eau de vie de poires plusieurs heures à l'avance. Préchauffer le four à 200°C (thermostat 6-7). Dans une poêle, faire revenir les poires coupées en petits dés avec 25 g de beure 5 à 7 min. Egoutter sur du papier absorbant. Déglacer la poêle avec le vinaigre. Y remettre les poires et les abricots (gonflés). Ajoutez ½ cuillère à café de poivre concassé. Laisser tiédir. Répartir ce mélange au centre de chaque crêpe. Ajoutez sur le dessus le foie gras coupé en gros dés. Refermer en attachant avec une ficelle de cuisine. Déposer ces aumônières sur une plaque. Les badigeonner au pinceau de beurre fondu. Faire dorer 10 min à four chaud. Laisser reposer 5 min avant d'enlever la ficelle. Remarques : Pour la décoration, vous pouvez remplacer la ficelle de cuisson par un brin de ciboulette. Servez à l'assiette avec une tranche de clémentine, une de kiwi et trois framboises pour donner de la couleur. C'est un vrai délice !!! 
+
+url	http://www.marmiton.org/recettes/recette_baeckeoffe-de-canard-aux-epices-de-noel-et-fruits-secs_53647.aspx
+recipe_name	Baeckeoffe de canard aux épices de Noël et fruits secs
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	10
+preparation_time	60
+cook_time	240
+ingredients	abricot|ail|carotte|cuisse-de-canard|epice|gros-sel|oignon|pistache|poireau|poivre|pomme-de-terre|pruneaux|raisins-secs|riesling
+instructions	Mettre la moitié des pommes de terre dans le fond de la terrine. Rajouter la moitié des légumes et des fruits secs, la viande, les épices, le sel, le poivre. Couvrir avec le reste de légumes et de fruits secs, les pommes de terre, puis arroser avec le vin blanc jusqu'à hauteur. Cuire au minimum 3 h 30 à 4 h à 180°C (Th 6). Remarques : Excellent plat pour les fêtes ! NDLR : Une idée pour votre recette de Noel. Boisson conseillée : Riesling 
+
+url	http://www.marmiton.org/recettes/recette_bananes-au-four-abricots-secs-et-noisettes_37668.aspx
+recipe_name	Bananes au four, abricots secs et noisettes
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	5
+cook_time	25
+ingredients	abricot|banane|cafe|céréale|miel|petit-suisse
+instructions	Préchauffer votre four 5 minutes à 180°C. Placer les bananes entières sur une grille pour 25 minutes environ. Laisser tiédir pour pouvoir les peler sans vous brûler. Mélanger le petit-suisse et le miel. Disposer ce mélange dans une assiette. Placer la banane pelée dessus et rajouter sur le dessus les abricots secs coupés en petits morceaux ainsi que les cérales soufflées et les noisettes grillées. Idéal pour un dessert ou un goûter équilibré pour enfants et parents accompagnateurs ! Remarques : Attention, les bananes risquent de couler pendant leur cuisson : protégez le fond de votre four. 
+
+url	http://www.marmiton.org/recettes/recette_barre-energetique-aux-chataignes-abricots-secs-et-muesli_346152.aspx
+recipe_name	Barre énergétique aux châtaignes, abricots secs et muesli
+type	- Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredients	abricot|amande|avoine|beurre-doux|cannelle|chataigne|miel|noisette|noix-de-macadamia|sucre|vanille
+instructions	Préchauffez votre four à 150°C (thermostat 5). Beurrez un moule carré d'environ 20 cm et tapissez-le de papier sulfurisé. Égouttez les châtaignes et coupez grossièrement 265 g. Dans une petite poêle, grillez à sec à feu vif les amandes et les noix pendant 3 min. Réservez. Dans un grand bol d'eau tiède, plongez les abricots secs et laissez-les tremper 5 min. Dans une grande poêle, faites revenir les châtaignes avec le beurre et le miel pendant 2 à 3 min. Lorsqu'elles sont bien dorées, ajoutez le sucre et laissez bien caraméliser. Transvasez-les dans un grand saladier. Ajoutez aussitôt les flocons d'avoine, les amandes, la vanille, la cannelle, les amandes et noix grillées puis les abricots secs bien égouttés et mélangez délicatement. Versez le mélange dans le moule carré et enfournez 15 à 20 min. En fin de cuisson, le dessus doit être légèrement coloré. Laissez refroidir à température ambiante pour que la préparation durcisse. Coupez-le ensuite en petites barres à déguster aussitôt !  Remarques : Les barres de céréales peuvent aussi devenir de délicieuses mignardises si vous les coupez en petits carrés à disposer sur des supports papier ! 
+
+url	http://www.marmiton.org/recettes/recette_barres-de-cereales-au-chocolat-et-aux-abricots-secs_21333.aspx
+recipe_name	Barres de céréales au chocolat et aux abricots secs
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	18
+preparation_time	15
+cook_time	0
+ingredients	abricot|beurre|céréale|chocolat-noir|fruit-confit|moules
+instructions	Faire fondre le chocolat et le beurre au bain-marie, en posant un saladier sur une casserole d'eau frémissante, et remuer à l'aide d'une cuillère en bois. Pendant ce temps, découper les fruits secs et confits en tout petits morceaux. Sortir ensuite le récipient du bain-marie et ajouter au chocolat fondu les abricots secs, les fruits confits et les céréales. Verser ce mélange dans un moule recouvert de papier sulfurisé beurré, tasser et lisser la surface à l'aide d'une spatule. Placer 1 à 2 h au frais pour que la préparation durcisse. Retourner ensuite le moule sur une planche puis décoller le papier sulfurisé. Découper le gâteau de céréales en triangles et déguster. Remarques : Ces barres de céréales se conservent parfaitement dans des boîtes hermétiques pendant plusieurs jours. Vous pouvez remplacer les céréales croustillantes par des flocons de son, du riz soufflé ou des corn-flakes non glacés au sucre. 
+
+url	http://www.marmiton.org/recettes/recette_biscotti-amande-abricot-ou-orange-chocolat_168377.aspx
+recipe_name	Biscotti amande/abricot ou orange/chocolat
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	40
+preparation_time	20
+cook_time	40
+ingredients	abricot|amande|beurre|chocolat|farine|lait|levure|oeuf|orange|polenta|sucre-roux|vanille
+instructions	Mélanger d'abord le beurre fondu et le sucre. Rajouter ensuite l''uf, le lait, la farine, la levure, la polenta et la vanille (ou fleur d'oranger). Ajuster la quantité de lait à la consistance de votre pâte : celle-ci doit se tenir et ne pas être liquide. Rajouter ensuite les parfums que vous aurez choisi. Souvent, je divise la pâte en deux pour pouvoir faire des biscottis de deux sortes : amande-abricot d'un côté et orange-chocolat de l'autre. Vous pouvez tester aussi canneberge-chocolat, c'est très bon ! Débiter les ingrédients choisis en petits morceaux et les rajouter à la pâte. verser dans un plat beurré. Mettre à cuire 20min à 60°C. Sortir du four et laisser refroidir. Coupez en tronçon fin que vous couchez sur la tranche sur une plaque allant au four. Remettez 15 min à 160°. Vous pouvez aussi mettre 8 min sur chaque face. Surveillez bien la cuisson à cette étape là, car en fonction de votre four, c'est là que ça peut bruler! Sortir et laisser refroidir. Les biscuits doivent être croustillants tout en restant moelleux. La polenta donne un petit goût qui change de la farine. Remarques : Pour accompagner un thé, de la glace ou de la crème... ou tout seul. Cela se conserve très bien dans une boite fermée... mais en général, ça part très vite ! 
+
+url	http://www.marmiton.org/recettes/recette_biscuit-aux-abricots-et-coulis-d-abricots_169913.aspx
+recipe_name	Biscuit aux abricots et coulis d'abricots
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	60
+cook_time	40
+ingredients	abricot|citron-vert|creme-fraiche|farine|levure|oeuf|rhum|sucre
+instructions	Dénoyautez les abricots et réservez-les. Mélangez le sucre et les oeufs entiers. Ajoutez la crème, puis la farine avec la levure. Râpez la moitié du zeste du citron et ajoutez à la pâte puis ajoutez une cuillère à café de jus de citron et le rhum. Coupez 700 g d'abricots dénoyautés en petits dés et ajoutez-les à la pâte.  Beurrez le moule puis répartissez 1 cuillère à soupe de sucre sur le fond et le tour du moule. Versez-y la pâte. Enfournez thermostat 6-7 (200°C environ) pendant 35 min. Vérifiez que le gâteau est cuit en enfonçant une pointe de couteau qui doit ressortir sèche. Coupez le reste d'abricots en petits dés et mettez-les dans une casserole avec un peu d'eau - l'eau doit juste recouvrir les abricots. Ajoutez 3 cuillères à soupe de sucre en poudre, le reste du zeste de citron et 1 cuillère à café de jus de citron. Dès que les abricots sont en compote, mixez la préparation afin d'obtenir un coulis. Servir frais. 
+
+url	http://www.marmiton.org/recettes/recette_biscuit-fondant-aux-abricots_16854.aspx
+recipe_name	Biscuit fondant aux abricots
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	35
+ingredients	abricot|beurre|creme-fraiche-epaisse|farine|levure|oeuf|sucre|sucre-glace|vanille
+instructions	Préchauffez le four à thermostat 6 (180°C). Beurrez un moule à manqué de 26 cm de diamètre. Faites fondre doucement 100g de beurre dans une petite casserole ou au micro-ondes, puis laissez refroidir. Cassez les oeufs dans une terrine, ajoutez le sucre et le sucre vanillé. Fouettez 2mn. Ajoutez le beurre fondu et 50 g de crème fraîche. Mélangez bien. Incorporez 100 g de farine dans laquelle on aura mis 1/2 sachet de levure. Versez le tout dans le moule et disposez les abricots (côté coupé face à vous) et faites cuire 35 à 40 mn. Laissez refroidir avant de démouler. Saupoudrez de sucre glace. Remarques : On peut le cuire dans un micro-ondes combiné 15 à 20 mn seulement. Très rapide pour les invités-surprise. 
+
+url	http://www.marmiton.org/recettes/recette_biscuit-leger-de-juillet_17622.aspx
+recipe_name	Biscuit léger de Juillet
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	25
+cook_time	50
+ingredients	abricot|farine|maizena|oeuf|sucre|sucre-glace
+instructions	Préchauffez le four thermostat 6. Dénoyautez les abricots. Séparez les blancs des jaunes d'oeufs, battez les blancs en neige. Battez les jaunes d'oeufs avec le sucre jusqu'à ce qu'ils soient mousseux. Incorporez la farine puis la maïzena. Incorporez les blancs d'oeufs petit à petit. Beurrez un moule de 26 cm de diamètre environ, saupoudrez de sucre en poudre et garnissez-le avec la préparation aux oeufs. Disposez dessus les oreillons d'abricots, la face bombée vers le bas. Enfournez et cuire pendant 50 min. A la sortie du four, saupoudrez le biscuit avec le sucre glace. Dégustez tiède ou froid. Remarques : Biscuit friable et délicat à démouler. Le préparer dans un moule assez beau pour aller du four à la table. Véritable gâteau de grand-mère. 
+
+url	http://www.marmiton.org/recettes/recette_biscuits-d-automne_41665.aspx
+recipe_name	Biscuits d'automne
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	20
+preparation_time	15
+cook_time	15
+ingredients	abricot|beurre|cannelle|citron|farine|fruit|levure-chimique|oeuf|pain|sel
+instructions	Mixer les pains suédois en chapelure. D'une part, mélanger la farine, la pincée de sel et la levure. D'autre part travaillez dans un récipient (lui même, dans un récipient plus grand contenant de l'eau chaude) le sucre et le beurre jusqu'à obtenir une crème légèrement mousseuse. Ajouter tout en remuant vivement, la chapelure de pain suédois, le jus de citron et la cannelle ainsi que le mélange farine. Pétrir le tout jusqu'a obtenir une pâte homogène, filmer le tout et laisser une heure au frais... Préchauffer le four à 180°C (thermostat 6). Beurrer légèrement du papier sulfurisé, et y déposer des ronds de pâte d'environ 5 cm de diamètre (utiliser une tasse ou un verre à liqueur) et d'une épaisseur de 0.8 à 1 cm environ. Enfin couper grossièrement les amandes et les abricots secs pour décorer au choix les biscuits. Enfournez à 180°C (thermostat 6) pendant une heure. Remarques : Ce biscuit peut être accompagné à votre guise de n'importe quels fruits secs ou graines (amandes, pistaches arachides, figues etc...) Boisson conseillée : café, thé et pourquoi pas un bon champagne 
+
+url	http://www.marmiton.org/recettes/recette_biscuits-energetiques-pour-sportifs_45396.aspx
+recipe_name	Biscuits énergétiques pour sportifs
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	5
+cook_time	30
+ingredients	abricot|ble|farine|lait-de-soja|muesli|poudre-d-amande|poudre-de-noisette|raisins-secs|sucre
+instructions	Mélanger ensemble la farine et le sucre. Mouliner grossièrement abricots, raisins et muesli. Ajouter au mélange farine et sucre le 1/2 l de lait de soja, ainsi que tous les autres ingrédients les uns après les autres, de façon à obtenir une pâte onctueuse, de couleur grise. Beurrer un moule à gâteau, et enfourner à 220°C (th 7-8), 30 min. Remarques : Ce gâteau est excellent, il apporte à tous un super punch, pour tous les sportifs ou pour les enfants, au petit déj', le matin... Il est très équilibré et apporte beaucoup de bonnes choses... Boisson conseillée : Jus de fruits ou eau minérale 
+
+url	http://www.marmiton.org/recettes/recette_biscuits-sheherazade-aux-dattes_175745.aspx
+recipe_name	Biscuits Shéhérazade (aux dattes)
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	12
+preparation_time	15
+cook_time	35
+ingredients	abricot|beurre|cannelle|cassonade|datte|farine|miel|noisette|pralin
+instructions	Préchauffez le four à 180°C (thermostat 6). Dans un saladier, mélangez la farine, la cassonade, le pralin, la cannelle. Coupez les dattes et les abricots secs en fines lanières d'1,5 cm de longueur. Ajoutez-les dans le saladier, et mélangez de nouveau. Détaillez le beurre ramolli en morceau et incorporez-le du bout des doigts au mélange jusqu'à obtenir une pâte sableuse, type crumble. Prenez un plat à gratin en verre, nappez le fond du plat de miel. Étalez la pâte dans le plat. Hachez grossièrement les noisettes (ou amandes) et parsemez le dessus de la pâte. Enfournez et faites cuire pendant 35 min en surveillant la cuisson. Retirez du four, laissez tiédir, puis découpez en une douzaine de carrés pour autant de biscuits. Remarques : A déguster : - en dessert avec un coulis d'abricots - au goûter avec une bonne tasse de thé à la menthe - au petit déjeuner avec du fromage blanc pour faire le plein d'énergie ! 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-farcis-aux-fruits-secs-et-pain-d-epice_174266.aspx
+recipe_name	Blancs de poulet farcis aux fruits secs et pain d'épice
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	25
+cook_time	15
+ingredients	abricot|beurre|blanc-de-poulet|echalote|farine|figue|miel-liquide|oeuf|pain-d-epice
+instructions	Retirer la croûte du pain d'épice et l'émietter pour en faire de la chapelure (s'il est trop collant, le mettre à sécher 5-10 min au four à th. 6). Dans une casserole, faire fondre les échalotes (hachées) dans le beurre, ajouter les fruits secs en morceaux et le miel. Laisser caraméliser et ajouter une cuillère à soupe de poudre de pain d'épice. La farce est prête ! Ouvrir les blancs en deux dans l'épaisseur et les farcir. Pour plus de simplicité, on peut les ficeler avec de la ficelle de cuisine ou du fil à coudre, mais les "expert(e)s" en panure peuvent s'en passer ! Rouler les blancs successivement dans la farine, l''uf battu et la poudre de pain d'épices. Les disposer dans un plat, et les faire cuire 15 à 20 min à thermostat 6. Servir avec une purée de pommes de terre et/ou des marrons. Remarques : Pour info, c'est encore meilleur réchauffé le lendemain ! 
+
+url	http://www.marmiton.org/recettes/recette_bodding-aux-raisins-secs-et-abricots_55564.aspx
+recipe_name	Bodding aux raisins secs et abricots
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	10
+cook_time	45
+ingredients	abricot|beurre|cannelle|cassonade|lait|oeuf|pain|pain-d-epice|raisins-secs|vanille
+instructions	Coupez les abricots en petits morceaux. Morcelez le pain et les tranches de pain d'épices. Mettez les morceaux dans un récipient avec les raisins secs et les morceaux d'abricots. Ajoutez le sucre, la cannelle et la poudre pour pudding. Versez le lait et laissez macérer pendant 15 minutes. Préchauffer le four à 190°C (thermostat 6-7). Battez les oeufs et ajoutez-les à la préparation. Pétrissez le mélange du bout des doigts jusqu'à obtention d'une pâte lisse. Enduisez un moule (+ ou - 20 cm de diamètre) de 2 cuillères à soupe de beurre et versez-y la pâte. Mettez le moule dans un plat d'eau (cuisson au bain-marie) et glissez-le au four. Laissez cuire pendant 45 à 55 minutes. Pour vérifier si le bodding est suffisamment cuit, enfoncez la pointe d'un couteau au milieu, elle doit en ressortir sèche. Laissez refroidir 10 minutes puis démoulez. Remarques : Préparez votre bodding un jour à l'avance, cela permettra aux saveurs de se développer pleinement. Bien couvert, un bodding se conserve 2 à 3 jours. 
+
+url	http://www.marmiton.org/recettes/recette_boeuf-a-la-javanaise_68091.aspx
+recipe_name	Boeuf à la javanaise
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	15
+cook_time	30
+ingredients	abricot|beurre|boeuf|curry|fonds|noix-de-cajou|oignon|petit-pois|piment|poivron|raisins-secs
+instructions	Dans une cocotte avec le beurre fondu, faire sauter l'oignon et le poivron vert. Ajouter le boeuf, le sel et le cari, laisser dorer. Incorporer les raisins secs, les abricots et les noix de cajou. Ajouter le fond de boeuf, laisser mijoter 20 min. Ajouter les petits pois et les piments doux, laisser encore mijoter 10 minutes pour une parfaite cuisson. Servir avec du riz. 
+
+url	http://www.marmiton.org/recettes/recette_boeuf-aux-abricots_174549.aspx
+recipe_name	Boeuf aux abricots
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	120
+ingredients	abricot|boeuf|oignon
+instructions	Mettre les abricots (sans le jus, le garder pour plus tard) dans le fond d'une grande casserole. Mettre également le b'uf et laisser dorer pendant 15 min à feu doux. Quand le b'uf est coloré et les abricot légèrement fondus, verser le contenu du sachet de soupe à l'oignon et le jus des abricots. Couvrir et laisser cuire à feu doux pendant environ 2 h en remuant de temps en temps. Bon appétit ! Remarques : Servir avec du riz par exemple. 
+
+url	http://www.marmiton.org/recettes/recette_boisson-a-l-abricot_22647.aspx
+recipe_name	Boisson à l'abricot
+type	Boisson
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	25
+cook_time	5
+ingredients	abricot|eau|glaçon|orange|sucre|sucre-vanille
+instructions	Ebouillanter les abricots pour les peler. Les couper en deux, les dénoyauter et les écraser en fine purée. Ajouter le sucre, le sucre vanillé et le jus des deux oranges puis mélanger. Servir avec les glaçons. 
+
+url	http://www.marmiton.org/recettes/recette_boules-d-abricots-aux-pistaches_18033.aspx
+recipe_name	Boules d'abricots aux pistaches
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	0
+ingredients	abricot|fruit-sec|sucre-en-poudre
+instructions	Ecraser grossièrement dans un mortier les fruits secs avec le sucre. Former un creux dans chaque abricot en appuyant fortement avec un doigt et remplir chaque fruit avec la farce de fruits secs. Présenter dans de petites caissettes en papier, elles-même posées sur un plat de service. 
+
+url	http://www.marmiton.org/recettes/recette_boulettes-au-gingembre_25702.aspx
+recipe_name	Boulettes au gingembre
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	25
+cook_time	20
+ingredients	abricot|ail|gingembre|huile|jus-de-citron|oeuf|oignon|persil|poivre|porc|sel|yaourts
+instructions	Fouettez le yaourt avec le sel, le poivre, le jus de citron et 2 cuillères à soupe de persil. Réservez au frigidaire. Chauffez le four 210°C (Th 7). Coupez les abricots secs en petits dés. Pelez, coupez et hachez l'oignon. Pressez l'ail. Battez l'oeuf. Mélangez la viande, les abricots, l'ail, le gingembre et l'oeuf. Salez, poivrez et incorporez le reste du persil. Façonnez des boulettes et placez-les dans un plat huilé allant au four. Enfournez pendant 20 mn en retournant les boulettes à mi-cuisson. Servir chaud avec la sauce au yaourt froide et du riz. Remarques : Cette recette est vraiment facile à faire même par les enfants. Le yaourt peut aussi être remplacé par du fromage blanc. 
+
+url	http://www.marmiton.org/recettes/recette_brick-a-l-abricot-et-frangipane_39696.aspx
+recipe_name	Brick à l'abricot et frangipane
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	20
+preparation_time	30
+cook_time	15
+ingredients	abricot|beurre|brick|fleur-d-oranger|oeuf|poudre-d-amande|sucre-en-poudre
+instructions	Préparation de la frangipane : Mélanger le beurre mou avec le sucre, ajouter la poudre d'amande, puis les jaunes d'oeufs et la fleur d'oranger. Réserver. Laver les abricots, les couper en deux. Réserver. Préparation et pliage de la brick : Couper la feuille de brick en 2 (vous obtenez 2 demi-cercles). Plier en deux dans le sens de la longueur en rabattant le côté arrondi sur le côté droit. Vous obtenez ainsi un rectangle. Placer une bonne cuillère à café de frangipane et une moitié d'abricot sur la frangipane. Replier le coin en biais sur la longueur afin d'obtenir un triangle tout en enfermant la farce. Rabattre plusieurs fois le triangle sur lui-même. Pour fermer, enduire l'extrémité de la feuille de brick de blanc d''uf. Placez le triangle sur du papier sulfurisé et une plaque à mettre au four. Cuire 15 min à 200°C (thermostat 6-7). Remarques : Bien mettre du papier sulfurisé ou alu sur la plaque, car si les brick sont mal fermé la farce risque de sortir un peu. Dans ce cas retirer la frangipane collée aux bricks encore chaude. Très facile il faut juste choper le coup de main pour le pliage. Bon appétit. 
+
+url	http://www.marmiton.org/recettes/recette_bricks-poulet-epinard-et-abricot_57497.aspx
+recipe_name	Bricks poulet épinard et abricot
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	10
+preparation_time	30
+cook_time	20
+ingredients	abricot|blanc-de-poulet|brick|epinard|huile
+instructions	Dans une casserole, mettre à réchauffer à feu doux les épinards surgelés. Découper les blancs de poulet en petits morceaux (de la taille d'un morceau de sucre environ). Découper les abricots en 6 ou 8 morceaux. Faire revenir les morceaux de poulet dans une poêle. Lorsque que les morceaux sont dorés, les ajouter (sans l'huile) aux épinards. Mélanger le tout. Sur une feuille de brick pliée en 2, ajouter l'équivalent de 2 cuillères à soupe de la préparation. Ajouter par-dessus, 3 ou 4 morceaux d'abricot. Plier la feuille de brick pour former (à peu près) un petit carré. Faire chauffer de l'huile dans une poêle et y dorer 2 min par face les bricks (en commençant par le coté où les bords sont repliés - la feuille sera saisie et ne risquera plus de se défaire). Bon appétit. Remarques : Je sers ces bricks avec une bonne salade ou avec des carottes râpées maison. 
+
+url	http://www.marmiton.org/recettes/recette_brioche-aux-abricots-et-au-chocolat_227771.aspx
+recipe_name	Brioche aux abricots et au chocolat
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	16
+preparation_time	60
+cook_time	30
+ingredients	abricot|beurre|chocolat-au-lait|farine|lait|levure|oeuf|sucre
+instructions	1° Mélanger tous les ingrédients de la pâte jusqu'à obtenir un mélange lisse, couvrir et laisser lever 30 minutes au chaud. 2° Abaisser la pâte en forme de carré sur le plan de travail fariné. L'enduire du beurre, y répartir les abricots et le chocolat. Rouler la pâte sur elle-même et la découper en tranches d'environ 2.5 cm d'épaisseur. Disposer les tranches en oblique dans un moule à charnière graissé et cuire environ 30 minutes dans le four préchauffé à 180°C (thermostat 6). Boisson conseillée : Thé, café, chocolat chaud ... 
+
+url	http://www.marmiton.org/recettes/recette_briouats-de-mymy-sans-matiere-grasse_82216.aspx
+recipe_name	Briouats de Mymy ( sans matière grasse !! )
+type	Dessert
+difficulty	Difficile
+cost	Moyen
+guests_number	20
+preparation_time	45
+cook_time	20
+ingredients	abricot|brick|confiture-d-abricot|eau-de-fleur-d-oranger|miel|poudre-d-amande|sucre-en-poudre
+instructions	Dans un saladier amalgamer à la main la poudre d'amandes, le sucre, la confiture d'abricots et l'eau de fleur d'oranger afin d'obtenir une pâte souple. Préchauffer le four à 210/220°C (thermostat 7). Couper les feuilles de brick en 2 avec des ciseaux. Détacher délicatement une demi-feuille de brick de son papier et l'installer devant vous le côté rond vers vous. Replier ce dernier côté vers le côté droit de facon à obtenir une bande. Déposer une bonne cuillère à café de pâte aux amandes en bas vers la droite de la bande à un demi centimètre du bord. Y installer un abricot et replier en triangle. Il suffit en fait de rabattre le côté supèrieur droit vers le bas et de le plier en triangle jusqu'au bout de la bandelette de brick(sceller en appuyant sur la fermeture ou la "coller" avec un blanc d'oeuf si la feuille de brick est trop sèche). Procéder ainsi pour les 19 autres pièces ; au début ce n'est pas évident mais une fois le tour de main attrapé c'est facile... Installer les 20 pièces sur une plaque garnie de papier cuisson et enfourner pour 20/30 minutes à 210-220°C (thermostat 7). Il faudra retourner les briouats à mi-cuisson pour qu'ils soient dorés des 2 côtés et surtout il faudra surveiller qu'ils ne brûlent pas car ils devront être dorés non carbonisés!! Tremper les triangles encore chauds dans du miel d'oranger et laisser égoutter et sécher sur une grille. Ils se dégustent tièdes ou froids. Remarques : Si vous utilisez des feuilles filo à la place des feuilles de brick , pensez à les doubler car elles sont bien plus fines . Boisson conseillée : Du thé 
+
+url	http://www.marmiton.org/recettes/recette_brochette-abricot-coco_31535.aspx
+recipe_name	BROCHETTE ABRICOT - COCO
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	0
+ingredients	abricot|cannelle|sorbet-coco|sucre-semoule
+instructions	Retirer les noyaux des abricots sans toutefois les fendre complètement. Mélanger le sucre en poudre et la cannelle. Remplir la cavité de l'abricot par une petite cuillère à café du mélange de sucre. Enfiler ainsi 3 abricots par brochette. Emballez-les dans une papillote en alu. Faire cuire au barbecue pendant environ 10 mn à bon feu. Servir la papillote chaude après l'avoir fendue sur toute la longueur et y avoir ajouté deux boules de sorbet coco. 
+
+url	http://www.marmiton.org/recettes/recette_brochette-abricot-mozzarella-au-romarin_50355.aspx
+recipe_name	Brochette abricot mozzarella au romarin
+type	Entrée
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	5
+ingredients	abricot|beurre|mozzarella|romarin
+instructions	Couper les abricots en 2 et la mozzarella en 8 morceaux. Faire fondre le beurre dans une poêle avec les branches de romarin puis y dorer les oreillons d'abricots de chaque côté pendant quelques minutes. Préparer les brochettes en intercalant oreillon d'abricot et morceau de mozzarella, soit 3 demi-abricot et 2 morceaux de mozzarella par brochette. Parsemer les abricots de morceaux de romarin et servir, la mozzarella fond doucement au contact des abricots chauds. Boisson conseillée : Vin blanc doux. 
+
+url	http://www.marmiton.org/recettes/recette_brochette-de-fruits-pour-barbecue_23021.aspx
+recipe_name	Brochette de fruits pour barbecue
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	5
+ingredients	abricot|banane|peche
+instructions	Il faut que la grille du barbecue soit bien nettoyée. Coupez les fruits en morceau, les enfiler sur les brochettes en bois en évitant de mettre deux morceaux d'un même fruit côte à côte. Les saupoudrer de sucre roux, et passez les ensuite quelques minutes sur le barbecue pour les faire dorer. Remarques : Vous pouvez aussi faire mariner les morceaux de fruit dans un peu de ruhm avec du jus d'orange et du citron, mais évitez qu'ils ne soient trop imbibés, ils ne tiendraient plus sur la brochette. Boisson conseillée : vin blanc sucrée 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-aperitives-edam-basilic-abricot-sec_83567.aspx
+recipe_name	Brochettes apéritives Edam/Basilic/Abricot sec
+type	Amuse-gueule
+difficulty	Très facile
+cost	Moyen
+guests_number	8
+preparation_time	10
+cook_time	0
+ingredients	abricot|basilic-frais|edam
+instructions	Couper chaque tranches d'Edam en 6 part égales. Couper les abricots secs en deux dans le sens de la longueur Sur chaque morceau d'Edam, poser une feuille de basilic entière puis une moitié d'abricot sec, plier le tout en deux et faire tenir à l'aide d'un pic en bois. Boisson conseillée : Champagne 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-d-abricots-au-romarin_47014.aspx
+recipe_name	Brochettes d'abricots au romarin
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	5
+ingredients	abricot|glace-vanille|miel|rhum|romarin|sucre
+instructions	Laver les abricots, les dénoyauter, et les ouvrir. Dans un plat creux, mélanger 1 cuillère à soupe de miel, le rhum, un peu de sucre, et émietter le romarin. Rajouter les abricots et les laisser macérer environ 30 min en les retournant de temps en temps et en veillant à ce qu'ils ne ramollissent pas trop. Avant de les faire griller, les passer légèrement dans un peu de sucre (pour les caraméliser par la suite). Ensuite au choix, faire griller sur des brochettes ou sur un grill(le dessus doit légèrement être caramélisé). Enfin vous disposez vos abricots tièdes dans des coupes individuelles et ajouter 1 boule de glace à la vanille et verser le jus ayant servi à la macération. A servir et déguster aussitôt . 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-d-abricots-farcis-amandes-chocolat_60637.aspx
+recipe_name	Brochettes d'abricots farcis amandes chocolat
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	15
+ingredients	abricot|amande|beurre|chocolat|extrait-de-vanille|sucre
+instructions	Faites une fente au niveau du pédoncule des abricots puis retirez le noyau sans ouvrir les fruits. Fouettez le beurre avec le sucre et la vanille puis ajoutez les pépites de chocolat. Introduisez une noisette de cette préparation et une amande dans chaque abricot. Enfilez 3 abricots sur chaque brochette puis faites griller 10 à 15 minutes sur le barbecue en retournant les brochettes de temps en temps. Remarques : Concassez les noyaux : enveloppés dans une mousseline, ils parfumeront compotes et coulis. 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-d-agneau-aux-figues-et-abricots_328192.aspx
+recipe_name	Brochettes d'agneau aux figues et abricots
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	10
+ingredients	abricot|basilic-frais|concentre-de-tomate|cotes-d-agneau|figue|gingembre|huile-d-olive|miel|muscade|pois-chiche|poivre|raisins-secs|ras-el-hanout|sel|semoule|tomate|vin-blanc
+instructions	Préparation des côtes filets: Enfiler sur chaque brochette 3 morceaux de viande, 2 figues sèches ( ou figues fraîches ) et 2 demi abricots ( ou 2 abricots moelleux ) en alternant fruit et viande. Saler, poivrer. Réserver. Sauce des brochettes: Mixer tous les ingrédients en salant et poivrant légèrement et réserver. Accompagnement: Préparer la semoule et y ajouter les pois chiches cuits ( attention au trempage préalable de 12 heures... ) et les raisins secs. Sauce de l'accompagnement: Dans une casserole, cuire les tomates en morceaux, avec tous les ingrédients. On peut y rajouter un peu de piment en poudre ou du tabasco par exemple pour relever encore plus si l'on souhaite, la semoule adoucira un peu la force. Et si l'envie vous prend d'y rajouter un ingrédient ou un épice de votre goût, ne vous gênez surtout pas! Cuisez les brochettes 5 min de chaque côté au barbecue ou à la plancha en badigeonnant généreusement vos brochettes de la sauce basilic. Servez avec l'accompagnement et sa sauce. Boisson conseillée : Un vin rosé d'Anjou met bien en valeur toutes ces saveurs. 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-de-boeuf-aux-abricots-a-la-coriandre-et-au-houmous_344966.aspx
+recipe_name	Brochettes de boeuf aux abricots, à la coriandre et au houmous
+type	- Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	45
+cook_time	5
+ingredients	abricot|ail|beef-steak|citron-vert|coriandre|cumin-en-poudre|houmous|huile-d-olive
+instructions	Disposer le bifteck et les abricots dans un plat. Ajouter le cumin, l'ail, le jus de citron vert, l'huile d'olive, et bien mélanger. Laisser mariner la viande au moins 30 minutes au réfrigérateur, en la couvrant bien. Allumer le barbecue.  Réaliser des brochettes avec le bifteck et les abricots à l'aide de piques en métal. Les faire griller sur le barbecue chaud pendant 4 à 5 minutes, jusqu'à ce qu'elles soient bien dorées et rosées à l'intérieur, ou plus cuites selon les goûts. Placer les brochettes dans un plat. Les parsemer de coriandre et les servir accompagnées de houmous.  Conseil : pour faire son propre houmous, réduire en purée 1 boîte de pois chiches avec 1 gousse d'ail et un gros filet d'huile d'olive. Assaisonner avec 1 cuillère de jus de citron, du tahin (pâte de sésame), du sel et du poivre. 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-de-canard-aux-abricots_30221.aspx
+recipe_name	Brochettes de canard aux abricots
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	0
+ingredients	abricot|aubergine|courgette|lard|magret-de-canard|oignon|poivron|poivron-rouge
+instructions	Préparer des gros morceaux de magret, de lard, des légumes et couper les abricots en 2. Sur les pics, alterner suivant l'inspiration 1 morceau de canard, 1/2 abricot, 1 morceau de lard, 1 morceau de chaque légume. Epicer selon l'envie, rouler dans un peu de miel liquide. Faire griller au barbecue. Remarques : Pour les adeptes du sucré-salé. 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-de-canard-laque_314310.aspx
+recipe_name	Brochettes de Canard laqué
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	8
+preparation_time	15
+cook_time	10
+ingredients	abricot|canard|coriandre|cumin|oignon-rouge|orange|sauce-soja
+instructions	Dégraissez une partie de la poitrine en repliant la peau. (Vous pouvez conserver la graisse pour la cuisson). Coupez la poitrine en 16 cubes de taille identique puis piquez les en alternant avec les abricots secs pour faire des brochettes. Déposez les brochettes dans un plat. Assaisonnez avec la fleur de sel et le cumin. Recouvrez de zestes et du jus de l'orange puis de la sauce soja. Laissez mariner au moins 1 heure au réfrigérateur. Dorez les brochettes de chaque côté dans une poêle bien chaude, puis déglacez avec la marinade. Baissez le feu et faites réduire jusqu'à ce que les brochettes soient caramélisées et laquées. A la dernière minute, ajoutez les graines de sésame grillées, l'oignon finement haché ainsi que les feuilles de coriandre. Servez bien chaud. 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-de-canard-sucrees-salees_90715.aspx
+recipe_name	Brochettes de canard sucrées salées
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	10
+ingredients	abricot|gingembre|huile-d-olive|lard-fume|magret-de-canard|oignon|poivre|sel
+instructions	Ôtez la peau des magrets et coupez-les en 8 morceaux. Pelez l'oignon, coupez-le en six. Mélangez le jus d'orange, l'huile, le gingembre et le poivre. Placez les magrets dans la marinade et ajoutez l'oignon. Couvrez et mettez une heure au frigo. Faites gonfler les abricots dans l'eau bouillante, égouttez-les et coupez-les en deux. Coupez le lard en deux et enroulez chaque moitié autour d'un demi abricot. Egouttez la viande et l'oignon et faites des brochettes en alternant des abricots au lard, de l'oignon et des cubes de viande. Posez sur un grill très chaud et laissez cuire cinq minutes par face. Salez et poivrez. 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-de-mignon-de-porc-au-miel-abricots-et-romarin_340269.aspx
+recipe_name	Brochettes de mignon de porc au miel, abricots et romarin
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	10
+ingredients	abricot|ail|citron|filet-mignon|huile-d-olive|miel|oignon|poivre|romarin|sel
+instructions	Dans un bol, mélanger le miel avec l'huile et le jus du citron. Couper la viande de porc en petits cubes et les répartir dans un plat creux. Ajouter l'ail et les oignons puis verser le miel. Répartir le romarin effeuillé. Mélanger pour bien enrober la viande. Filmer et réserver au frais au moins 2 heures. Monter les brochettes en alternant cubes de mignon et quartiers d'abricots sur des pics en bois. Cuire les brochettes au barbecue environ 10 minutes en les retournant régulièrement. Il est aussi possible de les cuire sur le gril du four, mais dans ce cas ne pas oublier la lèche-frite !!! Boisson conseillée : Saint-Joseph 
+
+url	http://www.marmiton.org/recettes/recette_brownies-choco-abricots_70035.aspx
+recipe_name	Brownies choco abricots
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	25
+ingredients	abricot|beurre|chocolat-noir|farine|oeuf|sucre
+instructions	Préchauffer le four à 150°C (thermostat 5). Faire fondre le beurre au micro-ondes. Dans un récipient, verser le beurre fondu et le sucre. Mélanger jusqu'à l'obtention d'une pâte lisse et onctueuse. Ajouter les oeufs, mélanger. Ajouter la farine en pluie, mélanger. Faire fondre le chocolat et l'ajouter à la préparation tout en mélangeant. Ajouter les abricots secs (mais moelleux) coupés en petits morceaux. Mélanger. Verser dans un moule à brownies, faire cuire pendant 25 minutes à 150°C (thermostat 5). 
+
+url	http://www.marmiton.org/recettes/recette_buche-legere-poire-pain-d-epice_334898.aspx
+recipe_name	Buche légère poire pain d'épice
+type	Entrée
+difficulty	Facile
+cost	Bon marché
+guests_number	12
+preparation_time	15
+cook_time	5
+ingredients	abricot|cafe|eau|gelatine|gingembre|pain-d-epice|poire|sucre|sucre-vanille
+instructions	Tapisser le moule de film pour faciliter le démoulage Tapisser ensuite de tranche de pain d'épice, le fond ainsi que les cotés Trancher les fruits et les disposer en étage, si vous avez assez d'espace vous pouvez ajouter une couche de gâteau aux centre. Faire ramollir la gélatine dans un bol d'eau froide Faire chauffer le jus et/ou l'eau avec l'eau de fleur d'oranger et le gingembre. Faire tiédir, bien diluer puis verser doucement le tout dans votre moule sur votre garniture. Placer 2 heures au frais et 5 minutes au congélateur après démoulage Décorer ensuite avec des quartiers de clémentine, des brisure des chocolats ou comme ici avec des écorces d'agrumes confites et des billes de sucre . Boisson conseillée : un vin blanc sucré, chocolat viennois ou thé vanille. 
+
+url	http://www.marmiton.org/recettes/recette_cabillaud-aux-abricots_38912.aspx
+recipe_name	Cabillaud aux abricots
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	45
+ingredients	abricot|ail|amande|cabillaud|capres|carvi|citron|creme-fraiche|gingembre|lait|oignon|poivre|poivron-rouge|sel
+instructions	Découper le poisson en une dizaine de morceaux et le disposer au fond d'un plat à gratin, assez haut. Découper les poivrons et l'oignon en lanières, disposer, par dessus, le poisson. Couper les gousses d'ail en 2. Ajouter les abricots, coupés de moitié. Ajouter tous les autres ingrédients (sauf le lait) et les épices, en terminant par les rondelles de citron. Mélanger le lait à la crème et verser dans le plat. Le tout doit baigner, environ au 3/4. Cuire au four, à température moyenne, jusqu'à ce que le dessus du plat grille légèrement. Remarques : A déguster en été ! Un mariage de saveurs né du hasard...plutôt heureux ! Mieux vaut utiliser des abricots frais (ou surgelés) que des abricots secs. Boisson conseillée : Vin blanc doux 
+
+url	http://www.marmiton.org/recettes/recette_cailles-a-l-hydromel-facon-moyen-age_88791.aspx
+recipe_name	Cailles à l?hydromel façon Moyen Age
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	60
+cook_time	15
+ingredients	abricot|caille|epice|figue|fond-de-volaille|huile|hydromel|noisette|poivre|raisin|sel
+instructions	Préparez les figues en les faisant pocher dans le vin d'épices 30 minutes à tout petits bouillons. A mi-cuisson, ajoutez les abricots secs, puis les raisins 10 minutes avant la fin. Faites dorer à l'huile les cailles dans une sauteuse. Salez, poivrez et enfournez les cailles et les fruits à 180°C (thermostat 6) pendant 15 minutes. Arrosez régulièrement avec le jus de cuisson. Sortez du four et laissez reposer. Récupérez le c'ur,les poumons et quelques morceaux de carcasse. Faites revenir ces derniers dans la sauteuse débarrassée de son gras de cuisson. Déglacez avec 5 cl de vin d'épices et l'hydromel. Retirez les morceaux de carcasse, ajoutez le fond de volaille, laissez réduire. Montez la sauce au beurre tout en y écrasant le plus menu possible le c'ur et les poumons qui vont permettre une belle liaison. Dressez en disposant autour des cailles les fruits extraits du vin d'épices, nappez de sauce, accompagnez le tout de purée de céleri/pomme de terre et d'une poêlée de champignons sauvages si vous le souhaitez. Remarques : Frans Bogaert est un antiquaire passionné par les mystères. Il est aussi fin gourmet. Vivant à Bruges, il aime les recettes qui réchauffent les coeurs lorsqu'il neige dehors. 
+
+url	http://www.marmiton.org/recettes/recette_cailles-aux-abricots-et-aux-amandes_92379.aspx
+recipe_name	Cailles aux abricots et aux amandes
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	10
+ingredients	abricot|amande|amaretto|beurre|bouquet-garni|caille|fond-de-volaille|poivre|sel
+instructions	Laver les abricots et les couper en deux.   Placez une noisette de beurre salé et poivré dans les cailles, ainsi qu'un demi abricot.   Faites-les revenir dans du beurre dans une cocotte minute puis ajoutez sel, poivre, abricots restants, fond de volaille et bouquet garni.   Mouillez avec l'amaretto.     Fermez l'autocuiseur et laissez cuire 9/10 mn après chuchotement.   Pendant ce temps, faire griller les amandes effilées.   Dès que la pression de l'autocuiseur est retombée, ouvrir et dresser les cailles dans les assiettes, accompagnées de la sauce, des abricots et saupoudrées d'amandes effilées. 
+
+url	http://www.marmiton.org/recettes/recette_cailles-aux-fruits-secs_82326.aspx
+recipe_name	Cailles aux fruits secs
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	20
+ingredients	abricot|ail|caille|cerneau-de-noix|eau|echalote|farine|huile-d-olive|lardons|persil|poivre|sel|tomate-cerise
+instructions	Faire chauffer l'huile d'olive dans une cocotte, puis y faire dorer les cailles de toute part à feu assez vif. Retirer les cailles et faire revenir les lardons et les échalotes émincées. Ajouter l'ail haché grossièrement. Remettre les cailles, saupoudrer de farine, mélanger bien et arroser d'un peu d'eau bouillante(un bon centimètre au fond de la cocotte). Ajouter les noix hachées et les abricots secs coupés en 4. Saler et poivrer. Faire cuire à couvert et à feu doux 20 à 25 minutes en surveillant le niveau du jus de cuisson, ajouter si nécessaire un peu d'eau bouillante pour avoir toujours un bon centimètre de liquide au fond de la cocotte. Servir les cailles dans des assiettes (chauffées) individuelles en nappant de sauce et en décorant de persil haché et de quelques tomates cerises. Remarques : On peut aussi servir ces cailles avec des pâtes que l'on aura nappé de la sauce de cuisson. Bon appétit ... Boisson conseillée : Côte de Bourg 
+
+url	http://www.marmiton.org/recettes/recette_cake-abricot-chorizo_328099.aspx
+recipe_name	Cake abricot chorizo
+type	Entrée
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	40
+cook_time	40
+ingredients	abricot|chorizo|farine|huile|lait|levure-chimique|oeuf
+instructions	Préchauffer le four à 180°C (thermostat 6). Mélangez dans un saladier la farine, la levure et les oeufs. Ajoutez le lait et l'huile. Incorporez les abricots secs et le chorizo que vous aurez préalablement coupés (en petits morceaux). Versez la préparation dans un moule à cake beurré et fariné. Enfournez pour 40 minutes. 
+
+url	http://www.marmiton.org/recettes/recette_cake-abricote-aux-epices_224279.aspx
+recipe_name	Cake abricoté aux épices
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	40
+ingredients	abricot|beurre|cannelle|farine|figue|gingembre|graine-d-anis|lait|levure-chimique|oeuf|raisins-secs|sel|sucre-glace|sucre-roux|sucre-vanille
+instructions	Préchauffez le four à 180°C (thermostat 6) et beurrez le moule à cake. Découpez les abricots secs en petits morceaux, ainsi que les figues. Versez les raisins secs dans un peu de rhum. Dans un saladier, versez la farine, la levure, et la pincée de sel. Mélangez. Dans une casserole, faites fondre le beurre. Dans un second saladier, mélangez le sucre glace, le sucre roux, le sucre vanillé,, les 'ufs, le lait. Versez le beurre sur la farine, mélangez intensément. Puis versez le tout dans le second saladier. Ajoutez-y le gingembre, la cannelle, et les graines d'anis. Une fois la préparation homogène, ajoutez les abricots, les figues, et les raisins (égouttés). Enfournez pendant 40 min. Dégustez froid. Boisson conseillée : Thé vert/ indien. 
+
+url	http://www.marmiton.org/recettes/recette_cake-abricot-miel_84567.aspx
+recipe_name	Cake abricot-miel
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	5
+preparation_time	40
+cook_time	50
+ingredients	abricot|banane|beurre|farine|huile-d-olive|lait|miel|oeuf|orange|sucre|sucre-vanille
+instructions	Battre les blancs en neige. Mélanger les jaunes, la farine, le sucre, le lait, le sucre vanillé, le jus d'orange, l'huile d'olive, les abricots secs et la banane découpés en petits morceaux. Incorporer doucement les blancs en neige. Laisser cuire 50 minutes à 180°C (thermostat 6). A 10 minutes du terme, déposer une fine couche de miel. Remarques : Petite astuce : passer le miel au micro-onde pour bien le liquéfier. 
+
+url	http://www.marmiton.org/recettes/recette_cake-abricots-frais-et-noix_345177.aspx
+recipe_name	Cake abricots frais et noix
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	10
+preparation_time	30
+cook_time	40
+ingredients	abricot|beurre|farine|lait|levure|noix|oeuf|romarin|sucre-roux
+instructions	Préchauffer le four à 180°C (thermostat 6).  Cassez les noix, écrasez-les au marteau (ou tout autre instrument!), dénoyautez les abricots et coupez les en 8.  Dans le bol du batteur, mélangez le beurre ramolli et coupé en morceaux avec le sucre. Ajouter les oeufs 1 à 1, travaillez intimement. Ajoutez ensuite farine et la levure puis les noix. Battre en ajoutant le lait progressivement. La pâte doit être légère et comme mousseuse. C'est le gage de réussite du gâteau. Versez la moitié de la pâte dans un moule chemisé, répartissez la moitié des abricots, le romarin, l'autre partie de la pâte et le reste des abricots.  Enfourner 40 minutes environ.  Boisson conseillée : Un Saint Chignan rosé et doux 
+
+url	http://www.marmiton.org/recettes/recette_cake-au-canard-au-parmesan-et-a-l-abricot_229677.aspx
+recipe_name	Cake au canard au parmesan et à l'abricot
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	15
+cook_time	45
+ingredients	abricot|beurre|creme-liquide|echalote|farine|levure|magret-de-canard|oeuf|parmesan-rape
+instructions	Pour la pâte : Mélanger les 'ufs entiers, la farine, la levure, le beurre fondu, la crème et le parmesan râpé. Ajouter un peu de sel (pas trop, à cause du parmesan qui est déjà salé) et un peu de poivre jusqu'à obtenir une pâte homogène. Enlever le gras des magrets et les couper en petits dés. Faire revenir les échalotes dans un peu de beurre puis y ajouter les dés de canard puis les abricots coupés en morceaux. Ajouter un peu d'eau, couvrir et laisser mijoter 10 min. Mélanger ensuite le canard et les abricots à la pâte. Verser dans un moule à cake beurré et faire cuire au four pendant environ plus ou moins 45 min en fonction de votre four. Déguster chaud ou froid soit en entrée, soit avec une petite salade. Remarques : On peut remplacer les abricots par des pommes. 
+
+url	http://www.marmiton.org/recettes/recette_cake-au-foie-gras-magret-et-fruits-secs_59316.aspx
+recipe_name	Cake au foie gras, magret et fruits secs
+type	Entrée
+difficulty	Très facile
+cost	Moyen
+guests_number	8
+preparation_time	15
+cook_time	60
+ingredients	abricot|farine|foie-gras|huile-de-noisette|lait|levure-chimique|magret-de-canard-fume|oeuf
+instructions	Préchauffer le four thermostat 6 (180°C) Mélanger la farine et la levure dans un saladier. Incorporer les 4 oeufs et remuer au fouet. Ajouter le lait, puis l'huile de noisettes (ou autre suivant les préférences !). Couper les fruits grossièrement (en 3), puis les mélanger à l'appareil à cake. Couper ensuite les magrets, les rajouter à la préparation et finir par le foie gras couper en morceaux assez gros car il fond un peu lors de la cuisson. Bien mélanger le tout délicatement et mettre dans un moule à cake. Perso, je prends une barquette en alu pour la congélation de 1 l. Mettre au four thermostat 6 (180°C) pendant environ 1 h. Ajuster la cuisson selon votre four. Le cake est cuit lorsque la lame d'un couteau ressort sèche. A manger froid avec une petite salade ou chaud !! 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-abricots_26478.aspx
+recipe_name	CAKE AUX ABRICOTS
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	30
+ingredients	abricot|beurre|farine|levure-chimique|oeuf|rhum|sel|sucre
+instructions	Préchauffez le four à 210°C (Th 7). Beurrez un moule à manqué de 25 cm. Parsemez le fond avec une cuillère à soupe de sucre vanille. Egouttez les oreillons. Réservez 4 cuillères à soupe de leur jus. Disposez les oreillons, côte à côte, au fond du moule, face bombée dessous. Hachez le reste des abricots. Dans un saladier fouettez les 200 g de beurre avec le sucre jusqu'à obtenir une mousse. Mettre les oeufs, rhum, le jus d'abricot + les abricots hachés, et le sel. Ajouter la farine et la levure. Mélangez puis versez dans le moule. Mettre au four 30 à 45 mn. La lame du couteau doit ressortir sèche. Bon appétit. 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-abricots-et-au-chevre_220945.aspx
+recipe_name	Cake aux abricots et au chèvre
+type	Entrée
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	15
+ingredients	abricot|chevre|farine|huile|levure-chimique|oeuf|parmesan
+instructions	Préchauffez votre four à 200°C (thermostat 6). Dans un premier saladier, mélangez la farine avec la levure. Dans un second saladier, mélangez les 'ufs, l'huile, le yaourt et le parmesan. Travaillez bien. Ensuite, mélangez les deux préparations ensemble, mélangez bien. Puis, ajoutez les abricots coupés en morceaux et le chèvre coupé en dès. Versez la pâte dans un moule à cake, recouvert de papier sulfurisé. Glissez dans le four, et laissez cuire environ 15 min. Remarques : Un cake très moelleux, et complet. 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-abricots-et-aux-amandes_315673.aspx
+recipe_name	Cake aux abricots et aux amandes
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	1
+preparation_time	15
+cook_time	40
+ingredients	abricot|amande|beurre|farine|levure-chimique|oeuf|poudre-d-amande|pralin|sucre-en-poudre
+instructions	Faire tremper les abricots secs dans de l'eau bouillante (ou les passer au micro onde dans l'eau environ 2 min). Faire chauffer le four à 160°C. Si vous utilisez un robot pâtissier pour préparer la pâte, utiliser le batteur plat. Pendant ce temps : Dans un bol, mélanger le beurre ramolli et le sucre. Incorporer les oeufs entiers et battre énergiquement pour obtenir un mélange lisse. Ajouter progressivement la farine tamisée et la levure puis la poudre d'amandes. Enfin ajouter les abricots égouttés et coupés en morceaux et le pralin. Beurrer un moule à cake et verser la préparation. Parsemer d'amandes hachées. Faire cuire au four à 160°C (therm. 5-6) pendant 40 min. Après 40 min, vérifier la cuisson en piquant un couteau au centre du gâteau : le couteau doit ressortir sec. Sortir du four, démouler délicatement et laisser refroidir. Boisson conseillée : Délicieux au goûter pour accompagner, thé, café ou chocolat chaud 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-abricots-et-peches_91773.aspx
+recipe_name	Cake aux abricots et pêches
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	15
+cook_time	40
+ingredients	abricot|amande|farine|levure-chimique|oeuf|peche|sucre
+instructions	peler les peches et les couper en lamelles ou en dés, faire de même avec les abricots     faire fondre le beurre au micro-onde, puis ajouter le sucre, les oeufs entiers et la farine melée a la levure     melanger les fruits a cette pate, ainsi que les amandes effilées (on peut aussi parfumer avec de la fleur d'oranger)     verser la préparation dans un moule a cake beurré et mettre a four chaud (200 degré) pendant 35 a 40 minutes Remarques : parfait pour les pique-nique et tres frais en été 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-abricots-moelleux_82096.aspx
+recipe_name	Cake aux abricots moelleux
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	15
+cook_time	40
+ingredients	abricot|beurre|farine|lait|levure|oeuf|sel|sucre
+instructions	Faire une pâte avec 175 g de farine, 150 g de sucre, le sel, 75 g de beurre, le lait, les oeufs et la levure. Couvrir l'intérieur d'un moule à cake de papier sulfurisé, verser au fond un mélange bien fouetté de beurre fondu et sucre restant. Mettre les abricots par dessus (s'il en reste les couper en morceaux les rouler dans la farine et les rajouter à la pâte). Verser la pâte pour couvrir le tout. Faire cuire environ 40 minutes au four à 200°C (thermostat 6/7) plaque du bas en surveillant (la lame d'un couteau plantée au milieu doit ressortir sèche) éventuellement couvrir de papier aluminium si cuisson prolongée. Démouler et laisser tiédir ou refroidir pour servir. Boisson conseillée : muscat de rivesaltes 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-caramels-au-beurre-sale_28379.aspx
+recipe_name	Cake aux caramels au beurre salé
+type	Dessert
+difficulty	Moyennement difficile
+cost	Assez Cher
+guests_number	5
+preparation_time	60
+cook_time	50
+ingredients	abricot|beurre|caramel|farine|levure|oeuf|poudre-d-amande|rhum|sucre-de-canne
+instructions	Détailler les abricots en fines lamelles, les mettre à tremper dans le rhum 1 h au moins. Découper les caramels en petits morceaux. Les étapes de découpage sont longues, mais il ne faut pas se décourager car plus les morceaux sont petits, meilleur c'est (sans arriver à des miettes). Passer les caramels 5 secondes au micro-ondes, ça aide. Faire roussir le beurre à feu moyen ' doux (cela peut être long se méfier car il roussit d'un coup et peut déborder). Mélange sec : farine + levure + poudre d'amandes. Ajouter les abricots avec le rhum et les caramels au mélange sec (important, ça évite que tout tombe au fond). Quand le beurre est froid, bien battre les oeufs avec le sucre puis ajouter le beurre et mélanger. Ajouter ce mélange au mélange sec, mélanger, lisser. Verser dans un moule beurré ' fariné. Cuire 30 mn à 180°C (Th 6) puis 20-30 mn à 150°C (Th 5) : attention le dessus peut vite noircir, dans ces cas là mettre une feuille de papier alu. VARIANTES : On peut remplacer abricots et caramels par 250 g de gingembre confit. Au lieu des abricots mettre 150 de poires ou de bananes séchées ou fraîches et remplacer les caramels par 100 g de chocolat noir. Remarques : Et c'est bon!!! le résultat est à la hauteur du temps passé à le préparer. Pour l'instant nous ne somme que deux à préparer ce cake : ma copine Lucie qui m'a donné la recette et moi. 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-epices-et-aux-fruits-secs-sans-oeufs_47406.aspx
+recipe_name	Cake aux épices et aux fruits secs (sans oeufs)
+type	Dessert
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	15
+cook_time	45
+ingredients	abricot|amande|cannelle|cerneau-de-noix|epice|farine|figue|huile-d-olive|lait-fermente|levure-chimique|miel|pruneaux|rhum|sucre
+instructions	Préchauffer le four à 180°C (thermostat 6). Beurrer un moule à cake. Couper les figues en gros cubes, y ajouter le rhum brun et faire chauffer pendant 1 minute au micro-onde, réserver. Couper les abricots secs en 4, les pruneaux en 4, hacher très grossièrement les amandes et les noix. Tout mélanger et réserver. Faire tiédir le miel avec le lait. Hors du feu, y ajouter le sucre, les épices. Fouetter. Ajouter ensuite la farine préalablement mélangée à la levure. Mélanger à la cuillère en bois. Ajouter l'huile d'olive et terminer en ajoutant les figues gonflées au rhum (non égouttées) et les autres fruits secs. Bien mélanger. Verser la pâte dans le moule à cake. Enfourner pendant environ 45 minutes ou jusqu'à ce qu'une lame de couteau ressorte propre. Laisser reposer pendant 1 journée avant de déguster. Remarques : Gâteau idéal pour le petit déjeuner, riche en fruits secs et en bon éléments, sans oeufs et sans beurre, il sera idéal pour bien démarrer la journée... Boisson conseillée : Un verre de lait, un thé fumant ... 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-fruits-d-ete_61365.aspx
+recipe_name	Cake aux fruits d'été
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	10
+cook_time	35
+ingredients	abricot|beurre|brugnon|cassonade|farine|levure-chimique|oeuf|peche|pomme|sucre-en-poudre
+instructions	Préchauffer le four à 150°C (thermostat 5). Dans un saladier, faire ramollir le beurre, puis le mélanger avec le sucre à l'aide d'un fouet. Ajouter les oeufs, la farine tamisée ainsi que la levure. Eplucher les fruits en petits morceaux, de préférence au dessus du saladier afin de conserver le jus, et les incorporer à la préparation. Beurrer un moule à cake, y verser la préparation ; puis mettre le tout au four pendant environ 30-35 minutes. Vérifier la cuisson vers la fin : ce gâteau est délicieux s'il n'est pas trop cuit. Bon appétit ! 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-fruits-et-pralines-st-genix_167236.aspx
+recipe_name	Cake aux fruits et pralines St Genix
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	30
+cook_time	45
+ingredients	abricot|beurre|cassonade|cerise|farine|fruit-confit|levure-chimique|oeuf|praline|raisins-secs|sucre-vanille
+instructions	Faire tremper les raisins secs et abricots coupés en petits des ou lamelles dans un mélange rhum brun(25cl) et eau(25cl), porter a ébullition arreter le feu, couvrir et laisser reffroidir qq heures.  Battre la casonnade avec les oeufs a l'aide d'un fouet electrique j'usqu'à l'obtention d'un mélénge mousseux, incorporer le sachet de levure, la pincée de sel fin, le sucre vanillé. Rajouter doucement et petit a petit,en continuant de battre le mélange, la farine. On doit obtenir une pate homogéne et tres souple, pas trop liquide( les fruits tomberaient au fond) ni trop ferme. Fariner les cerises confites et le reste des fruits confits. Egouter les raisins et abricots . Recuperer le sirop de macération. Allumer le four (thermostat 6.5 a 7 suivant le four) Incorporer a la pate, les fruits ainsi que les pralines St Genix, melanger délicatement et brièvement. Beurrer un moule à cake et verser le mélange. Saupoudrer le dessus de Quelques pralines. Mettre au four, suivre la cuisson, tester avec la lame d'un couteau. Pendant la cuisson, faire chauffer le sirop de macération, en rajoutant quelques sucres. Remuer constamment avec un fouet, lorsque le sirop s'epaissit arreter le feux. celui ci servira a arroser le cake a sa sortie du four!!! Demouler le cake arroser doucement de sirop, laisser refroidir. Remarques : Lorsque le cake est froid, l'emballer dans du film étirable. 
+
+url	http://www.marmiton.org/recettes/recette_cake-aux-noix-et-aux-abricots-secs_41728.aspx
+recipe_name	Cake aux noix et aux abricots secs
+type	Dessert
+difficulty	Très facile
+cost	Moyen
+guests_number	8
+preparation_time	15
+cook_time	60
+ingredients	abricot|cerneau-de-noix|farine|huile|levure-chimique|oeuf|rhum|sucre|sucre-vanille
+instructions	Préchauffer le four à 180°C (thermostat 6). Battre les oeufs au fouet, avec l'huile et le rhum. Ajouter les sucres, mélanger, puis incorporer la farine et la levure. Continuer de battre au fouet pour obtenir un pâte bien lisse. En dernier lieu, incorporer les noix et les abricots. Beurrer un moule à cake, et y verser la préparation. Cuire une heure au four à 180°C (therm 6). 
+
+url	http://www.marmiton.org/recettes/recette_cake-de-st-nicolas_84259.aspx
+recipe_name	Cake de St-Nicolas
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	8
+preparation_time	30
+cook_time	65
+ingredients	abricot|beurre|citron|creme|datte|epice-a-pain-d-epice|farine|flocon-d-avoine|lait|oeuf|poudre-?lever|pruneaux|sel|sucre
+instructions	Mélanger dans un bol les flocons d'avoine, les fruits secs, le lait et la crème, et laisser gonfler 15 minutes. Travailler le beurre en pommade et incorporer le sucre et le sel. Ajouter les oeufs au fur et à mesure et continuer à travailler au batteur électrique jusqu'à ce que la masse blanchisse. Incorporer le mélange flocons-fruits secs, l'épice à pain d'épices et le zeste du citron. Bien mélanger. Mélanger la farine et la poudre à lever et ajouter à la pâte. Remplir un moule à cake et enfourner pour 65 minutes à 180°(thermostat 6). 
+
+url	http://www.marmiton.org/recettes/recette_cake-merguez-abricot_50457.aspx
+recipe_name	Cake merguez abricot
+type	Amuse-gueule
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	15
+cook_time	45
+ingredients	abricot|cannelle|farine|gingembre|gruyere-rape|huile|levure|merguez|oeuf|piment-de-cayenne
+instructions	Préchauffez le four à 210°C (thermostat 7). Dans un saladier, mélangez la farine en pluie avec les oeufs, l'huile et le gruyère. Ajouter la levure, du sel et du poivre. Faites cuire les merguez au four pendant 15 minutes puis coupez-les en morceaux avant de les incorporer à la pâte. Coupez les abricots moelleux en 4 et ajoutez-les à la préparation ainsi que les épices. Versez dans un moule beurré et fariné. Enfournez pour 45 minutes de cuisson. 
+
+url	http://www.marmiton.org/recettes/recette_cake-plein-d-energie-aux-fruits-secs_67509.aspx
+recipe_name	Cake plein d'énergie aux fruits secs
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	10
+preparation_time	10
+cook_time	45
+ingredients	abricot|cassonade|farine|huile|levure|melange-4-epices|oeuf|raisins-secs|rhum|yaourts
+instructions	Dans un saladier, mélangez la farine, la levure, le yaourt grec et les oeufs. Ensuite, ajoutez le sucre, les raisins secs et les abricots secs. La texture est très épaisse. Enfournez au four préchauffé à 180°C (thermostat 6) pendant 45 min. Le cake se conserve bien dans les sachets (types congelé) et il est idéal à consommer avant d'aller faire du sport!!! Remarques : Le manger au petit déj donne un coup de fouet pour la journée. Boisson conseillée : jus d'orange 
+
+url	http://www.marmiton.org/recettes/recette_calissons-d-aix-aux-oranges-et-abricots-facile_39227.aspx
+recipe_name	Calissons d'aix aux oranges et abricots (facile)
+type	Confiserie
+difficulty	Facile
+cost	Assez Cher
+guests_number	20
+preparation_time	20
+cook_time	60
+ingredients	abricot|fleur-d-oranger|oeuf|orange|poudre-d-amande|sucre-glace
+instructions	Mixer en poudre le sucre et les fruits. Ajouter la poudre d'amandes, la fleur d'oranger et le blanc d'oeuf, légèrement battu (il doit être mousseux). Etaler sur une plaque. Cuire pendant 1 h à 90°C (thermostat 3). Laisser refroidir complètement. Glaçage : Battre les ingrédients pour obtenir un mélange lisse. En recouvrir les calissons. Faire sécher pendant 1 h dans le four, à 30°C, entr'ouvert. 
+
+url	http://www.marmiton.org/recettes/recette_canard-a-l-angevine-de-karine_36570.aspx
+recipe_name	Canard à l'angevine de Karine
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	120
+ingredients	abricot|clementine|creme-liquide|cuisse-de-canard|oignon|raisins-secs|vin-blanc
+instructions	Couper grossièrement les oignons, les faire revenir dans du beurre et un peu d'huile. Y ajouter les cuisses de canard. Ensuite, mettre les abricots, les raisins secs et les quartiers de clémentine. Arroser de Côteau du layon. Laisser cuire à couvert et sur feux doux environ 2 heures, en tournant de temps les cuisses de canard. En fin de cuisson, ajouter la crème liquide et mélanger. Remarques : Pour accompagner ce plat, je vous suggère de faire tremper une poignée de raisins secs dans du cognac. Pendant ce temps, faire cuire votre riz. Quand le riz est cuit, égoutter les raisins et les mélanger au riz. Boisson conseillée : Vin blanc 
+
+url	http://www.marmiton.org/recettes/recette_canard-aux-5-epices-et-aux-abricots_81992.aspx
+recipe_name	Canard aux 5 épices et aux abricots
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	60
+ingredients	abricot|beurre|canard|fond-de-volaille|gingembre|melange-d-epice-5-parfums|miel-liquide|orange|poivre|sel|sucre|vinaigre-de-vin
+instructions	Allumer le four à 210°C (thermostat 7). Prélever le zeste de l'orange en filaments, les blanchir 2 minutes dans l'eau bouillante et les égoutter. Presser le jus de l'orange, délayer le miel dans 1 cuillère à soupe d'eau chaude et ajouter les épices. Saler et poivrer le canard et enfourner 30 minutes en le retournant souvent, jeter le gras et l'enduire du miel épicé. Baisser le four à 180°C (thermostat 6) et poursuivre la cuisson 30 minutes en le tournant souvent. Préparer le caramel avec les morceaux de sucre humidifiés. Arrêter la cuisson avec le vinaigre, laisser réduire à sec et ajouter le fond de volaille. Laisser reposer le canard. Dégraisser le plat avec le jus d orange et le fond de volaille. Laisser frémir 10 minutes, filtrer le jus et hors du feu ajouter le beurre. Dans une poêle, faire dorer les abricots préalablement coupés en 2 dans 20 g de beurre. Poivrer. Dresser le canard dans un plat Le décorer des zestes et l'entourer d'abricots. Servir la sauce à part. 
+
+url	http://www.marmiton.org/recettes/recette_carottes-rapees-aux-fruits-secs_55710.aspx
+recipe_name	Carottes râpées aux fruits secs
+type	Accompagnement
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	0
+ingredients	abricot|amande|buche-de-chevre|carotte|fromage-blanc|pesto|poivre|raisins-secs|sel
+instructions	Râpez les carottes. Ajoutez-y les raisins secs, les abricots coupés en dés, les amandes concassées, le chèvre. Mélangez le fromage blanc et le pesto. Versez la sauce sur les carottes, salez et poivrez. Dégustez ! 
+
+url	http://www.marmiton.org/recettes/recette_carre-shake-abricot_10897.aspx
+recipe_name	Carré shake abricot
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	0
+ingredients	abricot|carre-frais|lait|sucre
+instructions	Mettez dans votre blender les 4 carrés frais puis ajoutez le lait, les abricots bien faits et dénoyautés et le sucre. Mixez le tout, afin d'obtenir une boisson mousseuse et très agréable. 
+
+url	http://www.marmiton.org/recettes/recette_carres-abricot-noix-de-coco_170302.aspx
+recipe_name	Carrés abricot noix de coco
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	30
+preparation_time	20
+cook_time	0
+ingredients	abricot|beurre|chocolat-blanc|curcuma|huile|lait-concentre-sucre|noix-de-coco-rapee|petit-beurre
+instructions	Dans un saladier, réduire en poudre 200 g de biscuits et en chapelure plus grossière les 50 g restants. Incorporer la noix de coco et les abricots détaillés en petits cubes. Mélanger le beurre fondu avec le lait concentré sucré puis verser ce mélange dans le récipient contenant la chapelure. Bien mélanger. Prendre un plateau ou une plaque de préférence, la beurrer et la recouvrir de papier sulfurisé. Etaler la pâte en une mince couche d'1 à 1, 5 cm environ et réfrigérer pendant 10 min. Pendant ce temps, faire fondre le chocolat blanc avec 1 cuillère à soupe d'huile pour l'onctuosité et une pincée de curcuma pour relever. Etaler le chocolat de façon homogène (avec une petite cuillère) sur la pâte. Mettre au frais pendant 4 h au minimum (important sinon vos carrés ne seront pas compacts). Enfin, découper en carrés ( environ 3 cm de côté, ou à vous de voir !). Bon appétit ! Remarques : Ces gâteaux font merveille à chaque fois, en amuse-gueule, goûter ou dessert et sont délicieux avec le café (ou le thé) chaud ! 
+
+url	http://www.marmiton.org/recettes/recette_carres-aux-abricots_12402.aspx
+recipe_name	Carrés aux abricots
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	25
+cook_time	50
+ingredients	abricot|beurre|cannelle|farine|flocon-d-avoine|oeuf|poudre-d-amande|sucre
+instructions	Pré-chauffer le four à 180°C (thermostat 6). Pour la base, mettre les amandes, la farine, le sucre et le beurre dans un bol mixer et battre jusqu'à ce que le beurre soit bien incorporé.  Ajouter l'oeuf, bien mélanger. Beurrer un moule à cake de 33 x 9 cm, y verser la préparation. Aplanir le dessus avec une spatule. Mettre les abricots coupés en 2 par dessus en laissant une bordure de 2,5 cm tout autour. Mélanger les flocons d'avoine, la farine, le sucre et la cannelle. Ajouter le beurre fondu. Bien mélanger. Verser au dessus des abricots. Cuire pendant environ 50mn. Couper en carrés, puis laisser refroidir légèrement dans le moule. Servir tiède accompagné de crème fouettée. 
+
+url	http://www.marmiton.org/recettes/recette_carres-aux-abricots-de-coco-rencontre-marmiton-helvetique_31506.aspx
+recipe_name	Carrés aux abricots de coco (rencontre marmiton helvétique)
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	60
+cook_time	35
+ingredients	abricot|amande|beurre|cannelle|eau|farine|miel|oeuf|orange|pomme|raisins-secs
+instructions	Le mélange aux abricots : Mettre dans une casserole les abricots, le jus de pomme, le miel, les bâtons de cannelle, le zeste d'orange et laisser mijoter environ 30 mn. Les abricots doivent être tendres. Une fois cuits, ôter les bâtons de cannelle, mixer le tout, ajouter les raisins. Laisser refroidir. La pâte : Faire fondre le beurre. Mélanger la farine, les amandes, la cannelle en poudre à volonté, le beurre fondu et refroidi et mélanger le tout. Ajouter petit à petit l'eau de fleur d'oranger pour obtenir une pâte compacte. La diviser en deux et étaler chaque moitié entre deux feuilles de cuisson (elle ne collera pas de cette façon). Foncer une plaque carré de environ 23 cm de côté avec la moitié. Etaler le mélange aux abricots et recouvrir de la 2 ème pâte. Souder les bords soigneusement puis badigeonner de jaune d'oeuf pour la dorure. Cuire à 210°C pendant 30 à 35 mn. Remarques : Délicieux pour le goûter des enfants et sans sucre cristallisé ajouté. 
+
+url	http://www.marmiton.org/recettes/recette_chapon-noel-farci-et-accompagne-de-fruits_43597.aspx
+recipe_name	Chapon Noël  farci et accompagné de fruits
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	35
+cook_time	120
+ingredients	abricot|beurre|chapon|épice-rabelais|farine|foie|fond-de-volaille|jambon|kiwi|miel|oignon|orange|pain|pamplemousse|persil|poire|pomme|raisins-secs
+instructions	Farce : Mixez le pain égoutté avec le persil, l'oignon, le jambon cru, les zestes d'oranges et le foie de volaille. Farcissez le chapon, et ficelez-le sans trop serrer. Marinade : Mélangez le miel, les 5-épices, le jus d'une orange. Chauffez, et mélangez à feu doux. Lavez les oranges, et taillez-les en rondelles sans les éplucher. Déposez-les sur la grille du four, et enfournez à 200°C (thermostat 6-7). Dès l'ébullition de la marinade, badigeonnez le chapon, que vous aurez mis préalablement dans un plat (prévoyez grand, pour retourner le chapon pendant la cuisson, et pour saucer le chapon), ou sur une plaque de cuisson. Puis, enfournez quand le four est à température. Rajoutez de l'eau dans le plat, pour faire d'avantage de sauce (1 à 2 verres d'eau).  Si vous avez la possibilité, mettez la grille recouverte d'orange sous la plaque de cuisson, puis laissez cuire le chapon et les rondelles d'oranges pendant 30 min, en arrosant régulièrement le chapon. Sinon, faites cuires les oranges pendant 30 min, avant la cuisson du chapon. Poursuivez la cuisson de la volaille pendant 1 h 30, et enlevez les oranges séchées. Garniture : Lavez les fruits, et épluchez les oignons. Coupez les fruits en dés. 30 min avant la fin de la cuisson, répartissez les fruits autour du chapon, ou enlevez le chapon et faites cuire les fruits dans le plat. Sauce : Dressez le chapon et les fruits sur un plat de service (pour qu'il refroidisse moins vite, vous pouvez l'envelopper d'une feuille de papier d'aluminium, pour le maintenir au chaud). Déglacez la plaque avec le jus d'orange et le fond de volaille. Versez dans une casserole, et portez 5 min à ébullition. Mélangez le beurre, la farine, en fouettant et incorporez-le à la sauce, les abricots coupés en petits morceaux. Faites chauffer. Et versez en saucière. Servez le chapon avec les rondelles d'oranges séchées, les fruits de garniture, ainsi que sa sauce. Remarques : Enlevez la farce, et présentez-la dans un plat avec les fruits de garniture. Découpez le chapon, et présentez les morceaux dans un plat à service. Si les oranges ne sont pas suffisamment sèches, faites-les griller un peu au four.  Boisson conseillée : Un bon vin rouge 
+
+url	http://www.marmiton.org/recettes/recette_charbon-lorrain_87680.aspx
+recipe_name	Charbon Lorrain
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	240
+ingredients	abricot|beurre|chocolat|farine|noix-de-pecan|oeuf|raisin|sucre|sucre-vanille
+instructions	Préchauffer le four à 200°C (th.9). Faire fondre le chocolat au bain-marie. Dans une jatte, mélanger le sucre et les oeufs jusqu'à ce qu'ils soient mousseux. Rajouter la farine,le beurre fondu et le sucre vanillé.  Bien battre la pâte jusqu'à ce qu'elle soit homogène. Rajouter le chocolat fondu. Broyer les noix de pécan, et couper en dés fins les abricots secs. Les ajouter à la mixture principale sans omettre les raisins de corinthe. Mettre la préparation dans un moule beurré. Laisser cuire 4h30 à 150°C (thermostat 4). Plonger la lame d'un couteau qui doit ressortir bien sèche. La texture doit ressembler à un beau morceau de charbon lorrain. Servir chaud Remarques : On peut varier les fruits secs. 
+
+url	http://www.marmiton.org/recettes/recette_charlotte-abricots-et-fromage-blanc_344810.aspx
+recipe_name	Charlotte abricots et fromage blanc
+type	- Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	40
+cook_time	0
+ingredients	abricot|biscuits-a-la-cuillere|creme-liquide|fromage-blanc|gelatine|rhum|sucre|vanille
+instructions	Laver les abricots et les dénoyauter. Détailler les abricots en morceaux de taille homogène.  Plonger les feuilles de gélatine dans l'eau froide pour les faire ramollir. Monter la crème en chantilly. Dans un saladier, mélanger énergiquement le fromage blanc, le sucre et la vanille. Ajouter 3 feuilles de gélatine essorées puis incorporer délicatement la crème. Ajouter 300 g d'abricots en morceaux et mélanger.  Délayer le sirop d'abricot avec un peu d'eau. Tremper les biscuits à la cuillère un par un dans le sirop avant de tapisser le fond et les bords du moule à charlotte. Verser le mélange au fromage blanc sur les biscuits à la cuillère. Et réserver au frais.  Déposer les abricots restant dans une casserole et couvrir d'eau. Ajouter 1 cuillère à soupe de sucre, le rhum et laisser compoter. Ajouter la dernière feuille de gélatine essorée et bien mélanger.  Verser le coulis d'abricot sur le dessus de la charlotte, laisser refroidir puis réserver 2 h au frais avant de servir. 
+
+url	http://www.marmiton.org/recettes/recette_charlotte-abricots-et-fromage-blanc_344826.aspx
+recipe_name	Charlotte abricots et fromage blanc
+type	- Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	40
+cook_time	0
+ingredients	abricot|biscuits-a-la-cuillere|creme-liquide|fromage-blanc|gelatine|rhum|sucre|vanille
+instructions	Laver les abricots et les dénoyauter. Détailler les abricots en morceaux de taille homogène.  Plonger les feuilles de gélatine dans l'eau froide pour les faire ramollir. Monter la crème en chantilly. Dans un saladier, mélanger énergiquement le fromage blanc, le sucre et la vanille. Ajouter 3 feuilles de gélatine essorées puis incorporer délicatement la crème. Ajouter 300 g d'abricots en morceaux et mélanger.  Délayer le sirop d'abricot avec un peu d'eau. Tremper les biscuits à la cuillère un par un dans le sirop avant de tapisser le fond et les bords du moule à charlotte. Verser le mélange au fromage blanc sur les biscuits à la cuillère. Et réserver au frais.  Déposer les abricots restant dans une casserole et couvrir d'eau. Ajouter 1 cuillère à soupe de sucre, le rhum et laisser compoter. Ajouter la dernière feuille de gélatine essorée et bien mélanger.  Verser le coulis d'abricot sur le dessus de la charlotte, laisser refroidir puis réserver 2 h au frais avant de servir. 
+
+url	http://www.marmiton.org/recettes/recette_charlotte-amandine-aux-abricots_22881.aspx
+recipe_name	Charlotte amandine aux abricots
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	20
+cook_time	0
+ingredients	abricot|amande|boudoir|confiture-de-groseille|fromage-blanc|sucre
+instructions	Recouvrir le fond d'un moule à charlotte avec du papier sulfurisé. Egoutter les abricots. Dans une casserole, faire réduire le jus à feu doux et y trempez rapidement les boudoirs. Disposer les boudoirs en rosace dans le fond du moule. En placer aussi verticalement sur les parois, le côté bombé vers l'extérieur. Mélanger le fromage blanc avec le sucre, puis ajouter les amandes hachées. Dans le moule, mettre le fromage blanc, les abricots coupés en petits morceaux et des brisures de biscuits. Finir par une couche de biscuits. Tasser le tout et placer au réfrigérateur pour au moins 4 ou 5 heures. Démouler sur le plat de service, décorez des demi-abricots, d'amandes et de confiture à souhait. On peut mettre de la crème chantilly à la place du fromage blanc. Remarques : En été, vous pouvez utilisez des fruits frais pochés dans un sirop de sucre ! 
+
+url	http://www.marmiton.org/recettes/recette_charlotte-d-automne-et-sa-creme-anglaise_21051.aspx
+recipe_name	Charlotte d'automne et sa crème anglaise
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	20
+cook_time	3
+ingredients	abricot|armagnac|boudoir|creme-liquide|gelatine|lait|oeuf|pruneaux|sucre
+instructions	Découper les fruits secs en morceaux. Les faire mariner dans un bol d'armagnac pendant 1h. Mettre à tremper les feuilles de gélatine dans un peu d'eau froide. Pour faire la crème anglaise : porter le lait à ébullition. Battre les jaunes d'oeuf avec le sucre pour les blanchir jusqu'à obtenir un mélange blanc et mousseux. Verser dessus le lait chaud et mélanger au fouet. Remettre le tout dans la casserole et faire cuire à feu doux, en remuant sans cesse, pendant 10 min. Réserver 25 cl de la crème au frais. Dans un saladier, verser le reste de crème anglaise et y incorporer la gélatine. Ajouter les fruits secs et la crème fouettée. Réserver. Beurrer et fariner un moule à charlotte. Alterner des couches de boudoirs et de crème anglaise, terminer par une rangée de boudoirs. Mettre la charlotte au réfrigérateur pendant 10 h. Démouler et napper de la crème anglaise réservée au frais. 
+
+url	http://www.marmiton.org/recettes/recette_chausson-de-confit-de-canard-a-l-orange_85173.aspx
+recipe_name	Chausson de confit de canard à l'orange
+type	Entrée
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredients	abricot|confit-de-canard|foie-gras|grand-marnier|oeuf|oignon|orange|pate-feuilletee|pignon|raisins-secs
+instructions	La veille, mettre les raisins secs et les abricots coupés en dés à gonfler dans le Grand Marnier. Le jour même : Étaler la pâte feuilletée et la partager en 2. Sur chaque moitié, mettre une cuisse de confit, et répartir raisins, abricots et pignons de pin. Refermer la pâte feuilletée. Badigeonner de jaune d''uf. Mettre à cuire 1 h au four à 150°C (thermostat 5). A surveiller. Pendant ce temps, préparer une sauce : Éplucher le zeste d'une demi orange, et le couper en très fines lamelles. Faire chauffer une cuillère de beurre, y jeter le zeste, et un demi oignon émincé. Saler, poivrer, et laisser revenir doucement. Rajouter ensuite le jus de l'orange, la tranche de foie gras émincée, et le reste de Grand Marnier dans lequel ont gonflé les fruits. Laisser cuire très lentement. Servir les chaussons de confit accompagnés de la sauce. 
+
+url	http://www.marmiton.org/recettes/recette_chausson-zinzin_71809.aspx
+recipe_name	Chausson zinzin
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	45
+cook_time	25
+ingredients	abricot|avoine|beurre|bicarbonate|eau|farine-de-ble-noir|figue|fleur-de-sel|levure|poudre-d-amande|sucre-roux|sucre-vanille|vergeoise
+instructions	Etape 1: Commencer par la pâte sablée 1/ Mélanger la farine et la poudre d'amande/graines. 2/ Mélanger les sucres puis les ajouter à la farine. 3/ Incorporer la levure, le sel le bicarbonate et les flocons d'avoine, et bien mélanger entre chaque incorporation. 4/ Puis introduire le beurre préalablement découpé en fines lamelles et le confondre avec les ingrédients secs à la main, jusqu'à l'obtention d'une boule. 5/ Laisser durcir la pâte au réfrigérateur pendant 30 min. 6/ Mettre le four à chauffer à 180°, thermostat 6. Etape 2: Préparer la pâte de fruits 1/ Mettre dans une casserole anti-adhésive les fruits et les recouvrir d'eau. 2/ Laisser bouillir à feu moyen pendant 2 min. 3/ Puis réduire le feu, couvrir et laisser confire pendant 12 à 15 min. 4/ Lorsque l'appareil a refroidi, mixer. 5/ Et enfin ajouter la fleur d'oranger puis le sucre vanillé. Etape 3: Former le chausson 1/ Travailler la pâte au rouleau sur du papier sulfurisé puis à l'aide d'un bol former plusieurs cercles moyens, extrayez l'excédent de pâte, reformer une boule avec l'excédent puis renouveler l'opération jusqu'à ce que vous n'ayez plus de pâte. 2/ Mettre 2 bonnes cuillères à soupe de confit de fruit sur la moitié du cercle de pâte puis replier par l'autre moitié. 3/ Poser la feuille de papier sulfurisée garnie des chaussons sur une plaque, orner les chaussons de quelques graines de sésame. 4/ Enfourner le tout pour au moins 20 min de cuisson, plus jusqu'à ce qu'ils dorent. 5/ Laisser refroidir 30 min. 6/ Ils sont comestibles après 1 h de repos à l'air frais. 
+
+url	http://www.marmiton.org/recettes/recette_cheese-cake-au-verre_27355.aspx
+recipe_name	Cheese cake au verre
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	0
+ingredients	abricot|biscuit|citron|fraise|framboise|fromage-frais|groseille|petit-beurre|speculoos|sucre|yaourts
+instructions	Mélanger le fromage frais et le yaourt, 40 g de sucre et un peu de jus de citron. Dans de beaux verres, alterner une couche de cette crème, une couche de biscuits coupés en petits morceaux et une couche de fruits. Remarques : Délicieux et fait beaucoup d'effet si on soigne la présentation. Variante : réduire les biscuits en poudre et en faire des couches (crème, fruits, poudre de biscuits). 
+
+url	http://www.marmiton.org/recettes/recette_cheese-cake-aux-abricots_25303.aspx
+recipe_name	Cheese cake aux abricots
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	60
+ingredients	abricot|biscuit-sec|fromage-blanc|fromages|gingembre|jus-de-citron|oeuf|sucre-en-poudre
+instructions	Préchauffer le four Th 6. Réserver 3 oreillons d'abricots et couper les autres en petits dés. Réduire les biscuits en fine poudre : les placer dans un poche et les écraser au rouleau à pâtisserie ou les passer au robot mixer. Beurrer un moule à manqué de 20 cm et le tapisser (fond et parois) avec les biscuits écrasés en pressant bien avec les doigts pour faire adhérer. Réserver 2 à 3 cuillères à soupe de poudre pour le décor. Mélanger avec un fouet le fromage, fromage blanc, jus de citron, gingembre et le sucre. Ajouter les oeufs battus en omelette. Mélanger jusqu'à obtenir une pâte onctueuse. Ajouter les dés d'abricots et bien mélanger. Verser dans le moule. Faire cuire à four chaud 1 h. Ce temps passé, laisser la porte du four entrouverte et le gâteau reposer 30 mn. Sortir le cheese cake, le laisser refroidir et mettre au frigo au moins 2 heures. Au moment de servir décorer avec les 3 abricots et la poudre de biscuit restante. Servir bien froid. Remarques : Peut se préparer la veille. 
+
+url	http://www.marmiton.org/recettes/recette_cheesecake-a-l-abricot_346278.aspx
+recipe_name	Cheesecake à l?abricot
+type	- Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	3
+ingredients	abricot|beurre|cassonade|citron|gelatine|mascarpone|oeuf|petit-beurre|sucre-vanille|yaourt-nature
+instructions	Réserver 2-3 demi-abricots et couper les autres en petits cubes. Ecraser les biscuits et les mélanger avec le beurre mou. Tapisser le fond d'un moule à manquer (préalablement beurré) avec les biscuits en écrasant bien avec les doigts. Réserver au frais.  Préchauffer le four à 200°C (thermostat 6-7). Mélanger le yaourt nature et le mascarpone. Ajouter le jus de citron, les oeufs et les sucres. Travailler le mélange jusqu'à l'obtention d'une préparation lisse et homogène. Incorporer les abricots coupés en morceaux et bien mélanger. Verser la préparation sur le fond de biscuits et enfourner 40 minutes. Laisser refroidir avant de réserver au frais minimum 2h.  Avant de servir, décorer avec les demi-abricots réservés sur le dessus du cheesecake. 
+
+url	http://www.marmiton.org/recettes/recette_chutney-aux-abricots-frais_60265.aspx
+recipe_name	Chutney aux abricots frais
+type	Sauce
+difficulty	Très facile
+cost	Bon marché
+guests_number	5
+preparation_time	30
+cook_time	40
+ingredients	abricot|cannelle|curry|gingembre|oignon|raisin|sel|sucre|vinaigre
+instructions	Coupez les abricots et les oignons en gros dés. Mélangez les abricots, les oignons et le sucre dans une casserole et faites « compoter » pendant 30 minutes. Dans une autre casserole, mélangez le vinaigre, les épices et les raisins et faites chauffer 5 minutes. Rassemblez ensuite tous les ingrédients dans une même casserole et prolongez la cuisson 5 minutes. Mettez en pot et retournez jusqu'à complet refroidissement. Remarques : Accompagne les viandes froides. 
+
+url	http://www.marmiton.org/recettes/recette_chutney-de-fruits-frais-et-fruits-secs-au-rhum_66472.aspx
+recipe_name	Chutney de fruits frais et fruits secs au rhum
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	30
+ingredients	abricot|amande|banane|cannelle|citron|huile|mangue|pignon|poire|pomme|rhum
+instructions	Laver et éplucher tous les fruits frais. Couper les pommes, les poires et la mangue en dés et les bananes en rondelles. Dans une casserole, mettre les fruits à cuire, à feu doux. Ajouter un fond d'eau si besoin. Arroser les fruits du jus d'un citron. Ajouter une pincée de cannelle. Faire cuire tout doucement, en remuant de temps en temps pour ne pas que cela attache, jusqu'à ce que les fruits se défassent en compote. En fin de cuisson, arroser avec le rhum. Pendant ce temps, faire griller les pignons de pins et les amandes émondées dans 1 cuillère à soupe d'huile puis réserver. Couper les abricots secs en dés et réserver. Une fois les fruits cuits, les dresser dans des coupes à dessert, sans attendre, en alternant fruits frais et fruits secs sur plusieurs étages. Terminer par une couche de fruits secs, et parsemer de dés d'abricots secs. Servir aussitôt. Remarques : Il est possible d'utiliser différents fruits (sauf agrumes). 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-aux-abricots-amandes-et-romarin_49103.aspx
+recipe_name	Clafoutis aux abricots, amandes et romarin
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	35
+ingredients	abricot|creme-fraiche-liquide|lait|maizena|oeuf|poudre-d-amande|romarin|sucre-semoule|sucre-vanille
+instructions	Préchauffez le four à 200°C (thermostat 6/7). Faites bouillir le lait, puis, hors du feu, laissez infuser le romarin avec le lait. Lavez les abricots, dénoyautez-les et disposez-les dans un plat de 25 cm de diamètre environ. Dans un récipient, mélangez les sucres et la maïzena, avec une pincée de sel. Ajoutez les oeufs entiers battus et les jaunes, puis mélangez. Versez ensuite la crème, la poudre d'amandes et le lait après avoir, au préalable, ôté la branche de romarin. Mixez le tout 10 secondes. Versez cette pâte sur les fruits et enfournez 35 à 40 min. Remarques : Servez tiède avec une belle boule de glace à l'abricot. Excellent le matin au petit dejeuner. Vous pouvez aussi utiliser des abricots surgelés: les faire décongeler dans une poêle à feu doux avec 3 cuillères à soupe de sucre. 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-aux-abricots_39421.aspx
+recipe_name	Clafoutis aux abricots
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	45
+ingredients	abricot|beurre|farine|lait|oeuf|sel|sucre
+instructions	Faites fondre à feu doux le beurre et laissez refroidir. Pendant ce temps cassez 4 oeufs avec une pincée de sel et battez en omelette. Ajoutez le sucre en poudre et mélangez jusqu'à ce que ça blanchisse. Ajoutez la farine en mélangeant et ajouter peu à peu le beurre fondu et le lait. La pâte doit être lisse et sans grumeaux. Graissez un plat à gratin et préchauffer votre four à 220°C (thermostat 6-7). Lavez vos abricots, coupez-les en deux et enlevez le noyau. Disposez vos moitiés d'abricots face bombée vers le haut et ajoutez la préparation. Faites cuire pendant 45 min. Remarques : Se déguste chaud et froid. 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-aux-abricots-de-ma-maman_72815.aspx
+recipe_name	Clafoutis aux abricots de ma Maman!
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	25
+ingredients	abricot|amande|farine|lait|oeuf|sucre|vanille
+instructions	- Faire chauffer doucement le lait et mettre la vanille à infuser. - Dans une terrine, mélanger farine + sucre + oeufs. - Enlever la vanille, ajouter le lait à la préparation et mélanger. - Laver les abricots et les couper en deux. - Dans un plat à tarte, disposer les oreillons d'abricots, puis verser la pâte dessus. Parsemer d'amandes effilées. - Enfourner à 190°, thermostat 6-7, environ 25 min, laisser refroidir... et déguster! Remarques : Recette simplissime et très pauvre en matières grasses! 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-aux-abricots-et-aux-amandes_71156.aspx
+recipe_name	Clafoutis aux abricots et aux amandes
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	26
+ingredients	abricot|amande|arôme|farine|lait|oeuf|sucre
+instructions	Préchauffez le four à 180°, thermostat 6. Dans un saladier mélangez la farine, le sucre et une pincée de sel. Creusez un trou au milieu, cassez-y les oeufs. Mélangez en partant du centre, incorporez peu à peu la farine qui tombe des parois. Ajoutez l'arôme et la poudre d'amandes, délayez avec le lait. Beurrez un moule à bord assez haut (23-24cm). Posez les abricots face bombée en haut. Versez la pâte et enfournez pour 26 minutes. Remarques : Ce clafoutis est délicieux tiède ou froid. A déguster avec une petite boule de glace vanille! 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-aux-abricots-et-aux-epices_338249.aspx
+recipe_name	Clafoutis aux abricots et aux épices
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	25
+ingredients	abricot|beurre|cassonade|citron|creme-liquide|farine|oeuf|quatre-epices|sirop
+instructions	Huilez et farinez un moule rectangulaire assez grand (environ 33 x 23 cm). Ouvrez la boite, réservez 15 cl de sirop et égouttez les abricots. Déposez-les sur toute la surface du moule. Mettez la farine et le sucre dans un saladier et faire un puits. Mettez les oeufs, la crème, le jus et les gouttes de citron au fond du puits et mélangez le tout. Versez la préparation sur les abricots et mettez au four 20 min à 180°C (thermostat 6). Pendant ce temps, mélangez 1 cuillère à café de 4 épices + 1 cuillère à soupe de sucre + 1 noix de beurre dans un petit ramequin. Après 20 min de cuisson, étalez le mélange sur le gâteau et remettez à cuire 5 à 10 min. Servez tiède ou froid. Bon appétit ! 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-aux-abricots-leger-et-simple_49507.aspx
+recipe_name	Clafoutis aux abricots léger et simple
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	40
+ingredients	abricot|creme-fraiche|farine|lait|levure|oeuf|sucre
+instructions	Casser les oeufs dans un saladier avec une pincée de sel. Incorporer la farine, mélanger jusqu'à un mélange homogène. Ajouter le sucre, puis la levure. Ajouter le lait petit à petit en remuant, puis la crème fraîche. La pâte est alors prête et normalement sans grumeaux. Beurrer un plat allant au four. Disposer les abricots dénoyauteés au fond du plat. Verser la pâte et mettre au four à 170°C pour 40 min environ. Remarques : Ne jamais ouvrir le four tant que le plat ne révèle pas d'odeur. lorsque l'on dispose les fruits dans le plat, on ne doit pas voir le fond de celui-ci. 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-aux-abricots-meringues_72289.aspx
+recipe_name	Clafoutis aux abricots meringués
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	50
+ingredients	abricot|beurre|farine|lait|levure|meringue|noix-de-coco-rapee|oeuf|sel|sucre|sucre-vanille
+instructions	Dans un saladier, battre les oeufs, le sucre et le sel. Ajouter la farine et la levure à l'aide d'un tamis pour éviter les grumeaux puis bien mélanger. Incorporer 25 g de beurre fondu, le lait et la noix de coco. Couper les abricots en deux puis chaque partie en six. Ajouter les fruits et les meringues cassées grossièrement à la préparation. Beurrer et fariner le moule rectangle, verser la préparation dans celui-ci puis mettre au four à 180°, thermostat 6, pendant 50 min. A la sortie du four, saupoudrer du sucre vanillé. Remarques : Manger tiède, c'est meilleur!!! Boisson conseillée : Clairette de Dié 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-exotique-aux-abricots-secs_21049.aspx
+recipe_name	Clafoutis exotique aux abricots secs
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	60
+ingredients	abricot|cassonade|eau|farine|lait|oeuf|rhum|sel|sucre|sucre-vanille
+instructions	Faites tremper les abricots secs dans l'eau et la moitié du rhum (5 cl), puis faites-les cuire à feu doux 25 minutes. Découpez les abricots en morceaux assez gros, que vous tremperez dans la farine. Dans un saladier, mélangez le sucre avec les oeufs, la farine et la pincée de sel, puis ajoutez le lait et le reste du rhum. Enfin, ajoutez le sachet de sucre vanillé. Ajoutez les abricots à la pâte, puis beurrez un plat à clafoutis (rectangulaire ou rond) et versez-y le mélange. Faites cuire 1 h au four à 150°C (thermostat 5). Saupoudrez de cassonade ou de sucre glace et remettez au four à 230°C (thermostat 7-8) pendant 3 minutes. A déguster tiède ou froid, selon les goûts. Remarques : Vous pouvez varier les plaisirs en remplaçant le rhum par de l'amaretto et le sucre vanillé par du sucre et un peu d'essence d'amande amère. 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-multifruit_59700.aspx
+recipe_name	Clafoutis multifruit
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	45
+ingredients	abricot|farine|fraise|fructose|kiwi|lait|oeuf|poudre-d-amande|vanille
+instructions	Préchauffez le four à 180°, thermostat 6. Faites bouillir le lait avec la gousse de vanille fendue. A part, mélangez le sucre et les oeufs, puis ajoutez la farine et la poudre d'amande. Filtrez le lait et l'ajoutez à la préparation. Beurrez un moule à manquer et disposez en couronne les abricots dénoyautés puis au centre les kiwis épluchés et coupés en rondelles et comblez les trous avec toutes les fraises. Verser la préparation sur les fruits et cuire 45 min. Remarques : Ce clafoutis peut s'adapter avec d'autres fruits et il est possible d'ajouter des copeaux de chocolat ! 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-rapido-a-l-abricot_310694.aspx
+recipe_name	Clafoutis rapido à l'abricot
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	30
+ingredients	abricot|creme-fraiche|farine|oeuf|sucre
+instructions	Préchauffer le four à 180°C (thermostat 6). Laver et couper les abricots en deux. Les disperser au fond du plat préalablement beurré. Mélanger les autres ingrédients et verser la préparation et enfourner 30 min. Bon appétit. 
+
+url	http://www.marmiton.org/recettes/recette_clafoutis-ultra-facile-aux-abricots_20635.aspx
+recipe_name	Clafoutis ultra facile aux abricots
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	45
+ingredients	abricot|farine|lait|oeuf|sel|sucre|sucre-vanille
+instructions	Préchauffez le four à thermostat 6 (180°C). Dans un saladier, mélangez les 'ufs, le sucre, le sucre vanillé, le sel et la farine (ou la maïzena). Faites bouillir le lait et ajoutez-le au mélange. Disposez des moitiés d'abricots dans le fond d'un plat à clafoutis (rectangulaire, rond, ovale...). Versez le mélange dessus et faites cuire 45 minutes. Servez tiède ou froid. Remarques : Choisissez des abricots arrivés à maturité, sinon c'est moins bon. 
+
+url	http://www.marmiton.org/recettes/recette_cocktail-de-l-ete_72862.aspx
+recipe_name	Cocktail de l'été
+type	Boisson
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	0
+ingredients	abricot|banane|coulis|glaçon|kiwi|peche|the
+instructions	Pelez la banane, le kiwi, les abricots, les pêches. Enlevez le noyau des abricots et des pêches. Mettez tout dans le mixeur et ajoutez le coulis. Mixez. Ajoutez les glaçons si les fruits n'étaient pas frais. Ajoutez le thé glacé. Prenez les deux verres et remplissez-les de ce jus. Alors' Bon ou pas' 
+
+url	http://www.marmiton.org/recettes/recette_cocktail-pomabricotine_170249.aspx
+recipe_name	Cocktail Pomabricotine
+type	Boisson
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	0
+ingredients	abricot|eau|eau-gazeuse|pomme|sirop
+instructions	Mélanger tous les ingrédients, mettre au frais et ajouter l'eau gazeuse fraîche au dernier moment pour conserver le pétillant. 
+
+url	http://www.marmiton.org/recettes/recette_cocotte-de-boeuf-au-potiron-et-fruits-seches_20698.aspx
+recipe_name	Cocotte de boeuf au potiron et fruits séchés
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	8
+preparation_time	20
+cook_time	60
+ingredients	abricot|ail|boeuf|bouillon-de-boeuf|cognac|courgette|huile|mais|oignon|poivre|potiron|pruneaux|sel
+instructions	Faites tremper les abricots et les pruneaux dans un bol d'eau chaude 1h avant de commencer la préparation. Découpez la viande en gros dés, et faites-les dorer sur toutes les faces dans une cocotte avec l'huile chaude. Ajoutez le cognac et remuez. Retirez la viande une fois dorée, mettez les oignons et l'ail hachés à la place. Faites-les suer. Une fois les oignons devenus transparents et tendres, remettez la viande et versez le bouillon. Salez, poivrez et laissez mijoter 15 min. Ajoutez les abricots et les pruneaux égouttés, fermez la cocotte et mettez-la dans le cour préchauffé à 200°C (thermostat 6-7). Laissez cuire 45 min. Pendant ce temps, pelez, épépinez et coupez le potiron en gros morceaux, les courgettes en tranches et les épis de maïs en tronçons. Ajoutez ces légumes dans la cocotte et laissez cuire encore 30 min. Servez bien chaud. 
+
+url	http://www.marmiton.org/recettes/recette_cocotte-de-lapin-au-bleu-et-fruits-secs_56640.aspx
+recipe_name	Cocotte de lapin au bleu et fruits secs
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	120
+ingredients	abricot|bleu-d-auvergne|fond-de-veau|huile-d-olive|poivre|pomme-de-terre|pruneaux|rable-de-lapin|raisins-secs|safran|sel
+instructions	Faites dorer les morceaux de lapin dans une cocotte allant au four ou un plat à tajine, avec un peu d'huile d'olive bien chaude. Retirez-les une fois dorées. Epluchez les pommes de terre et coupez-les en rondelles. Disposez-les dans la cocotte, salez, poivrez. Ajoutez le lapin, les abricots, les pruneaux et les raisins secs. Versez le fond de veau et parsemez le safran. Fermez la cocotte ou le plat à tajine et faites cuire 2 h au four à 180°C (thermostat 6). Si vous disposez d'un plat à tajine électrique, faites cuire 2 heures 30, sinon dans une cocotte fermée sur feu moyen, la cuisson prend environ 1 heure 30. 15 minutes avant la fin de la cuisson, ajoutez le fromage détaillé en dés. Servez très chaud dans le plat de cuisson. 
+
+url	http://www.marmiton.org/recettes/recette_compote-a-la-framboise-et-aux-abricots-secs_22591.aspx
+recipe_name	Compote à la framboise et aux abricots secs
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	10
+preparation_time	10
+cook_time	45
+ingredients	abricot|eau|framboise|kirsch|sucre-en-poudre|sucre-vanille
+instructions	Mettre les abricots à tremper dans de l'eau au moins une nuit. Le lendemain, les cuire à feu doux pendant 45 minutes dans l'eau de trempage en ajoutant le sucre et le demi-sachet de sucre vanillé. On doit obtenir une consistance de compote. Laisser refroidir deux bonnes heures, puis ajouter les framboises et le kirsch. Disposer dans des coupes individuelles, répartir dessus le reste du sachet de sucre vanillé. Servir bien frais avec quelques framboises pour la déco. 
+
+url	http://www.marmiton.org/recettes/recette_compote-chaude-d-hiver_20340.aspx
+recipe_name	Compote chaude d'hiver
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	20
+ingredients	abricot|cannelle|datte|jus-de-citron|orange|pain-d-epice|poire|pomme|pruneaux|raisins-secs
+instructions	Faites chauffer le four à 220°C (thermostat 8). Rincez les raisins et les abricots secs. Dénoyautez les dattes et les pruneaux. Coupez-les en petits morceaux, ainsi que les abricots. Mettez tous ces fruits dans un petit moule à soufflé de 16 à 18 cm de diamètre. Pressez l'orange. Versez 4 cuillères à soupe de son jus sur les fruits secs et mélangez bien. Pelez la pomme et la poire, coupez-les en dés et arrosez-les de jus de citron pour les empêcher de noircir. Ajoutez-les dans le moule. Poudrez de cannelle et mélangez. Emiettez le pain d'épice avec les doigts au-dessus des fruits et mélangez à nouveau. Beurrez un rond de papier sulfurisé et posez-le sur les fruits. Glissez le moule dans le four et faites cuire pendant 20 mn. Laissez reposer 10 mn avant de servir. Remarques : Un peu calorique, mais délicieuse compote, facile et vite faite pour les soirées d'hiver. 
+
+url	http://www.marmiton.org/recettes/recette_compote-d-ete-groseilles-prunes-abricot_338446.aspx
+recipe_name	Compote d?été : groseilles, prunes, abricot
+type	Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	30
+ingredients	abricot|glace-vanille|groseille|jus-de-citron|orange|prune|sucre
+instructions	Laver les prunes et les abricots et enlever les noyaux. Rincer les groseilles et les égrapper. Mélanger les fruits dans une grande casserole. Ajouter le sucre, les jus de citron et d'orange et 20 cl d'eau. Porter sur le feu et remuer jusqu'à ébullition. Laisser cuire la compote pendant 25 minutes à petits frémissements. Réserver au frais et déguster la compote rapidement avec une boule de glace à la vanille. 
+
+url	http://www.marmiton.org/recettes/recette_compote-d-abricot_92131.aspx
+recipe_name	Compote d'abricot
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	10
+ingredients	abricot|cannelle|eau|sucre
+instructions	Laver les abricots, les couper en 2 pour enlever le noyau. Dans une casserole mettre l'eau avec le sucre, laisser chauffer, ensuite ajouter les abricots couper en petits morceaux et la cannelle. Laisser cuire 10min environ. La passer au blender si on n'apprécie pas les morceaux. Déguster très frais accompagnée d'une boule de glace à la vanille. 
+
+url	http://www.marmiton.org/recettes/recette_compote-de-figues-et-abricots_49944.aspx
+recipe_name	Compote de figues et abricots
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	5
+cook_time	20
+ingredients	abricot|figue|sucre|vanille
+instructions	Laver les fruits, et les couper ensuite en quatre (les fruits peuvent être mûrs ou non, cela à moins d'importance dans une compote que dans une tarte). Mettre le tout dans une casserole, et laisser mijoter 20 min avec 10 cl d'eau, pour que ça n'accroche pas. Ajouter les gousses de vanille à mi-cuisson, et 10 à 100 g de sucre à la fin (facultatif). Remarques : Vous pouvez aussi remplacer la vanille par de la cannelle. Il faut aussi essayer avec des feuilles de menthe... 
+
+url	http://www.marmiton.org/recettes/recette_compote-de-joachim_344853.aspx
+recipe_name	Compote de joachim
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	10
+ingredients	abricot|fleur-d-oranger|orange|pomme
+instructions	Mettez dans une casserole un peu d'eau, les abricots coupés en deux, les pommes en rondelles. Faites cuire 8 minutes à feu doux.  Ajoutez le jus des oranges et la fleur d'oranger. Laissez cuire 2 minutes. 
+
+url	http://www.marmiton.org/recettes/recette_compotee-de-fruits-secs-au-muscat_34010.aspx
+recipe_name	Compotée de fruits secs au muscat
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	15
+cook_time	60
+ingredients	abricot|ananas|cannelle|clou-de-girofle|datte|gingembre|muscade|muscat|pruneaux|raisin|the
+instructions	Prévoir 2 heure de repos Couper les fruits les plus gros (bananes, pruneaux) en 2 ou 3. Réhydrater les fruits secs dans le thé chaud. Égoutter au bout de 2 h et mettre dans une cocotte ou une grande casserole avec le vin et les épices. Cuire sur feu doux environ 1 h. Servir tiède avec du fromage blanc, ou bien frais. 
+
+url	http://www.marmiton.org/recettes/recette_compotee-de-mendiants_45042.aspx
+recipe_name	Compotée de mendiants
+type	Dessert
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	5
+cook_time	20
+ingredients	abricot|amande|anis-etoile|cannelle|datte|figue|raisins-secs|sucre|the|vanille
+instructions	Mettez l'ensemble des fruits secs dans un saladier avec le thé tiède, laissez tremper pendant 4 heures. Versez le tout dans une casserole avec le sucre en poudre, la gousse de vanille fendue en deux, la cannelle et l'anis étoilé. Faites cuire à feu moyen pendant 20 minutes. Versez le tout dans le saladier, laissez refroidir et réservez au réfrigérateur avant de servir. Remarques : Servir avec de la glace au caramel. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-a-l-ananas-et-aux-abricot_29367.aspx
+recipe_name	Confiture à l'ananas et aux abricot
+type	Dessert
+difficulty	Facile
+cost	Bon marché
+guests_number	5
+preparation_time	15
+cook_time	40
+ingredients	abricot|ananas|eau|sucre|vanille
+instructions	Laver et dénoyauter les abricots. Peler les ananas, les évider et couper la chair en dés. Fendre la gousse de vanille en deux, la mettre dans un saladier avec le sucre et l'eau. Porter à ébullition et faire cuire le sirop de sucre au petit boulé (116°C au thermomètre à sucre), cela prend environ 10 minutes. Ajouter les fruits au sirop et faire cuire à feu vif pendant 30 minutes en remuant par moments. Ôter l'écume blanche qui se forme à la surface, vérifier la consistance de la confiture et mettre en pots. Si la confiture est trop liquide, poursuivre la cuisson. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-abricot-et-gingembre_39859.aspx
+recipe_name	Confiture abricot et gingembre
+type	Dessert
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	25
+ingredients	abricot|gingembre|sucre-en-poudre
+instructions	Dénoyautez les abricots et coupez-les en petits morceaux. Dans une casserole assez large, mettez les abricots, le gingembre et le sucre. Laissez macérer 3 heures. Puis faites cuire à feu moyen environ 25 min dès ébullition (on voit que c'est bon quand une goutte reste sur la cuillère en bois). Mettre en pot dès la fin de la cuisson. Remarques : Le goût du gingembre se marie très bien avec l'abricot. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-abricot-vanille_92481.aspx
+recipe_name	Confiture Abricot Vanille
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	5
+preparation_time	0
+cook_time	30
+ingredients	abricot|cassonade|sucre|vanille
+instructions	La veille, mélanger les abricots avec le sucre roux et mettre au frais.   Le lendemain, ajouter le sucre cristalisé et la gousse de vanille fendue en 2.   Monter à ébullition et faire cuire 30 minutes. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-abricot-lavande_325210.aspx
+recipe_name	Confiture abricot-lavande
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	5
+preparation_time	60
+cook_time	15
+ingredients	abricot|lavande|sucre-en-poudre
+instructions	Dénoyautez les abricots (auparavant lavés) et coupez-les en morceaux dans un chaudron à confiture. Ajoutez les sucre et les fleurs de lavande (vous pouvez ajoutez 3 ou 4 amandes des noyaux, pour la pectine), mélangez et laissez macérer au minimum 3 heures. Faites cuire votre confiture à feu fort, puis baissez à feu moyen lorsque le mélange bout. Pour vérifier la consistance, versez quelques gouttes au fond d'un couvercle, et attendez que celles-ci refroidissent. Attention à ne pas la laisser trop cuire, sous peine de se retrouver avec de la pâte de fruit ! Attention aux risque de brûlure ! Pendant ce temps, ébouillantez 5 pots à confiture et leurs couvercles, et lorsque la confiture est prête, retirez les fleurs et remplissez les pots jusqu'à 1 cm du bord. Fermez les couvercles à fond et attendez qu'ils aient refroidi avant de la stoker à l'abri de la lumière. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-abricots-et-framboises_229000.aspx
+recipe_name	Confiture abricots et framboises
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	5
+preparation_time	20
+cook_time	20
+ingredients	abricot|framboise|sucre|vanille
+instructions	Laver et dénoyauter les abricots. Dans une grande casserole, mettre abricots/framboise et sucre. Porter à ébullition puis remuer. Compter une vingtaine de minutes. Mettre en pots. Régalez-vous ! Idéal pour une génoise ou un roulé. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-abricots-bananes_326709.aspx
+recipe_name	Confiture Abricots-Bananes
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	45
+cook_time	55
+ingredients	abricot|banane|citron|sucre
+instructions	Laver les abricots et les couper en morceaux dans une marmite. Couper les bananes en rondelles fines (si l'on trouve les rondelles trop épaisses, les couper en 2 ou en morceaux). Ajouter le jus de citron pour éviter les bananes de noircir et remuer. Ajouter le sucre et remuer. Laisser reposer 3 à 4 heures ou une nuit suivant disponibilité. Cuire la confiture à feu moyen. Retirer la mousse au fur et à mesure et remuer pour éviter d'attacher au fond de la marmite. Cuire pendant environ 55 min. Une fois cuite, verser la confiture dans les pots à l'aide d'une louche et d'un entonnoir posé sur le pot pour éviter de se brûler.  Visser bien les couvercles et retournez les pots immédiatement sur un torchon. Laisser refroidir les pots pendant plusieurs heures avant de les ranger. Remarques : Je ne jette pas la mousse et je l'utilise pour la mettre dans des yaourts ou faire des tartines ou autre, c'est excellent. Boisson conseillée : Café, Thé, Chocolat, eau 
+
+url	http://www.marmiton.org/recettes/recette_confiture-amandine-aux-abricots_28900.aspx
+recipe_name	Confiture amandine aux abricots
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	8
+preparation_time	20
+cook_time	15
+ingredients	abricot|amande|amaretto|citron|sucre
+instructions	Peler les abricots (les plonger 10 secondes dans de l'eau bouillante pour le faire sans problème). Une fois noyaux et peau retirés, l'on doit avoir le même poids de chair d'abricot que de sucre. Disposer dans une grande jatte la chair d'abricot, le sucre et le jus du demi-citron, puis mélanger. Laisser reposer 6 à 12 heures (jusqu'à ce que le sucre et la chair soient bien mêlés). Mettre à cuire à feu moyen-fort. Laisser cuire 15 minutes à partir de l'ébullition, puis couper le feu et rajouter les amandes, ainsi que l'amaretto. Mélanger pendant 2 minutes, puis mettre en pots. Remarques : Si vous aimez votre confiture pas trop sucrée, diminuer le poids du sucre. On peut également utiliser une partie des noyaux d'abricots épluchés à la place des amandes. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-aux-fruits-d-ete_49994.aspx
+recipe_name	Confiture aux fruits d'été
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	12
+ingredients	abricot|amande|jus-de-citron|nectarine|poire|sucre-fin|sucre-vanille
+instructions	Dénoyauter les abricots et la nectarine, et les couper en morceaux. Les cuire 4 min au micro-ondes, puissance maxi. Eplucher et épépiner les poires, et les couper en morceaux. Dans une grande casserole, vider les abricots-nectarine, les poires, les sucres, les amandes et le jus de citron. Laisser cuire environ 8 min, jusqu'à ce que la confiture se fige. Mettre en pots, fermer, puis les retourner (ou ajouter parafine pour conservation). 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abicots-a-la-fleur-d-oranger_50510.aspx
+recipe_name	Confiture d'abicots à la fleur d'oranger
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	60
+ingredients	abricot|eau-de-fleur-d-oranger|sucre
+instructions	Rincer les abricots puis enlever les noyaux. Mettre les abricots dans une grande marmite avec le sucre et l'eau de fleur d'oranger. Laisser cuire 1 heure en remuant régulièrement. Mettre en pots. Pour une confiture lisse et sans morceaux, passer la condfiture cuite au mixeur avant de mettre en pots. Remarques : Vous pouvez remplacer la fleur d'oranger par de la vanille, en laissant ensuite la gousse dans le pot de confiture. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricot-et-ses-doux-parfums_92344.aspx
+recipe_name	Confiture d'abricot et ses doux parfums
+type	Confiserie
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	15
+cook_time	60
+ingredients	abricot|cannelle|jus-de-citron|jus-d'orange|sucre|vanille
+instructions	Couper les abricots en 2,retirer les   noyaux,puis les mettre dans un recipient avec les jus,les zestes,les batons de cannelle,la vanille (fendue et grattée),le sucre.   Bien mélanger et laisser mariner toute une nuit a t° ambiante.   Cuisson: Mettre a cuire a feu vif,ecumer souvent,aubout de 20 min,les abricots sont translucides,vous pouvez les retirer et les reserver,continuer la cuisson du sirop,surtout,sous surveillance pour ne pas qu il brule.Quand la goutte ne coule pas sur une assiette,c est BON !! Le rajouter aux abricots(sans la cannelle),mélanger,et remplir vos pots stereliser,visser,retourner de suite pendant 10 min.   Déguster 24h après.. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricot-vanillee_23968.aspx
+recipe_name	Confiture d'abricot vanillée
+type	Confiserie
+difficulty	Très facile
+cost	Moyen
+guests_number	10
+preparation_time	15
+cook_time	30
+ingredients	abricot|eau|sucre|vanille
+instructions	Laver les abricots, les couper en deux et dénoyauter. Les faire mariner 1 nuit dans une bassine avec le sucre et la vanille fendue en 2. Le lendemain, égoutter les fruits. Faire chauffer le jus de marinade et la vanille avec 75 cl d'eau, porter à ébullition pendant 2 min. Jeter les abricots dans le sirop, baissez un peu le feu et laissez cuire 30 min à frémissement. Ecumer et remuer en écrasant un peu les fruits. Tester la consistance de la confiture en en versant une goutte sur une assiette : si celle-ci se fige lorsqu'on tient l'assiette verticalement, c'est que la confiture est prête. Retirer la vanille et mettre en pots. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots_39373.aspx
+recipe_name	Confiture d'abricots
+type	Confiserie
+difficulty	Très facile
+cost	Moyen
+guests_number	3
+preparation_time	60
+cook_time	60
+ingredients	abricot|eau|liqueur|sucre
+instructions	Préparer le sirop avec la cassonade et l'eau. Porter à ébullition et cuire pendant 10 minutes. Ajouter les abricots. Laisser cuire pendant une heure. Remuer avec une spatule en bois en soulevant les fruits et raclant le fond de la casserole pour éviter de caraméliser et brûler le fond du récipient. La marmelade est cuite lorsque vous en versez un peu dans une assiette. Elle doit rester épaisse et ne pas s'étaler. Verser la liqueur de poire. Mélanger. Arrêter la cuisson. Mettre en pots aussitôt. Essuyer le bord des pots avec un papier absorbant. Stériliser éventuellement. Remarques : Vous pouvez utiliser aussi un alcool de votre région. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-a-la-cardamome_311915.aspx
+recipe_name	Confiture d'abricots à la cardamome
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	10
+preparation_time	30
+cook_time	15
+ingredients	abricot|cardamome|sucre
+instructions	Rincer vos abricotset enlever les noyaux. Les placer dans une grande marmite y mettre le sucre et la cardamome. Mettre la marmite sur un feu vif pour faire cuire les abricots. Dès que votre préparation bout à gros bouillon, remuer et compter 5 à 15 min de cuisson. Remarques : Vous pouvez varier les plaisirs en remplaçant la cardamome par de la cannelle en poudre 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-a-la-menthe_39767.aspx
+recipe_name	Confiture d'abricots à la menthe
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	1
+preparation_time	15
+cook_time	120
+ingredients	abricot|citron|menthe|sucre
+instructions	Verser le sucre sur les abricots, attendre 1/4 d'heure, et bien remuer, en ajoutant le jus de citron. Réserver ainsi, toute une nuit, ou au moins 4 h. Faire cuire à feu vif, au début, puis à feu moyen, en remuant souvent, afin que la confiture n'attache pas. Compter, environ, 1 h et demi. La confiture est, quasi prête, quand elle a un aspect transparent et qu'elle se fige un peu, sur une soucoupe froide. Enfoncer vos branches de menthe entières, préalablement lavées, séchées, et tamponnées avec un torchon. Laisser infuser 1/4 d'heure, feu éteint. Réchauffer, légèrement, la confiture. Retirer les branches de menthe. Mettre immédiatement, en pot de verre, avec couvercle à vis. Boucher et renverser sur un torchon pour le refroidissement (attention aux risques de brûlure). Stocker, dans un endroit obscur et le plus frais possible. La menthe donne une sensation très agréable de frais, sans nuire au goût des abricots. Remarques : Du melon bien frais, coupé en cubes et parsemé de quelques cuillères de cette confiture... Vous m'en direz des nouvelles!!! Boisson conseillée : Un muscat de Beaume ou de Frontignan bien frais 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-a-la-vanille-et-au-citron-vert_44106.aspx
+recipe_name	Confiture d'abricots à la vanille et au citron vert
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	30
+cook_time	8
+ingredients	abricot|jus-de-citron|sucre|vanille
+instructions	Bien mélanger le sucre, avec les abricots et le jus de citron. Inciser les gousses de vanille dans le sens de la longueur, et les ajouter au mélange. Dès les premières ébullitions, baisser un peu le feu, et compter 7-8 minutes.  Mettre en pot. Ne pas hésiter à mettre une gousse de vanille dans les pots, ce qui au fil des semaines va donner encore plus de goût à la confiture... Remarques : Préparer bien plus de confiture (mais les faire par série de 2 kg), sachant que 2 kg de confiture pour l'hiver n'est absolument pas suffisant... 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-aux-amandes_31516.aspx
+recipe_name	Confiture d'abricots aux amandes
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	60
+cook_time	20
+ingredients	abricot|amande|sucre|vanille
+instructions	Couper les abricots en morceaux et les faire macérer une nuit dans le sucre. Cuire environ 15 mn. En fin de cuisson, ajouter les amandes effilées (test pour la cuisson: une goutte de confiture doit se figer sur une assiette froide). Mettre en pots et déguster ! 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-aux-quatre-epices_170858.aspx
+recipe_name	Confiture d'abricots aux quatre épices
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	12
+preparation_time	15
+cook_time	30
+ingredients	abricot|quatre-epices|sucre
+instructions	Dénoyauter les abricots, mettre les oreillons dans un faitout. Ajouter le sucre. Faire cuire à feu vif tout en mélangeant pour ne pas attacher. Baisser le feu lorsque cela commence à bouillir à gros bouillons (de toute façon ça risque d'éclabousser sinon). Faire cuire jusqu'à ce que la mousse blanche qui s'est formée disparaisse (c'est le sucre qui fait ça). Cela met 20 à 30 min. Le temps que cette mousse disparaisse, ajouter deux cuillères à café de mélange de quatre épices, mélanger. Vous pouvez en ajouter plus selon votre goût mais attention à ce que le gingembre ne prenne pas le pas sur l'abricot. Avant de mettre en pot, un petit coup de mixeur permettra de lier plus la confiture. Remplir les pots au maximum, de confiture encore bouillante, les fermer et les poser sur le couvercle pour que la chaleur stérilise le couvercle. Attention aux brûlures, il faut bien fermer les pots avant de les retourner. Ranger dans le bon sens une fois froid ! Remarques : Vous pouvez mettre d'autres épices si vous préférez : de la vanille (pour 3 kg, une gousse dont on gratte les grains, laisser la gousse le temps de la cuisson), de la cannelle, etc 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-et-de-groseilles_50429.aspx
+recipe_name	Confiture d'abricots et de groseilles
+type	Confiserie
+difficulty	Très facile
+cost	Moyen
+guests_number	1
+preparation_time	45
+cook_time	5
+ingredients	abricot|groseille|sucre
+instructions	Extraire le jus des groseilles avec un extracteur à vapeur ou manuellement. Dénoyauter et découper les abricots en 8 morceaux. Verser les morceaux d'abricots et le jus de groseilles dans une casserole, porter à ébullition et laisser cuire quelques minutes. Incorporer la poudre gélifiante au sucre, bien mélanger, puis verser dans les fruits en ébullition; laisser cuire 1 min. Verser le mélange bouillant dans des verres, préalablement passés à l'eau bouillante. Fermer directement avec le couvercle en métal et retouner les bocaux sur un essuie-tout jusqu'au lendemain. Remarques : Je mets très peu de sucre dans mes confitures, pour conserver le bon goût des fruits. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-et-de-nectarines-a-la-lavande_40879.aspx
+recipe_name	Confiture d'abricots et de nectarines à la lavande
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	5
+preparation_time	60
+cook_time	7
+ingredients	abricot|jus-de-citron|lavande|nectarine|sucre
+instructions	La veille, dénoyauter les fruits, presser le citron. Mettre le tout dans une casserole (de préférence en cuivre), y ajouter le sucre. Bien mélanger l'ensemble. Mettre sur le feu jusqu'à ébullition. Dès le premier bouillon, sortir du feu et laisser refroidir. Entreposer au frais sous film pendant 12 heures. Le lendemain, préparer le sachet de lavande: mettre le bouquet dans un petit sachet de thé. Mettre sur le feu, amener à ébulition avec le sachet de lavande, dès que la confiture commence à bouillir, compter 5 minutes (gros bouillons), remuer sans cesse. Vous pouvez, si vous préférez, broyer à l'aide d'un mixer, en ayant pris soin d'ôter le sachet de lavande!!! Faire le test de l'assiette (entreposer au préalable une petite assiette au congélateur, la sortir à la fin de la cuisson , y mettre une cuillerée de confiture, elle est prise si la confiture se fige), mettre en pots, et déguster!!! Remarques : Délicieusement parfumée, cette confiture enchantera petits et grands!!! 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-nature_49496.aspx
+recipe_name	Confiture d'abricots nature
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	10
+preparation_time	120
+cook_time	15
+ingredients	abricot|sucre|vitpris
+instructions	Laver, dénoyauter et passer les abricots au mixeur avec ¼ de verre d'eau. Verser la « purée » d'abricots dans une marmite à hauts bords, type couscoussier puis y incorporer le sucre en en réservant 2 cuillères à soupe pour le gélifiant. Dans un petit saladier, mélanger le gélifiant « vitpris » avec les 2 cuillères à soupe de sucre en remuant. Porter la marmite remplie d'abricots et de sucre à ébullition sans cesser de remuer et laisser cuire 3 min après ébullition. Incorporer ensuite le mélange de « vitpris » et laisser encore bouillir pendant 5 min. Ôter l'écume blanche (si elle se forme) à l'aide d'une écumoire, remplir les pots, les fermer puis les retourner immédiatement après  pour évacuer l'air. Les laisser reposer 2 jours tête en bas puis les ranger. Remarques : En mixant les fruits, cela évite les gros morceaux (que les enfants n'apprécient pas en général) et la confiture est plus onctueuse. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-abricots-secs-a-la-cardamome_37918.aspx
+recipe_name	Confiture d'abricots secs à la cardamome
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	1
+preparation_time	10
+cook_time	30
+ingredients	abricot|cardamome|sucre|the-vert
+instructions	Pilez légèrement la cardamome. Préparez le thé vert et laissez infuser avec la cardamome. Plongez les abricots secs dans le thé et laissez-les gonfler toute la nuit. Le lendemain, égouttez les abricots, mettez-les dans une petite marmite avec le sucre. Faites cuire à feu doux pendant 1/2 h à peu près (il faut que le sucre soit fondu et devenu un sirop). Pendant ce temps, ébouillantez le pot à confiture et son couvercle. En fin de cuisson, mixez grossièrement. Mettez en pot, vissez le couvercle et retournez le pot jusqu'à refroidissement complet. Remarques : La cardomome est une épice indienne qui se sert dans le thé en Inde ou dans le café en Jordanie, ce qui donne un goût très frais. A la place de la cardamone on peut aussi ajouter: - 1 cuillère a cafe (ou à soupe, en fonction du goût) de gingembre - 2 cuillères à soupe de fleur d'orgnger en fin de cuisson pour un goût plus doux - ou alors tout simplement remplacer le the vert par du thé au jasmin Merci à Zabelle et sa confiture de figues sèches qui m'a inspirée pour inventer cette recette ;-) 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-citrouille-george-sand_21065.aspx
+recipe_name	Confiture de citrouille (George Sand)
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	15
+preparation_time	2940
+cook_time	30
+ingredients	abricot|citron|citrouille|sucre|vanille
+instructions	Mettre les abricots dans un récipient, recouvert de 2 litres d'eau bouillante. Laisser macérer 48h. Eplucher et épépiner les citrouilles, les mettre dans un récipient avec le sucre et laisser 48h. Au bout de ce temps mêler abricots et citrouille. Mettre 2 citrons coupés en 4 et la gousse de vanille. Faire cuire en tournant. Au bout d'1 heure, enlever les citrons et vanille. Dès que la confiture est prête, la mettre en pots. Remarques : Prendre une citrouille un peu sucrée. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-courgette-aux-fruits-secs_93766.aspx
+recipe_name	Confiture de courgette aux fruits secs
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	1
+preparation_time	20
+cook_time	90
+ingredients	abricot|citron|courgette|datte|gelsuc|raisins-secs|vanille
+instructions	-Eplucher, enlever les pépins et râper les courgettes -Couper les abricots en 4 -Dénoyauter les dattes et les couper en morceaux -Dans un saladier, mettre les courgettes râpées, les abricots, les dattes, les raisins, le zeste de citron, la gousse de vanille et le sucre -Bien mélanger le tout et réserver au frais au minimum 12heures -Faire cuire à feu doux pendant 1h30 -Mettre en pots 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-courgettes-et-abricots-secs_41475.aspx
+recipe_name	Confiture de courgettes et abricots secs
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	20
+cook_time	30
+ingredients	abricot|courgette|sucre
+instructions	Mixer les abricots secs dans un robot ou les couper en tous petits bouts. Les recouvrir d'eau et laisser gonfler 12h. Eplucher les courgettes et les couper en petits dés. Les faire cuire dans de l'eau environ 5 à 10 minutes. Mettre les courgettes égouttées et le sucre dans une bassine à confiture. Y ajouter les abricots et leur eau. Laisser cuire jusqu'à consistance assez épaisse. Mettre en pots et les retourner. Laisser refroidir dans cette position : vos bocaux se conserveront très longtemps ! 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-noel-aux-fruits-secs_231363.aspx
+recipe_name	Confiture de Noel aux fruits secs
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	3
+preparation_time	40
+cook_time	40
+ingredients	abricot|cerneau-de-noix|citron|datte|eau|figue|orange|pruneaux|quatre-epices|raisins-secs|sucre-en-poudre
+instructions	Couper les fruits en morceaux (sauf le raisin sec). Dans un faitout ou un grand saladier, vous mettez les fruits coupées + les raisins secs. Versez l'eau et les zestes et jus des 2 oranges ainsi que des 2 citrons, le sucre et la poudre de 4 épices. Mélangez bien le tout. Vous mettez au frigo toute la nuit. Le lendemain, faites cuire pendant 30 à 40 min à feu doux et remuant de temps en temps. Mettez en pots. Remarques : Vous pouvez accompagner cette confiture avec du foie gras, tartiné sur des toasts. Au petit déjeuner. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-noel-aux-fruits-secs_15997.aspx
+recipe_name	Confiture de Noël aux fruits secs
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	45
+cook_time	40
+ingredients	abricot|amande|cannelle|cerneau-de-noix|citron|datte|figue|orange|poire|pomme|pruneaux|raisins-secs|sucre-roux
+instructions	Brossez le citron et les oranges sous l'eau courante. Râpez leur zeste et pressez leur jus, puis réservez. Laver les pommes et les poires sans les peler. Coupez les en petits morceaux et mettez les dans une grande casserole. Ajouter deux petits verres d'eau et laissez cuire a feu doux a couvert pendant 20 mn. Lorsque les fruits sont bien cuits, retirez les du feu. Passez les au tamis et receuillez le jus dans la grande casserole. Les fruits cuits serviront pour une compote. Dans la grande casserole, ajoutez les jus et les zestes d'agrumes. ajoutez les fruits secs sauf les noix et les amandes, coupés en petits morceaux. Laissez reposer pendant 12 heures. Au bout de ce temps, versez le jus dans une bassine à confiture. Ajoutez la cannelle et le sucre. Remuez et porter a ébullition en mélangeant. Laissez cuire 10 mn. Ajoutez noix et amandes concassées. Prolonger la cuisson 10 mn. Mettez en pots. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-poires-abricots-et-vanille_50218.aspx
+recipe_name	Confiture de poires, abricots et vanille
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	60
+cook_time	30
+ingredients	abricot|poire|sucre|vanille|vitpris
+instructions	Faire revenir les abricots et les poires coupés en morceaux dans 20 cl d'eau. Lorsqu'ils sont prêts ( pour être mis en purée), les passer dans un moulin à légumes, et jeter la peau. Prélever 2 cuillères à soupe de sucre des 1,8 kg, y ajouter le sachet de vitpris, et la gousse vanille fendue en 2. Ajouter ce mélange à la préparation, et faire bouillonner sans cesser de remuer. Maintenir en ébullition pendant 3 min, puis ajouter le sucre; refaire bouillonner, et maintenir à gros bouillon 3 min, de nouveau sans cesser de remuer. Enlever l'écume qui a pu se former autour de la préparation... Et remplir les pots ! Remarques : Je garde la gousse de vanille pour la présenter dans un des pots, en déco... 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-potiron-et-abricots-secs-a-la-vanille_30274.aspx
+recipe_name	Confiture de potiron et abricots secs à la vanille
+type	Confiserie
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	20
+ingredients	abricot|citron|potiron|sucre|vanille
+instructions	La veille, mettez les abricots secs à tremper dans 50 cl d'eau. Egouttez les abricots, versez l'eau de trempage dans une bassine à confiture ou une grande marmite. Pelez et coupez le potiron en cubes. Portez l'eau à ébullition et faites-y cuire les cubes de potiron environ 20 min. Egouttez et réduisez-les en purée. Videz l'eau de la bassine, remettez la purée de potiron avec les abricots coupés en quatre, le sucre, la gousse de vanille fendue en deux et le zeste râpé du 1/2 citron. Portez à ébullition et laissez frémir environ 45 minutes en remuant souvent. Testez la consistance et mettez en pot. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-rhubarbe-automnale_30872.aspx
+recipe_name	Confiture de rhubarbe automnale
+type	Confiserie
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	45
+ingredients	abricot|cognac|rhubarbe|sucre
+instructions	Gratter et couper la rhubarbe en petits morceaux. Les faire macérer dans le sucre toute une nuit. Faire tremper les abricots dans le cognac et autant d'eau toute la nuit. Le lendemain, égoutter la rhubarbe et porter le jus rendu à ébullition. Ajouter les morceaux de rhubarbe dedans et laisser 20 min à petits bouillons. Ajouter les abricots dénoyautés et poursuivre la cuisson environ 25 min. Ecumer, tester la consistance de la confiture et mettre en pots. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-de-rhubarbe-aux-abricots-secs_20091.aspx
+recipe_name	Confiture de rhubarbe aux abricots secs
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	10
+cook_time	50
+ingredients	abricot|rhubarbe|sucre|vitpris
+instructions	Epluchez la rhubarbe, coupez les tiges en petits morceaux, les abricots en petits morceaux saupoudrez avec le sucre.Laissez macérer jusqu'à ce que le sucre soit fondu, portez le tout à ébullition, laissez cuire 50 mn environ. Si on veut une confiture plus dense, on peut ajouter à la fin un sachet de vitpris et faire cuire 3 mn (à gros bouillons sans cesser de remuer) de plus sans oublier une noix de beurre pour faire disparaître l'écume vérifiez la consistance et mettez en pots. Remarques : Je tiens cette cette de ma grand-mère qui serait plus que centenaire et j'ai toujours autant de succès lorsque je la fait découvrir à des néophytes. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-d-oignon_26524.aspx
+recipe_name	Confiture d'oignon
+type	Accompagnement
+difficulty	Très facile
+cost	Bon marché
+guests_number	10
+preparation_time	10
+cook_time	45
+ingredients	abricot|eau|oignon|raisin|sucre|thym|vin-blanc
+instructions	Émincer les oignons, puis les blanchir deux fois les oignons. Ajouter la moitié du vin et la même quantité d'eau. Ajouter les abricots et les raisins hachés ainsi que le thym. Ajouter le sucre. Laisser confire en remuant pendant environ 45 min en rajoutant de l'eau et du vin après chaque évaporation. Boisson conseillée : sauterne 
+
+url	http://www.marmiton.org/recettes/recette_confiture-figues-abricot-rhubarbe_324065.aspx
+recipe_name	Confiture figues abricot rhubarbe
+type	Accompagnement
+difficulty	Facile
+cost	Bon marché
+guests_number	3
+preparation_time	60
+cook_time	10
+ingredients	abricot|figue|rhubarbe|sucre|vanille
+instructions	Couper les fruits en petits morceaux. Mélanger les fruits avec le sucre. Ouvrir la gousse de vanille en longueur et gratter la vanille. Mettre la gousse et les grains de vanille avec le mélange fruits et sucre et laisser fondre le sucre pendant la nuit. Mettre le tout dans une casserole et chauffer en remuant constamment et à ébullition laisser frémir 5 à 8 minutes. Faites un essai avec quelques gouttes sur une assiette . Ecumez la confiture et remplir les pots , et ensuite les retourner jusqu'à refroidissement. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-peche-abricot_30938.aspx
+recipe_name	Confiture pêche - abricot
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	25
+cook_time	20
+ingredients	abricot|amande|citron|peche|sucre|sucre-en-poudre|sucre-roux|vanille
+instructions	LA VEILLE : Laver essuyer les abricots. Les couper en quatre. Extraire les noyaux. Peler les pêches. Les couper en morceaux. Mettre les deux fruits mélangés dans une marmite et ajouter les différents sucres ainsi que le citron et la vanille. Couvrir. Faire macérer toute une nuit. LE JOUR MÊME : Mettre la marmite sur feu vif. Lorsque la préparation arrive à ébullition laissez cuire à gros bouillons pendant 20 min. Mettre en pots et couvrir de papier cellophane ou de paraffine. Petite astuce : Pour éviter l'écume au moment de la cuisson ajouter une noix de beurre salé. Petite touche personnelle : pendant les cinq dernières minutes de cuisson j'ajoute une poignée d'amandes effilées dont le goût se marie très bien avec la saveur de l'abricot. BON APPÉTIT ! 
+
+url	http://www.marmiton.org/recettes/recette_confiture-peche-abricot-facile_35969.aspx
+recipe_name	Confiture pêche abricot facile
+type	Confiserie
+difficulty	Très facile
+cost	Bon marché
+guests_number	10
+preparation_time	20
+cook_time	20
+ingredients	abricot|peche|pectine|sucre
+instructions	Prévoir des verrines à confitures. Stériliser les verrines en les plongeant quelques minutes dans l'eau bouillante et les faire sécher à l'envers sur un linge propre. Ebouillanter les fruits, les peler, ler couper en fines tranches. Déposer les fruits dans un faitout ou marmite à confiture et ajouter 10 cl d'eau. Mélanger le sachet de pectine avec 2 cuillères à soupe de sucre gélifiant et les verser sur les fuits. Couvrir. Faire mijoter pendant 10 mn. Ecraser les fruits en laissant des morceaux et ajouter le reste du sucre. Faire mijoter 10 min sans cesser de remuer jusqu'à ébullition et jusqu'à ce que le sucre ait bien fondu. Quand les fruits cuisent à gros bouillons, laisser encore 3 min sur le feu sans cesser de remuer, puis sans attendre. Verser la confiture dans les verrines à l'aide d'une louche. Bien refermer les verrines et les disposer à l'envers pendant 10 min (attention aux risques de brûlure). Les ranger au réfrigérateur et attendre 1 à 2 jours qu'elles soient bien prises. Remarques : Les fruits utilisés peuvent être choisis frais, surgelés ou en conserve. 
+
+url	http://www.marmiton.org/recettes/recette_confiture-peche-abricot-au-multicuiseur_336726.aspx
+recipe_name	Confiture pêche-abricot au Multicuiseur
+type	- Dessert
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	90
+cook_time	20
+ingredients	abricot|jus-de-citron|peche|sucre-en-poudre
+instructions	Une heure et demie avant de cuire votre confiture, commencez par laver et dénoyauter les abricots et les pêches puis mettez les fruits dans un saladier avec le sucre et le jus de citron. Mélangez et couvrez pour laisser les fruits confire une heure. Démarrez le Multicuiseur avec "On/Off", dans "Menu" choisissez "Confiture" puis programmez le "Temps de cuisson" sur 20 minutes et appuyez de nouveau sur "On/Off". Versez la préparation de fruits confits dans le Multicuiseur et mélangez avec une spatule. Lancez la cuisson en surveillant et en écumant de temps en temps la confiture. Répartissez la confiture dans des pots en verre stérilisés et conservez-les dans un endroit sec. Eteignez le Multicuiseur en maintenant appuyé le bouton "On/Off" quelques secondes. 
+
