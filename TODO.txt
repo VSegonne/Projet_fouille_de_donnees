@@ -1,7 +1,0 @@
-
-
-3 - Faire fonction pondération score
-
-
-- Grid Search Clustering
-- Modéliser Profile en objet
