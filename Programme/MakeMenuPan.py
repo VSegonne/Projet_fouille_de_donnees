@@ -265,7 +265,7 @@ class FinishButton(Button):
                 self.model.increment_score_by_one(self.model.profile.get_name(), recipe)
                 root = self.frame.frame.root
                 self.frame.frame.destroy()
-                root.geometry("+300+400")
+                root.geometry="+300+400"
                 for recipe in self.model.menu:
                     f = FinishRecipeFrame(root, self.model, recipe)
                     f.grid(row= i+1, pady=15, padx=15)
