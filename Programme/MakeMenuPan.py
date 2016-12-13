@@ -25,9 +25,13 @@ class TopFrame(Frame):
     def __init__(self, frame, model):
         Frame.__init__(self, frame)
 
+        Label(self, text = "CA MARCHE").pack()
 
 
 class BotFrame(Frame):
     def __init__(self, frame, model):
         Frame.__init__(self, frame)
 
+class RandomMenuFrame(Frame):
+    def __init__(self, frame, model):
+        Frame.__init__(self, frame)
