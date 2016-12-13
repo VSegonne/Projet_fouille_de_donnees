@@ -79,10 +79,10 @@ function fetch_all ($file,$html) {
 
 	$bd = array();
 
-	while (count($bd) <= 10000) {
+	#while (count($bd) <= 10000) {
 
-		foreach (fetch_letters($html) as $letter) {
-			foreach (fetch_ingredients($letter) as $ingredient) {
+		#foreach (fetch_letters($html) as $letter) {
+			foreach (fetch_ingredients("http://www.marmiton.org/recettes/recettes-index.aspx?letter=B") as $ingredient) {
 				echo "page ingre : ".$ingredient."\n";
 				if (count(fetch_pages($ingredient)) == 0) {
 					foreach (fetch_recipes($ingredient) as $recipe) {
@@ -106,8 +106,9 @@ function fetch_all ($file,$html) {
 				}
 				echo "#recipes = ".count($bd)."\n";
 			}
-		}
-	}
+		#}
+
+	#}
 }
 
 # ==================
@@ -175,7 +176,7 @@ function write_recipe($file,$page) {
 # === MAIN ===
 # ============
 
-$file = fopen('output_recipes_1212.txt','a');
+$file = fopen('recipes_index_B.txt','a');
 fetch_all($file,"http://www.marmiton.org/recettes/recettes-index.aspx");
 fclose($file);
 
