@@ -2,17 +2,17 @@
 
 import sqlite3 as sq
 import sys
+import chardet
 from Recipe import  *
 from Profile import *
 
 class DataBaseManager():
 
-    def __init__(self, recipes_database=None, profiles_database=None):
+    def __init__(self, recipes_database=None, profiles_database=None) :
         self.recipes_database = recipes_database
         self.profiles_database = profiles_database
 
-
-    def load_recipes_from_textFile(recipes_file):
+    def load_recipes_from_textFile(self, recipes_file) :
 
         """ Load recipes from a text file"""
 
@@ -25,14 +25,12 @@ class DataBaseManager():
         recipes_name = set([]) #To avoid duplicates
 
         while line:
-
-            if line == "\n":
+            if line == "\n" :
                 if recipe["type"] == "Plat principal" and recipe["name"] not in recipes_name:
                     recipes_name.add(recipe["name"])
                     recipes.append(recipe)
                     recipe = {}
-
-            else:
+            else :
                 line = line.rstrip()
                 line = line.split('\t')
                 if line[0] == "recipe_name":
@@ -45,15 +43,12 @@ class DataBaseManager():
         database.close()
         return recipes
 
+    def create_recipes_database_from_textFile(self, database_name, recipes_file) :
 
-
-
-    def create_recipes_database_from_textFile(database_name, recipes_file):
-
-        recipes = load_recipes_from_textFile(recipes_file)
-        sys.exit()
+        recipes = self.load_recipes_from_textFile(recipes_file)
 
         conn = sq.connect(database_name)
+        conn.text_factory = lambda x: unicode(x, 'utf-8', 'ignore')
         cursor = conn.cursor()
         cursor.execute("""
                     CREATE TABLE IF NOT EXISTS Recipes(
@@ -72,8 +67,7 @@ class DataBaseManager():
                     """
                     )
 
-
-        for recipe in recipes:
+        for recipe in recipes :
             cursor.execute("""
                         INSERT INTO Recipes(url, name, type, difficulty, cost, guests_number, preparation_time, \
                         cook_time, ingredients, instructions) VALUES(:url, :name, :type, :difficulty, :cost, :guests_number, \
@@ -81,12 +75,10 @@ class DataBaseManager():
                         """, recipe
                             )
 
-
-
         conn.commit()
         conn.close()
 
-    def clean_database(database_file, table):
+    def clean_database(self, database_file, table):
 
         """ Deletes duplicates in table """
 
@@ -164,6 +156,7 @@ class DataBaseManager():
             Return : _
         """
         conn = sq.connect("Profile.db")
+        conn.text_factory = str
         cursor = conn.cursor()
         create = "CREATE TABLE " + profile_name + """(
                 id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -394,5 +387,5 @@ class DataBaseManager():
         return profile
 
 if __name__ == "__main__":
-    pass
-
+    newDB = DataBaseManager()
+    newDB.create_recipes_database_from_textFile("Recipes2.db","output_recipes_1212.txt")
