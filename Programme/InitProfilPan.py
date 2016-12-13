@@ -11,7 +11,7 @@ class InitProfilPan(tkinter.Frame):
 
         tkinter.Frame.__init__(self, root,  relief="groove")
 
-        root.geometry("+250+150")
+        root.geometry("+220+150")
 
         self.root = root
         self.model = model
@@ -25,7 +25,9 @@ class InitProfilPan(tkinter.Frame):
         self.recipeFrame.grid(row=1, column=0, )
 
         self.buttonFrame = ButtonFrame(self, model).grid(row=3, column=0, pady=10)
+
         self.pack_propagate(False)
+
 
 class ButtonFrame(Frame):
 
@@ -36,6 +38,7 @@ class ButtonFrame(Frame):
         iDontLikeButton = IDontLikeButton(self, model).grid(row=0, column=1)
         nextButton = NextButton(self, model).grid(row=0, column=2)
 
+
 class ILikeButton(Button):
 
     def __init__(self, frame, model):
@@ -44,7 +47,7 @@ class ILikeButton(Button):
         Button.__init__(self, self.frame, text="J'aime!", command=self.action)
 
     def action(self):
-        if len(self.frame.root.liked_recipes) < 20:
+        if len(self.model.profile.liked_recipes) < 20:
             self.addRecipe2likedRecipes()
         else:
             self.model.generate_recipes()
@@ -52,18 +55,32 @@ class ILikeButton(Button):
 
     def addRecipe2likedRecipes(self):
 
-        self.frame.root.Name.destroy()
+
+        profile_name = self.model.profile.get_name()
+        liked_recipe = self.model.recipes[self.frame.root.count]
+        self.model.add_liked_recipe_to_profile(profile_name, liked_recipe)
+
+
+
+        # Destroy previous frame
+        self.frame.root.recipeNameFrame.destroy()
+        self.frame.root.recipeFrame.destroy()
+
+        self.frame.root.recipeNameFrame = RecipeNameFrame(self.frame.root, self.model)
+        self.frame.root.recipeNameFrame.grid(row= 0, column=0)
+
         self.frame.root.recipeFrame = RecipeFrame(self.frame.root, self.model)
-        self.frame.root.liked_recipes.append(self.frame.root.recipes[0])
+        self.frame.root.recipeFrame.grid(row=1, column=0, )
+
         self.frame.root.count += 1
+
 
 class IDontLikeButton(Button):
 
     def __init__(self, frame, model):
         self.frame = frame
         Button.__init__(self, self.frame, text="Je n'aime pas!")
-        #TODO
-        # Add recipe to dont like
+
 
 class NextButton(Button):
 
@@ -79,13 +96,13 @@ class NextButton(Button):
         self.frame.root.recipeNameFrame.destroy()
         self.frame.root.recipeFrame.destroy()
 
+        self.frame.root.recipeNameFrame = RecipeNameFrame(self.frame.root, self.model)
+        self.frame.root.recipeNameFrame.grid(row= 0, column=0)
 
-        #self.frame.root.recipeNameFrame = RecipeNameFrame(self.frame.root, self.model)
-        #self.recipeNameFrame.grid(row= 0, column=0)
+        self.frame.root.recipeFrame = RecipeFrame(self.frame.root, self.model)
+        self.frame.root.recipeFrame.grid(row=1, column=0, )
 
-        #self.recipeFrame = RecipeFrame(self, self.model)
-        #self.recipeFrame.grid(row=1, column=0, )
-        #self.frame.root.count += 1
+        self.frame.root.count += 1
 
 
 class RecipeNameFrame(LabelFrame):
@@ -134,7 +151,10 @@ class RecipeIngredientsFrame(LabelFrame):
         tkinter.LabelFrame.__init__(self, frame, text="Ingrédients")
         ingredients = ""
         for i, ingredient in enumerate(frame.root.model.recipes[frame.root.count].get_ingredients().split('|')):
-            ingredients += ingredient + ", "
+            if i%5 == 0 :
+                ingredients += "\n"
+            else:
+                ingredients += ingredient + ", "
         ingredients =ingredients.rstrip(', ')
 
         tkinter.Label(self, text = ingredients, background="white").pack(padx=10, pady=10)

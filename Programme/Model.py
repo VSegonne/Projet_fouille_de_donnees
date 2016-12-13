@@ -41,8 +41,10 @@ class Model():
         print("Affichage des recettes proposées")
 
     def create_new_profile(self, profile_name):
-        self.DBM.create_profile_table(profile_name)
+        #self.DBM.create_profile_table(profile_name)
         self.profile = Profile(profile_name)
 
 
 
+    def add_liked_recipe_to_profile(self, profile_name, liked_recipe):
+        self.DBM.add_liked_recipe_to_profile(profile_name, liked_recipe)

@@ -3,8 +3,8 @@ class Profile():
 
     def __init__(self, profile_name):
         self.name = profile_name
-        self.liked_recipes = None
-        self.disliked_recipes = None
+        self.liked_recipes = []
+        self.disliked_recipes = []
 
     def get_name(self):
         return self.name
@@ -20,5 +20,8 @@ class Profile():
     def set_disliked_recipes(self, disliked_recipes):
         self.disliked_recipes
 
+    def add_liked_recipe(self, liked_recipe):
+        self.liked_recipes.append(liked_recipe)
 
-
+    def add_disliked_recipe(self, disliked_recipe):
+        self.liked_recipes.append(disliked_recipe)
