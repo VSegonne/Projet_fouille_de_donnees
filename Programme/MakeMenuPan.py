@@ -71,7 +71,9 @@ class RecommendRecipeFrame(Frame):
         infoButton.grid(row=1, column=0, sticky="W")
 
         addRecipeButton = AddRecipeButton(self, model)
-        addRecipeButton.grid(row=1)
+        addRecipeButton.grid(row=0, column=2)
+
+        Button(self, text="Switch").grid(row=1, column=2)
 
         self.grid_columnconfigure(0, minsize=400)
 
@@ -84,6 +86,7 @@ class LikeButton(Button):
     def like(self):
         self.background="green"
         self.frame.configure(bg="green")
+        self.model.add_liked_recipe_to_profile(self.model.profile.get_name(), self.frame.recipe)
         print("Je like")
 
 class DislikeButton(Button):
@@ -94,6 +97,7 @@ class DislikeButton(Button):
 
     def dislike(self):
         self.frame.configure(background="red")
+        self.model.add_disliked_recipe_to_profile(self.model.profile.get_name(), self.frame.recipe)
         print("Je n'aime pas")
 
 
@@ -150,18 +154,21 @@ class RandomRecipeFrame(Frame):
         self.model = model
         self.recipe = recipe
 
-        Label(self, text= recipe.get_name()).grid(row=0, column=0, sticky="W", padx=10, pady=10)
+        Label(self, text= recipe.get_name()).grid(row=0, column=0, sticky="W", padx=10, pady=5)
 
         self.grid_columnconfigure(0, minsize=400)
 
         addButton = AddRecipeButton(self, model)
         addButton.grid(row=0, column=1)
 
-        suppButton =SuppRecipeButton(self, model)
-        suppButton.grid(row=1, column=1)
+        dislikeButton = DislikeButton(self, model)
+        dislikeButton.configure(text="Je n'aime plus")
+        dislikeButton.grid(row=1, column=1)
 
         infoButton = InfoRecipeButton(self, model)
         infoButton.grid(row=1, sticky="W")
+
+        Button(self, text="Switch").grid(row=3, column=1)
 
 
 class AddRecipeButton(Button):

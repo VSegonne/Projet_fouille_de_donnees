@@ -53,7 +53,6 @@ class OkButton(Button):
         elif self.model.exists_profile(self.frame.listProfile.get_profile_name()):
 
             self.model.load_profile_from_database(self.frame.listProfile.get_profile_name())
-            print(self.model.profile.get_liked_recipes())
             self.frame.destroy()
             self.model.generate_recipes()
 

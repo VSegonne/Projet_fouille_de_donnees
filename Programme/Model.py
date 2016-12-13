@@ -3,6 +3,7 @@ from MainMenuPan import *
 from MakeMenuPan import *
 from InitProfilPan import *
 from Profile import *
+from RecipeAdviser import  *
 class Model():
 
     def __init__(self, root, DBM):
@@ -48,10 +49,17 @@ class Model():
 
         # TODO
         # Enlever model.recommended recipes
-        self.recommended_recipes = self.profile.get_liked_recipes()
+        self.recommended_recipes = self.get_recommended_recipes()
+        print("HEY")
+        sys.exit()
         makeMenu = MakeMenuPan(self.root, self)
         makeMenu.pack()
         print("Affichage des recettes proposées")
+
+    def get_recommended_recipes(self):
+        recipeAdviser = RecipeAdviser(self.profile, self.recipes)
+        recipeAdviser.generate_recommended_recipes()
+
 
     def create_new_profile(self, profile_name):
         self.DBM.create_profile_table(profile_name)
@@ -60,18 +68,26 @@ class Model():
 
 
     def add_liked_recipe_to_profile(self, profile_name, liked_recipe):
+        liked_recipe.set_opinion("like")
         self.profile.add_liked_recipe(liked_recipe)
         self.DBM.add_liked_recipe_to_profile(profile_name, liked_recipe)
 
     def add_disliked_recipe_to_profile(self, profile_name, disliked_recipe):
+        disliked_recipe.set_opinion("dislike")
         self.profile.add_disliked_recipe(disliked_recipe)
         self.DBM.add_disliked_recipe_to_profile(profile_name, disliked_recipe)
 
     def add_recipe_to_menu(self, recipe):
-        if len(self.menu) < 7:
-            self.menu.append(recipe)
-        else:
-            showinfo('Attention!', 'Vous avez déjà 7 repas!')
+
+        if recipe.get_opinion() != "like":
+                showinfo('Attention', "Vous ne pouvez pas ajouter de recette que vous n'avez pas aimé..")
+
+        if recipe.get_opinion() == "like":
+            if len(self.menu) < 7 :
+                self.menu.append(recipe)
+
+            else:
+                showinfo('Attention!', 'Vous avez déjà 7 repas!')
 
     def sup_recipe_from_menu(self, recipe):
         self.menu.remove(recipe)

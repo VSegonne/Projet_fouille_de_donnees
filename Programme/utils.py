@@ -40,7 +40,6 @@ def vectorize_recipes2(recipes):
 
         feats = []
         for feat in difficulty_feats:
-            print("ICI",recipes[i].get_difficulty())
             if recipes[i].get_difficulty() == feat:
                 feats.append(1)
             else:
@@ -102,7 +101,7 @@ def vectorize_recipes2(recipes):
     return v_recipes
 
 
-def weights_recipe_with_score(v_recipe, score):
+def weight_recipe_with_score(v_recipe, score):
     return v_recipe*score
 
 

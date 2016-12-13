@@ -245,19 +245,19 @@ class DataBaseManager():
             preparation_time, cook_time, ingredients, instructions, opinion, score FROM " + profile_name + \
             " WHERE opinion='dislike'"
 
-        liked_recipes = []
+        disliked_recipes = []
 
         for row in cursor.execute(loading):
             recipe_attributes = []
             for i, col in enumerate(row):
                 recipe_attributes.append(col)
-            liked_reciped = Recipe(*recipe_attributes)
-            liked_reciped.set_opinion("like")
-            liked_recipes.append(liked_recipe)
+            disliked_recipe = Recipe(*recipe_attributes)
+            disliked_recipe.set_opinion("like")
+            disliked_recipes.append(disliked_recipe)
 
 
         conn.close()
-        return liked_recipes
+        return disliked_recipes
 
     def load_disliked_recipes_from_profile(profile_name):
         """ Load the recipes that have been liked by the profile user
@@ -313,34 +313,53 @@ class DataBaseManager():
 
         recipe = self.recipe2dict(liked_recipe)
 
-        insert = """INSERT INTO """ + profile_name +"""
+        cursor.execute("select opinion, score from " + profile_name + " where name = " + "\"" +recipe["name"] +"\"")
+        exists = cursor.fetchone()
+
+        if not exists :
+
+            insert = """INSERT INTO """ + profile_name +"""
                     (url, name, type, difficulty, cost, guests_number, preparation_time, cook_time,
                     ingredients, instructions, opinion, score)
                     values (:url, :name, :type, :difficulty, :cost, :guests_number, :preparation_time,
                     :cook_time, :ingredients, :instructions, :opinion, :score)
                     """
 
-        cursor.execute(insert, recipe)
+            cursor.execute(insert, recipe)
 
+        else:
+            if exists[0] == "dislike":
+               update = " update "+ profile_name + " set opinion = 'like' where name = " + "\"" +recipe["name"] + "\""
+               cursor.execute(update)
         conn.commit()
         conn.close()
 
     def add_disliked_recipe_to_profile(self, profile_name, disliked_recipe):
+
 
         conn = sq.connect("Profile.db")
         cursor = conn.cursor()
 
         recipe = self.recipe2dict(disliked_recipe)
 
-        insert = """INSERT INTO """ + profile_name +"""
+        cursor.execute("select opinion, score from " + profile_name + " where name = " + "\"" +recipe["name"] +"\"")
+        exists = cursor.fetchone()
+
+        if not exists :
+
+            insert = """INSERT INTO """ + profile_name +"""
                     (url, name, type, difficulty, cost, guests_number, preparation_time, cook_time,
                     ingredients, instructions, opinion, score)
                     values (:url, :name, :type, :difficulty, :cost, :guests_number, :preparation_time,
                     :cook_time, :ingredients, :instructions, :opinion, :score)
                     """
 
-        cursor.execute(insert, recipe)
+            cursor.execute(insert, recipe)
 
+        else:
+            if exists[0] == "like":
+               update = " update "+ profile_name + " set opinion = 'dislike' where name = " + "\"" + recipe["name"] +"\""
+               cursor.execute(update)
         conn.commit()
         conn.close()
 

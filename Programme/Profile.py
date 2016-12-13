@@ -24,6 +24,10 @@ class Profile():
 
     def add_liked_recipe(self, liked_recipe):
         self.liked_recipes.append(liked_recipe)
+        if liked_recipe in self.disliked_recipes:
+            self.disliked_recipes.remove(liked_recipe)
 
     def add_disliked_recipe(self, disliked_recipe):
-        self.liked_recipes.append(disliked_recipe)
+        self.disliked_recipes.append(disliked_recipe)
+        if disliked_recipe in self.liked_recipes:
+            self.liked_recipes.remove(disliked_recipe)
