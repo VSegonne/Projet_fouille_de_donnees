@@ -47,9 +47,10 @@ class ILikeButton(Button):
         Button.__init__(self, self.frame, text="J'aime!", command=self.action)
 
     def action(self):
-        if len(self.model.profile.liked_recipes) < 20:
+        if len(self.model.profile.liked_recipes) < 19:
             self.addRecipe2likedRecipes()
         else:
+
             self.model.generate_recipes()
             self.frame.root.destroy()
 
@@ -58,6 +59,8 @@ class ILikeButton(Button):
 
         profile_name = self.model.profile.get_name()
         liked_recipe = self.model.recipes[self.frame.root.count]
+        liked_recipe.set_opinion("like")
+        liked_recipe.set_score(1)
         self.model.add_liked_recipe_to_profile(profile_name, liked_recipe)
 
 
@@ -79,7 +82,32 @@ class IDontLikeButton(Button):
 
     def __init__(self, frame, model):
         self.frame = frame
-        Button.__init__(self, self.frame, text="Je n'aime pas!")
+        self.model = model
+        Button.__init__(self, self.frame, text="Je n'aime pas!", command=self.addRecipe2dislikedRecipes)
+
+
+    def addRecipe2dislikedRecipes(self):
+
+
+        profile_name = self.model.profile.get_name()
+        disliked_recipe = self.model.recipes[self.frame.root.count]
+        disliked_recipe.set_opinion("dislike")
+        disliked_recipe.set_score(1)
+        self.model.add_liked_recipe_to_profile(profile_name, disliked_recipe)
+
+
+
+        # Destroy previous frame
+        self.frame.root.recipeNameFrame.destroy()
+        self.frame.root.recipeFrame.destroy()
+
+        self.frame.root.recipeNameFrame = RecipeNameFrame(self.frame.root, self.model)
+        self.frame.root.recipeNameFrame.grid(row= 0, column=0)
+
+        self.frame.root.recipeFrame = RecipeFrame(self.frame.root, self.model)
+        self.frame.root.recipeFrame.grid(row=1, column=0, )
+
+        self.frame.root.count += 1
 
 
 class NextButton(Button):

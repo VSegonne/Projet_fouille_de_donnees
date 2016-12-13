@@ -332,6 +332,25 @@ class DataBaseManager():
         conn.commit()
         conn.close()
 
+    def add_disliked_recipe_to_profile(self, profile_name, disliked_recipe):
+
+        conn = sq.connect("Profile.db")
+        cursor = conn.cursor()
+
+        recipe = self.recipe2dict(disliked_recipe)
+
+        insert = """INSERT INTO """ + profile_name +"""
+                    (url, name, type, difficulty, cost, guests_number, preparation_time, cook_time,
+                    ingredients, instructions, opinion, score)
+                    values (:url, :name, :type, :difficulty, :cost, :guests_number, :preparation_time,
+                    :cook_time, :ingredients, :instructions, :opinion, :score)
+                    """
+
+        cursor.execute(insert, recipe)
+
+        conn.commit()
+        conn.close()
+
     def recipe2dict(self, recipe):
         recipe_dict = {}
         recipe_dict["url"] = recipe.get_url()
