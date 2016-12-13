@@ -46,3 +46,10 @@ class Model():
 
 
 
+    def add_liked_recipe_to_profile(self, profile_name, liked_recipe):
+        self.profile.add_liked_recipe(liked_recipe)
+        self.DBM.add_liked_recipe_to_profile(profile_name, liked_recipe)
+
+    def add_disliked_recipe_to_profile(self, profile_name, disliked_recipe):
+        self.profile.add_disliked_recipe(disliked_recipe)
+        self.DBM.add_disliked_recipe_to_profile(profile_name, disliked_recipe)

@@ -8,16 +8,16 @@ import sys
 class InitProfilPan(tkinter.Frame):
 
     def __init__(self, root, model):
-        tkinter.Frame.__init__(self, root, width=600, height=700,  relief="groove")
-        self.frameButton = Frame(self)
+        root.geometry("+600+200")
+        tkinter.Frame.__init__(self, root,  relief="groove")
+
+        self.model = model
         self.count = 0
-        self.recipes = model.getRecipes()
-        print('LEN RECIPES', len(self.recipes))
 
-        buttonFrame = ButtonFrame(self, model)
-        self.recipeFrame = RecipeFrame(self, model)
-        self.liked_recipes = []
 
+        self.recipeNameFrame = RecipeNameFrame(self, model).grid(row= 0, column=0)
+        self.recipeFrame = RecipeFrame(self, model).grid(row=1, column=0)
+        self.buttonFrame = ButtonFrame(self, model).grid(row=3, column=0)
         self.pack_propagate(False)
 
 class ButtonFrame(Frame):
@@ -28,7 +28,6 @@ class ButtonFrame(Frame):
         iLikeButton = ILikeButton(self, model).grid(row=0, column=0)
         iDontLikeButton = IDontLikeButton(self, model).grid(row=0, column=1)
         nextButton = NextButton(self, model).grid(row=0, column=2)
-        self.pack(side="bottom")
 
 class ILikeButton(Button):
 
@@ -73,13 +72,68 @@ class NextButton(Button):
         self.frame.root.count += 1
 
 
+class RecipeNameFrame(LabelFrame):
+    def __init__(self, frame, model):
+        tkinter.LabelFrame.__init__(self, frame, text="Nom de la recette", relief="raised")
+        tkinter.Label(self, text = frame.model.recipes[frame.count].get_name(), background="white").pack(padx=30, pady=10)
+        self.grid(row=0, column=0, padx=30, pady=30)
+
+class RecipeDifficultyFrame(LabelFrame):
+    def __init__(self, frame, model):
+        tkinter.LabelFrame.__init__(self, frame, text="difficulté", relief="raised")
+        frame.root.count += 1
+        tkinter.Label(self, text = frame.root.model.recipes[frame.root.count].get_difficulty(), background="white").pack(padx=30, pady=10)
+        self.grid(row=1, column=1, padx=10, pady=30)
+
+class RecipeCostFrame(LabelFrame):
+    def __init__(self, frame, model):
+        tkinter.LabelFrame.__init__(self, frame, text="Coût")
+        frame.root.count += 1
+        tkinter.Label(self, text = frame.root.model.recipes[frame.root.count].get_cost(), background="white").pack(padx=30, pady=10)
+        self.grid(row=1, column=0, padx=10, pady=30)
+
+class RecipeGuestsNbFrame(LabelFrame):
+    def __init__(self, frame, model):
+        tkinter.LabelFrame.__init__(self, frame, text="Nombre de couverts")
+
+        tkinter.Label(self, text = frame.root.model.recipes[frame.root.count].get_guests_number(), background="white").pack(padx=30, pady=10)
+        self.grid(row=2, column=0, padx=10, pady=30)
+
+class RecipePtimeFrame(LabelFrame):
+    def __init__(self, frame, model):
+        tkinter.LabelFrame.__init__(self, frame, text="Temps de Préparation")
+
+        tkinter.Label(self, text = frame.root.model.recipes[frame.root.count].get_preparation_time(), background="white").pack(padx=30, pady=10)
+        self.grid(row=2, column=0, padx=10, pady=30)
+
+class RecipeCtimeFrame(LabelFrame):
+    def __init__(self, frame, model):
+        tkinter.LabelFrame.__init__(self, frame, text="Temps de cuisson")
+
+        tkinter.Label(self, text = frame.root.model.recipes[frame.root.count].get_cook_time(), background="white").pack(padx=30, pady=10)
+        self.grid(row=2, column=0, padx=10, pady=30)
+
+class RecipeIngredientsFrame(LabelFrame):
+    def __init__(self, frame, model):
+        tkinter.LabelFrame.__init__(self, frame, text="Ingrédients")
+        ingredients = ""
+        for i, ingredient in enumerate(frame.root.model.recipes[frame.root.count].get_ingredients().split('|')):
+            ingredients += ingredient + ", "
+        ingredients =ingredients.rstrip(', ')
+        print(ingredients)
+
+        tkinter.Label(self, text = ingredients, background="white").pack(padx=30, pady=10)
+        self.grid(row=3, column=0, padx=10, pady=30)
+
 class RecipeFrame(Frame):
 
-    def __init__(self, frame, model):
-        Frame.__init__(self, frame)
-        label = Label(self, text=frame.recipes[frame.count]["recipe_name"])
-        label.pack()
-        self.place(relx=0.5, rely=0.5, anchor=CENTER)
-        frame.count += 1
+    def __init__(self, root, model):
+        tkinter.Frame.__init__(self, root)
+        self.root = root
+        #name = RecipeNameFrame(self, model)
+        difficulty = RecipeDifficultyFrame(self, model)
+        cost = RecipeCostFrame(self, model)
+        guests_number = RecipeGuestsNbFrame(self, model)
+        ingredients = RecipeIngredientsFrame(self, model)
 
 

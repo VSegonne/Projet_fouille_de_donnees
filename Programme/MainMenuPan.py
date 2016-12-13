@@ -46,7 +46,7 @@ class OkButton(Button):
             else:
                 showinfo('Bienvenu !', "C'est la première fois que vous utilisez ce programme. Avant de faire votre menu, je dois apprendre à vous connaitre! Pour cela, je vais vous présenter des recettes aléatoires, à vous de me dire si elle vous plaît. Lorsque vous aurez atteint 20 recettes  \
                          je vous proposerai un menu!")
-                #self.model.create_new_profile(new_profile)
+                self.model.create_new_profile(new_profile)
                 self.frame.destroy()
                 self.model.init_cold_start(new_profile)
                 #print(self.frame.entree.get())
