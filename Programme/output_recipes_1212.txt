@@ -713,17 +713,6 @@ cook_time	30
 ingredients	abricot|ail|beurre|cannelle|clou-de-girofle|echalote|huile|pigeon|pistache|poivre|sauce-soja|sel|sirop-d-erable
 instructions	Demander à votre boucher de vider les pigeons et de garder les foies. Dans une terrine, réunir la sauce soja, le sirop d'érable, l'huile, la cannelle, les clous de girofle, les grains de poivre concassés, les échalotes et l'ail préalablement émincés. Placer alors les pigeons dans cette marinade, pendant 2 heures, tout en veillant bien à les retourner régulièrement. Puis retirer les pigeons et récupérer le jus de marinade. Préchauffer le four à 180°C (thermostat 6). Saler et poivrer les foies des pigeons. Faire chauffer le beurre dans une poêle, et y faire dorer les foies de chaque côté. Hacher les foies ainsi dorés avec les abricots et les pistaches. Ajouter ce mélange, la moitié de la marinade et en farcir généreusement les pigeons. Les brider et les faire cuire dans une cocotte en fonte au four pendant 25 à 30 min, selon grosseur, en veillant à les retourner au milieu de la cuisson. Cette durée est à adapter à la taille des pigeons et à vos préférences (45 à 50 min pour des pigeons plus gros ou si vous,les préférez bien cuits). Retirer le tout, disposer les pigeons sur le plat de service. Mettre la cocotte sur feu vif et déglacer avec le reste de marinade et 10 cl d'eau. Réduire d'un tiers et verser en saucière. Servir aussitôt. Remarques : Ce plat sera délicieux servi avec du riz sauvage ou basmati. Boisson conseillée : un côte du roussilon rouge 
 
-url	http://www.marmiton.org/recettes/recette_pilaf-de-mouton-aux-abricots-secs_11780.aspx
-recipe_name	Pilaf de mouton aux abricots secs
-type	Plat principal
-difficulty	-
-cost	
-guests_number	6
-preparation_time	15
-cook_time	40
-ingredients	
-instructions	Faire chauffer l'huile dans une grande casserole. Ajouter le mouton et faire brunir. Retirer la viande, réserver au chaud. Mettre l'oignon, le poivron, et l'ail dans l'huile et cuire 3 mn, en remuant de temps en temps. Ajouter les épices en poudre et cuire 1mn en remuant. Remettre la viande dans la casserole. Ajouter le bouillon, le vin, ajouter sel et poivre selon gout et bien mélanger. Couvrir, amener à ébullition puis réduire le feu et laisser mijoter 15 mins en remuant de temps en temps. Ajouter les abricots et remettre à bouillir. Couvrir, réduire le feu et laisser mijoter 15 mins à nouveau. Ajouter le riz et laisser encore cuire 10 mn. Ajouter les noix de cajou et servir en garnissant avec des brins ou feuilles de coriandre accompagné d'épinards ou haricots verts frais. Remarques : Le mouton, le riz et les noix de cajou sont de bonnes sources de magnésium - bon pour les dents et les os. Les fruits secs, tels que les abricots, apportent du boron, un autre élément essentiel pour les dents et les os. 
-
 url	http://www.marmiton.org/recettes/recette_pintade-farcie-caramelisee-aux-epices_38166.aspx
 recipe_name	Pintade farcie caramélisée aux épices
 type	Plat principal
