@@ -47,18 +47,14 @@ class Model():
 
     def generate_recipes(self):
 
-        # TODO
-        # Enlever model.recommended recipes
         self.recommended_recipes = self.get_recommended_recipes()
-        print("HEY")
-        sys.exit()
         makeMenu = MakeMenuPan(self.root, self)
         makeMenu.pack()
         print("Affichage des recettes proposées")
 
     def get_recommended_recipes(self):
         recipeAdviser = RecipeAdviser(self.profile, self.recipes)
-        recipeAdviser.generate_recommended_recipes()
+        return recipeAdviser.generate_recommended_recipes()
 
 
     def create_new_profile(self, profile_name):

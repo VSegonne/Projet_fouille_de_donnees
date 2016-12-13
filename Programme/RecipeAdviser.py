@@ -2,6 +2,7 @@ from utils import  *
 from sklearn.cluster import KMeans
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
+import operator
 
 
 class RecipeAdviser():
@@ -16,11 +17,10 @@ class RecipeAdviser():
         liked_recipes_names = [x.get_name() for x in self.profile.get_liked_recipes()]
 
         v_liked_recipes = [v_recipes[x] for x in range(len(self.recipes)) if self.recipes[x].get_name() in liked_recipes_names]
-        print("Before score", v_liked_recipes)
 
-        x  = v_liked_recipes[0]
-        x = weight_recipe_with_score(x, 1)
         weighted_v_liked_recipes = []
+
+        # Pondération des recettes préférées
         for i, recipe in enumerate(v_liked_recipes):
             recipe = weight_recipe_with_score(recipe, int(liked_recipes[i].get_score()))
             weighted_v_liked_recipes.append(recipe)
@@ -31,5 +31,27 @@ class RecipeAdviser():
         kmeans = KMeans(n_clusters=5).fit(v_liked_recipes)
         centers =[x for x in kmeans.cluster_centers_]
 
+
+        unranked_cos_sim = []
+
+        # On trie les similarités pour avoir les meilleurs au début de la liste
+
+        # Phase de recommandation
+        for i, recipe in enumerate(self.recipes):
+            if recipe.get_name() not in liked_recipes_names:
+                matrix = centers + v_recipes[i]
+                cos_matrix = cosine_similarity(matrix)
+                score_best_sim = max(cos_matrix[0][1:])
+                unranked_cos_sim.append((i,score_best_sim))
+
+
+        sorted_recommendation = sorted(unranked_cos_sim,key=operator.itemgetter(1), reverse=True)[:10]
+
+
+        recommended_recipes = []
+        for recipe_tuple in sorted_recommendation:
+            recommended_recipes.append(self.recipes[recipe_tuple[0]])
+
+        return recommended_recipes
 
 
