@@ -406,5 +406,5 @@ class DataBaseManager():
 
 if __name__ == "__main__":
     newDB = DataBaseManager()
-    newDB.create_recipes_database_from_textFile("Recipes2.db","output_recipes_1212.txt")
-    newDB.clean_database("Recipes2.db","Recipes")
+    newDB.create_recipes_database_from_textFile("Recipes3.db","recipes_index_B.txt")
+    newDB.clean_database("Recipes3.db","Recipes")
