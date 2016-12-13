@@ -7,6 +7,7 @@ from RecipeAdviser import  *
 class Model():
 
     def __init__(self, root, DBM):
+        print("ICI", root)
         self.DBM = DBM
         self.root = root
         self.profile = None
@@ -48,9 +49,9 @@ class Model():
     def generate_recipes(self):
 
         self.recommended_recipes = self.get_recommended_recipes()
+        print("Root", self.root)
         makeMenu = MakeMenuPan(self.root, self)
         makeMenu.pack()
-        print("Affichage des recettes proposées")
 
     def get_recommended_recipes(self):
         recipeAdviser = RecipeAdviser(self.profile, self.recipes)
