@@ -69,3 +69,5 @@ class Model():
         else:
             showinfo('Attention!', 'Vous avez déjà 7 repas!')
 
+    def sup_recipe_from_menu(self, recipe):
+        self.menu.remove(recipe)

@@ -64,18 +64,53 @@ class RandomRecipeFrame(Frame):
         addButton = AddRecipeButton(self, model)
         addButton.grid(row=0, column=1)
 
+        suppButton =SuppRecipeButton(self, model)
+        suppButton.grid(row=0, column=2)
+
+        infoButton = InfoRecipeButton(self, model)
+        infoButton.grid(row=1, sticky="W")
+
+
 class AddRecipeButton(Button):
     def __init__(self, frame, model):
         self.frame = frame
         self.model = model
-        Button.__init__(self, frame, command=self.add)
+        Button.__init__(self, frame, text="Ajouter",command=self.add)
 
     def add(self):
         self.model.add_recipe_to_menu(self.frame.recipe)
-        print("MENU",self.model.menu)
+        print(self.model.menu)
 
 
 
+class SuppRecipeButton(Button):
+    def __init__(self, frame, model):
+        self.frame =frame
+        self.model =model
+        Button.__init__(self, frame, text="Supprimer", command=self.sup)
+
+    def sup(self):
+        self.model.sup_recipe_from_menu(self.frame.recipe)
+        print(self.model.menu)
+
+class InfoRecipeButton(Button):
+    def __init__(self, frame, model):
+        self.frame = frame
+        self.model = model
+        Button.__init__(self, frame, text="Details", command=self.get_info)
+
+    def get_info(self):
+        recipe = self.frame.recipe
+        text = "Type : " + recipe.get_type() + "\n\n"\
+            + "Difficulté : " + recipe.get_difficulty() + "\n\n"\
+            + "Coût : " + recipe.get_cost() + "\n\n" \
+            + "Nb de couverts : " + recipe.get_guests_number() + "\n\n"\
+            + "Temps de préparation : " + recipe.get_preparation_time() + "\n\n"\
+            + "Temps de cuisson : " + recipe.get_cook_time() + "\n\n" \
+            + "Ingredients : " + recipe.get_ingredients().replace('|',' ') + "\n\n"
+
+
+        showinfo(self.frame.recipe.get_name(), text)
 
 
 
