@@ -74,11 +74,10 @@ class NextButton(Button):
         Button.__init__(self, self.frame, text="Suivant", command=self.nextRecipe)
 
     def nextRecipe(self):
-        print("FUCKYOU")
-        pass
+
         # Destroy previous frame
-        #self.frame.root.recipeNameFrame.destroy()
-        #self.frame.root.recipeFrame.destroy()
+        self.frame.root.recipeNameFrame.destroy()
+        self.frame.root.recipeFrame.destroy()
 
 
         #self.frame.root.recipeNameFrame = RecipeNameFrame(self.frame.root, self.model)
