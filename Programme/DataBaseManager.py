@@ -26,7 +26,7 @@ class DataBaseManager():
 
         while line:
             if line == "\n" :
-                if recipe["type"] == "Plat principal" and recipe["name"] not in recipes_name:
+                if recipe["type"] == "Plat principal" and recipe["name"] not in recipes_name :
                     recipes_name.add(recipe["name"])
                     recipes.append(recipe)
                     recipe = {}
@@ -85,7 +85,7 @@ class DataBaseManager():
         conn = sq.connect(database_file)
         cursor = conn.cursor()
 
-        command = """ delete from """+table+""" where id not in (select  min(id) from """+table+""" group by recipe_name )"""
+        command = """ delete from """+table+""" where id not in (select  min(id) from """+table+""" group by name )"""
         cursor.execute(command)
 
         conn.commit()
@@ -389,3 +389,4 @@ class DataBaseManager():
 if __name__ == "__main__":
     newDB = DataBaseManager()
     newDB.create_recipes_database_from_textFile("Recipes2.db","output_recipes_1212.txt")
+    newDB.clean_database("Recipes2.db","Recipes")

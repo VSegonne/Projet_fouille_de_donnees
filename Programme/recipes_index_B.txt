@@ -20722,3 +20722,1730 @@ cook_time	25
 ingredients	beurre|fromage-rape|jambon|oeuf|poivre|pomme-de-terre|sel
 instructions	Lavez les pommes de terre et faites-les cuire 15 min environ à l'eau bouillante salée ou à la vapeur, de manière à ce qu'elles ne soient pas tout à fait cuites. Egouttez et coupez-les en deux dans la longueur. Evidez-les sans les abîmer et en laissant 1 cm de chair. Mélangez la chair retirée avec le fromage râpé et l'oeuf battu. Salez et poivrez. Garnissez les pommes de terre de la farce en intercalant la tranche de jambon au milieu. Déposez quelques noix de beurre et faites gratiner 10 min au four à 210°C (thermostat 7). 
 
+url	http://www.marmiton.org/recettes/recette_batonnets-de-saumon-panes_52900.aspx
+recipe_name	Bâtonnets de saumon panés
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	25
+cook_time	5
+ingredients	beurre|chapelure|ciboulette|citron|creme-fraiche-epaisse|farine|huile-d-olive|moutarde|oeuf|poivre|saumon|sel
+instructions	Couper les pavés de saumon en bâtonnets, puis les placer ensuite dans une assiette ou un plat. Presser le jus du citron sur les bâtonnets et les arroser d'huile d'olive; réserver au frais. Pendant ce temps, préparer dans un bol les 2 oeufs entiers battus. et dans 2 assiettes : la farine et la chapelure (ou le sésame). Après environ 10 min au frais, passer chaque bâtonnet dans la farine, puis l'oeuf, puis la chapelure ou les graines de sésame. Une fois tous les bâtonnets préparés, les passer à la poêle environ 3 min de chaque côté. Déguster les bâtonnets, en les trempant dans le mélange crème, moutarde, ciboulette... Remarques : On peut aussi bien enrober ces bâtonnet de poisson dans de la pâte à beignet salée. Préférer le saumon à un autre poisson, car il tient mieux la cuisson. A servir avec du riz. 
+
+url	http://www.marmiton.org/recettes/recette_beignets-au-jambon_62967.aspx
+recipe_name	Beignets au jambon
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	8
+preparation_time	10
+cook_time	15
+ingredients	beurre|farine|fromage-rape|huile-de-friture|jambon-blanc|muscade|oeuf|poivre|sel
+instructions	Mettre à chauffer 2 dl d'eau avec le beurre, le sel, poivre, noix de muscade. Retirer du feu lorsque ça commence à bouillir, ajouter la farine, mélanger avec une cuillère en bois jusqu'à former une pâte qui se décolle parfaitement (quitte à remettre quelques secondes à feu doux). Mettre dans une terrine cette pâte, le jambon coupé en petits morceaux, le fromage et les oeufs un a un. Laisser reposer 15 min. Chauffer l'huile et les faire frire. Remarques : Utiliser une cuillère à café bien remplie pour doser la quantité de pâte à frire. 
+
+url	http://www.marmiton.org/recettes/recette_beignets-croustillants-de-pommes-de-terre_24163.aspx
+recipe_name	Beignets croustillants de pommes de terre
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	60
+cook_time	10
+ingredients	beurre|chapelure|farine|muscade|oeuf|poivre|pomme-de-terre|sel
+instructions	Eplucher les pommes de terre et les faire cuire dans de l'eau salée frémissante. Les égoutter et réduire en purée (robot ou moulinette). Ajouter à la purée 4 jaunes d''uf (réserver les blancs), le beurre et mélanger le tout. Assaisonner de sel, de poivre et de muscade, puis à l'aide d'une poche démunie de sa douille, tirez des rouleaux et les couper tous les 3 à 5 cm. Rouler les croquettes dans la farine. Battre les blancs d' oeuf avec un oeuf entier et passer les croquettes dans le mélange puis dans la chapelure. Faire cuire dans une huile de friture bien chaude une dizaine de minutes et servir. 
+
+url	http://www.marmiton.org/recettes/recette_beignets-d-avocat_28112.aspx
+recipe_name	Beignets d'avocat
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	5
+ingredients	avocat|beurre|eau|farine|huile-de-friture|oeuf|sel
+instructions	Amenez à ébullition l'eau avec le beurre et le sel. Jetez-y la farine d'un seul coup et remuez vivement à l'aide d'une cuillère en bois jusqu'à ce que la pâte se détache de la paroi. Ajoutez les oeufs entiers un par un comme pour une pâte à choux, remuez jusqu'à ce qu'ils soient bien incorporés. Retirez du feu. Ecrasez les avocats en purée et ajoutez-les à la pâte. Placez au réfrigérateur au moins 1 heure, la pâte doit être suffisamment froide et dure pour rouler la pâte et former des boulettes de la taille d'une noix. Faites chauffer le bain de friture, roulez les boulettes d'avocat dans la farine et plongez-les dans l'huile jusqu'à ce que les beignets soient bien dorés. Egouttez sur du papier absordant et dégustez. 
+
+url	http://www.marmiton.org/recettes/recette_beignets-de-cervelle-de-veau_176152.aspx
+recipe_name	Beignets de cervelle de veau
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	5
+ingredients	ail|beurre|cervelle|farine|huile-de-tournesol|levure-chimique|oeuf|poivre|sel
+instructions	Nettoyer la cervelle (le mieux étant de la laisser mariner dans du vinaigre blanc). Faire blanchir la cervelle avec l'ail haché, du sel et du poivre à feu doux. Laisser refroidir puis hacher la cervelle. Réserver. Dans un saladier mettre la farine, une pincée de sel et de poivre, la moitié du sachet de levure chimique. Mélanger. Ajouter les 2 'ufs. Mélanger une nouvelle fois. Dans une casserole faire fondre le beurre avec un demi verre d'eau. Laisser refroidir. Mettre dans le saladier. Mélanger. Ajouter la cervelle hachée dans la pâte. Mélanger. Remplir une poêle d'huile de tournesol et faire chauffer. Verser la pâte en formant des beignets de la taille souhaité. 
+
+url	http://www.marmiton.org/recettes/recette_beignets-de-pommes-de-terre-et-mais_23291.aspx
+recipe_name	Beignets de pommes de terre et maïs
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	45
+cook_time	10
+ingredients	beurre|chapelure|farine|fromage-rape|mais|muscade|oeuf|poivre|pomme-de-terre|sel
+instructions	Epluchez les pommes de terre, coupez-les en morceaux et faites-les cuire à l'eau 20 min environ. Egouttez et réduisez-les en purée. Mettez la purée dans une casserole et faites chauffer à feu doux en remuant pour dessécher la purée. Ajoutez le beurre, salez, poivrez et parfumez de muscade râpée. Hors du feu, incorporez 2 oeufs battus en omelette, le maïs et le fromage. Laissez tiédir. Formez des boulettes (farinez vos mains), puis trempez-les dans l'oeuf battu et roulez-les dans la chapelure. Faites-les frire jusqu'à ce qu'elles soient bien dorées et servez. Remarques : On peut aussi les faire dorer au four pour un résultat beaucoup plus léger... 
+
+url	http://www.marmiton.org/recettes/recette_beignets-fourres-a-la-viande-de-bison-sauce-brunoise_30735.aspx
+recipe_name	Beignets fourrés à la viande de bison, sauce brunoise
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	40
+cook_time	20
+ingredients	beurre|carotte|creme-liquide|echalote|estragon|huile|oeuf|oignon|pate-feuilletee|persil|poireau|poivre|porto|sel|viandes
+instructions	Hachez la viande. Mélangez-la avec l'oeuf entier battu, l'huile, le porto, le persil, l'estragon, l'échalote et assaisonnez. Préchauffez le four à 210°C (thermostat 7). Etalez la pâte feuilletée finement et découpez des ronds de pâte. Déposez 1 cuillère à soupe bombée de farce au centre de chaque rond. Mouillez les bords et recouvrez d'un autre rond de pâte. Dorez au pinceau avec le jaune d'oeuf allongé d'1 cuillère d'eau. Enfournez pour 20-25 minutes de cuisson. Pendant ce temps, préparez la sauce : découpez les légumes (carottes, poireaux, oignons) en petits cubes de 2 mm de côté et faites-les revenir dans le beurre jusqu'à ce qu'ils soient tendres. Mixez-les avec la crème liquide jusqu'à obtention d'une sauce onctueuse. Servez bien chaud avec la sauce. 
+
+url	http://www.marmiton.org/recettes/recette_berthoud-savoie_14094.aspx
+recipe_name	Berthoud (Savoie)
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	1
+preparation_time	10
+cook_time	5
+ingredients	ail|beurre|fromages|madere|pomme|vin-blanc-sec
+instructions	Dans de petites assiettes a feu dites 'à berthoud', écrasez ou frottez un peu d'ail. Coupez en lamelles du VRAI fromage d'abondance indispensable pour son goût particulier, poivrez très légèrement et arrosez de madère ou de très bon vin blanc sec. Parsemez de quelques petits morceaux de beurre et mettez à gratiner au four 5 à 10 mn. Servez au sortir du four et dégustez comme la fondue en piquant, des carrés de pain à la fourchette, avec en accompagnement des pommes de terre cuites à l'eau. Remarques : Spécialité typiquement Chablaisienne (Haute Savoie) idéale pour se réchauffer après une journée de ski. Plat très convivial à déguster entre amis. Plus d'information sur la Savoie (et trouver des assiettes à Berthoud), allez sur www.savoie-specialite.com. Boisson conseillée : vin blanc sec de prérence de Savoie. 
+
+url	http://www.marmiton.org/recettes/recette_biche-filet-en-noisettes-au-riesling-et-groseilles_34211.aspx
+recipe_name	BICHE (filet en noisettes) AU RIESLING ET GROSEILLES
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	15
+ingredients	beurre|biche|echalote|groseille|huile|poivre|quatre-epices|riesling|sel|thym
+instructions	Dans 10 g de beurre blondir les échalotes. Ajouter le thym, le vin, du sel et du poivre. Laissez cuire environ 10 min sur feu moyen. Pendant ce temps, poêler la viande assaisonnée de sel, de poivre et de quatre-épices, de 2 à 3 min par face, dans 20 g de beurre et 1 cuillère à soupe d'huile. Réserver au chaud. Lorsque la sauce est cuite, filtrer le jus. Ajoutez les groseilles, et redonner un bouillon. Hors du feu incorporez des dés de beurre. Servir bien chaud. Remarques : C'est délicieux et les groseilles chauffées ainsi ne donnent pas d'acidité. On en trouve pendant les fêtes des fraîches, sinon en surgelés.Mais pour les personnes qui n'aiment pas le salé/sucré c'est à goûter car ce n'est pas non plus sucré... 
+
+url	http://www.marmiton.org/recettes/recette_biche-sauce-aigre-douce_54321.aspx
+recipe_name	Biche sauce aigre-douce
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredients	beurre|biche|cannelle|gelée|gingembre|griotte|miel|oignon-rouge|sel|sucre|vin-rouge
+instructions	La sauce : Dans une petite casserole, faire fondre doucement l'oignon et le gingembre émincés dans le beurre avec le sucre. Ajouter le sel et la cannelle avant de verser le vin. Incorporer la gelée de groseilles et le miel puis les griottes. Laisser réduire de moitié sur feu doux. La sauce doit être onctueuse. Réserver. La viande : Cuire comme des pavés de boeuf, selon le goût de chaque convive. Dresser la viande accompagnée de la sauce, sur des assiettes chaudes. Remarques : Délicieux avec des ballotins de haricots verts et des pommes dûchesse. Boisson conseillée : Un vin rouge qui a du corps ! 
+
+url	http://www.marmiton.org/recettes/recette_bifteck-a-la-creole_313152.aspx
+recipe_name	Bifteck a la créole
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	15
+ingredients	ail|beurre|curry|faux-filet|huile|miel|poivre|sel|vinaigre
+instructions	Découper le faux filet en 8 petits steaks. Dans un plat creux, mélanger vinaigre, ail écrasé, huile et miel. Mettre a mariner les bifteck dans cette préparation pendant 1 heure. Pendant ce temps, malaxer le beurre avec le persil, le curry, le sel et poivre. Mettre cette préparation dans un poêle et mettre la viande à cuire à feu moyen. 
+
+url	http://www.marmiton.org/recettes/recette_biryani-d-agneau_26883.aspx
+recipe_name	Biryani d'agneau
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	60
+cook_time	40
+ingredients	anis|beurre|cannelle|cardamome|clou-de-girofle|cumin-en-poudre|curcuma|epaule-d-agneau|gingembre|oignon|riz-basmati|safran
+instructions	Mettre le safran à infuser dans 30 cl d'eau bouillante. Dans une cocotte en fonte, mettre 75 g de beurre : faire dorer les oignons coupés en dés, ajouter le gingembre râpé + le curcuma + le cumin. Mélanger, cuire 2 mn. Ajouter la viande, saler, cuire 10 mn à feu vif en remuant souvent. Éteindre, laisser en attente. Dans une casserole, mettre 75 g de beurre + la cannelle + clous de girofle + anis étoilé + cardamome. Faire rissoler 1 mn. Ajouter le riz, mélanger, cuire 3 mn, éteindre. Mettre 25 cl d'eau salée, mélanger. Préchauffer le four Th 7 . Verser le mélange riz-épices dans la cocotte avec la viande. Rajouter l'eau safranée + 25 cl d'eau salée. Mélanger. Mettre sur le feu ; à l'ébullition, éteindre, couvrir la cocotte avec son couvercle, mettre au four pour 40 mn. Servir très chaud accompagné (ou pas) de yaourt battu avec de la coriandre fraîche, sel, poivre. Remarques : c'est très bon nature attention au sel : s'il en manque, le goût des épices ressort moins, mais attention de ne pas trop saler. 
+
+url	http://www.marmiton.org/recettes/recette_biryiani-de-poulet-en-rice-cooker_36787.aspx
+recipe_name	Biryiani de poulet en rice-cooker
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	45
+cook_time	20
+ingredients	ail|beurre|cardamome|carotte|colorant-alimentaire|coriandre|cumin|epice|lentille|oeuf|oignon-rouge|poivre|pomme-de-terre|riz-basmati|sel|volailles|yaourt-nature
+instructions	Le principe de cette recette est de préparer les différents ingrédients à part et de les regrouper ensuite, par couches successives avant de laisser travailler la marmite automatique ! Faire macérer les morceaux de poulet salé dans les épices et le yaourt. Ensuite les faire revenir dans du beurre ou ghee, ajouter les oignons et l'ail pilé jusqu'à ce qu'ils brunissent. Cuire les pommes de terre et les carottes préalablement coupés en dés avec une pincée de cumin, sel, poivre. Placer d'abord la viande au fond de la marmite, puis les légumes, les lentilles, le riz cru avec les graines de cardamomes ouvertes, recouvrir doucement avec l'eau et une pincée de colorant rouge. Appuyer sur le bouton de la marmite à riz qui s'arrêtera seule. Décorer avec des quartiers d'oeufs durs et de la coriandre faîche. Remarques : Réalisable avec du poisson blanc sans arête. Plat complet servi avec un raîta au concombre. 
+
+url	http://www.marmiton.org/recettes/recette_biscuit-roule-de-carottes-a-la-creme-de-poireaux_314105.aspx
+recipe_name	Biscuit roulé de carottes à la crème de poireaux
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	30
+ingredients	beurre|carotte|creme-liquide|farine|huile-d-olive|levure|oeuf|oignon-jaune|poireau|poivre|raisins-secs|sel
+instructions	Préparation de la crème de poireaux : Dans un casserole, faire fondre le beurre et faire revenir le poireau et l'oignon émincés 15 mn. Ajouter à mi cuisson un petit peu d'eau (3 CàS pas plus). Mélanger avec la crème et continuer la cuisson jusqu'à ce que le poireau soit bien fondant. Saler et poivrer. Préparation de la génoise : Préchauffer le four à 180°C (chaleur tournante si possible) Cuire les carottes à la vapeur, bien égoutter. Placer dans votre robot, les carottes, la farine et la levure, les oeufs entiers, l'huile et les épices. Mixer le tout. Sur une plaque à génoise déposer le mélange aux carottes en prenant soin de bien égaliser la surface pour une cuisson bien uniforme. Enfourner pour environ 15 mn, surveiller la cuisson. La cuisson terminée sortez la plaque (vous pouvez pour faciliter le roulage, étaler un torchon humide sous la génoise et s'aider de celui ci pour le rouler) et étaler les poireaux à la crème sur la génoise. Rouler délicatement. Votre biscuit roulé de carottes et terminé et prêt à être déguster encore chaud. Boisson conseillée : côte du roussillon rouge ou rosé 
+
+url	http://www.marmiton.org/recettes/recette_bison-au-vin-rouge-et-au-foie-gras_25454.aspx
+recipe_name	Bison au vin rouge et au foie gras
+type	Plat principal
+difficulty	Difficile
+cost	Assez Cher
+guests_number	6
+preparation_time	20
+cook_time	60
+ingredients	beurre|carotte|cepe|echalote|foie-gras|huile|oignon|poivre|sel|thym|viandes|vin-rouge
+instructions	Préparez la marinade : ajoutez au vin rouge l'oignon clouté, les carottes émincées, le thym, le laurier, du sel et du poivre. Découpez la viande de bison en tranches de 2 cm d'épaisseur et déposez-les dans la marinade durant 24 heures. Egouttez les tranches sur du papier absorbant et faites-les revenir dans l'huile chaude. Ajoutez la marinade et laissez cuire à couvert sur feu doux pendant 1 heure. Faites fondre les échalotes dans le beurre et poêlez les cèpes sur feu assez vif. Dans une poêle très chaude, saississez les tranches de foie gras pendant 2 minutes en les retournant. Elles doivent être dorées. Déposez la viande sur un plat, recouvrez de foie gras et entourez de cèpes. Passez la marinade au chinois en l'écrasant à la fourchette. Versez-en un peu sur la viande et proposez le reste en saucière. 
+
+url	http://www.marmiton.org/recettes/recette_black-pepper-crab-specialite-de-singapour_39650.aspx
+recipe_name	Black Pepper Crab (Spécialité de Singapour)
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Assez Cher
+guests_number	4
+preparation_time	60
+cook_time	20
+ingredients	ail|beurre|crabe|maizena|poivre|sauce-huitre|sauce-soja
+instructions	Cuire les crabes dans le panier vapeur, 20 min environ, jusqu'à ce qu'ils rougissent. Laisser refroidir, puis découper et pré-casser les crabes. Nous ne pré-cassons pas les pattes, juste les morceaux difficiles comme les pinces, et ce qui se trouve sous la carapace du crabe. Nous nettoyons et enlevons les branchies, etc... Et nous réservons une carapace, pour la deco... Concasser, à l'aide d'un moulin à poivre, l'équivalent de 5 à 6 cuillères à soupe de poivre noir. C'est un travail d'endurance pour les bras, mais ça vaut le coup, car le poivre concassé du commerce perd de sa saveur. Faire griller, à feu très doux, ce poivre concassé, durant une bonne minute. Réserver. Dans un wok, faire fondre 25 g de beurre, et ajouter les gousses d'ail hachées. Lorsque les gousses d'ail commencent à dorer, incorporer les crabes découpés et pré-cassés, laissant apparaître la chair, afin que la chair s'imprègnent bien des arômes du poivre, mais pas trop grâce à la carapace. Faire revenir le tout, puis ajouter la sauce huitre (Oyster sauce), la sauce soja, et le poivre noir. Bien mélanger, afin que les morceaux de crabe s'imprègnent bien de la sauce, puis ajouter l'eau additionnée de Maïzena. Laisser épaissir, tout en remuant sans arrêt, afin de bien enrober le crabe. Arrêter la cuisson, et passer à table, ou réchauffer quelques minutes, avant de passer à table. Remarques : Si vous ne faites qu'un ou deux crabes de taille moyenne, je vous conseille de mettre 2 cuillères à soupe de poivre noir, et de diviser par 2, le reste des ingrédients, pour la sauce. Ce plat se déguste seul ou accompagné de riz sauté à l'ananas. 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-a-la-normande_27224.aspx
+recipe_name	Blanc de poulet à la normande
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	25
+ingredients	beurre|blanc-de-poulet|bouillon-de-volaille|champignon|concentre-de-tomate|creme-fraiche|farine|moutarde|oignon|poivre|sel
+instructions	Mélanger le sel, le poivre et la farine. Passer le poulet dans la farine. Mettre 40 g de beurre dans une sauteuse et faire revenir le poulet 3 mn de chaque face. Ajoutez les champignons, les oignons. Poursuivre la cuisson 4 mn. Bien remuer. Dans une sauteuse mettre le reste de beurre, de farine, et le bouillon. Laisser épaissir 10 à 15 mn. Ajouter du cidre, ajuster la sauce. Verser la viande, les champignons, les oignons. Ajouter de la crème fraîche selon votre convenance. Mélanger. Servir avec des pommes de terre ou des pâtes fraîches. Boisson conseillée : Cidre brut ou doux 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-a-la-puree-de-carottes-super-rapide_311010.aspx
+recipe_name	Blanc de poulet à la purée de carottes super rapide
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	25
+ingredients	ail|beurre|blanc-de-poulet|bouillon-de-volaille|carotte|creme-fraiche|eau|fromages|persil
+instructions	Versez le bouillon et l'eau dans une casserole, ajoutez les carottes et portez à ébullition. Laissez frémir 10 min à feu doux jusqu'à ce que les carottes soient tendres, égouttez-les en réservant 2 cuillères à soupe de liquide de cuisson. Mixez en purée lisse les carottes, le fromage, le beurre, la crème fraîche et le liquide de cuisson. Pour le blanc de poulet, faites cuire au four à 220°C (thermostat 7-8) pendant 15 min, avec 6 gousses d'ail en chemise, et un peu de persil plat ciselé, et badigeonnez les blancs avec du beurre fondu. Servez bien chaud et bonne dégustation. Remarques : Un vrai régal pour les enfants. Boisson conseillée : vin rouge 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-au-boursin_33884.aspx
+recipe_name	Blanc de poulet au boursin
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	5
+cook_time	15
+ingredients	beurre|blanc-de-poulet|fromage-ail-et-fines-herbes
+instructions	Faire chauffer le four à 200°C (thermostat 6-7). Inciser le blanc de façon à former une poche et y glisser la cuillerée de fromage. Aplatissez légèrement avec la paume. Dans une poêle faire blondir le beurre et dorer le blanc en commençant par le côté fromage. Quand votre poulet est bien doré le placer dans un plat en terre allant au four et le cuire 10 à 12 min. Servir avec une salade verte ou du mesclun. 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-aux-endives-champignons-et-lardons_35733.aspx
+recipe_name	Blanc de poulet aux endives, champignons et lardons
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	40
+ingredients	beurre|blanc-de-poulet|champignon-de-paris|cognac|creme-fraiche|endive|farine|lardons-fumes|oignon|persil|poivre|sel
+instructions	Couper les blancs de poulet en petites lamelles et les fariner. Faire fondre la noix de beurre et y faire revenir les lamelles de poulet, jusqu'à ce qu'elles soient dorées.Saler, poivrer. Ajouter le cognac. Réserver. Faire revenir les lardons avec une noix de beurre, ajouter l'oignon émincé, ainsi que l'endive coupée en tout petits morceaux, laisser mijoter 5 mn environ. Ajouter les champignons, laisser mijoter 5 min. Y ajouter les lamelles de poulet et laisser mijoter à couvert 20 min environ. Au bout de 15 mn, ajouter la crème fraîche. Parsemer de persil juste avant de servir. Remarques : Vous pouvez accompagner ce plat de riz basmati ou de tagliatelles. C'est un régal pour les enfants et pour les grands... 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-croustillants-au-parmesan-et-au-persil_61991.aspx
+recipe_name	Blanc de poulet croustillants au parmesan et au persil
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	40
+ingredients	beurre|blanc-de-poulet|chapelure|parmesan|persil
+instructions	Mélanger le parmesan, la chapelure et le persil dans une assiette. Faire fondre le beurre. Tremper les blancs de poulet dans le beurre et les tremper dans le melange de chapelure-parmesan. Mettre dans un plat au four pendant 40 min à 200°C (thermostat 6-7). A mi cuisson les retourner. S'accompagne très bien de pâtes au fromage. Remarques : Si vous n'avez pas de blanc de poulet épais vous pouvez en mettre des fines tranche mais large que vous plierez en deux avant de tremper dans le beurre. 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-pane_94878.aspx
+recipe_name	Blanc de poulet pané
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	20
+cook_time	20
+ingredients	beurre|biscotte|farine|lait|oeuf|poivre|poulet|sel
+instructions	Mettre les blans de poulet dans une assiette creuse avec le lait au frigo (au moins 2 heures avant). Ecraser les biscottes dans un récipient. Battre les oeufs en ommellette dans un second récipient avec sel et poivre. Egoutter et précuire les blanc de poulet dans du beurre (environ 2mn de chaque coté) en les applatissant avec une fourchette. Ensuite, les recouvrir de farine, tremper dans l'omellette, tremper dans la biscotte et remettre dans la poêle (rajouter du beurre si besoin et verser le reste d'omellette par dessus). Cuire à feu doux pendant 15 à 20 min. C'est prêt. Cuire à petit feu 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-sauce-fromage_90377.aspx
+recipe_name	Blanc de poulet sauce fromage
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	20
+cook_time	30
+ingredients	beurre|blanc-de-poulet|farine|gruyere-rape|lait|parmesan-rape|poivre|sel
+instructions	Rouler les blancs de poulet dans un mélange de sel, poivre et de 2 cuillères à soupe de farine. Mettre à dorer les blancs de poulet et, quand ils sont cuits, les disposer dans un plat allant au four. Dans une casserole, faire fondre les 25 g de beurre. Ajouter la cuillère de farine restante, remuer puis ajouter le lait petit à petit en tournant régulièrement jusqu'à ébullition. Faire cuire a feu très doux 5 minutes. Ajouter ensuite les fromages et faire cuire encore 5 minutes. Napper les blancs de poulet avec cette sauce et mettre le plat au four pendant 10 à 15 minutes à 180°C (thermostat 6). 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-poulet-sauce-jus-de-pomme-miel_305533.aspx
+recipe_name	Blanc de poulet, sauce jus de pomme/miel
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	60
+ingredients	beurre|creme|escalope-de-poulet|farine|gelée|lait|lardons|miel|oignon|poivre|pomme|sel|thym
+instructions	Couper l'ognion finement, le faire revenir dans une grande casserole ou marmite. Couper les filets de poulet en 3 morceaux pour chaque filet, les faire revenir dans une poêle huiler. Faire dorer les blancs de poulet sans les cuire entièrement, ajouté la confiture de pomme et le miel, attendre 3 min puis ajouter le jus de pomme, saler, poivrer, laisser cuire 2 min. Dans la casserole ajouter les lardons, la crème, puis 25 g de beurre et 25 g de farine. Mélanger. Verser les blancs de poulet et sa sauce dans la casserole. Ajoute un peu de jus de pomme, le lait et le bouquet. Laisser mijoter à feux doux pendant 40 à 50 min en remuant souvent. A mi-cuisson, retirer le bouquet et ajouter du lait ou du jus de pomme (selon le goût ; intensifier du goût de pomme que vous souhaiter) si la préparation est trop pâteuse. Remarques : Dresser dans de petite marmite, avec des pomme de terres sautées. Boisson conseillée : vin blanc 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-seiche-en-sauce_53770.aspx
+recipe_name	Blanc de seiche en sauce
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	40
+ingredients	ail|beurre|cognac|court-bouillon|creme-fraiche-epaisse|crevette-rose|persil|piment|poivre|seiche|sel|vin-blanc
+instructions	Coupez le blanc de seiche en carrés de 2 ou 3 centimètres environ. Plongez-les dans 2 litres d'eau chaude, auxquels vous aurez ajouté les sachets de court-bouillon. Laissez les cuire 30 minutes. Pour savoir si c'est cuit, il faut que vous puissiez passer une pointe de couteau, sinon remettez-les à cuire encore 10 minutes. Pendant ce temps, décortiquez les crevettes. Après avoir égoutté les carrés de seiche, les faire dorer dans un wok avec les crevettes et du beurre. Une fois que l'ensemble est chaud et coloré, ajoutez le cognac et faites flamber hors du feu. Coupez l'ail, le piment et le persil en petits bouts et versez le tout dans le wok. Ajoutez sel et poivre selon votre goût. Laissez blondir de nouveau puis verser le vin blanc et enfin la crème fraîche épaisse. Mélangez et remettez à cuire à feu moyen pendant 10 minutes et à feu doux les 10 minutes suivantes. Vous n'avez plus qu'à déguster accompagné de riz basmati. 
+
+url	http://www.marmiton.org/recettes/recette_blanc-de-seiche-flambe-au-whisky_214910.aspx
+recipe_name	Blanc de seiche flambé au whisky
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredients	beurre|bouillon|creme-fraiche|seiche|sel|whisky
+instructions	Rincer les blanc de seiche sous l'eau froide. Les couper en petites lamelles de 1cm max de large. Les plonger pendant 40 minutes dans eau bouillante avec le court bouillon. Les égoutter. Les dorer dans la poêle avec tout le beurre pendant 5 minutes environ. Les flamber au whisky tout en remuant Réduire le feu à mi-puissance puis verser la crème fraîche. En mettre plus ou moins selon que l'on fait du riz en accompagnement (la sauce sera utile) ou une purée de patate douce (moins de sauce). et voilà.. Remarques : S'accompagne aussi bien de courgettes cuites à l'huile d'olive et de choux rouge cuit 5mn dans une poêle à part. Boisson conseillée : Petit blanc sec 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-dinde-sur-lit-de-carottes-nappe-de-poireaux_26707.aspx
+recipe_name	Blancs de dinde sur lit de carottes nappé de poireaux
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	40
+cook_time	60
+ingredients	beurre|blanc-de-dinde|bouillon-de-volaille|carotte|creme-fraiche|cresson|eau|echalote|oeuf|poireau|poivre|porto|sel|sucre
+instructions	Préparer un bouillon de volaille, puis y plonger les blancs de dinde et laisser cuire 20 à 30 min selon la taille des morceaux de viande. Les égoutter et les maintenir au chaud dans un peu de bouillon. Laisser réduire le reste du bouillon à feu vif. Pendant ce temps, préparer la sauce : Laver, peler et hacher les échalotes et les poireaux, puis les faire fondre dans une cocotte beurrée. Nettoyer le cresson, l'incorporer dans la cocotte avec le bouillon réduit filtré et le porto. Laisser mijoter 5 à 10 min puis lier le tout avec le jaune d'oeuf. Rectifier l'assaisonnement et y ajouter les blancs d'oeufs. Réserver la sauce. Pour l'accompagnement : Peler et détailler les carottes en rondelles puis les faire revenir dans une poêle beurrée avec le sucre et le sel. Recouvrir le tout d'eau froide puis laisser cuire à découvert à feu moyen pendant 35 à 40 min jusqu'à l'évaporation quasi-complète de l'eau. Servir les blancs de dinde et les légumes dans un plat, le tout arrosé de sauce. Remarques : Vous pouvez également mixer la sauce et y incorporer de la crème pour qu'elle soit plus onctueuse. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-a-la-bechamel_40857.aspx
+recipe_name	Blancs de poulet à la béchamel
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	15
+ingredients	beurre|blanc-de-poulet|farine|gruyere-rape|lait|poivre|riz|sel
+instructions	Faire cuire le riz. Préparation de la sauce béchamel flamande maison : Faire fondre 100 g de beurre environ, le laisser doucement fondre et jaunir. Puis, sans le laisser brûler, ajouter 2 à 3 cuillères à soupe de farine sur le beurre. Chauffer sur feu très doux, presque éteint. Remuer le tout, de façon à obtenir une sorte de pâtes. Remettre sur feu moyen, et incorporer, petit à petit, du lait (sans noyer la sauche béchamel). Rajouter du lait, autant que vous voulez, mais toujours petit à petit, pour ne pas que la sauce soit trop liquide! Ajouter du gruyère, du sel, et du poivre, et mélanger encore. Ajouter ensuite, les morceaux de poulet. Disposer le riz sur votre assiette, et napper le de sauce... C'est un vrai régal, idéal pour le dimanche soir, car très facile à préparer, et peu coûteux. Remarques : Une bonne idée pour utiliser des restes de blanc de poulet. Boisson conseillée : Un vin rouge 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-a-l-estragon_39209.aspx
+recipe_name	Blancs de poulet à l'estragon
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredients	beurre|citron|creme-fraiche-liquide|echalote|escalope-de-poulet|estragon|fond-de-volaille|poivre|sel
+instructions	Découpez les blancs de poulet en petits carrés. Disposez les feuilles d'estragon dans une tasse, et ciselez-les grossièrement. Dans une poêle, faites revenir le poulet avec le beurre, salez, poivrez. Une fois le poulet cuit, rajoutez les 40 cl de fond de volaille (que vous aurez auparavant mélangé avec un peu d'eau). Laissez réduire complètement, à feu doux (10 min). Ajoutez la moitié de l'estragon et l'échalote. Au moment de servir, ajoutez la crème fraîche liquide, le reste de l'estragon et les 2 cuillères à soupe de citron. Laissez chauffer 2 ou 3 min. Servez très chaud. Bon appétit ! Remarques : Servir avec des pâtes, du riz ou des pommes de terre sautées. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-au-cidre-et-pommes-persillees_16410.aspx
+recipe_name	Blancs de poulet au cidre et pommes persillées
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	30
+ingredients	beurre|blanc-de-poulet|cidre|creme-fraiche|cube-de-bouillon|echalote|oignon|persil|poivre|pomme-de-terre|sel
+instructions	Prendre une poêle, y ajouter le morceau de beurre, l'oignon coupé en morceaux, puis le faire rissoler avant d'ajouter le poulet en morceaux. Ajouter le cube de poulet, puis la farine pour épaissir un peu, puis le cidre. La sauce ne doit être ni trop liquide ni trop épaisse. Ajouter ensuite la crème fraîche, puis vérifier l'assaisonnement. Retirer la casserole du feu. Laver les pommes de terre, les essuyer et préchauffer votre four à 160°C. Piquer les pommes de terre et les faire cuire au four (30 mn). Pendant ce temps, hacher finement(au robot) le bouquet de persil et les deux échalotes. Quand vos pommes de terre sont cuites et refroidies, les couper dans le sens de la longueur, puis la vider avec une cuillère à soupe. Les placer dans un plat (délicatement, pour ne pas casser la pelure), ajouter les échalotes et le persil moulu, les 100 g de beurre, le sel, le poivre, la noix de muscade. Bien mélanger et écraser le tout ensemble. Préchauffer le four à 150°C, remplir les pommes de terre de ce mélange, beurrer un plat allant au four et y déposer les pommes de terre et faire cuire 15 mn. Juste avant la fn de la cuisson, faire chauffer le poulet. Servir. Boisson conseillée : cidre demi-sec 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-au-jambon-de-parme-et-a-la-mozzarella_37855.aspx
+recipe_name	Blancs de poulet au jambon de Parme et à la mozzarella
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	15
+ingredients	beurre|blanc-de-poulet|jambon|mozzarella|sauge
+instructions	Couvrir chaque escalope d'une feuilles de sauge et d'une demie tranche de jambon de Parme. Rouler l'escalope et la maintenir avec un cure-dent. Frire légèrement les escalopes dans le beurre, deux minutes de chaque côté. Assaisonner et couvrir chaque escalopes d'une tranche de fromage. Couvrir et cuire jusqu'à ce que le fromage fonde et que le poulet soit totalement cuit. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-au-jambon-et-au-fromage_23834.aspx
+recipe_name	Blancs de poulet au jambon et au fromage
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	10
+ingredients	beurre|blanc-de-poulet|fromages|huile|jambon-blanc
+instructions	Couper les deux filets de poulet dans l'épaisseur afin d'en faire 4. Mettre un carré de fromage fondu dessus et dessous et enrouler le tout dans une 1/2 tranche de jambon. Maintenir le tout avec 2 piques en bois. Faire chauffer le beurre et l'huile dans une poêle, mettre les blancs à cuire 5 minutes de chaque côté, jusqu'à ce que le fromage soit bien fondu et le jambon grillé. Saler, poivrer et déguster. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-au-parmesan_18410.aspx
+recipe_name	BLANCS DE POULET AU PARMESAN
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredients	beurre|blanc-de-poulet|ciboule|farine|gouda|lait|moutarde|parmesan-rape
+instructions	Préchauffez le four à 180 °C (th 6 ). Mélangez (à 40 g de beurre fondu, la moutarde et le parmesan. Coupez les blancs de poulet en aiguillettes. Badigeonnez-les du mélange au parmesan. Disposez du papier alu beurré sur la plaque du four. Disposez les blancs de poulet dessus. Enfournez 20 mn. Retournez-les plusieurs fois. Vérifiez la cuisson avec la pointe du couteau. Préparez la sauce. Faites fondre 30 g de beurre à feu doux. Ajouter la farine, mélangez. Incorporez le lait peu à peu puis le goouda. Laissez cuire 5 mn. Ciselez les ciboules. Faites dorer chaque face des blancs de poulet 3 mn sous le gril. Répartissez la sauce dans 4 assiettes. Disposez les blancs de poulet dessus. Parsemez de ciboules ciselées. Servez. Remarques : Si vous n'aimez pas le goût du gouda, vous pouvez le remplacer par de l'emmental. Vous pouvez aussi vous servir de cette sauce pour des escalopes de veau. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-au-saint-marcellin_13015.aspx
+recipe_name	Blancs de poulet au Saint Marcellin
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	20
+ingredients	beurre|blanc-de-poulet|champignon-de-paris|creme-fraiche-liquide|poivre|riz|saint-marcellin|sel
+instructions	Faire revenir les blancs de poulets au beurre dans une poêle. Lorsqu'ils commencent à dorer, ajouter les champignons de Paris. Pendant ce temps mettre le saint marcellin et la crême fraiche dans un bol. La crème doit recouvrir le Saint Marcellin. Passer le mélange crème et fromage au micro-onde position maxi pour 2 mn. Le Saint Marcellin doit commencer à fondre. Verser ensuite ce melange dans la poèle avec les blancs de poulets et les champignons. Laisser mijoter à feu doux environ 5 mn, le temps que le Saint Marcellin fonde. Saler et poivrer et servez chaud accompagnez de riz ou de pâtes fraiches natures. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-au-vinaigre-de-framboise_62508.aspx
+recipe_name	Blancs de poulet au vinaigre de framboise
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	15
+ingredients	beurre|creme-fraiche|escalope-de-poulet|moutarde|poivre|sel|vinaigre-de-framboise
+instructions	Emincer le poulet en fines lamelles. Les faire revenir dans une poêle avec un peu de beurre, saler et poivrer. Ajouter le vinaigre, la moutarde et la crème. Laisser cuire 15 minutes à feu doux. Remarques : Servir avec du riz ou des pâtes. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-aux-amandes_53979.aspx
+recipe_name	Blancs de poulet aux amandes
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	10
+ingredients	amande|beurre|escalope-de-poulet|farine|huile|miel-d-acacia|oeuf|poivre|poudre-d-amande|sel|vinaigre
+instructions	Dans une poêle, faites frire les amandes émondées avec 1 cuillère à soupe d'huile jusqu'à ce qu'elles soient dorées. Mélangez constamment pour qu'elles colorent uniformément sans brûler, réservez-les de côté. Préparez deux assiettes creuses. Dans l'une, mélangez la poudre d'amandes et la farine. Dans la seconde, fouettez l'oeuf entier avec 1 cuillère à soupe d'eau et autant d'huile; salez et poivrez. Passez les blancs de poulet dans l'oeuf, puis dans le mélande de farine et d'amandes. Faites chauffer le reste de l'huile et le beurre. Placez les blancs de poulet dans la poêle pour les faire cuire et dorer 8 à 10 min, en les retournant à mi-cuisson. Egouttez-les sur du papier absorbant, et tenez-les ensuite au chaud sur un plat de service. Eliminez la graisse de cuisson. Versez le miel et le vinaigre dans la poêle; laissez bouillir et épaissir pendant 2 à 3 min. Versez cette sauce sur les blancs de poulet, puis parsemez avec les amandes dorées. Servez sans attendre. Remarques : Une variante d'escalopes panées plus originale et moins sèche. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-aux-endives-champignons-et-lait-de-coco_55285.aspx
+recipe_name	Blancs de poulet aux endives champignons et lait de coco
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	45
+ingredients	beurre|blanc-de-poulet|champignon-de-paris|cognac|echalote|endive|farine|lait-de-coco|lardons-fumes|miel|poivre|sel
+instructions	Couper les blancs de poulet en lamelles et les fariner. Les faire revenir dans 1 noix de beurre. Ajouter le cognac en fin et reserver le tout. Faire revenir les oignons (ou 2 échalotes), les lardons fumés et les champignons en lamelles pendant 5 minutes. Emincer les endives et les ajouter (avec 1 peu de miel pour l'amertume) aux lardons et oignons (ou echalotes). Laisser mijoter 15 minutes. Ajouter les blancs de poulet, mélanger le tout, ajouter le lait de coco et laisser mijoter. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-aux-herbes_20234.aspx
+recipe_name	Blancs de poulet aux herbes
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	35
+ingredients	beurre|blanc-de-poulet|creme-fraiche|epinard|farine|oseille|persil|poivre|sel|vin-blanc
+instructions	Coupez la viande en cubes et faire dorer au beurre. Mouillez avec le vin blanc, salez, poivrez et laissez cuire 20 min à feu doux. Mélangez l'oseille et les épinards décongelés avec les fines herbes. Ajoutez ce mélange en deux fois à la viande. Saupoudrez de farine et ajoutez la crème, puis laissez cuire encore 10 min. Remarques : on peut remplacer le poulet par du veau ou des filets de dinde 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-aux-oignons-nouveaux_10737.aspx
+recipe_name	Blancs de poulet aux oignons nouveaux
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredients	beurre|blanc-de-poulet|estragon|oignon-nouveau|poivre|sel|vin-blanc-sec
+instructions	Peler et couper les oignons en deux puis les faire revenir quelques minutes, réserver. Ouvrir les blancs de poulet en deux et les faire dorer sur les deux faces à feu vif pendant 10 min dans du beurre.  Les assaisonner et les retirer de la poêle. Déglacer la poêle avec le vin blanc et remettre les blancs de poulet avec les feuilles d'estragon et les oignons.  Assaisonner de nouveau. Servir avec un riz au safran Boisson conseillée : Rosé 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-farcis-au-pont-l-eveque_63785.aspx
+recipe_name	Blancs de poulet farcis au Pont-L?Évêque
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredients	beurre|escalope-de-poulet|jambon|pont-l-eveque
+instructions	Préchauffer le four à 220°C (thermostat 7-8). Couper 4 tranches de fromage de 1 cm d'épaisseur environ. Inciser les blancs de poulet dans l'épaisseur sans les couper complètement. Y glisser une tranche de fromage, puis enrouler chaque blanc dans une tranche de jambon (voire deux, si nécessaire), en essayant d'obtenir un emballage aussi étanche que possible. Beurrer un plat à gratin et y déposer les escalopes. Enfourner pour une vingtaine de minutes, le temps que le jambon dore, que le poulet cuise à c'ur et que le fromage fonde. Remarques : Je sers ces escalopes accompagnées de pommes fruits que je fais revenir dans un peu de beurre, avec une échalote émincée. On peut éventuellement napper le tout d'une sauce à base de crème fraîche, du reste de Pont-L'Évêque et de cidre (ou bien de calvados flambé au préalable). Attention au sel, le fromage et le jambon l'étant tous deux beaucoup!  Boisson conseillée : Cidre 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-farcis-aux-fruits-secs-et-pain-d-epice_174266.aspx
+recipe_name	Blancs de poulet farcis aux fruits secs et pain d'épice
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	25
+cook_time	15
+ingredients	abricot|beurre|blanc-de-poulet|echalote|farine|figue|miel-liquide|oeuf|pain-d-epice
+instructions	Retirer la croûte du pain d'épice et l'émietter pour en faire de la chapelure (s'il est trop collant, le mettre à sécher 5-10 min au four à th. 6). Dans une casserole, faire fondre les échalotes (hachées) dans le beurre, ajouter les fruits secs en morceaux et le miel. Laisser caraméliser et ajouter une cuillère à soupe de poudre de pain d'épice. La farce est prête ! Ouvrir les blancs en deux dans l'épaisseur et les farcir. Pour plus de simplicité, on peut les ficeler avec de la ficelle de cuisine ou du fil à coudre, mais les "expert(e)s" en panure peuvent s'en passer ! Rouler les blancs successivement dans la farine, l''uf battu et la poudre de pain d'épices. Les disposer dans un plat, et les faire cuire 15 à 20 min à thermostat 6. Servir avec une purée de pommes de terre et/ou des marrons. Remarques : Pour info, c'est encore meilleur réchauffé le lendemain ! 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-poulet-sauce-miel-et-balsamique_22233.aspx
+recipe_name	Blancs de poulet sauce miel et balsamique
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	5
+cook_time	10
+ingredients	beurre|blanc-de-poulet|creme-fraiche|miel|poivre|sel|vinaigre-balsamique
+instructions	Faire fondre le beurre dans une poêle. Y faire dorer les blancs de poulet (entiers ou coupés en petits cubes selon préférence). Avant la fin de la cuisson choisie, verser dans la poêle la crème fraîche, le miel et le vinaigre (+ sel et poivre selon votre goût). Servir avec du riz basmati, du boulgour ou des pâtes fraîches. Remarques : Servir en décorant de feuilles de coriandre ou de persil plat. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-volaille-aux-amandes_83595.aspx
+recipe_name	Blancs de volaille aux amandes
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	15
+ingredients	amande|beurre|creme-liquide|moutarde-a-l-ancienne|oignon|poivre|sel|volailles
+instructions	Tailler les blancs de volaille en lamelles. Éplucher et émincer l'oignon. Dans une sauteuse, faire blondir les oignons avec 25 g de beurre sans cesser de remuer. Au bout de 3 min, ajouter les blancs de volaille et faire revenir sur feu vif pendant 3min sans cesser de remuer. Verser la crème, la moutarde et les amandes, saler et poivrer. Mélanger et laisser cuire encore 5 min. Servir. Remarques : Vous pouvez remplacer les blancs de volaille par du veau. 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-volaille-sautes-aux-amandes_19175.aspx
+recipe_name	Blancs de volaille sautés aux amandes
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	20
+ingredients	amande|beurre|blanc-de-poulet|coulis-de-tomate|creme-liquide|noix|oignon
+instructions	Epluchez et émincez l oignon. Epluchez et râpez le gingembre. Découpez les blancs de poulet en lamelles. Dans une sauteuse, faites blondir l oignon avec le gingembre dans le beurre, sans cesser de remuer durant 3 mn. Ajouter le poulet et faites revenir à feu vif 3 mn sans cesser de remuer. Ajouter la crème, le coulis de tomate et les amandes. Salez, poivrez, mélanger et laisser cuire encore 5 mn. Servez avec riz ou pâtes 
+
+url	http://www.marmiton.org/recettes/recette_blancs-de-volailles-aux-trompettes-de-la-mort_83434.aspx
+recipe_name	Blancs de volailles aux trompettes de la mort
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	20
+ingredients	beurre|huile-d-olive|jus-de-citron|poivre|sel|trompette-de-la-mort|volailles
+instructions	Rincer les champignons, les égoutter, les réserver. Saler et poivrer les blancs de poulet sur chaque face. Dans une casserole, faire chauffer 50 g de beurre et l'huile d'olive, poser les blancs de poulet, couvrir, laisser cuire 8 minutes sur feu doux pour chaque face. Faire chauffer le reste du beurre dans une casserole, y mettre les champignons, saler, poivrer. Faire cuire à feu découvert 4 minutes sur feu doux, ajouter le jus de citron au jus qu'ils ont rendu. Égoutter les champignons et les disposer dans un plat chaud, poser les blancs dessus, napper le tout avec le jus des champignons et servir aussitôt. 
+
+url	http://www.marmiton.org/recettes/recette_blanquette-au-lait-de-coco_21082.aspx
+recipe_name	Blanquette au lait de coco
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	60
+ingredients	beurre|farine|lait|oignon|poivre|raisin|sel|viandes
+instructions	Dans une assiette où vous aurez mis un peu de farine, de sel et de poivre, roulez toutes les faces des morceaux de viande. Faire blondir les oignons préalablement émincés dans une cocotte. Ajouter la viande dans la cocotte. Verser sur la viande 1/4 à 1/2 l de lait de noix de coco et la poignée de raisins de Smyrthe. Fermez la cocotte. Surveiller de temps à autre afin de conserver la préparation "juteuse" et d'éviter qu'elle ne prenne au fond de la cocotte. Rajouter éventuellement du lait ou du lait de coco si nécessaire. Remarques : à servir accompagé de riz blanc ou de pommes de terre vapeur. 
+
+url	http://www.marmiton.org/recettes/recette_blanquette-aux-chicons-endives_17772.aspx
+recipe_name	Blanquette aux chicons ( endives )
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredients	ail|beurre|blanquette-de-veau|chicon|creme-fraiche|lait|muscade|pain|poivre|sel|veau
+instructions	Faire dorer les morceaux de blanquette dans un peu de beurre. Poivrer et saler. Pendant ce temps préparer les boulettes : Ajouter au haché une tranche de mie de pain préalablement trempée dans du lait ; ajouter du sel, du poivre et une gousse d'ail écrasée ; former des boulettes de 3 cm de diamètre. Quand les morceaux de blanquette sont dorés ajouter par dessus les chicons effeuillés. Poivrer et saler les chicons. Faire mijoter sur feu doux. Après 15 mn ajouter par dessus les boulettes de haché. Continuer la cuisson durant +/ 30 mn. Ajouter la crème fraîche allégée. Laisser épaissir légèrement. Remarques : Ce plat peut se préparer à l'avance et est encore meilleur réchauffé.  Est à servir avec une purée de pomme de terre 
+
+url	http://www.marmiton.org/recettes/recette_croque-monsieur-super-leger_56851.aspx
+recipe_name	Croque Monsieur super léger
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	1
+preparation_time	5
+cook_time	10
+ingredients	beurre-allege|fromage-blanc|fromage-rape|jambon|pain-de-mie|poivre|sel
+instructions	Mélanger une bonne cuillère à soupe de fromage blanc à 0% avec du fromage râpé, saler, poivrer. Garnir une tranche de pain de mie de jambon puis de ce fromage blanc, recouvrir de la 2eme tranche préalablement beurrée. Enfourner une dizaine de minute, c'est prêt! (Des herbes de provence ou basilic peuvent être rajoutés au fromage blanc.) Remarques : Accompagné d'une salade, un repas allégé et rapide. 
+
+url	http://www.marmiton.org/recettes/recette_crumble-au-poisson-light_41465.aspx
+recipe_name	Crumble au poisson light
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	30
+ingredients	beurre|beurre-allege|ciboulette|curcuma|farine|fecule|fromage-blanc|fumet|oeuf|poissons|saumon|sel
+instructions	Mettre les filets de poisson au mixeur, ensuite ajouter le fromage blanc bien égoutté (pour éviter que ça rende du jus lors de la cuisson). Ajouter les oeufs et les jaunes, la fécule de maïs, le curcuma, la ciboulette, le sel et le poivre (en petite quantité). Bien mixer ! Préparer la pâte à crumble : mélanger tous les ingrédients et les travailler du bout des doigts. La pâte doit être sableuse comme sur la plage !!! Beurrer un plat à gratin et verser la moitiée de la préparation au cabillaud mixée, pour ensuite mettre les tranches de saumon, puis le reste de la préparation au cabillaud mixée! Mettre la pâte à crumble dessus et faire cuire au four chaud à 180°C (thermostat 6) durant 30 minutes ! Ce plat est très fin. Peut se manger chaud ou tiède.  Pour que ça soit plus dietetique, remplacer la moitiée du beurre pour la pâte a crumble avec du fromage blanc mais attention effet croustillant moins important ! Ca devient moelleux !!! Et pour les gourmands, remplacer le fromage blanc par de la crème fraîche épaisse, cela rend moins d'eau) Bon appétit ! Remarques : Plat très fin et trés apprécié par tout le monde même pour ceux qui n'aiment pas toujours le poisson! Boisson conseillée : blanc 
+
+url	http://www.marmiton.org/recettes/recette_filets-de-perche-a-la-bretonne_81107.aspx
+recipe_name	Filets de perche à la bretonne
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	30
+ingredients	beurre-allege|ciboulette|cidre|creme-fleurette|echalote|fleur-de-sel|haricot|perche|poivre|thym
+instructions	Faire fondre le beurre dans une poêle aux bords assez hauts Y faire fondre les échalotes à feu très doux. Lorsque les échalotes sont bien fondantes, y placer les 4 filets de perche. Saler et poivrer. Faire dorer les filets sur chaque côté (5 min de chaque côté). Arroser avec le cidre. Couvrir et laisser cuire à feu doux pendant 10 min. Pendant ce temps, laver et égouter les haricots de mer. Les mettre sur les filets sans mélanger, puis arroser de crème liquide. Rajouter le thym et la ciboulette (fraîche de préférence). Laisser cuire 10 min à feu moyen. Vous pouvez servir ce plat avec des pommes vapeurs ou des pâtes fraîches. Remarques : Plat très facile à réaliser, plein de saveurs et léger.  Boisson conseillée : Cidre Brut bouché ou un vin blanc sec, un Bordeaux ou un Sauvignon 
+
+url	http://www.marmiton.org/recettes/recette_galettes-legeres-pommes-de-terre-et-chevre_32603.aspx
+recipe_name	Galettes légères pommes de terre et chèvre
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	8
+ingredients	beurre-allege|chevre|oignon|poivre|pomme|pomme-de-terre|sel
+instructions	Allumer le grill du four Cuire les pommes de terre à l'eau, en les gardant un peu fermes Râper l'oignon et les pommes de terre. Saler, Poivrer et mettre une pincée de muscade. Faire 8 petites galettes avec la préparation (ou 6 grosses si vous n'êtes que 3) et les faire dorer dans une poêle avec un peu de beurre. Couvrir et laisser cuire quelques minutes. Rincer la pomme, l'évider sans l'éplucher et la couper en tranches épaisses. Sur la grille du four, disposer mettre du papier sulfurisé, puis y déposer les galettes de pommes de terres, en les recouvrant d'une tranche de pomme, puis d'une ou deux rondelles de fromage de chèvre. Passer sous le gril quelques minutes (5 min max) de manière à faire fondre le fromage et la pomme. Remarques : Plat idéal pour le soir avec une petite salade, ou en entrée. 
+
+url	http://www.marmiton.org/recettes/recette_ragout-de-navets-noirs_53343.aspx
+recipe_name	Ragoût de navets noirs
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	60
+ingredients	ail|beurre-allege|bouillon|concentre-de-tomate|eau|feuille-de-laurier|miel|navet|oignon|pomme-de-terre|viandes
+instructions	Couper la viande en morceaux et la faire roussir à l'huile d'olive dans une cocotte, y ajouter l'oignon et l'ail émincé finement, saler poivrer. Lorsque tout est bien roussi, ajouter la tomate concentrée et le bouillon, laisser cuire 1 heure. Pendant ce temps, éplucher les navets et les pommes de terre. Les couper en carrés et faire revenir les navets dans une poêle avec le beurre et le miel pendant 15 minutes. Quand la viande est cuite, ajouter les navets et les pommes de terre et laisser cuire 20 minutes de plus (le temps que les pommes de terre soit cuites à point). Bon appétit! Remarques : Ce plat est une spécialité de l'Hérault car il se prépare avec les fameux navets noirs de Pardaillan. Boisson conseillée : Un vin rouge corsé, idéalement, un St Chinian. 
+
+url	http://www.marmiton.org/recettes/recette_tarte-bohemienne-ricotta-surimi-legere_345727.aspx
+recipe_name	Tarte bohémienne ricotta / surimi légère
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	40
+ingredients	beurre-allege|farine|fromage-blanc|ricotta|salade|surimi
+instructions	Préparation de la pâte. A la main, mélanger la farine, le fromage blanc et le beurre coupé en parcelles. Si besoin, ajouter un tout petit peu d'eau pour consolider une boule. Étaler la pâte directement dans le plat. Réserver.  Faire légèrement réduire les légumes dans un wok, avec les herbes.  Dans un saladier, mélanger les légumes revenus et la ricotta.  Verser l'appareil sur le fond de tarte.  Disposer dessus les 4 bâtons de surimi puis saupoudrer de râpé.  Remarques : Une tarte légère à consommer chaude ou froide pour rehausser les saveurs. Boisson conseillée : De l'eau, ou un rosé 
+
+url	http://www.marmiton.org/recettes/recette_boeuf-sauce-arachide-mafe-cote-d-ivoire_170134.aspx
+recipe_name	Boeuf sauce arachide (Mafé, Côte d'Ivoire)
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	60
+ingredients	beurre-d-arachide|boeuf|eau|oignon-jaune|piment|poivre|sel|tomate
+instructions	Faites revenir environ 20 min dans un grand faitout avec un peu d'huile, le boeuf en cube, les assaisonnements et l'oignon haché. Il faut que les cubes de boeuf se soit un peu attendris. Ajoutez 50 cl d'eau, le beurre d'arachides, la tomate entière, sans la percer, posée la tout simplement, et un piment lampion sans le percer ou le couper. Cuire le tout à couvert durant 20 min. Sortez la tomate et le piment du faitout. Broyez-les au mixer, puis versez ce mélange dans le faitout. Ajoutez le deuxième piment entier au faitout sans le percer. Faites bouillir le tout à couvert à très gros bouillon jusqu'à ce que l'on voit apparaître l'huile du beurre d'arachides, d'abord en petit rond puis en grande flaques. Environ 20 min. Rectifiez les assaisonnements (sel, poivre, ail) et laissez encore bouillir 10 min à découvert. Remarques : Servir préférablement avec du riz blanc simple, ou de l'attiéké. Si la sauce n'est pas assez liquide, ajoutez un peu d'eau. 
+
+url	http://www.marmiton.org/recettes/recette_spaghettis-chinois-gelatiao_344613.aspx
+recipe_name	Spaghettis chinois (Gelatiao)
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	4
+preparation_time	40
+cook_time	23
+ingredients	ail|beurre-d-arachide|coriandre|eau|farine|germes-de-soja
+instructions	Lavez les germes de soja et l'ail.  Versez l'eau dans la farine, malaxez jusqu'à obtenir une pâte, et puis faites des nouilles avec cette pâte.  Cuisez les nouilles 20 min, mettez-les dans l'eau froide pendant 3 minutes, ensuite mettez-les dans un grand bol.  Cuisez les germes de soja 3 min, puis ajoutez-les dans le bol.  Écrasez 4 gousses d'ail.  Mixez les germes de soja, l'ail et 2 cuillères à soupe de beurre d'arachide dans le bol, enfin ajoutez 3 branches de coriandre. 
+
+url	http://www.marmiton.org/recettes/recette_boulettes-de-poulet-aux-cacahuetes_49067.aspx
+recipe_name	Boulettes de poulet aux cacahuètes
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	24
+preparation_time	30
+cook_time	20
+ingredients	ail|arachide|beurre-de-cacahuete|coriandre|escalope-de-poulet|jus-de-citron|nuoc-mam|oignon
+instructions	Prévoir : piques en bois (ou bâtons de citronnelle) Préchauffez le four à 180°C (thermostat 6). Hacher le poulet et l'ail. Epluchez les oignons et coupez-les en petits dés. Ecrasez grossièrement les cacahuètes avec un mortier ou le manche d'un couteau. Versez dans un plat creux le poulet haché, les cacahuètes écrasées, le beurre de cacahuètes, l'ail haché, les oignons, le nuoc-mâm, le jus de citron et la coriandre. Malaxez pour bien mélanger le tout. Vous pouvez également passer l'ensemble au mixeur pour avoir une préparation homogène. Façonnez des boulettes avec vos mains humidifiées et étalez-les sur une plaque du four. Faites cuire au four 20 min. A la sortie du four, enfilez les brochettes sur les piques et servez. Remarques : Ces boulettes peuvent aussi se servir en entrée. Cependant si vous les servez en apéritif, vous ne serez pas obligés de faire une entrée. Servez ces boulettes avec une sauce soja ou une sauce yakitori. Vous pouvez aussi piquez les boulettes avec des grains de raisin ou des cubes de pommes pour faire un mélange sucré-salé. 
+
+url	http://www.marmiton.org/recettes/recette_boulettes-de-viande-thym-citron-et-sauce-cacahuete_72432.aspx
+recipe_name	Boulettes de viande, thym citron et sauce cacahuète
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	15
+cook_time	60
+ingredients	beurre-de-cacahuete|chapelure|oeuf|oignon|pili-pili|poivre|sel|thym-citron|tomate-pelee|viandes
+instructions	Mélanger la viande, la chapelure, l'oeuf, le sel, le poivre et le thym citron ciselé. Façonner les boulettes. Faire rôtir les boulettes dans un peu d'huile d'olive puis y faire blondir les rondelles d'oignons. Dans une casserole à fond épais, disposer les tomates pelées, les oignons et les boulettes. Saler et poivrer selon votre goût. Cuire la préparation, sur feu doux, pendant 1h15. Intégrer le beurre de cacahuète ou les cacahuètes pilées dans la sauce. Laisser frémir sur feu très doux pendant 15 min. Rectifier l'assaisonnement avec sel, poivre et pili pili. Servir avec du riz ou des pommes de terre natures. Remarques : Si possible, utiliser un diffuseur de chaleur. En effet, dès l'introduction des cacahuètes, la sauce risque de coller au fond de la casserole. 
+
+url	http://www.marmiton.org/recettes/recette_brochettes-express-poulet-satay_52637.aspx
+recipe_name	Brochettes express poulet satay
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	5
+ingredients	beurre-de-cacahuete|curry|filet-de-poulet|lait-de-coco|miel|sauce-soja|sesame
+instructions	Mélangez tous les ingrédients de la marinade dans un plat adapté à la cuisson au micro-ondes. Coupez les filets de poulets en cubes et mélangez-les à la marinade. Laissez mariner ces cubes de viande une nuit au frigo ou au moins 2 heures si vous êtes pressés! Piquez les cubes de poulet mariné sur une brochette en bois. Répétez l'opération jusqu'à obtention de quatre brochettes. Faites cuire ces brochettes au micro-ondes 5 minutes (puissance maximale) en les retournant à mi-cuisson. Faites ensuite cuire la marinade 3 à 4 minutes au micro-ondes afin d'obtenir une sauce oncueuse et croquante grâce aux morceaux de cacahuètes. Servir les brochettes chaudes, accompagnées d'un riz basmati nappé de la marinade cuite transormée en sauce. Pour accentuer le croquant des brochettes, vous pouvez les saupoudrer de graines de sésame légèrement grillées! Remarques : Cette recette est vraiment très simple et vous en épaterez plus d'un en cuisinant avec le micro-ondes!!! Idéale quand vous improvisez un repas entre copains!!!!!!! 
+
+url	http://www.marmiton.org/recettes/recette_chapati-au-beurre-de-cacahuetes_227839.aspx
+recipe_name	Chapati au beurre de cacahuètes
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	2
+preparation_time	30
+cook_time	30
+ingredients	beurre-de-cacahuete|concentre-de-tomate|eau|farine|huile|sel|steack
+instructions	Mettez la farine dans un saladier et faire un puits. Versez (dans le puits) progressivement le 1/2 verre d'eau du sel et 1 cuillère à soupe d'huile. Pétrir jusqu'à obtenir une pâte compact comme une boule de pain. Recouper votre boule en plus petite boules et aplatissez les dans de la farine pour obtenir des ronds de 20 cm. Faites cuire les chapati un par un dans une poêle à feu doux avec un peu d'huile. Faites rissoler la viande en la hachant et ajouter la boite de concentré de tomate, puis le beurre de cacahuète. Présentez vos chapati séparément de votre préparation de viande. Il suffit juste de prendre un chapati et de se servir de viande par dessus. Bon Appétit. 
+
+url	http://www.marmiton.org/recettes/recette_courge-butternut-sauce-cacahuete-et-epices-thai_339990.aspx
+recipe_name	Courge butternut sauce cacahuète et épices Thai
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	60
+cook_time	45
+ingredients	ail|beurre-de-cacahuete|citron-vert|courge|gingembre|huile-de-sesame|lait-de-coco|nouilles|oignon-rouge|persil|petit-piment|sauce-soja|sel|vinaigre-de-riz
+instructions	Coupez la courge en dés et hachez l'oignon. Faites revenir les légumes dans un peu d'huile, salez et laissez cuire à feu doux. Surveillez et remuez régulièrement. N'hésitez pas à ajouter un fond d'eau si les légumes attachent. Pendant leur cuisson, munissez vous d'un bol en bois et d'un pilon : déposez dans le bol la feuille de keffir, les deux gousses d'ail, le piment, le morceau de gingembre, les feuilles de persil (en garder quelques unes pour la décoration), le jus du citron, le beurre de cacahuète, le vinaigre et le soja. Et pilonnez ! Et on pilonne, on pilonne. Pour les plus pressés, j'imagine que cette étape peut être remplacée par un passage au mixer. On obtient une pâte peu ragoûtante,certes mais excellente. Une fois que la courge est tout juste cuite, ajoutez la sauce obtenue. Mélangez et versez le lait de coco. Laissez mijoter à feu très doux. Enfin, faites cuire les nouilles de riz selon les indications figurant sur le paquet. Servez bien chaud, décorez de feuilles de persil et éventuellement de brisures de cacahuètes. Bon appétit ! 
+
+url	http://www.marmiton.org/recettes/recette_curry-de-poulet-aux-cacahuetes-et-lait-de-coco_53362.aspx
+recipe_name	Curry de poulet aux cacahuetes et lait de coco
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredients	beurre-de-cacahuete|blanc-de-poulet|bouillon|cassonade|huile|jus-de-citron|lait-de-coco|legumes|pate-de-curry|poivre|sel
+instructions	Faire chauffer l'huile dans une grande poêle. Ajouter le poulet en morceaux, saler, poivrer. Faire sauter jusqu'à ce que le poulet soit cuit à coeur, en tournant de temps en temps, pendant environ 5 minutes. Ajouter les légumes et continuer à cuire pendant 3 minutes. Pendant que le poulet cuit, préparer la sauce : Dans un petit saladier, fouetter ensemble tous les ingrédients nécéssaires pour la sauce. Verser la sauce dans la poêle sur le poulet et les légumes. Amener à ébullition, en tournant de temps en temps. Baisser le feu et faire frémir pendant 6 à 8 minutes jusqu'à ce que la sauce épaississe légèrement. Servir avec du riz au lait de coco ou du riz nature. 
+
+url	http://www.marmiton.org/recettes/recette_filet-de-perche-a-l-ougandaise_47038.aspx
+recipe_name	Filet de perche à l'ougandaise
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	20
+ingredients	ail|beurre-de-cacahuete|concentre-de-tomate|huile|oignon|perche-du-nil|piment|poireau|tomate|vin-blanc
+instructions	Faire suer les gousses d'ail , l'oignon et le poireau haché dans l'huile. Ajouter le concentré et les 3 tomates coupées en quartiers. Délayer le beurre de cacahuètes dans le verre de vin. Ajouter aux légumes plus environ 40 cl d'eau. Saler et poivrer. Couper les filets de perche en dés et les ajouter aux légumes. Porter à ebullition, puis réduire le feu. Ajouter le(s)piment(s)hachés finement et cuire à couvert à petit feu pendant environ 15 min. Vérifier l'assaissonement, servir avec du riz blanc. Remarques : Ne pas oublier le beurre de cacahuète, tout le fondant et liant est là ! 
+
+url	http://www.marmiton.org/recettes/recette_filet-de-poulet-au-beurre-de-cacahuetes_20876.aspx
+recipe_name	Filet de poulet au beurre de cacahuètes
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	10
+ingredients	beurre-de-cacahuete|creme-fraiche-liquide|filet-de-poulet|poivre|sel
+instructions	Dans une poêle, faire cuire vos filets de poulet avec une pointe de beurre. Dans un bol, mélanger le beurre de cacahuètes et la crème afin d'obtenir un mélange liquide, ajouter du sel et du poivre. Sortir les filets de poulets, les recouvrir du nappage préalable réchauffé au micro onde. Servir avec du riz Remarques : Ce n'est pas du tout écoeurant malgré le beurre de cacahuètes. 
+
+url	http://www.marmiton.org/recettes/recette_fusilli-aux-poulet-poivron-broccoli-et-sauce-satay_326348.aspx
+recipe_name	Fusilli aux poulet, poivron, broccoli et sauce Satay
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	20
+ingredients	ail|beurre-de-cacahuete|blanc-de-poulet|brocoli|ciboulette|fromages|huile-de-tournesol|huile-d-olive|pates|piment|poivre|poivron|sauce-soja|sel|tomate-cerise|vinaigre-de-riz
+instructions	Porter une grande casserole d'eau salée à ébullition. Pendant que l'eau chauffe, découper les brocolis en bouquets de petite taille (pour une bouchée) et le poivron jaune en lamelles. Faire plonger les pâtes Fusilli dans l'eau bouillante et les faire cuire le temps indiqué sur l'emballage. Chauffer une cuillère à soupe d'huile d'olive dans une poêle de type wok, à feu moyen. Ajouter les flocons de piment et le poivron jaune ainsi que quelques gouttes d'huile de sésame. Faire revenir quelques instants, puis ajouter un verre d'eau et faire cuire à couvert pendant quelques minutes. Une fois que le poivron devient un peu plus tendre, ajouter les fleurettes de brocoli avec un peu d'eau. Après quelques minutes, découvrir et laisser finir la cuisson en remuant de temps en temps jusqu'à évaporation de l'eau. Réserver. Faire cuire le poulet émincé en dés dans une poêle avec de l'huile de tournesol et ajouter le mélange d'ail/oignon en poudre en fin de cuisson. Égoutter les pâtes, une fois qu'elles sont bien cuites al dente et réserver. Dans un bol, mélanger à la fourchette : huile d'olive, beurre de cacahuète, sauce soja et vinaigre de riz jusqu'à l'obtention d'une crème bien homogène. Ajouter la sauce aux pâtes et mélanger avec le poulet et le mélange de légumes poivron/brocoli. Pour la décoration, couper les tomates cerise dans leur longueur et les disposer en croix. Ajouter une bonne cuillère de fromage à tartiner et saupoudrer le plat de ciboulette hachée. Servir immédiatement ou réfrigérer pour une consommation ultérieure (également délicieux réchauffé ou en salade de pâtes froide, une fois les ingrédients bien reposés). 
+
+url	http://www.marmiton.org/recettes/recette_gambas-sauce-satay_230830.aspx
+recipe_name	Gambas, sauce satay
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	5
+ingredients	ail|beurre-de-cacahuete|citron-vert|coriandre|gambas|huile-d-olive|lait-de-coco|pate-de-curry
+instructions	Décortiquer les gambas (laisser la queue). Préparer la marinade avec la coriandre effeuillée et ciselée, le jus des citrons verts, l'huile d'olive, la gousse d'ail. Mélanger et laisser reposer 20 min à température ambiante. Faire bouillir le lait de coco, ajouter le beurre de cacahuète, faire cuire 2 min en remuant, ajouter la pâte de curry faire cuire 2 min en remuant. Réserver au chaud. Faire cuire les gambas dans une poêle 2 min de chaque côté. Mettre la sauce dans des coupelles, servir les gambas à part. Accompagner de riz basmati. 
+
+url	http://www.marmiton.org/recettes/recette_mafe-specialite-senegalaise_165893.aspx
+recipe_name	Mafé spécialité sénégalaise
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	105
+ingredients	ail|beurre-de-cacahuete|bouillon-de-boeuf|carotte|chou|gombo|huile-de-tournesol|oignon|piment|riz-long|sauce-tomate|sel|viandes
+instructions	Couper la viande en morceaux épais, mettez la dans un bol, ajoutez-y l'oignon et l'ail finement coupé, faites chauffer l'huile dans une marmite ensuite ajoutez-y le contenu du bol. Laissez dorer la viande, verser la sauce tomate et faites porter à ébullition. Chauffer 20 cl d'eau, mettre la pâte d'arachide dans un bol, verser l'eau chaude et remuer avec un fouet, remuer sans faire de grumeaux ensuite verser la préparation dans la marmite. Couper les carottes en gros morceaux, les gombos en petites tranches et ajoutez les ainsi que la tranche de chou et le piment antillais ( si vous le souhaitez) dans la marmite, ajoutez le sel, et le bouillon, laissez cuire pendant une heure et quarante cinq minutes. Faire bouillir 600 ml d'eau salée, y ajoutez le riz. Servir le riz accompagné du bouillon. 
+
+url	http://www.marmiton.org/recettes/recette_maffe-de-poulet-afrique_18461.aspx
+recipe_name	Maffé de poulet (Afrique)
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	45
+cook_time	35
+ingredients	beurre-de-cacahuete|concentre-de-tomate|couteau|cuisse-de-poulet|huile-d-arachide|oignon|patate-douce|poivre|sel|sucre
+instructions	1) peler et émincer les oignons. 2) faire dorer le poulet avec l'huile dans une "cocotte" pendant 10 min et réserver. 3) baisser le feu sous la "cocotte" et y plonger les oignons. 4) dans un petit bol, mélanger le concentré de tomate, le sucre, l'eau, le sel et le poivre ainsi que le piment. 5) verser la préparation sur les oignons et mélanger. 6) ajouter le beurre de cacahuète et mélanger à nouveau, . 7) remettre le poulet dans la cocotte et mélanger une dernière fois en laissant sur feu moyen. 8) verser de l'eau bouillante (un bon fond mais pas à niveau) sur la préparation et laisser cuire à petit bouillon 35 min sans couvrir. 9) pendant ce temps, laver les patates douces et les couper en 4 ou 5 morceaux selon leur taille. Les faire cuire avec la peau 30 min maxi à la vapeur. 10) une fois cuites, peler les patates et les servir en accompagnement du poulet. Remarques : Pour un coût encore moins important, on peu remplacer les patates douces par du riz. Boisson conseillée : un Tavel ou Lirac rosé bien frais 
+
+url	http://www.marmiton.org/recettes/recette_nouilles-chinoises-a-la-sauce-cacahuete_254138.aspx
+recipe_name	Nouilles chinoises à la sauce cacahuète
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	10
+ingredients	ail|arachide|beurre-de-cacahuete|citron-vert|gingembre|huile-de-tournesol|lait-de-coco|nouilles-chinoises|oignon|petit-piment|poivre|sauce-soja|sel
+instructions	Épépinez le piment et hachez-le finement. Faites chauffer un peu d'huile dans une casserole. Passez la gousse d'ail au presse-ail au dessus de la casserole et faites-en de même avec le morceau de gingembre. Ajoutez le piment (celui qu'on vient de hacher ou la pointe de piment de Cayenne moulu). Faites revenir l'ail, le gingembre haché et le piment 2 min à feu moyen.  Ajoutez la petite brique de lait de coco. Remuez, une fois que le lait est assez chaud, déposez-y le beurre de cacahuète. Continuez à remuer afin que le beurre de cacahuète fonde entièrement. A feu doux, ajoutez le jus et le zeste du demi-citron et la sauce soja. Salez et poivrez si nécessaire, faites à votre goût. Couvrez la casserole et coupez le feu. Préparez les nouilles chinoises. Pendant qu'elles cuisent coupez l'oignon en fines lamelles. Faites-les revenir et griller dans un peu de beurre. Pendant ce temps écrasez quelques cacahuètes salées. Égouttez les nouilles, mettez-les dans la casserole de sauce, remuez et réchauffez le tout. Disposez les nouilles dans les assiettes et parsemez-les des lamelles d'oignon grillées et des brisures de cacahuètes. Bon appétit ! Remarques : La recette de base a été présentée par Donal Skehan dans son émission de cuisine. J'ai fait quelques modifications ou simplifications d'après ce que j'avais dans le frigo. Donc même avec du piment de Cayenne moulu et du citron jaune c'est délicieux. D'après ce que j'ai compris, il proposait de parsemer le tout avec des oignons crus, j'ai préféré les griller et c'était top ! 
+
+url	http://www.marmiton.org/recettes/recette_poulet-a-l-africaine-rapide_225755.aspx
+recipe_name	Poulet à l'africaine rapide
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	10
+ingredients	beurre-de-cacahuete|cacahuete-grillee|gingembre|oignon|poivre|poulet|sauce-tomate
+instructions	Faire rissoler vos oignons dans un peu de beurre, découper votre poulet fumé, et l'intégrer au mélange avec la sauce tomate. Broyer les cacahuètes (plus ou moins selon les goûts) et l'ajouter au mélange. Ajouter du gingembre et du beurre de cacahuète si vous le souhaitez. Voila c'est prêt ! Bon appétit ! Remarques : Recette originale et succulente ! Boisson conseillée : côte du rhône 
+
+url	http://www.marmiton.org/recettes/recette_poulet-a-l-indienne-a-la-cacahuete_85487.aspx
+recipe_name	Poulet à l'indienne à la cacahuète
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	10
+cook_time	15
+ingredients	beurre-de-cacahuete|blanc-de-poulet|brique|curry|oignon|petit-piment|poivron|sel|sesame|tomate-concassee
+instructions	Émincez les blancs de poulet en fines lamelles, ainsi que l'oignon et le poivron. Faites revenir le tout à la poêle à feu moyen, avec un peu d'huile de tournesol, jusqu'à ce que le poulet soit doré et les légumes légèrement croquants. Saupoudrez de curry et de piment. Faites encore revenir à feu doux 2 min, en remuant régulièrement. Versez le lait de coco, remuez durant 2 min. Ajoutez le concassé de tomates, remuez régulièrement durant 2 min, à feu moyen. (La sauce aura tendance a épaissir, donc n'hésitez pas à rajouter un peu d'eau, pour éviter une sauce trop pâteuse en fin de préparation). Ajoutez le beurre de cacahuète, délayez dans toute la sauce, puis salez. Faites encore cuire sur feu très doux durant 2 à 3 min, puis servez avec du riz blanc. Pour une jolie présentation, versez un peu de graines de sésame au fond de ramequins, tassez de riz, et démoulez sur les assiettes, avec 3 cuillères à soupe de poulet a l'indienne à coté. Bon appétit !! Remarques : Surveillez toujours l'épaisseur de la sauce, ajoutez un peu d'eau au fur et a mesure, si la sauce épaissit trop. Boisson conseillée : Vin blanc sec. 
+
+url	http://www.marmiton.org/recettes/recette_poulet-aux-legumes-sauce-cacahuete_62694.aspx
+recipe_name	Poulet aux légumes sauce cacahuète
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	60
+cook_time	40
+ingredients	aubergine|basilic|beurre-de-cacahuete|champignon-noir|courgette|escalope-de-poulet|mais|oignon|poivre|poivron|poivron-rouge|sel
+instructions	Découpez les escalopes de poulet en dés, faites-les revenir dans un wok sans matière grasse et couvert pendant 10 min. Une fois bien cuits, enlevez le couvercle afin de les dorer en surface. Réservez. Découpez l'oignon en petits morceaux, les poivrons en lamelles, l'aubergine et la courgette en dés. faites revenir l'oignon dans de l'huile d'olive. Une fois que celui-ci a bien sué, ajoutez l'aubergine puis la courgette et les poivrons tout en remuant. Une fois bien cuits, ajoutez les minis maïs et les champignons noirs (préalablement réhydratés 30 min dans un bol d'eau). Salez, poivrez et ajoutez une bonne cuillère à soupe de beurre de cacahuète. Ajoutez le poulet, laissez cuire 10 min à feu vif dans le wok en mélangeant energiquement, sans jamais couvrir la préparation. Servez brûlant avec un riz parfumé. 
+
+url	http://www.marmiton.org/recettes/recette_poulet-bei-afrique_29584.aspx
+recipe_name	Poulet Beï (Afrique)
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	5
+cook_time	30
+ingredients	beurre-de-cacahuete|cube-de-bouillon|cuisse-de-poulet|huile-d-olive|oignon|poivre|sel|tomate
+instructions	Faire dorer l'oignon émincé dans une cocotte. Ajouter les tomates coupées en morceaux, ajouter le poulet (sans la peau), recouvrir le poulet avec de l'eau bouillante. Ajouter le cube de volaille, le sel et le poivre et le beurre de cacahuète. Laisser mijoter une bonne demi-heure, couvert, à petit feu. La sauce doit épaissir à la fin. Si au bout d'une demi-heure, la sauce n'a pas épaissi, laisser cuire plus longtemps en tournant de temps en temps. Remarques : Servir avec du riz. C'est un plat très facile a faire, qui ne demande presque pas de temps de préparation et qui plaît à tout le monde!!! 
+
+url	http://www.marmiton.org/recettes/recette_poulet-en-robe-caramel-et-cacahuetes_36277.aspx
+recipe_name	Poulet en robe caramel et cacahuètes
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	30
+ingredients	arachide|beurre-de-cacahuete|lait-de-coco|oignon|pilon-de-poulet|poivre|sel|sucre
+instructions	Dans une grosse poêle (ou un fait-tout), faites dorer les pilons de poulet sur un lit d'oignon émincés, et dans un fond d'eau salée et poivrée à votre goût. A feu doux... Pas la peine de rajouter d'huile, la graisse de la viande va fondre dans le jus petit à petit... Au bout de 7/8mn, rajoutez la moitié des cacahuètes hachées finement, avec les sucres (ainsi que le beurre de cacahuètes si vous en avez). Délayez bien le tout dans le fond de la poêle avec 1 spatule en bois, et retournez les pilons pour qu'ils s'habillent de cette sauce. Toujours à feu doux... Si ça accroche un peu, rajoutez des cuillères à soupe d'eau. 6/7 min plus tard, finalisez la sauce en y ajoutant le lait de coco, et le reste de cacahuètes entières. Remuer bien le fond avec la spatule pour que la sauce se mélange. Couvrez et laissez cuire à feu doux pendant 10 à 15 min maxi en retournant régulièrement les pilons dans le fond de sauce. Veillez à ce que le feu soit très doux pendant toute la durée de la cuisson. Remarques : Se marie très bien avec du riz blanc ou des tagliatelles fraîches. Boisson conseillée : un vin rouge léger, ou un rosé frais et piquant. 
+
+url	http://www.marmiton.org/recettes/recette_poulet-epice-au-beurre-de-cacahuete_42979.aspx
+recipe_name	Poulet épicé au beurre de cacahuète
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredients	ail|banane|beurre-de-cacahuete|blanc-de-poulet|citron|gingembre|huile-d-olive|legumes|oignon|piment|poivre|sel|tomate
+instructions	Pour le poulet : Dans une casserole, faire dorer l'oignon dans un peu d'huile d'olive. Pendant ce temps, découper les blancs de poulet en dés. Les faire revenir 5 min avec l'oignon Ajouter les légumes surgelés pour wok. Mélanger le tout jusqu'à ce que les légumes soient dégelés. Ajouter, le gingembre, l'ail coupé en 4, la banane en rondelles, la tomate en morceaux, le piment de Sambale et le beurre de cacahuéte. Mélanger bien le tout. Ajouter de l'eau du robinet jusqu'à hauteur du mélange. Couvrir et laisser mijoter à feu moyen-doux pendant minimum 1h30 heure. Mélanger réguliérement. Pour l'accompagnement : salade de tomate piquante Hacher l'échalote. Découper les tomates en tout petits dés. Mettre le tout dans un petit saladier. Y ajouter le jus de citron, l'huile d'olive, le piment de Sambale et saler généreusment. Remarques : Servir avec du riz Basmati. 
+
+url	http://www.marmiton.org/recettes/recette_poulet-marine-sauce-satay_26271.aspx
+recipe_name	Poulet mariné sauce satay
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	15
+ingredients	beurre-de-cacahuete|blanc-de-poulet|curcuma|huile-d-arachide|huitre|lait-de-coco|pate-de-curry|sauce-soja|sucre
+instructions	Découper les blancs de poulet en petits morceaux. Les mettre à mariner 20 min minimum dans la préparation. Les faire revenir ensuite 10-15 min dans une poêle. Pendant ce temps-là, préparer la sauce d'accompagnement en faisant chauffer le lait de coco à feu doux, en y ajoutant les autres ingrédients au fur et à mesure. Servir avec du riz blanc thaï ou du riz gluant. Remarques : Recette originale et très goûteuse Boisson conseillée : bière chinoise 
+
+url	http://www.marmiton.org/recettes/recette_poulet-thai-sauce-cacahuetes_12205.aspx
+recipe_name	Poulet thaï sauce cacahuètes
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredients	ail|beurre-de-cacahuete|citron-vert|coriandre-en-grains|cumin|gingembre|huile|lait-de-coco|pate-de-crevette|piment-vert|poissons|poulet|sucre-en-poudre
+instructions	Détailler le poulet en plusieur morceaux et les mettre dans une casserole avec le lait de coco et une tasse d'eau.Porter le tout à ébullition,puis couvrir et baisser le feu. Laisser mijoter 30 mn, jusqu'à ce que le poulet soit tendre. Faire la coriandre, le cumin et la pâte de crevettes dans un wok ou poêle anti-adhésive jusqu'à ce qu'ils exhalent leur arôme.Les broyer ensuite avec l'ail, le gingembre et le sucre. Faire cuire la pâte de condiment obtenu dans l'huile pendant 3mn. Retirer le poulet à l'aide d'une écumoire et réserver. Verser le jus de cuisson, avec les piments, sur les condiments. Ajouter le beurre de cacahuètes en remuant jusqu'à ce qu'il se dissolve dans la sauce. Remettre le poulet et faire cuire 10 mn à feu doux. Ajouter la sauce de poisson et le jus de citron et servir avec du riz. 
+
+url	http://www.marmiton.org/recettes/recette_ragout-a-l-africaine_31504.aspx
+recipe_name	Ragoût 'à l'Africaine'
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	10
+cook_time	30
+ingredients	arachide|beurre-de-cacahuete|concentre-de-tomate|cube-de-bouillon|epaule-d-agneau|oignon|piment|poivre|sel
+instructions	Faire revenir les oignons dans 2 cuillères à soupe d'huile "neutre", ôter, mettre les oignons, puis les cacahuètes, remettre la viande. Ajouter le cube de bouillon, sel poivre et couvrir d'eau à hauteur, ajouter le concentré de tomates. Epicer selon votre goût, le but étant de faire assez relevé -Attention, le piment à tendance à infuser, donc à "piquer" progressivement. Laisser cuire à feu doux 30 mn environ, jusqu'à ce que la viande soit moelleuse. 5 mn avant la fin de la cuisson, ajouter deux à trois bonnes cuillères de beurre de cacahuètes, qui va adoucir et velouter la sauce. Remarques : A servir avec un riz blanc, et une salade verte pour se rafraichir après le piquant (sauce salade mixer 1 tomate, 1/2 oigon 1/2 jus de citron, 1 c huile sel poivre) 
+
+url	http://www.marmiton.org/recettes/recette_riz-cantonais-et-sauce-au-beurre-de-cacahuete_57088.aspx
+recipe_name	Riz cantonais et sauce au beurre de cacahuète
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	10
+preparation_time	30
+cook_time	30
+ingredients	beurre-de-cacahuete|chair-a-saucisse|crevette|des-de-jambon|lardons|oeuf|oignon|petit-piment|poulet|riz-blanc|sauce-soja|tomate
+instructions	Faire cuire le riz. Faire revenir les lardons. Faire cuire la chair à saucisse en petits morceaux. Battre les oeufs en omelette et les faire cuire. Faire décongeler les crevettes et les revenir avec de la sauce soja. Dans un grand saladier mettre le riz et un peu de sauce soja et mélanger. Ensuite y incorporer les dés de jambon, les lardons, la chair à saucisse, les oeufs en petits morceaux et les crevettes. Faire revenir les morceaux de poulet dans la sauce soja sans trop les faire brûler. Mettre les morceaux de poulet dans un plat, arroser de sauce soja, allonger avec un grand verre d'eau et mettre au four 30 min. Pendant ce temps la préparer votre sauce : peler une tomate et éplucher l'oignon, les hacher et rajouter le piment. Prendre 2 grosses cuillère à soupe de beurre de cacahuète et la mélanger à la sauce tomate, oignon. Remarques : Je fais une sauce au beurre de cacahuète pimentée et une autre sans piment pour les enfants. 
+
+url	http://www.marmiton.org/recettes/recette_satay-de-poulet-a-l-indonesienne_56658.aspx
+recipe_name	Satay de Poulet à l'Indonésienne
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	6
+ingredients	ail|arachide|beurre-de-cacahuete|blanc-de-poulet|creme-liquide|gingembre|legumes|poivre|riz-blanc|sauce-soja|sel
+instructions	La veille, mettez les blancs coupés en dés à mariner dans 1/4 de Kikoman (vous en trouverez dans n'importe quel marché asiatique, et dans certaines grandes surfaces) pour 3/4 d'huile de sésame. Ajoutez à la marinade une cuillère à café d'ail hâché. Le jour même, faites revenir les dés de poulet dans une poêle très chaude pendant 6 minutes. En même temps, faites chauffer la crème liquide. (Petite astuce, pour éviter qu'elle ne colle, passez d'abord le fond de la casserole sous l'eau froide). Ajoutez à la crème liquide qui chauffe une grosse cuillère à soupe de beurre de cacahuètes, une pincée de gingembre, un tour de moulin à poivre. Dressez et versez la sauce sur les dès (Ne pas les noyer). En accompagnement, servez du riz blanc (si possible cuit au rice-cooker. Là encore, vous en trouverez en commerces asiatiques, sinon, préférez du basmati), et une poêlée de légumes. Enfin, arrosez le tout d'un filet de kikoman (doucement, si vous n'y êtes pas habitué) Remarques : C'est un plat très original, et somme toute assez léger, tant qu'on ne force pas sur la sauce aux cacahuètes. Réalisé assez rapidement, il impressionnera néanmoins vos invités, mais aussi vos enfants. 
+
+url	http://www.marmiton.org/recettes/recette_saumon-melon-cacahuete_309173.aspx
+recipe_name	Saumon melon cacahuète
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	20
+cook_time	10
+ingredients	beurre-de-cacahuete|ciboulette|citron|echalote|fleur-de-sel|huile-d-olive|melon|pates|poivre|poivron|puree-de-piment|saumon
+instructions	Mixer la moitié du melon avec le beurre de cacahuète, jus de citron, purée de piment, poivre, sel. Griller le poivron émincé dans une sauteuse légèrement huilée. Saler. Réserver. Cuire les pâtes (ou le riz) selon vos préférences habituelles. Cuire le saumon des deux côtés dans la même sauteuse, 2 à 4 minutes par face. Dresser, saupoudrer de ciboulette fraîche. Boisson conseillée : vin blanc sec 
+
+url	http://www.marmiton.org/recettes/recette_saute-de-porc-facon-mafe_37047.aspx
+recipe_name	Sauté de porc façon mafé
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	5
+preparation_time	60
+cook_time	60
+ingredients	ail|beurre-de-cacahuete|concentre-de-tomate|cube-de-bouillon|cumin-en-poudre|huile-d-olive|oignon|piment|poivre|poivron|ras-el-hanout|saute-de-porc|sel|thym|tomate-pelee
+instructions	Eplucher et couper les oignons et les poivrons en lamelles et les faire revenir dans l'huile, en faisant bien attention de ne pas les faire brûler. Ecraser les gousses d'ail et les ajouter aux légumes, puis ajouter la viande pour la faire dorer. Pendant que la viande prend des couleurs, faire chauffer le beurre de cacahuète dans une casserole avec 60cl d'eau, pendant une quinzaine de minutes, jusqu'à ce que ça épaissise. Ajouter ce mélange à la viande lorsque celle-ci est dorée, puis les tomates coupées en dés, le concentré, le cube de bouilllon, les épices, le thym et le sel et le poivre. Pour un plat très 'hot', couper le piment en 2. Pour un plat parfumé mais pas trop piquant, le laisser entier. Faire cuire au moins une heure à couvert, sur feu doux (idéalement sur une mijoteuse électrique), en goûtant au fur et à mesure afin de rectifier l'assaisonnement en sel, poivre et épices selon les goûts. Je conseille de mettre peu d'épices au début et d'ajouter en cours de cuisson, afin d'éviter les mauvaises surprises. On peut le servir avec ce qu'on aime : riz, boulghour, pommes de terres. Remarques : J'ai trouvé la base de cette recette dans un vieux classeur de recettes (venant de magazines) déniché dans une brocante. Je l'ai adaptée à ma façon en ajoutant les épices et les poivrons. Si possible, à préparer la veille car nettement meilleur réchauffé. On peut la faire avec du boeuf, de l'agneau et de la volaille. Boisson conseillée : Un rouge léger, type côtes du Lubéron 
+
+url	http://www.marmiton.org/recettes/recette_soupe-epicee-aubergines-et-cacahuetes_66670.aspx
+recipe_name	Soupe épicée aubergines et cacahuètes
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	40
+cook_time	45
+ingredients	aubergine|beurre-de-cacahuete|citron|concentre-de-tomate|cumin-en-poudre|curcuma|eau|echalote|feuille-de-coriandre|gingembre|graine-de-coriandre|haricot|huile|oignon|piment|piment-fort|sel|tomate
+instructions	Peler et couper les aubergines en cubes d'1 à 2 cm de côté, mettre à dégorger dans un saladier avec 2 cuillères à soupe de sel (bien remuer). Laisser environ 20 minutes. Pendant ce temps, peler et couper le plus finement possible les échalotes. Verser 2 cuillères à soupe d'huile dans une grande casserole, y faire revenir les échalotes jusqu'à ce qu'elles soient grillées et caramélisées (15 minutes environ). Mettre de côté dans un saladier. Bien rincer à l'eau courante froide puis égoutter les dés d'aubergine. Rajouter 1 cuillère à soupe d'huile dans la casserole, faire revenir les dés d'aubergine en touillant bien pendant 12 à 15 minutes jusqu'à ce qu'ils soient tendres. Mettre de côté dans le saladier avec les échalotes. Peler et couper l'oignon grossièrement, épépiner et couper finement le piment, râper le gingembre frais. Remettre de l'huile dans la casserole et faire revenir l'oignon, le piment, le gingembre et les épices (environ 5 minutes, l'oignon doit être transparent et ramolli mais pas grillé). Ajouter le concentré de tomate et faire revenir encore 30 secondes. Verser la boite de tomates, l'eau (ou le bouillon - quantité suivant le goût, par exemple 5 ou 6 boîtes de tomate pleines d'eau et 1/4 de bouillon cube), les échalotes, les dés d'aubergines et les haricots coupés en morceaux de 2 cm. Bien remuer, porter à ébulition. Laisser bouillir 5 minutes puis baisser le feu. Dans un grand bol, mettre le beurre de cacahuètes. Ajouter une bonne louche ou deux de soupe chaude et bien remuer jusqu'à ce que le beurre de cacahuète soit complètement fondu et le mélange bien homogène. Verser le mélange dans la soupe. Laisser mijoter à feu moyen/doux pendant 35 à 45 minutes, les dés d'aubergines doivent être bien tendres. Enlever du feu, ajouter la coriandre émincée (1/2 bouquet) et le jus de citron, bien remuer. Laisser reposer quelques minutes, goûter et saler. Servir en décorant avec des cacahuètes grillées grossièrement écrasées et de la coriandre fraîche. Remarques : Plat végétalien, unique et complet. 
+
+url	http://www.marmiton.org/recettes/recette_spare-ribs-au-miel_38864.aspx
+recipe_name	Spare-ribs au miel
+type	Plat principal
+difficulty	Difficile
+cost	Moyen
+guests_number	2
+preparation_time	20
+cook_time	60
+ingredients	ail|beurre-de-cacahuete|citronnelle|combava|cotes-de-porc|gingembre|miel|poissons
+instructions	Mélanger tous les ingrédients. Personnellement, je chauffe le miel au micro-onde, pour laisser infuser les herbes. Enduire les spare-ribs. Laisser reposer, minimum 1/2 journée. Faire cuire, 1 heure au four à 180-200°, en étant très attentif et en retournant régulièrement les morceaux car le miel à tendance à brûler. Un riz, parfumé ou basmati, sera parfait en accompagnement. Remarques : C'est ma meilleure recette. Quand elle est réussie et que les petites côtes sont bien caramélisées, c'est un régal, et le succès est ainsi assuré! Boisson conseillée : Un vin à boire frais - Saumur champigny, par exemple. 
+
+url	http://www.marmiton.org/recettes/recette_tagliatelles-aux-poireaux-et-a-la-sauce-beurre-de-cacahuetes_46970.aspx
+recipe_name	Tagliatelles aux poireaux et à la sauce beurre de cacahuètes
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Bon marché
+guests_number	6
+preparation_time	40
+cook_time	15
+ingredients	ail|beurre-de-cacahuete|escalope|oignon|poireau|poivre|sauce-soja|sel|tagliatelle
+instructions	Couper les escalopes en petits morceaux. Fendre les poireaux en deux et les couper en gros tronçons. Emincer les oignons en petits morceaux. Faire revenir la volaille dans un peu d'huile. Saler, poivrer. Une fois cuit, réserver dans une assiette. Mettre les oignons et les poireaux dans une poêle et les faire revenir avec un peu d'huile et 2 ou 3 cuillères à soupe de sauce soja douce. Au bout de 5 min, ajouter la viande, remuer et laisser sur feu moyen 2 ou 3 min. Cuire les pâtes. Préparer la sauce au beurre de cacahuètes : Mettre le beurre de cacahuètes dans une casserole, ajouter 60 ml de sauce soja douce, l'ail écrasé et un verre d'eau. Mettre à chauffer sur feu doux et bien mélanger. Ajouter de l'eau tout en remuant jusqu'à ce que la préparation n'ait plus un aspect huileux et brillant. Mélanger les tagliatelles avec les poireaux et les oignons. Servir dans des assiettes et accompagner de quelques cuillères de sauce cacahuètes. Remarques : Il est très important d'utiliser de la sauce soja douce (sucrée). 
+
+url	http://www.marmiton.org/recettes/recette_thon-exotique-cacahuetes-curry-gingembre-et-raisins_32199.aspx
+recipe_name	Thon exotique (cacahuètes curry gingembre et raisins)
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	30
+cook_time	20
+ingredients	beurre-de-cacahuete|creme-liquide|eau|gingembre|huile-d-olive|oignon-jaune|pate-de-curry|raisins-secs|riz-basmati|sucre|thon
+instructions	Faire cuire le riz en veillant à le garder un peu ferme (à la créole). Je conseille l'utilisation d'un auto-cuiseur à riz. Pendant ce temps, et après les avoir épluchés et émincés, faites revenir oignon et gingembre pendant 5 minutes sur un filet d'huile d'olive, dans une casserole moyenne. Ajoutez ensuite la pâte de curry ainsi que le beurre de cacahuètes. Afin de lier l'ensemble et de faire fondre la pâte et le beurre plus facilement, ajouter l'eau et remuer la casserole jusqu'à ce que les deux soient dissouts. Ouvrir la boîte, en vider le jus et écraser grossièrement le thon dans la casserole avec un ustensile en bois (éviter le métal, bien sûr). Ajouter les raisins et laisser l'eau s'évaporer un peu. Ajouter enfin la crème liquide et le sucre en pluie. Mélanger l'ensemble afin que la crème prenne le goût de tous les ingrédients. Laissez réduire 5 minutes de plus et servi sans mélanger au riz qui ne sert que d'accompagnement. Se mange chaud. Remarques : J'ai donné l'odre dans lequel je l'ai fait aujourd'hui mais il suffit de faire revenir gingembre et oignon de mettre tout le reste une fois que c'est fait. Ce n'est pas un plat qui nécessite trop de doigté.  Si le mélange devient trop compact car trop réduit à votre goût, essayez de diluer avec un doigt de lait demi-écrémé. Pour les gros mangeurs comme moi ou si c'est le seul plat du repas, les proportions concernent alors 1 seule personne. Boisson conseillée :  mon avis trop chargé en goûts pour se marier avec un vin. Si vous avez des propositions ... 
+
+url	http://www.marmiton.org/recettes/recette_ailes-de-raie-aux-capres_172258.aspx
+recipe_name	Ailes de raie aux câpres
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	5
+cook_time	15
+ingredients	beurre-demi-sel|beurre-doux|capres|feuille-de-laurier|gros-sel|jus-de-citron|persil|poivre-en-grain|raie|thym|vinaigre
+instructions	Dans une grande casserole d'eau froide, mettez les ailes de raie, le vinaigre, le laurier, le thym, les grains de poivre, 1 cuillère à café de gros sel. Faites chauffer doucement jusqu'à frémissement et laisser cuire 15 minutes sans bouillir. Hachez le persil. Mettez le beurre doux à cuire dans une casserole 1 à 2 minutes, ajoutez ensuite le beurre demi-sel. Une fois le beurre fondu, ajoutez le jus de citron, les câpres et le persil haché puis retirer du feu. Égouttez les ailes de raie puis servez-les accompagnées de la sauce. Vous pouvez servir les ailes de raie aux câpres accompagnées de purée de pommes de terre. 
+
+url	http://www.marmiton.org/recettes/recette_ble-aux-champignons-et-jambon_23277.aspx
+recipe_name	Blé aux champignons et jambon
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	15
+cook_time	20
+ingredients	beurre-demi-sel|ble|champignon-de-paris|creme-fraiche|huile|huile-de-noix|jambon-blanc|poivre|porto|salade|sel
+instructions	Faites cuire le blé dans un grand volume d'eau bouillante salée (selon les indications portées sur le paquet). Pendant ce temps, dans une poêle chaude, mettre du beurre avec un peu d'huile d'olive. Faire cuire les champignons émincés. Ajouter le jambon coupé en dé, faire cuire 2 mn. Puis ajouter le Porto avec la crème fraîche tout en remuant. Egouter le blé, ajouter une noix de beurre et servir le tout accompagné d'une petite salade avec de l'huile de noix ou de noisette. Sel, poivre pour terminer l'ensemble. C'est prêt ! Remarques : Idéal comme recette rapide, pas prise de tête et nourissante. Et puis ça change des pâtes et du riz ;) Boisson conseillée : vin de rouge de preference( à cause du porto) 
+
+url	http://www.marmiton.org/recettes/recette_blinis-aux-pommes-de-terre-et-a-la-ciboulette_51607.aspx
+recipe_name	Blinis aux pommes de terre et à la ciboulette
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	1
+preparation_time	5
+cook_time	20
+ingredients	beurre-demi-sel|blini|ciboulette|creme-fraiche-epaisse|pomme-de-terre
+instructions	Eplucher les pommes de terre, les couper en rondelles, puis les faire sauter à la poêle. Pendant la cuisson, préparer une sauce en mélangeant la crème avec de la ciboulette ciselée. Lorsque les pommes de terres arrivent en fin de cuisson, faire revenir les deux blinis dans du beurre salé. Une fois les pommes de terre cuites, placer dans une assiette un blinis, puis le tartiner de crème.  Disposer une couche de pommes de terre, puis retartiner de crème, et ainsi de suite jusqu'à avoir mis 3 à 4 couches de pomme de terre.  Terminer par une couche de crème et placer le deuxième blinis par dessus. Remarques : Ce plat est assez calorique, et ce n'est pas en préparant ça que vous allez faire plaisir à votre diététicien ou à votre conjoint qui souhaiterait que vous vous débarrassiez de vos bouées. Par ailleurs si je le qualifie de plat principal, c'ets justement parce qu'il ets assez nourrissant, mais pourquoi ne pas, dans un repas très aéré et en mettant seulement deux couches de pomme de terre, en faire une entrée ' 
+
+url	http://www.marmiton.org/recettes/recette_cake-a-la-julienne_37514.aspx
+recipe_name	Cake à la julienne
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	45
+ingredients	beurre-demi-sel|farine|gruyere|julienne|lait|levure|oeuf|poivre|sel
+instructions	Préchauffer le four à 180°C (thermostat 6). Faire décongeler la julienne dans un peu d'huile. Pendant ce temps, mélanger la farine, la levure, sel, poivre. Faire une fontaine au centre mettre les oeufs, le beurre fondu et le lait, bien mélanger pour obtenir une pâte lisse. Ajouter le gruyère râpé et la julienne. Laisser reposer avant de verser le tout dans un moule graissé et fariné. Mettre au four 180°C (thermostat 6) pendant 45 min. 
+
+url	http://www.marmiton.org/recettes/recette_cake-allege-au-surimi-et-courgettes_326355.aspx
+recipe_name	Cake allégé au surimi et courgettes
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	50
+ingredients	beurre-demi-sel|courgette|crabe|eau|epice|farine|levure-chimique|maizena|oeuf|poivre|sel|soja
+instructions	Préchauffez votre four à 200°C (thermostat 6-7). Mélangez la farine, la levure et la maïzena. Séparez les jaunes des blancs et ne gardez que 3 jaunes pour alléger. Fouettez les jaunes avec sel, poivre, épices de votre choix, et beurre fondu. Puis y incorporez au fur et à mesure le mélange de farine. Rajoutez le lait de soja. Rajouter de l'eau jusqu'à ce que la texture soit onctueuse et non liquide. Rajoutez les miettes et les courgettes épluchées et coupées en dés. Montez les blancs en neige et les incorporer délicatement en plusieurs fois au mélange précédent. Versez le tout dans un moule rond, de préférence en silicone et y disperser les graines sur le dessus. Enfournez pendant 45 à 50 minutes à 200°C (thermostat 6-7) en vérifiant avec un couteau. Sortir du four. Sortir le cake de son moule et le placer sur une grille pour laisser évacuer l'air chaud. Remarques : Selon votre moule et four, le temps de cuisson est à surveiller avec un couteau. Le temps peut être plus long avec un moule à cake. 
+
+url	http://www.marmiton.org/recettes/recette_canette-de-fete_166823.aspx
+recipe_name	Canette de fête
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	0
+cook_time	105
+ingredients	beurre|beurre-demi-sel|canette|clementine|clou-de-girofle|cognac|curcuma|eau|epice|graisse-d-oie|oignon|piment|poitrine-de-porc|poivre|pomme-de-terre|pruneaux|sel|sucre|vinaigre-balsamique|vin-rouge
+instructions	La marinade doit se préparer 24 heures avant de servir. Fourrer de fins morceaux de poitrines découpés (ou les lardons) dans les pruneaux puis les fourrer dans la canette. Dans un récipient pouvant contenir la canette, mélanger le vinaigre balsamique, 20 cl. de cognac, les clémentines passées au presse-agrumes, le piment, le sel, le poivre, les clous de girofle. Rallonger avec assez d'eau pour noyer la canette et mélanger. Placer la canette dans le récipient. Laisser reposer une nuit. Dans la journée suivante, mélanger la marinade de temps en temps. Sortir la canette 3h00 avant de servir, enlever les pruneaux et garder la marinade. Préparation des pruneaux : dans une poêle, avec un peu de beurre, les faire revenir à feu moyen en mélangeant régulièrement jusqu'à leur caramélisation (comptez environ 30 minutes), réservez. Pour cuire la canette, la cocotte en fonte est recommandée. (mais un four peu aussi faire l'affaire, dans ce cas partez du principe que vous cuisez un gros poulet et mettez dans le fond de votre plat de cuisson un peu de la marinade dont vous arroserez régulièrement la canette, le temps de cuisson est pratiquement le même que dans une cocotte... tout en faisant attention au principe que plus une canette est grosse plus son temps de cuisson est important...) Mettre du beurre à fondre avec un peu d'eau dans la cocotte, y faire dorer la canette sur chaque face. Quand elle est dorée, mouiller la canette avec le reste du cognac et flamber hors du feu. Ajouter la marinade et les pruneaux dans la cocotte, la cuisson dure entre 1h30 et 2h00 à feu moyen (si la marinade ne couvre pas la canette, retourner la volaille régulièrement). En milieu de cuisson, recueillir dans une casserole entre le 1/3 et la moitié de la marinade que l'on porte à feu vif jusqu'à obtenir une réduction épaisse qui servira à napper la canette dans les assiettes. Dans une casserole mettre le beurre à fondre doucement et y ajouter aussitôt le piment, mélanger toujours à feu doux. Une fois le beurre liquide y incorporer 5 g. de sucre, la moitié du vin rouge, le vinaigre balsamique et mélanger. Une fois obtenue une sauce un peu épaisse y ajouter les oignons finement découpés. Mélanger et recouvrir d'eau en passant en feu moyen. Mélanger régulièrement. A la moitié de la réduction ajouter le reste de vin rouge, le reste de sucre, le sel, le poivre et un verre d'eau. Laisser réduire jusqu'à obtenir une consistance sirupeuse (recueillir un peu de liquide dans une cuillère, laisser refroidir, le liquide doit s'écouler doucement de la cuillère) et jusqu'à ce que les oignons soient fondant. Si la réduction est trop rapide, baisser le feu et rajouter de l'eau afin d'obtenir la consistance voulue. Une fois le confit réalisé vous pouvez le faire réchauffez à feu doux 10 minutes avant de servir. Laver les pommes de terres à l'eau et n'enlever pas la peau. Découper les pommes de terre en morceaux inégaux (si ce sont des rattes, les découpées en 2 ou en 4 selon leur taille). Mettre les morceaux dans une casserole d'eau froide et porter jusqu'à ébullition, éteindre en laissant les pommes de terres dans l'eau encore 10 minutes puis égoutter. Faire chauffer la graisse dans une grande poêle, quand elle est fondue y mettre les pommes de terre quelques minutes à feu vif, puis laisser les cuire à feu moyen jusqu'à ce que les morceaux soient fondants. Repasser en feu vif afin d'obtenir une belle couleur dorée. Réservez ou réchauffez à feu doux 15 minutes avant de servir. Laver les pommes de terres à l'eau et n'enlever pas la peau. Découper les pommes de terre en morceaux inégaux (si ce sont des rattes, les découpées en 2 ou en 4 selon leur taille). Mettre les morceaux dans une casserole d'eau froide et porter jusqu'à ébullition, éteindre en laissant les pommes de terres dans l'eau encore 10 minutes puis égoutter. Faire chauffer la graisse dans une grande poêle, quand elle est fondue y mettre les pommes de terre quelques minutes à feu vif, puis laisser les cuire à feu moyen jusqu'à ce que les morceaux soient fondants. Repasser en feu vif afin d'obtenir une belle couleur dorée. Réservez ou réchauffez à feu doux 15 minutes avant de servir. Laver les pommes de terres à l'eau et n'enlever pas la peau. Découper les pommes de terre en morceaux inégaux (si ce sont des rattes, les découpées en 2 ou en 4 selon leur taille). Mettre les morceaux dans une casserole d'eau froide et porter jusqu'à ébullition, éteindre en laissant les pommes de terres dans l'eau encore 10 minutes puis égoutter. Faire chauffer la graisse dans une grande poêle, quand elle est fondue y mettre les pommes de terre quelques minutes à feu vif, puis laisser les cuire à feu moyen jusqu'à ce que les morceaux soient fondants. Repasser en feu vif afin d'obtenir une belle couleur dorée. Réservez ou réchauffez à feu doux 15 minutes avant de servir. Laver les pommes de terres à l'eau et n'enlever pas la peau. Découper les pommes de terre en morceaux inégaux (si ce sont des rattes, les découpées en 2 ou en 4 selon leur taille). Mettre les morceaux dans une casserole d'eau froide et porter jusqu'à ébullition, éteindre en laissant les pommes de terres dans l'eau encore 10 minutes puis égoutter. Faire chauffer la graisse dans une grande poêle, quand elle est fondue y mettre les pommes de terre quelques minutes à feu vif, puis laisser les cuire à feu moyen jusqu'à ce que les morceaux soient fondants. Repasser en feu vif afin d'obtenir une belle couleur dorée. Réservez ou réchauffez à feu doux 15 minutes avant de servir. Laver les pommes de terres à l'eau et n'enlever pas la peau. Découper les pommes de terre en morceaux inégaux (si ce sont des rattes, les découpées en 2 ou en 4 selon leur taille). Mettre les morceaux dans une casserole d'eau froide et porter jusqu'à ébullition, éteindre en laissant les pommes de terres dans l'eau encore 10 minutes puis égoutter. Faire chauffer la graisse dans une grande poêle, quand elle est fondue y mettre les pommes de terre quelques minutes à feu vif, puis laisser les cuire à feu moyen jusqu'à ce que les morceaux soient fondants. Repasser en feu vif afin d'obtenir une belle couleur dorée. Réservez ou réchauffez à feu doux 15 minutes avant de servir. Laver les pommes de terres à l'eau et n'enlever pas la peau. Découper les pommes de terre en morceaux inégaux (si ce sont des rattes, les découpées en 2 ou en 4 selon leur taille). Mettre les morceaux dans une casserole d'eau froide et porter jusqu'à ébullition, éteindre en laissant les pommes de terres dans l'eau encore 10 minutes puis égoutter. Faire chauffer la graisse dans une grande poêle, quand elle est fondue y mettre les pommes de terre quelques minutes à feu vif, puis laisser les cuire à feu moyen jusqu'à ce que les morceaux soient fondants. Repasser en feu vif afin d'obtenir une belle couleur dorée. Réservez ou réchauffez à feu doux 15 minutes avant de servir. Remarques : Un plat complet demandant un minimum de rigueur au moment des cuissons mais une véritable explosion gustative... Boisson conseillée : Saint-Chinian ou vin du Lubéron 2005 
+
+url	http://www.marmiton.org/recettes/recette_carbonara-a-ma-facon_18648.aspx
+recipe_name	Carbonara à ma façon
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	3
+preparation_time	20
+cook_time	15
+ingredients	beurre-demi-sel|creme|echalote|gruyere-rape|lardons-fumes|muscade|oeuf|spaghetti
+instructions	Faire cuires les spaghettis dans de l'eau salée le temps imparti. Lorsqu'ils sont cuits, les égoutter. Faire fondre le beurre dans la casserole. Ajouter un peu d'échalote et les lardons fumés, faire rissoler. Remettre les spaghettis. Ajouter le gruyère, la crème fraîche et mettre un peu de muscade. Mélanger le tout et ajouter le jaune d'oeuf. Servez. Remarques : Cela change des spaghettis à la carbonara qui sont parfois trop consistants à manger ; dans cette recette, vous pouvez mettre de la margarine et de la crème allégée. La muscade permet de faciliter la digestion. Boisson conseillée : Bordeaux 
+
+url	http://www.marmiton.org/recettes/recette_colin-a-ma-facon_223391.aspx
+recipe_name	Colin à ma façon
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	15
+cook_time	20
+ingredients	beurre-demi-sel|colin|cornichons|creme-liquide|echalote|maizena|oignon|poivre|sel|vin-blanc
+instructions	Faire cuire les filets de colin dans un grand volume d'eau salée. Égoutter puis réserver. Faire fondre le beurre dans une casserole puis y faire suer les oignons et échalotes hachés. Lorsqu'ils sont transparents, ajouter le vin blanc et laisser mijoter quelques minutes. Ajouter la crème fraiche et une nouvelle fois, laisser mijoter quelques minutes. Couper en fines tranches les cornichons et les ajouter à la sauce. Diluer la maïzena dans un fond d'eau puis l'ajouter à la sauce tout en remuant. Napper les filets de sauce et bon appétit ! Remarques : Servir avec du riz. 
+
+url	http://www.marmiton.org/recettes/recette_coq-fermier-au-vin-puree-ecrasee-a-la-fourchette_15196.aspx
+recipe_name	Coq fermier au vin, purée écrasée à la fourchette
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	180
+ingredients	ail|beurre-demi-sel|carotte|champignon-de-paris|cognac|coq|farine|muscade|oeuf|oignon-blanc|persil|poitrine-fumee|pomme-de-terre|quatre-epices|sucre|thym|vin-rouge
+instructions	Couper le coq en morceaux (garder les filets pour un autre plat), les mettre dans un récipient creux avec du thym, du laurier, le sucre, une bonne poignée de sel, du poivre, du mélange '4 épices' à votre convenance pour parfumer, ainsi que les oignons blancs. Arroser avec le vin, le cognac, puis faire mariner 12h minimum au frais. 12h après, égoutter le tout et récupérer la marinade filtrée en ôtant le thym, le laurier, et en réservant les oignons blancs. Dans un gros faitout, faire chauffer un demi-verre d'huile d'olive avec 50 g de beurre. Quand le mélange est mousseux, y faire suer rapidement l'ail, ajouter les morceaux de coq et bien les faire dorer. Pendant ce temps, faire chauffer la marinade dans une casserolle pour évaporer l'alcool (10 mn environ). Ajouter ensuite la marinade au coq et cuire à couvert 3h à feu doux. Une heure avant la fin, faire cuire les pommes de terre à l'eau avec leur peau, puis les éplucher et les écraser à la fourchette avec le beurre, les jaunes, les épices, jusqu'à obtention d'un mélange homogène. Réserver. 30 mn avant la fin, faire revenir séparément dans du beurre les carottes, les champignons, les oignons blancs, et la poitrine coupée en morceaux de 5 cm et de 1 cm d'épaisseur, 5 mn pour chaque, et les ajouter au coq 10 minutes avant la fin. Pour servir, enlever tous les ingrédients avec une écumoire, puis lier la sauce avec 2 cuillères à soupe de farine, au fouet. Réchauffer au besoin la purée 2 mn au micro-ondes. Dresser dans les assiettes : le coq au milieu, napper de sauce, dresser la purée et parsemer le tout de persil plat haché. Remarques : Idéal en hiver, convivial et succulent! Donnez-moi votre avis. Conseils possibles au 06.66.48.12.83 Stéphane napolitano, cuisinier-traiteur à domicile. Boisson conseillée : Cabernet Sauvignon de Californie, Rioja Reserva... 
+
+url	http://www.marmiton.org/recettes/recette_coquilles-saint-jacques-a-la-sauce-hollandaise-safranee_32815.aspx
+recipe_name	Coquilles Saint Jacques à La Sauce Hollandaise Safranée
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	10
+cook_time	4
+ingredients	beurre-demi-sel|citron|eau|noix-de-saint-jacques|oeuf|poivre|safran|sel|vinaigre
+instructions	1) Préparation de la sauce hollandaise au safran : Dans une petite casserole mettre l'eau et le vinaigre et faire bouillir avec le safran 1 min. Puis disposer la casserole sur un bain-marie et incorporer les jaunes d'oeuf et bien les battre au fouet. Enfin incorporer le beurre bien froid petit à petit hors du bain-marie en fouettant énergiquement. Si le mélange refroidit trop remettre la casserole sur le bain-marie. Une fois cette opération terminée ajouter le jus de citron, le poivre et le sel si le beurre n'était pas salé. Réserver. 2) Cuisson des saint jacques : Dans une poêle faire chauffer 20 g de beurre et un peu d'huile. Sécher les noix de saint jacques. Une fois chaud mettre les noix et les saisir 2 min de chaque côté en veillant à ne pas trop chauffer pour ne pas les brûler. Saler. 3) Nappez-les de sauce et déguster. Boisson conseillée : Vin blanc (chablis) 
+
+url	http://www.marmiton.org/recettes/recette_coquilles-saint-jacques-au-cidre_19133.aspx
+recipe_name	Coquilles Saint -Jacques au cidre
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredients	beurre-demi-sel|champignon-de-paris|cidre|creme-liquide|echalote|maizena|noix-de-saint-jacques|persil|poivre|sel
+instructions	Lavez et émincez les champignons (vous pouvez utiliser des champignons en conserve). Lavez les noix de Saint-Jacques à grande eau, égouttez-les et essuyez-les dans du papier absorbant. Epluchez et émincez les échalotes, faites-les revenir dans une sauteuse avec le beurre et les champignons. Ajoutez les noix de Saint-Jacques et versez le cidre. Maintenez une petite ébullition pendant 15 mn. Dans un shaker ou un bol, délayez la Maïzena dans la crème. Prélevez 125 ml du jus de cuisson des coquilles, versez-les dans le shaker ou le bol et mélangez bien, reversez ensuite l'ensemble dans la sauteuse. Ramenez le tout à ébullition, maintenez-la pendant 1 mn, parsemez de persil et ajustez l'assaisonnement. Servez aussitôt. Remarques : On peut très bien remplacer les noix par des moules surgelées, c'est excellent et moins cher. Je sers ce plat avec des tagliatelles. Boisson conseillée : côteau du Layon 
+
+url	http://www.marmiton.org/recettes/recette_crepes-completes_56136.aspx
+recipe_name	Crêpes complètes
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	15
+preparation_time	60
+cook_time	3
+ingredients	beurre-demi-sel|champignon|eau|farine|farine-de-sarrasin|fromage-rape|huile|jambon-blanc|oeuf|oignon|poivre|sel|tomate-pelee
+instructions	Dans un saladier mettre les deux farines et une pincée de sel fin. Casser les 'ufs. Mélanger délicatement. Ajouter le mélange lait-eau par petites quantités. Ajouter 2 cuillères à soupe d'huile. Laisser reposer 1h. Faire sauter les crêpes avant de les cuisiner. Préparer la sauce tomate dans une poêle en faisant revenir l'oignon émincé dans un peu de matière grasse. Quand il est doré, ajouter les tomates pelées. Laisser réduire à feu doux jusqu'à évaporation du jus. Couper le jambon en grosses lanières. Egoutter la boîte de champignons émincés. Battre les 'ufs en omelette, saler, poivrer. Pour préparer les crêpes, mettre un petit peu de beurre dans la poêle et y jeter la crêpe, la face la plus cuite dans le fond. Laisser fondre le beurre en tournant la crêpe pour le répartir. Retourner la crêpe, verser 2 à 3 cuillérées à soupe d'omelette, étaler sur toute la surface de la crêpe et ajouter un peu de fromage râpé. Une fois le fromage fondu, ajouter champignons et jambon, la tomate en dernier. Saler, poivrer. Fermer la crêpe. Ajouter un petit morceau de beurre ½ sel sur le dessus et servir. Boisson conseillée : Un bon cidre brut 
+
+url	http://www.marmiton.org/recettes/recette_crumble-de-potimarron-et-poulet_81754.aspx
+recipe_name	Crumble de potimarron et poulet
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	5
+preparation_time	30
+cook_time	15
+ingredients	beurre-demi-sel|blanc-de-poulet|carotte|chapelure|eau|farine-de-ble|lait|oeuf|parmesan-rape|poivre|potimarron|sel
+instructions	Dans une casserole moyenne, verser un fond d'eau (1,5 cm-2 cm de hauteur), y ajouter le potimarron en dés ainsi que les carottes coupées en petits morceaux (1/4 de rondelles).  Faire cuire à feu doux et bien couvert (pour que la vapeur cuise les légumes) pendant 15 à 20 minutes (il faut que les carottes soient cuites). Pendant ce temps, couper les blancs de poulet en morceaux et les faire dorer dans une poêle légèrement huilée. Ne pas les cuire trop longtemps, ils finiront leur cuisson au four. Préchauffer votre four à 180°C (thermostat 6-7). Pour la pâte à crumble: mélanger (au robot c'est plus pratique et rapide) la farine, chapelure, parmesan râpé et beurre coupé en morceaux jusqu'à obtention d'un "émietté" de pâte. Une fois le mélange potimarron-carotte cuit et un peu refroidi, ajouter un oeuf entier puis délayer avec du lait pour obtenir une mixture crémeuse presque liquide. Assaisonner et ajouter le poulet. Dans un plat à gratin (de taille moyenne), verser le mélange potimarron-carotte-poulet. Saupoudrer de pâte à crumble et enfourner pendant une vingtaine de min au four (jusqu'à ce que le crumble soit doré). Remarques : Servir chaud, tel quel ou accompagné d'une salade verte. Boisson conseillée : Un vin blanc sec et fruité 
+
+url	http://www.marmiton.org/recettes/recette_crumble-de-poulet-au-curry_44871.aspx
+recipe_name	Crumble de poulet au curry
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	30
+cook_time	50
+ingredients	amande|beurre-demi-sel|blanc-de-poulet|carotte|celeri|creme-fraiche-liquide|curry|huile-d-olive|poivre|poivron-rouge|pomme-de-terre|sel
+instructions	Pelez les pommes de terre, faites-les cuire dans de l'eau bouillante salée pendant 20 min. Faites revenir le poulet dans 3 cuillères à soupe d'huile d'olive, jusqu'à ce qu'il soit cuit (8 minutes / face). Effilochez la chair de poulet dans un plat à gratin beurré. Débitez les côtes de céleri en rondelles, et les carottes en petits dés. Emincez le poivron en quartiers, retirez les graines, et débitez le en petits dés. Allumez le four à 180°C (th 6). Dans une sauteuse, faites revenir les légumes dans 2 cuillères d'huile d'olive, pendant 5 min. Saupoudrez de curry, et remuez 2 min. Ajoutez 1 cuillère d'eau, sel, poivre; et laissez cuire à couvert 15 min. Découvrez en fin de cuisson, pour laisser le jus s'évaporer. Egouttez les pommes de terre, et écrasez-les à la fourchette avec la crème liquide, sel et poivre. Couvrez le poulet des légumes, puis de la purée. Concassez les amandes, et mélangez-les avec le beurre, en travaillant du bout des doigts pour obtenir un sable grossier. Répartissez le crumble sur la purée. Enfournez 30 min. Servez chaud, directement dans le plat. Boisson conseillée : Un rosé 
+
+url	http://www.marmiton.org/recettes/recette_curry-de-poulet-a-ma-facon_66177.aspx
+recipe_name	Curry de poulet à ma façon
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	60
+ingredients	ail|beurre-demi-sel|cannelle|cardamome|citron-vert|clou-de-girofle|coriandre|curry|escalope-de-poulet|feuille-de-laurier|gingembre|gros-sel|huile-d-olive|lait-de-coco|lime|muscovado|noix-de-coco|oignon|poivre-blanc|poudre-de-colombo|raisins-secs
+instructions	Détailler les escalopes en petites lanières. Les faire dorer 5 min dans une cocotte (en fonte) dans 25 ml d'huile d'olive. Pendant ce temps, bien faire caraméliser les oignons sauciers : une fois épluchés, les mettre entiers dans une petite casserole avec le reste d'huile d'olive, le beurre demi-sel et la cassonade. Couvrir et laisser prendre à feu très doux 20 min. Réserver. Ajouter au poulet l'ail détaillé, les raisins, les sel, le poivre concassé grossièrement, la coriandre hachée, le columbo, la cannelle, le curry, le gingembre, le Kaffir lime, la cardamome, le clou de girofle, le laurier : bien mêler et faire rissoler 5 min. Lier avec le lait de coco et laisser cuire doucement 50 min au maximum. Juste avant de servir, décorer de poudre de coco et de zestes de citron vert. Je sers ce plat avec : un riz nature, des rondelles de banane crues arrosées du jus de citron vert ou un gratin de bananes (rondelles + comté râpé), un chutney de figues et du ketchup de bananes (c'est martiniquais). Remarques : [ATTENTION : recette réintégrée !] Un plat facile et inratable, pour les inconditionnels des épices, bien sûr. Boisson conseillée : saint-émilion 
+
+url	http://www.marmiton.org/recettes/recette_dormeur-gourmand_61534.aspx
+recipe_name	Dormeur gourmand
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	2
+preparation_time	15
+cook_time	40
+ingredients	beurre-demi-sel|couteau|papier-sulfurisé|tourteau
+instructions	Plonger le tourteau vivant dans une marmite d'eau très froide bien salée afin de l'endormir. Pendant ce temps, préparer des braises bien chaudes, sans flamme. Faire fondre le beurre demi-sel. Quand le tourteau est endormi, le sortir de l'eau, percer la carapace et introduire dans le trou un petit cornet fait avec le papier. Mettre le tourteau sur la grille du barbecue sur le ventre et le laisser cuire doucement 40 min en tout, en fonction de la taille du tourteau. De temps en temps, verser le beurre fondu dans la cheminée (le cornet de papier). Remarques : Au fur et à mesure de la cuisson, le crabe boira de plus en plus de beurre. Par expérience, il faut retirer les pinces et pattes avant la fin de la cuisson car les pinces alors sont trop cuites. Vous verrez que cela change tout de manger le crabe chaud et que c'est délicieux. De plus la carapace etc... cassent plus facilement, et vous ne mangerez plus de mayonnaise avec le tourteau ! Boisson conseillée : Un bon blanc sec 
+
+url	http://www.marmiton.org/recettes/recette_eglefin-et-echalotes_312476.aspx
+recipe_name	Églefin et échalotes
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	5
+cook_time	20
+ingredients	beurre-demi-sel|echalote|eglefin|persil|vin-blanc
+instructions	Préchauffer le four à 200°C (thermostat 6-7). Peler les échalotes et les hacher ! Ciseler le persil et le mélanger avec les échalotes. Dans un plat à gratin beurré, déposer les filets, saler, poivrer, couvrir d'échalotes et de persil. Verser le vin blanc, mettre des noisettes de beurre sur les filets. Enfourner pour 20 min de cuisson. Remarques : Très facile et rapide 
+
+url	http://www.marmiton.org/recettes/recette_emince-de-poulet-et-creme-plaisir_171121.aspx
+recipe_name	Emincé de poulet et crème plaisir
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	15
+cook_time	5
+ingredients	aiguillette-de-poulet|beurre-demi-sel|creme-fraiche-epaisse|echalote|herbes-de-provence|moutarde|noix|poivre|sel|vinaigre-balsamique
+instructions	Faire cuire les aiguillettes coupées en morceaux (dans le sens de la longueur) dans une poêle, en les plongeant dans le beurre demi-sel fondu, mélangé avec les herbes de Provence et l'échalote coupée finement. Les laisser cuire jusqu'à ce qu'elles soient bien dorées en les retournant de temps en temps.  Bien mélanger la crème, les noix de fromage, le vinaigre balsamique et la moutarde dans un bol puis mettre à chauffer dans la poêle encore chaude avec le poulet. Assaisonner à votre convenance avec le sel, le poivre et ajouter encore quelques herbes de Provence si nécessaire. Remarques : Pensez au riz ou au blé en accompagnement. 
+
+url	http://www.marmiton.org/recettes/recette_escalopes-de-dinde-au-caramel_335958.aspx
+recipe_name	Escalopes de dinde au caramel
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	20
+cook_time	30
+ingredients	beurre-demi-sel|eau|escalope-de-dinde|maizena|oignon|sauce-nuoc-mam|sauce-soja|sucre-en-poudre
+instructions	Épluchez et coupez les oignons. Coupez les escalopes de dinde en morceaux. Dans une poêle, faites cuire les oignons avec une noix de beurre demi-sel. Une fois les oignons dorés, ajoutez les escalopes de dinde dans la poêle. Faites cuire à feu moyen. Une fois cuit, ajoutez le verre d'eau, le sucre, la sauce soja et le nuoc-mâm. Laissez chauffer 5-10 min. Enfin, pour épaissir la sauce, rajoutez la maïzena. Pour éviter les grumeaux, mélangez la maïzena avec de l'eau. Remuez et quand la sauce a épaissi, la recette est fini. 
+
+url	http://www.marmiton.org/recettes/recette_ficelle-campagnarde_315485.aspx
+recipe_name	Ficelle campagnarde
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	40
+cook_time	20
+ingredients	ail|beurre-demi-sel|champignon-de-paris|creme-fraiche|crepe|emmental|lardons-fumes|mozzarella|persil
+instructions	Lavez et émincez les champignons. Faites-les sauter dans un poêle avec le beurre, le persil et l'ail haché jusqu'à ce que toute l'eau qu'ils ont rendue soit évaporée. Faites dorer les lardons dans un poêle à sec. Pour chaque crêpe, sur une bande de 2 cm de large situé au tiers de la crêpe (c'est à dire un peu décalée par rapport au milieu), déposez successivement une couche de lardons, une couche de champignons, deux bâtonnets de mozzarella de 0,5 cm d'épaisseur, une couche d'Emmental râpé et deux cuillères à café de crème fraîche. Roulez la crêpe autour de cette farce, puis placez-la dans un plat à gratin. Une fois l'opération effectuée pour toutes les crêpes, faites cuire au four à 180°C (thermostat 6) pendant 20 min. Servez chaud. 
+
+url	http://www.marmiton.org/recettes/recette_filet-mignon-au-miel-vanille-poire_176004.aspx
+recipe_name	Filet mignon au miel vanille poire
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	45
+ingredients	beurre-demi-sel|creme-fraiche|filet-mignon|huile-d-olive|miel|poire|vanille
+instructions	Préparer la marinade : Dans un bol mettre le beurre, le miel, la vanille grattée. Garder l'écorce de cette dernière. Verser sur le filet mignon et laisser mariner entre 1h-24h tout dépend de votre envie... Quand c'est bon, faites chauffer de huile d'olive dans une cocotte en fonte. Préchauffer le four à 200°C (thermostat 6-7). Enlever le filet de la marinade et le faire saisir. Assaisonner sel poivre. Quand s'est bien coloré, ajouter la marinade ainsi que l'écorce de la vanille. Ajouter un petit peu d'eau pour détendre l'ensemble. Mettre au four pendant 30 min. Au bout de 30 min, éplucher les poires et les couper en gros quartiers. Les ajouter à la cocotte. Laisser cuire encore 15 min. Selon les fours il est possible que cela cuise moins vite, n'hésitez pas à surveiller et mettre plus longtemps s'il le faut. Ajouter la crème à la sortie mais le jus de cuisson ne doit pas être trop liquide. S'il est trop liquide, faire réduire en prolongeant la cuisson. Remarques : Je sers ça avec une semoule au 5 épices. 
+
+url	http://www.marmiton.org/recettes/recette_filets-de-cabillaud-a-l-echalote_65992.aspx
+recipe_name	Filets de cabillaud à l'échalote
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	10
+cook_time	30
+ingredients	beurre-demi-sel|cabillaud|echalote|persil|poivre|sel|vin-blanc-sec
+instructions	Disposer les morceaux de poisson dans un plat à gratin. Recouvrir le poisson avec les échalotes hachées et le persil ciselé. Arroser le tout avec le vin blanc. Répartir quelques noisettes de beurre. Saler, poivrer. Faire cuire environ 30 minutes au four à 180°C (thermostat 6) en arrosant de temps en temps le poisson avec le jus de cuisson. Boisson conseillée : Vin blanc sec 
+
+url	http://www.marmiton.org/recettes/recette_flatuloignon-poelee-d-oignons-poitrine-fumee-et-comte_336851.aspx
+recipe_name	Flatuloignon (poêlée d'oignons, poitrine fumée et comté)
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	25
+cook_time	20
+ingredients	beurre-demi-sel|comte|creme-fraiche|oignon|poitrine-fumee|vins
+instructions	Emincer les oignons. Dans une sauteuse bien chaude, faire revenir les oignons quelques minutes dans le beurre, puis déglacer au vin blanc (le Savagnin peut être remplacé par un vin blanc de cuisine sec). Ajouter la poitrine coupée en lamelle, puis laisser fondre à feu doux pendant une quinzaine de minutes. En fin de cuisson, ajouter toute la crème, ainsi que le comté râpé. Laisser fondre, saler, poivrer Servir en accompagnement ou manger tel quel Remarques : Cette recette traditionnelle Vesulo-Mortuatienne embaumera vos tristes soirées d'hiver, éveillera vos intestins endormis et enflammera vos soirées en amoureux. Boisson conseillée : Vin Jaune 
+
+url	http://www.marmiton.org/recettes/recette_gigot-a-la-puree-d-ail_52276.aspx
+recipe_name	Gigot à la purée d'ail
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	20
+cook_time	30
+ingredients	ail|beurre-demi-sel|gigot-d-agneau|huile|poivre|sel
+instructions	Epluchez les gousses d'ail, c'est le plus long. Blanchissez-les 2 minutes à l'eau bouillante puis rincez-les. Mettez-les à l'autocuiseur avec un peu de sel et 1/2 verre d'eau. Faites-les cuire 4 minutes sous pression. Ouvrez et remuez l'ail avec une cuillère en bois. Faites revenir le rôti dans l'huile dans une sauteuse pour le dorer de tous les côtés, salez et poivrez. Posez-le sur l'ail dans la cocotte. Faites cuire 12 à 15 minutes (selon la taille du gigot et la cuisson souhaitée) sous pression. Sortez le rôti, tranchez-le pour le présenter. Ajoutez le beurre froid coupé en morceaux à l'ail dans la cocotte, mélangez vigoureusement et présentez cette purée d'ail comme condiment pour accompagner le gigot. Servez avec des pommes de terre rôties . Remarques : Contrairement à ce qu'on pourrait craindre, l'ail ainsi cuit n'est pas très "agressif", malgré les quantités présentes dans la recette, et ne reste pas "en bouche" après la fin du repas... Boisson conseillée : Vin rouge pas trop léger. 
+
+url	http://www.marmiton.org/recettes/recette_gigot-de-lotte-facon-grand-mere_39914.aspx
+recipe_name	Gigot de lotte façon grand-mère
+type	Plat principal
+difficulty	Très facile
+cost	Assez Cher
+guests_number	6
+preparation_time	10
+cook_time	30
+ingredients	ail|beurre-demi-sel|poivre|queue|sel
+instructions	Demander au poissonnier d'enlever la peau de la lotte. Mettre la queue de lotte dans un plat à four bien beurré, allumer le four à 210°C (thermostat 7). Eplucher l'ail. Piquer la lotte de gousses d'ail avec un couteau, mettre des petits moceaux de beurre sur la lotte. Cuire à four chaud 30 min (la lotte doit etre bien dorée), arroser avec le jus de temps en temps en cours de cuisson. Remarques : Cuire un peu plus si la lotte rend de l'eau. Plat servi avec des frites autrefois à bord des chalutiers de concarneau (pour rappeler un peu la viande qui manquait à bord!) Boisson conseillée : vin blanc 
+
+url	http://www.marmiton.org/recettes/recette_gigot-pleureur_16432.aspx
+recipe_name	Gigot pleureur
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	35
+cook_time	40
+ingredients	ail|beurre-demi-sel|gigot-d-agneau|gros-sel|laurier|poivre|pomme-de-terre|sel|thym
+instructions	Faire des fentes dans le gigot, les remplir de quelques grains de sel et des gousses d'ail coupées en morceaux. Mélanger 1/3 du beurre avec me thym et le laurier broyés. Saler et poivrer le gigot, l'enduire du beurre parfumé. Laisser reposer au frais pendant 12h. Préchauffer le four à thermostat 8. Couper les pommes de terre en tranches très fines. Les placer dans la lèche-frite et les parsemer du reste du beurre et d'ail. Faire cuire le gigot sur la grille du four, au-dessus du lèche-frite. Si nécessaire, mettre les pommes de terre 1/4h avant le gigot. Remarques : On peut aussi remplacer les pommes de terre par des courgettes. C'est léger et tout aussi délicieux!!! 
+
+url	http://www.marmiton.org/recettes/recette_gratin-croustillant-aux-epinards_67536.aspx
+recipe_name	Gratin croustillant aux épinards
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredients	beurre-demi-sel|chevre|creme-fraiche|epinard-frais|gruyere-rape|pate-filo|pesto|petit-suisse|poivre|sel
+instructions	Préparation des épinards >> Si vous utilisez des épinards frais : Lavez-les et ne conservez que les feuilles. Plongez-les 5 minutes dans l'eau bouillante et égouttez-les. Faites-les revenir à la poêle avec 5 g de beurre, 1 pincée de sel. Poivrez à la fin de la cuisson. >> Si vous utilisez des épinards surgelés: Faites-les uniquement revenir dans le beurre après décongélation. Préparation de la crème Dans un saladier versez la crème fraiche, les petits suisses, le pesto et une pincée de sel. Mélangez le tout. Enlevez la croûte du fromage de chèvre et incorporez-le à la crème en l'écrasant bien à l'aide d'une fourchette. Incorporez la crème aux épinards. Confection du gratin Faites fondre les 40 g de beurre restant. Badigeonnez du beurre au pinceau sur la moitié d'une feuille de pâte filo et pliez-la en deux. Recommencez une seconde fois l'opération sur la même feuille pour qu'elle soit pliée en quatre. Procédez de la même manière avec les dix feuilles. Vous obtenez dix petits rectangles. Disposez une première couche de feuilles au fond de votre moule (selon sa tailles mettez deux ou trois rectangles par étages), puis par dessus mettez une couche de préparation aux épinards. Recommencez l'opération (comme si vous faisiez des lasagnes) terminez par une couche de préparation aux épinards et ajoutez une couche de gruyère râpé sur le dessus. Faites 15 à 20 minutes à 200°C (thermostat 6/7). Remarques : Ce gratin croustillant est très agréable à déguster seul ou accompagné d'un poisson comme le saumon. Boisson conseillée : Vin blanc 
+
+url	http://www.marmiton.org/recettes/recette_gratin-de-truite-fumee-aux-3-legumes-et-parmigiano_310663.aspx
+recipe_name	Gratin de truite fumée aux 3 légumes et parmigiano
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	50
+cook_time	25
+ingredients	aneth|beurre-demi-sel|carotte|coriandre|creme-fraiche|cumin-en-poudre|gros-sel|gruyere-rape|huile-d-olive|jus-de-citron|lait|muscade|parmesan|poireau|pomme-de-terre|truite
+instructions	Ustensiles : 1 robot pour râper les carottes, 1 Cuit vapeur, 1 planche, 1 Pilou pilou (Pile épice), 1 plat à gratin, 1 couteau, 1 fourchette, 1 cuillère a soupe, 2 ramequins, 1 bol, 1 saladier, 1 assiette creuse. Laver les légumes. Couper le blanc de poireau. Éplucher les carottes. Couper les pommes de terre en deux et disposer les dans votre cuit vapeur, lancer la cuisson pour 10 min. Pendant ce temps, râper les carottes avec votre robot. Puis couper en deux le poireau et ensuite en rondelle pas trop épaisses. Mélanger les carottes et le poireau dans la deuxième partie de votre cuit vapeur, les 10 min achevées, placer le tout à cuire encore 25 min. Presser le quart de citron. Retirer la partie foncée des tranches de truite fumée. Couper chaque tranche en deux, puis couper les en lamelles. Mettre le tout dans le bol, ajouter le jus de citron et la cuillère d'Huile D'olive, mélanger. Réserver au réfrigérateur. Dans le pilou pilou, verser 10 grain de gros sel, piler finement. Conserver 1 bon quart et réserver le reste dans le ramequin. Ajouter 6 baies de Coriandre, saupoudrer avec un peu d'Aneth, piler finement. Verser la préparation dans le saladier et ajouter la crème fraîche, saupoudrer 4 fois de Cumin et bien mélanger. Les légumes sont cuits (vérifier les pommes de terre, remettre 5 min/10 min si besoin). Passer les pommes de terre sous l'eau froide rapidement et égoutter. Laisser refroidir 10 min. Dans le saladier mélanger les carottes/poireau avec la crème. Réserver au réfrigérateur. Beurrer le fond du plat à gratin et faites fondre le reste dans un ramequin au micro onde au moins 1 minute. Peler les pommes de terre. Verser la moitié dans l'assiette creuse et écraser avec une fourchette grossièrement. Verser les 10 cuillères à soupe de lait en les incorporant en 5 fois par 2 et remuer bien entre chaque phase à l'aide la fourchette. Ajouter 1 cuillère à soupe de Beurre fondu et 3 pincées de muscade, mélanger. Garnissez le fond du plat à gratin avec cette préparation en l'étalant uniformément. Ajouter au dessus la préparation à base de carotte et faites de même. Disposer à la main les lamelles de Truite uniformément sur tout le dessus. Mettre le reste des pommes de terre dans l'assiette creuse, écraser grossièrement et verser 8 cuillères à soupe de lait et le reste de beurre fondus tous en même temps. Remuer avec la fourchette afin d'absorber le lait rapidement, vous obtenez un écrasé plus consistant. Goûter, ajuster si besoin. Préchauffer votre four durant 10 min à 220°C, si vous souhaitez le cuire tout de suite. Verser le reste de la préparation dans le plat et étaler grossièrement avec la cuillère. Recouvrez du Gruyère râpé et parsemer 1 cuillère à soupe de Parmigiano. Réserver au frigo ou enfourner pour 20 min en à 180°C à chaleur alternée et 5 min en grill. Remarques : Idéale pour une entrée tiède pour 6 à 8 personnes. Servir chaud accompagné d'une salade verte agrémenté d'échalotes émincé et d'une sauce au vinaigre de vin et à la moutarde. Boisson conseillée : Vin blanc / rosé. 
+
+url	http://www.marmiton.org/recettes/recette_grenadins-de-veau-a-la-sauge-et-aux-mojettes-de-vendee_33784.aspx
+recipe_name	Grenadins de veau à la sauge et aux mojettes de Vendée
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	5
+cook_time	25
+ingredients	beurre-demi-sel|eau|echalote|grenadin|mogette|poivre|sauge|sel
+instructions	Faire fondre le beurre dans une cocotte. Ajouter les échalotes coupées en rondelles et les faire blondir. Faire cuire le grenadin de veau 3 mn sur chaque côté à feu vif (bien remuer les échalotes pour que ça ne brûle pas). Sortir les grenadins de la cocotte. Y verser les mojettes, la sauge et 1/2 verre d'eau, le sel et le poivre. Laisser cuire à petits bouillons 10 mn (surveiller et si besoin rajouter de l'eau). Ajouter la viande et finir la cuisson durant 5 mn. Servir. Remarques : Les mojettes surgelées sont précuites ce qui explique le faible temps de cuisson. Boisson conseillée : coteaux d'aix rouge 
+
+url	http://www.marmiton.org/recettes/recette_hamburger-au-saumon-facon-elodie_218856.aspx
+recipe_name	Hamburger au saumon façon Elodie
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	15
+cook_time	25
+ingredients	aneth|beurre-demi-sel|creme-fraiche-epaisse|gruyere-rape|jus-de-citron|pain|poireau|poivre|saumon-fume
+instructions	Préchauffer le four thermostat 6. Émincer les poireaux et les faire revenir à la poêle avec le beurre. Quand ils sont bien cuits et fondants, ajouter la crème fraîche et faire cuire encore 5 minutes. Poivrer. Sur chaque fond de pain à hamburger, déposer la fondue de poireaux. Ajouter un peu de gruyère râpé par dessus. Déposer une tranche de saumon fumé en faisant attention à ce qu'elle ne dépasse pas du pain. Refermer le hamburger. Passer au four 5 min, le temps de rendre les pains croustillants et que le fromage fonde. Sortir les pains, déposer quelques gouttes de jus de citron sur le saumon, quelques brins d'aneth. Servir chaud, accompagné d'une petite salade fraîche. Boisson conseillée : Vin blanc sec 
+
+url	http://www.marmiton.org/recettes/recette_jambon-roule-aux-pommes-et-aux-champignons_30209.aspx
+recipe_name	Jambon roulé aux pommes et aux champignons
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	10
+ingredients	beurre-demi-sel|champignon-de-paris|concentre-de-tomate|creme-fraiche|jambon-blanc|pomme
+instructions	Nettoyer les champignons et les couper en 4. Eplucher et évider les pommes, les couper en morceaux. Faire revenir champignons et pommes à feu doux dans le beurre. Dès que la préparation prend couleur, arrêter le feu. Répartir dans les tranches de jambon et les rouler dans un plat allant au four. Protéger avec un papier alu et enfourner à 180°C pendant 10 mn. Pendant ce temps, préparer la sauce: chauffer la crème fraîche avec le concentré de tomates, sel et poivre. Sortir le plat du four et ôter l'alu. Répartir la sauce rose sur le jambon aux pommes et aux champignons. Servir avec du riz blanc. Remarques : Recette pour étudiant fauché. Peut être améliorée avec du jambon à l'os. Boisson conseillée : Brouilly, ou pour les amateurs de blanc, Saint Véran 
+
+url	http://www.marmiton.org/recettes/recette_kig-ar-farz-breton_12078.aspx
+recipe_name	Kig Ar Farz Breton
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	45
+cook_time	3
+ingredients	beurre|beurre-demi-sel|bouillon|carotte|chou|farine|farine-de-ble-noir|jarret-de-boeuf|lait|lard|navet|oeuf|oignon|plat-de-cote|poireau|porc|sel|sucre-semoule
+instructions	Faire chauffer 5 Litre d'eau dans une grande marmite. Ajouter la viande quand l'eau est chaude. Après une heure à petit bouillon, écumer. Ajouter les légumes, en gardant 2 oignons. Le LIPPIK : mettre les 300 gr de beurre à fondre, puis ajouter les 2 oignons émincés et laisser cuire très doucement ... Vous avez 1 heure pour faire la pâte à farz. Mélanger les ingrédients pour le farz blanc. Verser dans un sac. Attention, le sac ne doit être rempli qu'aux 2/3. Mettre aussitôt dans le pot qui est toujours à petit bouillon. Pour le farz noir, sortir du pot le bouillon, et y ajouter le beurre pour qu'il fonde. Quand ce bouillon amélioré est refroidi (disons tiède, pas plus), mélanger les ingrédients du farz noir. Mettre dans un sac rempli aux 2/3 et hop, dans le pot. Maintenant, vous avez droit au repos, pendant que le tout cuit, 2 bonnes heures. En tout, pour la cuisson, plus de 3 heures, c'est l'idéal pour le jarret de porc. Si le farz noir est brujunned, c'est à dire qu'il s'effrite, c'est qu'il est réussi. Vous avez droit au diplôme. Remarques : Les restes s'accomodent : Le farz froid est sauté dans une poèle avec le lippik. Même emploi pour les légumes. Le fin du fin : la viande sert pour un hachis parmentier... excellent. Boisson conseillée : Vin Rouge 
+
+url	http://www.marmiton.org/recettes/recette_kig-ha-farz-bretagne_15663.aspx
+recipe_name	Kig-ha-farz (Bretagne)
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	30
+cook_time	150
+ingredients	beurre-demi-sel|carotte|chou|creme-fraiche|farine-de-sarrasin|lait|lard|legumes|oeuf|oignon|palette|poireau|pomme-de-terre|porc|pruneaux|raisins-secs|sel|sucre
+instructions	Prévoir 1 sac en toile métis ou un carré en coton, Faire tremper le sac a farz et faire fondre le beurre. Préparer la pâte : mélanger les ingrédients sans les raisins ni les pruneaux. Rajouter le lait petit a petit juqu'à ce que la pâte soit assez molle: pas liquide, mais pas épaisse non plus. Rajouter raisins et pruneaux. Bien essorer le sac et y verser la pâte, le nouer en laissant un vide pour que la pâte gonfle. Si vous avez un carré de tissu, verser la pâte en long (comme un boudin), rouler la toile et la nouer a chaque bout avec de la ficelle de cuisine. Mettre ce sac dans une une cocotte pleine d'eau, puis y rajouter les légumes et la viande. Le farz doit cuire entre 2h et 2h30. Sortir le sac de la marmite et l'égoutter un instant. Rouler le sac sur le plan de travail pour y émietter le farz. Sortir le farz du sac, il a un peu l'aspect de la semoule (on dit 'brujun'). Servir viande, légumes et farz. Remarques : Vous pouvez remplacer le jarret par un rôti de porc servi avec une sauce aux pruneaux (déglacés avec le jus de cuisson). Ce plate typique du Finistère peut également être accompagne de lipig: ce sont des lardons et des oigons émincés et dorés, auxquels on rajoute du beurre et du bouillon du pot au feu. Le sac a farz etait parfois remplacé par une vieille manche de chemise. Boisson conseillée : muscadet, cidre 
+
+url	http://www.marmiton.org/recettes/recette_lamelle-de-volaille-et-de-creme-ninette_43741.aspx
+recipe_name	Lamellé de volaille et de crème ninette
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	2
+preparation_time	30
+cook_time	10
+ingredients	aiguillette-de-poulet|ail|anchois|beurre-demi-sel|capres|ciboulette|creme-fraiche-epaisse|herbes-de-provence|moutarde|oignon|poivre|roquefort|sel|vinaigre
+instructions	Faire cuire les aiguillettes coupées en 2 dans le sens de la longueur dans une poêle en les plongeant dans le beurre fondu mélangé avec des herbes de Provence et de l'ail haché. Cuire jusqu'à ce qu'elles soient bien dorées. Puis les égoutter dans du papier absorbant et les réserver. Crème ninette (de mon invention): Mettre dans un bol de mixeur le roquefort, l'oignon coupé en petits bouts et les anchois. Mixer le tout. Puis y rajouter la crème fraîche épaisse (goûter pour apprécier la force du goût recherché). Puis assaisonner cette sauce à votre convenance avec la moutarde (ancienne de préférence), du vinaigre, du sel et du poivre. Maintenant il faut dresser. Poser trois demi-aiguillettes côte à côte sur l'assiette avec entre chacune une bande de crème ninette de même épaisseur. Répéter jusqu'à ce qu'il n'y ai plus de bande de viande (à la convenance, il y aura par assiette 1,2 ou 3 -parfois- petits groupés de lamellés). Mettre l'herbe finement coupée sur la crème, et des carpes si vous le voulez autour sur la plat, pour décorer. Remarques : Accompagner de préférence avec le plat suivant : Croquant/Fondant du potager ninette, pensé pour cela. 
+
+url	http://www.marmiton.org/recettes/recette_langouste-a-l-oursinade_45064.aspx
+recipe_name	Langouste à l'oursinade
+type	Plat principal
+difficulty	Facile
+cost	Assez Cher
+guests_number	2
+preparation_time	20
+cook_time	30
+ingredients	beurre-demi-sel|langouste|oursin|poivre
+instructions	Faire couper par le poissonnier une langouste dans le sens de la longueur (ou le faire juste avant la préparation). Laisser le beurre à température ambiante. Ouvrir les oursins et en retirer le corail (orange) à la petite cuillère. Réserver dans un petit bol. Mélanger le beurre coupé en petits cubes afin d'obtenir un beurre en "pommade". L'ajouter au corail d'oursin délicatement à la fourchette. Poivrer. Faire chauffer le barbecue ou le grill du four. Enduire la chair et la tête de la langouste du beurre d'oursin à l'aide d'une cuillère ou d'un pinceau de cuisine. Faire griller environ 30 minutes sur la lèche-fritte (au barbecue, poser les demi-langoustes sur une feuille de papier alu et compter 45 minutes de cuisson). Remarques : Recette qui me vient de ma famille du Cap Corse. A tomber paar terre !!! Boisson conseillée : Un Patrimonio 
+
+url	http://www.marmiton.org/recettes/recette_langouste-en-papillotte-et-vinaigrette-au-curry_26562.aspx
+recipe_name	Langouste en papillotte et vinaigrette au curry
+type	Plat principal
+difficulty	Très facile
+cost	Assez Cher
+guests_number	2
+preparation_time	15
+cook_time	25
+ingredients	beurre-demi-sel|ciboulette|citron|curry|fleur-de-sel|huile-d-olive|langouste|poivre-5-baies
+instructions	Trancher en deux la langouste crue. Etaler des triples feuilles d'aluminium plus grandes que la bête. Dessus, disposer chaque moitié de langouste. Arroser la chair avec l'eau salée, parsemer de petits morceaux de beurre et de ciboulette ciselée. Fermer soigneusement les papillotttes et enfourner sous le grill (250°C) 25 mn. Préparer la vinaigrette en mélangeant tous les ingrédients mentionnés plus haut. Déballer les demi-langoustes et dresser aussitôt sur assiette, déposer la vinaigrette à côté. Boisson conseillée : Corton Charlemagne 
+
+url	http://www.marmiton.org/recettes/recette_lapin-aux-trois-poivres_254586.aspx
+recipe_name	Lapin aux trois poivres
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	1440
+cook_time	90
+ingredients	beurre-demi-sel|creme-fraiche|genievre|lait|lapin|moutarde|poivre|poivre-blanc|poivre-en-grain|poivre-vert|sel
+instructions	La veille du repas, découper le lapin en morceaux et le faire tremper dans du lait pendant la nuit, pour qu'il soit plus moelleux. Moudre les trois poivres et les baies de genièvre à l'aide d'un moulin à café par exemple. La veille du repas, badigeonner largement les morceaux de viande de moutarde forte, et saupoudrer les avec le mélange de poivre. Laisser mariner toute la nuit. Le jour même, éplucher les échalotes et les couper en deux ou trois morceaux selon la taille. Faire fondre le beurre dans une grande cocotte et faire dorer les morceaux de lapin. Saler puis ajouter les échalotes, bien mélanger, et cuire à couvert et à feu doux durant 1h30 (45 minutes à la cocotte minute). Couper le feu, ajouter la crème fraîche, bien mélanger. Vérifier l'assaisonnement et couvrir, toujours hors du feu. Laisser la crème "cuire" 15 minutes environ. Remarques : Servir avec des pâtes fraîches, des tagliatelles par exemple. Boisson conseillée : Vin rouge léger 
+
+url	http://www.marmiton.org/recettes/recette_lasagnes-pesto_224256.aspx
+recipe_name	Lasagnes pesto
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	25
+cook_time	35
+ingredients	beurre-demi-sel|epinard-frais|farine|gruyere|lait|muscade|pate-a-lasagne|pesto|saumon
+instructions	Ébouillantez les épinards quelques minutes, égouttez-les et passez-les sous l'eau froide. Faites fondre le beurre dans une casserole. Ajoutez le farine en une seule fois, remuez vivement puis ajoutez petit à petit le lait et la noix de muscade râpée. Laissez cuire 10 min, sans cesser de remuer. Une fois la béchamel prête, couvrez la casserole et laissez tiédir. Préchauffez le four à 180°C (thermostat 6). Mélangez le pesto avec la sauce béchamel, puis déposez une fine couche de préparation sur le fond d'un plat à gratin. Alternez ensuite entre les couches de 3 feuilles de pâte à lasagnes, les couches de béchamel au pesto, et celles de gruyère. Insérez ensuite la couche d'épinards vers le milieu, et la couche de saumon vers le sommet. Terminez par une couche de béchamel saupoudrée de gruyère. Laissez cuire 20 à 25 min. Au terme de la cuisson, laissez reposez les lasagnes 10 min dans le four éteint et entrouvert. 
+
+url	http://www.marmiton.org/recettes/recette_limande-aux-blancs-de-poireaux_17115.aspx
+recipe_name	Limande aux blancs de poireaux
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	25
+ingredients	beurre-demi-sel|citron|creme-fraiche|curry|echalote|limande|poireau|poivre|sel|vin-blanc-sec
+instructions	Epongez les filets de limande et citronnez-les légèrement. Lavez et épongez les blancs de poireaux, puis émincez-les très finement. Beurrez un plat à gratin et disposez-y les filets de limande et les blancs de poireaux, en alternant une couche de chaque. Arrosez d'un filet de jus de citron mettez au four préchauffé à 200°C (thermostat 6/7) pendant 10 min environ. Pendant ce temps, pelez et hachez finement les échalotes. Mettez-les dans une casserole, ajoutez le vin blanc et portez à ébullition. Lorsque le liquide est presque entièrement évaporé et que les échalotes sont en compote, ajoutez la crème fraîche et le curry. Délayez en remuant sur feu doux, salez et poivrez. Sortez le plat du four et nappez son contenu avec la sauce, puis remettez le plat au four en baissant le thermostat à 180°C, puis poursuivez la cuisson pendant environ 15 min. Servez très chaud. Boisson conseillée : gros-plant 
+
+url	http://www.marmiton.org/recettes/recette_magret-de-canard-aux-epices-figues-roties-au-miel-et-porto_14874.aspx
+recipe_name	Magret de canard aux épices, figues rôties au miel et Porto
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	60
+ingredients	beurre-demi-sel|figue|magret-de-canard|miel-liquide|porto|quatre-epices|vinaigre-de-vin
+instructions	Enlever l'excédent de graisse autour des magrets au ciseau, de façon à leur donner l'aspect d'une grosse amande. Poser dans un plat les magret sur la peau, les assaisonner légèrement de 4 épices et les filmer. réserver au frais une demi-heure. Couper les figues en 12 moitiés, faire fondre à feu doux le beurre dans une grande poêle. Poser chaque figue sur la face ouverte dans le beurre fondu qui ne doit pas noircir. Y verser le miel. Cuire à couvert 15 mn. Au bout de 15 mn, monter le feu pour réduire le jus de cuisson, déglacer au Porto, réserver les figues dans une assiette, conserver leur jus à part. Dans une poêle anti-adhésive à feu moyen, saisir les magrets sur la peau de façon à ce que la graisse fonde, les retourner et laisser cuire 5 mn et les retourner encore 5 mn à feu doux. En fin de cuisson, déglacer au vinaigre de vin balsamique et au miel, ôter les magrets,saler, poivrer. Ajouter le jus de figues, saler, poivrer. Réduire légèrement. Passer la sauce au chinois. Dans de belles assiettes blanches, disposer le magret en éventail, les figues, décorer avec la sauce sans éxagération. Finir avec un brin de cerfeuil. Remarques : Vous pouvez ajoutez des épinards en branches comme accompagnement. Encore une recette du passionné de l'art culinaire français, Stéphane Napolitano, cuisinier traiteur à domicile (tél: 06.66.48.12.83). Boisson conseillée : Mission Haut Brion, Clos Labégorce 95, Rioja Reserva 91 
+
+url	http://www.marmiton.org/recettes/recette_moules-a-la-riecoise-aux-pommes_32181.aspx
+recipe_name	Moules à la Riecoise (aux pommes)
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	20
+ingredients	ail|beurre-demi-sel|chapelure|echalote|moules|muscadet|persil|poivre|pomme
+instructions	Dans une grande marmite, mettre le beurre, faire blondir les échalotes, l'ail et la pomme 3 à 4 minutes en remuant sur feu moyen. Ajouter le persil et la chapelure, bien mélanger le tout, puis mouiller avec le vin blanc. Faire réduire à feu vif environ de moitié. Ajouter les moules, du poivre, puis couvrir. Laisser cuire et remuer de temps en temps jusqu'à ce que les moules soient toutes ouvertes. Remarques : Ne pas hésiter à laisser cuire longtemps. Il vaut mieux que les moules soit trop cuites que pas assez! Boisson conseillée : cidre brut ou muscadet 
+
+url	http://www.marmiton.org/recettes/recette_moules-au-pineau-des-charentes_25627.aspx
+recipe_name	Moules au Pineau des Charentes
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	15
+ingredients	ail|beurre-demi-sel|brique|moules|oignon|persil|pineau-blanc-des-charentes
+instructions	Lavez les moules. Dans une cocotte, mettre l'oignon l'ail et le persil émincés dans le beurre demi-sel fondu. Faire revenir quelques minutes puis ajouter les moules. Arrosez du Pineau des Charentes. Faire ouvrir les moules et 5 mn avant de servir, ajouter la crème liquide. Mélangez bien et bon appétit ! 
+
+url	http://www.marmiton.org/recettes/recette_moules-au-roquefort_36429.aspx
+recipe_name	Moules au roquefort
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredients	beurre-demi-sel|creme-fraiche-epaisse|echalote|moules|persil|poivre|roquefort|sel|vin-blanc-sec
+instructions	Nettoyer les moules (certainement l'opération la plus longue de la recette). Faire fondre une bonne noix de beurre dans une casserole et y faire suer les échalotes finement hachées. Ajouter la crème et le roquefort bien écrasé. Remuer jusqu'à obtenir une pâte bien lisse. Ajouter du persil et assaisonner, maintenir à feu moyen. Pendant ce temps, faire chauffer le vin blanc dans une cocotte et incorporer les moules. Laisser les moules s'ouvrir à couvert pendant environ 5 minutes. Quand elles sont ouvertes, 2 possibilités: soit vous égouttez les moules et vous les arrosez avec la sauce, ce qui est plus onctueux, soit vous conservez le jus de cuisson et vous ajouter la sauce, c'est également très bon mais la sauce est plus liquide. Laisser mijoter 5 minutes. Déguster sans tarder. Remarques : Accompagner de frites. Boisson conseillée : Un bon blanc 
+
+url	http://www.marmiton.org/recettes/recette_noix-de-st-jacques-a-la-creme-et-aux-champignons_27365.aspx
+recipe_name	Noix de st Jacques à la crème et aux champignons
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	15
+ingredients	ail|beurre-demi-sel|champignon-de-paris|chapelure|creme-liquide|cumin|noix|oignon|persil
+instructions	Faire revenir les oignons et l'ail, hachés grossièrement, dans le beurre quelques minutes puis ajouter les champignons. Mélangez et laissez revenir 1 mn. Ajouter les st Jacques ainsi que le persil pour 2 mn puis la crème. Mettre le tout dans un plat à gratin, parsemez de chapelure et mettre au grill qelques instants. Une fois doré, vous pouvez servir (très bon avec des tagliatelles fraîches). Remarques : Si la sauce est trop compact, vous pouvez ajouter un peu de vin blanc. 
+
+url	http://www.marmiton.org/recettes/recette_noix-de-st-jacques-a-l-effilochee-de-poireaux-et-brocolis_55642.aspx
+recipe_name	Noix de St Jacques à l'effilochée de poireaux et brocolis
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	30
+cook_time	25
+ingredients	beurre|beurre-demi-sel|brocoli|echalote|noix-de-saint-jacques|persil|poireau|poivre|riz|sel|vin-blanc-sec
+instructions	Nettoyez et émincez finement les blancs de poireaux. Faites cuire les blancs de poireaux et les bouquets de brocolis à la vapeur (poireau : 20 min, brocolis : 10 min). Faites revenir les noix de st-jacques pendant 1 min sur chaque face dans 25 g de beurre, puis réservez-les au chaud. Dans la poêle, remplacez-les par les échalotes hachées, et mouillez avec le vin blanc. Faites bouillir et réduire. Hors du feu, incorporez dans cette poêle le beurre demi-sel en petits morceaux et poivrez. Préparez ensuite la garniture : faites cuire le riz selon votre habitude (pilaf, vapeur, eau bouillante...). Répartissez l'effilochée de poireaux sur les assiettes. Salez, poivrez. Ajoutez les St-jacques et arrosez de sauce. Garnissez de brocolis, de persil et de cerfeuil. Enfin, servez accompagné du riz. Remarques : Le plus difficile est de garder les noix de st-jacques au chaud, il faut donc bien les recouvrir. Cette recette peut paraitr compliquée, mais avec le coup de main, elle est très facile à réaliser. Un délice! Boisson conseillée : vin blanc sec de bourgogne 
+
+url	http://www.marmiton.org/recettes/recette_nouilles-chinoises-aux-crevettes-et-concombre_87519.aspx
+recipe_name	Nouilles chinoises aux crevettes et concombre
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	45
+cook_time	30
+ingredients	ail|beurre-demi-sel|citron-vert|concombre|coriandre|crevette|huile-d-olive|nouilles-chinoises|oignon|sauce-nuoc-mam|sauce-soja
+instructions	Cuire les nouilles chinoises (selon votre goût) et réserver. Faire mariner les crevettes avec la sauce nuoc nam, la sauce soja et le jus du citron vert. Dans une poêle ou un wok, faire revenir l'ail, les oignons avec de l'huile d'olive et le beurre demi-sel. Incorporer le concombre coupé en dés de 1 centimètre environ. Laisser cuire 15 min en ajoutant les crevettes marinées, la coriandre (conserver quelques feuilles pour la décoration) et la marinade. Réchauffer les nouilles chinoises dans une poêle avec un peu d'ail et d'huile d'olive. Dresser : dans un plat creux (ou assiette creuse), déposer les nouilles chinoises et le contenu de la poêle (ou wok) par dessus. Ajouter quelques feuilles de coriandre pour la décoration. Servir; bon appétit. Remarques : C'est délicieux ! Boisson conseillée : Un rosé de Provence ou un blanc Sèvres et Maine. 
+
+url	http://www.marmiton.org/recettes/recette_omelette-au-bleu-d-auvergne_326583.aspx
+recipe_name	Omelette au Bleu d'Auvergne
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	5
+ingredients	beurre-demi-sel|bleu-d-auvergne|lait|laurier|oeuf|oignon|persil|poivre|sauge|sel
+instructions	Émincer finement l'oignon et le faire suer dans une poêle avec un peu de beurre. Pendant ce temps, casser les oeufs dans une jatte et ajouter le lait. Remuer très légèrement la mixture à la fourchette ou au fouet (casser les jaunes suffit). Saler, poivrer et ajouter le persil, la sauge et le laurier. Quand les oignons sont translucides, les retirer et remettre du beurre dans la poêle. Verser la mixture et commencer à cuire votre omelette à feu doux. Quand l'omelette commence à cuire (au bout de 2/3 minutes) répartir les oignons et le bleu coupé en petits dés sur l'omelette. Laisser cuire l'omelette à la manière d'une crêpe (sans remuer mais en essayant de décoller les bords). Quand l'omelette commence à brunir légèrement en dessous, la replier sur elle-même, laisser cuire quelques instants et servir. Remarques : Vous pouvez ajouter une noisette de beurre sur l'omelette au moment de servir. Vous pouvez accompagner votre omelette d'une salade de laitue ou de tomates assaisonnées. Boisson conseillée : Chianti 
+
+url	http://www.marmiton.org/recettes/recette_omelette-aux-calamars_337127.aspx
+recipe_name	Omelette aux calamars
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	1
+preparation_time	5
+cook_time	25
+ingredients	beurre-demi-sel|calamar|gruyere-rape|oeuf|oignon|pomme-de-terre
+instructions	Épluchez et coupez l'oignon. Épluchez et coupez les pommes de terre en cubes. Dans une poêle, faites cuire l'oignon ainsi que les pommes de terre avec une noix de beurre demi-sel. Laissez cuire 5-10 min et ajoutez les calamars dans la poêle. Dans un saladier, ajoutez les 'ufs et remuez. Une fois les calamars cuits, ajoutez les 'ufs dans la poêle. Recouvrir le tout avec du gruyère râpé. Laissez cuire 5 min, la recette est finie. 
+
+url	http://www.marmiton.org/recettes/recette_omelette-aux-girolles-ail-et-persil_52045.aspx
+recipe_name	Omelette aux girolles, ail et persil
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	15
+ingredients	ail|beurre-demi-sel|girolle|oeuf|persil|poivre|sel
+instructions	- Battre les 'ufs en omelette à la fourchette, plus ils sont battus, meilleur sera l'omelette ! Saler, poivrer la préparation selon votre goût. Ajouter le persil haché. Rincer les girolles à l'eau claire, sans les laisser "tremper" et couper le pied sablonneux (pas trop quand même). Faire revenir l'ail haché, à feu doux dans du beurre salé (du demi sel fait aussi l'affaire) jusqu'à transparence (il ne doit pas griller). Couper grossierement les girolles et les faire revenir avec l'ail, monter le feu (fort au départ, puis moyen). Faire "suer" les champignons. Lorsqu'il sont cuits, et qu'il n'y a plus d'eau dans la poêle ajouter le mélange d''ufs assaisonnés, cuire à feu doux. Une fois l'omelette cuite à votre convenance, plier en deux et servir avec une grosse salade verte. Se régaler... Remarques : Si l'assaisonnement est réussi, il révèle le goût de la girolle sans le masquer, et que je n'entende plus que les girolles n'ont pas de goût !!! Boisson conseillée : Un anjou, ça va avec tout et c'est souvent bon marché 
+
+url	http://www.marmiton.org/recettes/recette_omelette-aux-girolles-ble-asperges-et-aubergines_231780.aspx
+recipe_name	Omelette aux girolles, blé, asperges et aubergines
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	15
+cook_time	15
+ingredients	ail|asperge|aubergine|beurre-demi-sel|ble|girolle|huile-d-olive|oeuf|persil|poivre|sel
+instructions	Rincez les asperges et découpez leur extrémité. Rincer les girolles, sans les laisser "tremper" et couper le pied. Rincer l'aubergine et découpez la en fines tranches Faites bouillir 2 litres d'eau salée. Mettez le blé à cuire pendant 10 min. Mettez les asperges à cuire pendant 3 min. Pendant ce temps, mettez de l'huile d'olive dans une poêle et faites revenir les aubergines. Lorsque les aubergines sont bien grillées des 2 côtés les enlever et les poser sur un plat recouvert de papier absorbant. Lorsque les asperges ont cuits pendant 3 minutes dans l'eau, les retirer et les placer sur un plat recouvert de papier absorbant. Puis mettre du beurre dans une poêle et faire revenir les asperges pendant encore 3 min. Battre les 'ufs en omelette à la fourchette, plus ils sont battus, meilleure sera l'omelette ! Saler, poivrer la préparation selon votre goût. Ajouter le persil haché. Faire revenir l'ail haché, à feu doux dans du beurre salé jusqu'à transparence (il ne doit pas griller). Couper grossièrement les girolles et les faire revenir avec l'ail. Faire "suer" les champignons. Lorsqu'il sont cuits, et qu'il n'y a plus d'eau dans la poêle ajouter le mélange d''ufs assaisonnés, cuire à feu doux. Une fois l'omelette cuite à votre convenance, plier en deux. Accompagner avec le blé, les asperges et les aubergines. 
+
+url	http://www.marmiton.org/recettes/recette_osso-bucco-aux-legumes-du-marche_32849.aspx
+recipe_name	Osso bucco aux légumes du marché
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	2
+ingredients	ail|beurre-demi-sel|bouquet-garni|carotte|celeri|fond-de-veau|huile-d-olive|jarret-de-veau|navet|oignon-blanc|tomate|vin-blanc-sec
+instructions	Coupez en julienne les carottes, navets, céleri rave, émincez les oignons et l'ail. Mondez les tomates, épépinez et coupez-les en morceaux. Lavez les jarrets, passez-les dans la farine. Chauffez l'huile dans une cocotte assez grande pour contenir les jarrets à plat, faites les dorer des deux côtés ; enlevez-les et réservez-les au chaud. Ajoutez le beurre et remplacez-les par les légumes (sauf les tomates), faites-les revenir à feu vif en remuant, ajoutez le vin blanc, les tomates, le bouquet garni, le fond de veau, portez à légère ébullition. Replacez les jarrets sur la garniture, couvrez et laissez mijoter à feu très doux 2 heures. A l'issue, vous pouvez ajouter des zestes blanchis de citron et d'orange. Boisson conseillée : Côtes du rhône fruité 
+
+url	http://www.marmiton.org/recettes/recette_parmentier-d-ailes-de-raies_315591.aspx
+recipe_name	Parmentier d'ailes de raies
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	30
+ingredients	ail|beurre|beurre-demi-sel|bouillon|bouillon-de-poule|citron-vert|creme-fraiche-liquide|muscade|oeuf|poireau|poivre|pomme-de-terre|raie|sel
+instructions	Détaillez le poireau en tranches. Épluchez les pommes de terre. Préparation de la sauce pour le poisson : Dans un bain-marie, faites fondre doucement les 90 g de beurre et ajoutez le jus d'un demi citron vert. Préparation du poisson : La cuisson se démarre à froid, vous mettez assez d'eau pour que toutes les ailes soient recouvertes, vous y ajoutez les 2 cubes bouillon et vous lancez la cuisson à feu vif. Une fois que ça bout, vous réduisez la cuisson à feu doux et vous laissez cuire 10 minutes, ensuite vous égouttez le poisson et vous enlevez les arrêtes. Quand le poisson est complètement désarrêté, vous ajoutez la sauce et vous réservez (pas besoin de mettre au frigo) Préparation des poireaux : Vous faites cuire les tranches de poireaux dans de l'eau bouillante avec le cube bouillon de poule ou de légumes, et vous faites blanchir pendant 5 minutes. Après ce délais, vous égouttez et rincez à l'eau froide. Vous faites ensuite fondre les 20 g de beurre avec les 20 g d'ail et vous ajoutez les poireaux. Faites revenir à feu moyen pendant 5 min, puis ajoutez sel, poivre et noix de muscade ainsi que 10 cl de crème liquide. Réservez. Préparation de la purée : Cuisez les pommes de terre entières, pour garder l'amidon. La cuisson varie en fonction de la taille de vos pommes de terre. Quand elles sont cuites, on sait piquer un couteau aisément dans son centre. Vous égouttez, vous écrasez la purée, ajoutez ensuite 20 g de beurre, les 10 cl de crème restants, le jaune d''uf, sel, poivre et noix de muscade et mélangez le tout. Mise en plat : Dans un plat allant au four, mettez tout le poisson, puis les poireaux et puis la purée, pour faire en sorte d'avoir les 3 étages. Si vous le désirez vous pouvez parsemer de la chapelure au dessus, ou du beurre, du fromage, ... et vous enfournez sous le grill (pour gratiner le gratin) pendant 5 min (jusqu'à ce que ce soit doré). Bonne dégustation ! Remarques : N'oubliez pas de bien assaisonner à votre convenance ! 
+
+url	http://www.marmiton.org/recettes/recette_patates-krichen-grillees_232563.aspx
+recipe_name	Patates krichen (grillées)
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	15
+cook_time	30
+ingredients	beurre-demi-sel|gros-sel|lard-fume|pomme
+instructions	Blanchir les pommes de terres en quatre. Dans un chaudron (ou une grosse casserole), faire fondre le beurre et ajouter les pommes de terre coupées. Faire revenir les tranches de lard et les mettre de côté (le jus de cuisson peut être conservé pour les gourmands). Une fois les pommes de terres bien dorées, diminuer le feu et ajouter du gros sel (un peu de poivre si on aime). Recouvrir avec un couvercle et laisser dorer (pour finir par obtenir le "krichen") tout en remuant de temps en temps sans en faire de la purée (les gourmands peuvent y ajouter le jus de cuisson du lard). Laisser cuire 30 min environ. 
+
+url	http://www.marmiton.org/recettes/recette_pates-au-citron-et-au-comte_228991.aspx
+recipe_name	Pâtes au citron et au comté
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	10
+ingredients	beurre-demi-sel|citron|comte|creme|estragon|gros-sel|pates-fraiches|poivre
+instructions	Laver le citron, râper les zestes, les mélanger au comté râpé et réserver. Mettre les pâtes à cuire dans de l'eau additionnée d'une pincée de gros sel (cuisson : al dente). Pendant ce temps, faire fondre le beurre à feu doux dans une petite casserole ; ajouter la crème, le sel et le poivre, puis les zestes mêlés au comté et au final, le jus du citron. Mélanger le tout et faire bouillir 2 à 3 min pour que la sauce réduise légèrement et devienne crémeuse. Égoutter les pâtes et les mélanger à la sauce. Parsemer le plat d'une pointe d'estragon ciselé. Remarques : Recette inspirée de celle de Ducasse. Peut-être faite avec du parmesan et sans le jus de citron. 
+
+url	http://www.marmiton.org/recettes/recette_pates-au-thon-facon-bretonne_308766.aspx
+recipe_name	Pâtes au thon façon Bretonne
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	15
+ingredients	beurre-demi-sel|creme-fraiche|echalote|pates|persil|poivre|sel|thon
+instructions	Faire bouillir de l'eau préalablement salée pour la cuisson des pâtes.  Pendant ce temps, émincer assez finement les échalotes et les faire revenir dans un poêle avec le beurre jusqu'à ce qu'elles soient bien dorées. Mettre à feu doux pour ne pas noircir le beurre et les brûler. Bien égoutter le thon et l'émietter avec une fourchette dans la boîte. Incorporer le thon au mélange beurre/échalotes. Remuer le tout à feu moyen. Une fois le thon revenu avec les échalotes et le beurre, ajouter la crème fraîche. Remuer. Laisser mijoter à feux doux. Vous pouvez éventuellement saler un peu mais attention car les pâtes le seront déjà. Libre à vous :-) Les pâtes sont cuites' Al dente bien sûre ;-) Mélanger le thon aux pâtes et c'est prêt ! Bon app' Boisson conseillée : une bonne bolée de cidre 
+
+url	http://www.marmiton.org/recettes/recette_pave-de-cabillaud-pane-aux-epices-et-beurre-de-soja_29477.aspx
+recipe_name	Pavé de cabillaud pané aux épices et beurre de soja
+type	Plat principal
+difficulty	Facile
+cost	Assez Cher
+guests_number	4
+preparation_time	20
+cook_time	8
+ingredients	ail|beurre-demi-sel|cabillaud|cannelle|cumin|curry|melange-4-epices|moutarde|paprika|persil|poivre|sauce-soja|sel
+instructions	Mélanger la chapelure avec une cuillère à café de chaque épice. Paner le côté chair des pavés de cabillaud en venant les poser dans la chapelure. Faire fondre le beurre et laisser le roussir légèrement puis déglacer d'un coup sec avec 2 cuillères à soupe de sauce soja. Reporter le beurre à ébullition puis mettre la moitié de la petite bouteille de sauce soja. Verser une petite cuillère de beurre soja sur chaque pavé de poisson, cuire le poisson au four à 220°C (thermostat 7-8) pendant 6 à 8 min. Emulsionner la sauce avec un mixer à pleine vitesse et servir à côté du poisson. Boisson conseillée : Bourgogne blanc plutot sec 
+
+url	http://www.marmiton.org/recettes/recette_petits-souffles-au-crabe_82097.aspx
+recipe_name	Petits soufflés au crabe
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	6
+preparation_time	20
+cook_time	20
+ingredients	ail|beurre-demi-sel|coriandre|crabe|curry|farine|lait|oeuf|persil|poivre|sel|vin-blanc-sec
+instructions	Monter les blancs en neige avec une pincée de sel fin. Réserver. Hacher finement l'ail et le mélanger avec les jaunes d''ufs. Hacher finement les herbes et les ajouter. Faire fondre le beurre à feu doux, puis ajouter en pluie fine la farine, le lait et le vin blanc. Bien mélanger et assaisonner de poivre, de sel et de poudre de curry. Ajouter ce mélange au mélange de jaune d''ufs. Ajouter au tout les miettes de crabe, puis incorporer doucement les blancs d''ufs avec une cuillère en bois. Beurrer des petits ramequins et verser le mélange. Placer les ramequins dans un grand plat avec un fond d'eau puis cuire environ 20 minutes à 180°C (thermostat 6), ou jusqu'à ce que les soufflés soient bien dorés sur le dessus. Boisson conseillée : Muscadet 
+
+url	http://www.marmiton.org/recettes/recette_poisson-au-fenouil-confit-et-pastis_28881.aspx
+recipe_name	Poisson au Fenouil Confit et Pastis
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	10
+cook_time	30
+ingredients	basilic|beurre-demi-sel|eau|fenouil|oignon|pastis|poissons
+instructions	1) Couper le fenouil et l'oignon en fines lamelles. Les faire revenir à la casserole dans un peu de beurre pour les faire confire 15 à 20 mn à feu doux en remuant régulièrement. 2) Ajouter le pastis et 5 feuilles de basilic hachées et 6 bouchons d'eau. Laisser évaporer 10 mn. 3) Mixer la sauce dans la casserole. 4) Monter, par petits morceaux de beurre, la sauce sur feu doux. Ne pas saler, le beurre demi-sel s'en charge. Maintenez au chaud. 5) Faire cuire votre poisson au four ou autre. 4) Dresser le plat avec le poisson et la sauce au fenouil confit et deux feuilles de basilic. Remarques : Cette sauce va avec tous les poissons ainsi qu'avec les coquilles Saint Jacques. 
+
+url	http://www.marmiton.org/recettes/recette_poule-au-riz_17119.aspx
+recipe_name	POULE AU RIZ
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	6
+preparation_time	5
+cook_time	60
+ingredients	beurre-demi-sel|bouillon-de-volaille|bouquet-garni|emmental|laurier|poivre|poule|riz|sel
+instructions	Salez et poivrez la poule intérieurement. Y glisser 1 feuille de laurier et quelques brins de persil, bridez-la et mettez-la dans une marmite. AJoutez les bouquets garnis et versez le bouillon. Portez à ébullition, couvrir et faire mijoter pendant 1h30 . Faire cuire le riz à l'eau salée pendant 8 mn environ, puis égouttez-le et rafaîchissez-le. Versez-le à nouveau dans une casserole et couvrez-le avec deux fois et demi son volume de bouillon de la cuisson de la volaille. Laissez cuire à nouveau très doucement de 10 à 12 mn, jusqu'à ce que les grains aient absorbé le liquide. Quand il est bien moelleux, incorporez le beurre en parcelles ainsi que le formage râpé. Egouttez la poule et coupez-la en morceaux. Versez le riz dans un plat creux et disposez les morceaux de poule dessus. Servez aussitôt. On peut aussi confectionner une sauce blanche à la crème en utilisant le reste de bouillon de cuisson et ausi y ajouter des champigons émincés. Boisson conseillée : Un Chinon 
+
+url	http://www.marmiton.org/recettes/recette_poulet-au-citron_15793.aspx
+recipe_name	Poulet au citron
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	45
+ingredients	beurre-demi-sel|citron|creme-fraiche|eau|echalote|farine|poivre|poulet-entier|sel|vin-blanc
+instructions	Commencer par découper le poulet (il est evidemment possible de n'acheter que des blancs...), émincer les échalotes. Dans une marmite, faire revenir les morceaux de poulet dans le beurre à feux moyen. Quand ils sont colorés, ajouter les échalotes. Au bout de 2 mn, ajouter la farine, le vin et l'eau. Mélanger le tout pour obtenir une sauce homogène, couvrir et laisser cuire 30 mn. Ajouter le jus de citron et la crème fraîche, mélanger et laisser mijoter 10 mn. Servir accompagné de riz ou de pâtes fraîches. 
+
+url	http://www.marmiton.org/recettes/recette_poulet-saute-forestiere_30599.aspx
+recipe_name	Poulet sauté forestière
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	60
+ingredients	ail|beurre-demi-sel|champignon-de-paris|cuisse-de-poulet|echalote|huile-d-olive|jambon-fume|moutarde-a-l-ancienne|persil
+instructions	Dans un premier temps, badigeonner les cuisses de poulet de beurre demi-sel, puis généreusement de moutarde à l'ancienne et saupoudrez-les de persil haché. Dans une cocotte, faire dorer les cuisses avec l'échalote dans un peu d'huile d'olive. Pendant ce temps, laver et peler les champignons et les découper en fines tranches. Couvrir les cuisses de poulet d'au moins 1/2 litre d'eau, et laisser cuire à couvert avec les gousses d'ail entières, les champignons et le jambon jusqu'à évaporation de l'eau. Au besoin rajouter de l'eau et laissez cuire si la viande est encore trop ferme. Servir avec le riz. Remarques : Facile, économique, c'est un plat qui plait toujours. On peut bien sur remplacer le jambon par des lardons fumés, mais c'est un peu plus gras. 
+
+url	http://www.marmiton.org/recettes/recette_raie-au-chou_17121.aspx
+recipe_name	Raie au chou
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredients	beurre-demi-sel|chou|creme-fraiche|echalote|persil|raie|sel|vin-blanc
+instructions	Emincez le chou et faites-le blanchir pendant 10 mn dans uen grande quantité d'eau bouillante. Egouttez-le bien. Pendant ce temps, dépouillez les ailes de raie. Pelez et hachez finement les échalotes. Hachez 3 cuil. à soupe de persil. Beurrez un plat à gratin assez copieusement puis tapissez le fond avec les échalotes et le pzrsil. Etalez ensuite le chou émincé par-deeus, puis posez les ailes de raie. Arrosez de vin blanc et ajoutez 30 g de beurre en parcelles. Faites cuire dans le four à 230°C, pendant une dizaine de minutes. Sortez le plat du four et prélevez 2 cuillères à soupe de la cuisosn, mélangez-la avec 2 ou 3 cuil. à soupe de crème fraîche, puis versez cette sauce sur les morceaux de raie. Ajoutez le reste de beurre en morceaux, salez et donnez 2 tours de moulin à poivre. Remettez le plat dans le four de 6 à 7 minutes. Servez chaud, dans le plat. Boisson conseillée : Un Muscadet 
+
+url	http://www.marmiton.org/recettes/recette_risotto-de-crevettes-au-curry_166609.aspx
+recipe_name	Risotto de crevettes au curry
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	45
+cook_time	35
+ingredients	basilic|beurre-demi-sel|bouillon|champignon-de-paris|creme|crevette|curry|huile-d-olive|oignon|poivre|riz|tomate|vin-blanc
+instructions	- Faire revenir les crevettes décortiquées et coupées en 2 dans le beurre de mi-sel puis ajouter le basilic. Réserver. - Dans la même poêle faire revenir les champignons coupés en 4 ainsi que les tomates pelées et dégrainées. Ajouter au mélange les crevettes, la crème et le curry. Réserver. - Dans une sauteuse faire revenir les oignons émincés dans l'huile d'olive, poivrer. Incorporer le riz puis mélanger jusqu'à ce qu'il soit translucide. Ajouter le vin blanc puis petit à petit le bouillon tout en remuant en même temps. - Une fois le riz cuit ajouter la préparation crevettes, champignons, tomates. SERVIR IMMEDIATEMENT POUR NE PAS PERDRE L'ONCTUOSITE DU RIZ. Pour les adeptes du vrai risotto n'hésitez pas à ajouter un demi chorizo coupé en rondelle et 2 cs de parmesan. Boisson conseillée : Vin blanc demi-sec 
+
+url	http://www.marmiton.org/recettes/recette_sardines-frites-montees-en-chateau_308652.aspx
+recipe_name	Sardines frites montées en château
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	15
+ingredients	beurre-demi-sel|citron|farine|oeuf|persil|poivre|sardine|sel
+instructions	Vider et écailler les sardines en gardant la tête. Les essuyer doucement. Durcir les oeufs 10 min dans de l'eau bouillante. Ne récupérer que les jaunes. Les écraser avec un peu d'eau pour obtenir une pâte fluide. Tourner les sardines soigneusement dans cette pâte. Les rouler une par une dans la farine étalée sur une assiette et les aligner en attente de cuisson. Poêler en 2 fois pour que les sardines ne s'attachent pas les unes aux autres. A chaque fois dans environs 25 g de beurre et en les retournant délicatement pour ne pas abimer la belle croûte dorée qui s'est formée. Sans oublier de saler et poivrer légèrement. En même temps faire fondre le reste du beurre avec le jus de citron, sel, poivre et persil haché. Dans un plat de préférence un peu chaud disposer les sardines en quinconce pour former notre château. Arroser du beurre fondu et servir sans attendre. Boisson conseillée : Un muscadet sur lie 
+
+url	http://www.marmiton.org/recettes/recette_tomates-farcies-au-boeuf-hache_42956.aspx
+recipe_name	Tomates Farcies au boeuf haché
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	4
+preparation_time	45
+cook_time	25
+ingredients	ail|beurre-demi-sel|chapelure|echalote|farine|huile-d-olive|oeuf|persil|poivre|romarin|sel|sucre|tomate|viandes
+instructions	Eplucher et hacher 1 échalote et 2 gousses d'ail. Effeuiller la botte de persil et hacher toutes les feuilles. (Si vous avez un mixer, couper en petits morceaux l'échalote, l'ail et le persil et mixer ensemble). Prendre un grand récipient pour la farce, y verser la viande hachée de boeuf. Y ajouter l'échalote, l'ail haché, le persil haché, une bonne cuillère de farine et un peu de romarin. Prendre l'oeuf, le battre et l'ajouter dans la farce. Y ajouter 5 cl d'huile d'olive. Commencer à mélanger le tout. Commencer à malaxer le tout. Pendant le malaxage y yncorporer 1 cuillère à café de sel (attention pas trop de sel car cela dessèche la viande) et 2 cuillères à café de sucre, 1 pincée de poivre. Normalement une bonne odeur devrait se dégager de la farce crue ce qui veut dire que la farce est prête. Prendre les tomates branches. Couper en laissant un petit chapeau. Les évider des graines et de la pulpe en la récupérant dans un récipient. Récuper la pulpe et la mixer. Disposer les tomates sur le plat. Commencer à farcir les tomates. Avant de remettre le petit chapeau, ajouter une petite noix de beurre sur chaque tomate, puis y verser la pulpe de tomate mixée. Mettre le chapeau et le faire tenir en place avec un pic ou ligoter la tomate. Mettre un peu de chapelure sur chaque tomate. Arroser légèrement chacune des tomates avec le restant huile d'olive chacune des tomates. Ensuite couper la dernière échalote en julienne, écraser les 2 dernières gousses d'ails. Ajouter 2 noix de beurres sur chacune des gousses d'ail, les disposer au fond du plat. Ajouter encore 2 ou 3 noix de beurre dans le fond du plat. Ajouter un 1/2 verre d'eau dans le fond du plat pour toute la cuisson. Passer au four à 230°C (thermostat 7-8) pendant 25 minutes . Déguster avec du riz ou des pâtes. Remarques : Il est possible de rajouter du vin blanc sec pour constituer le jus. Dasn ce cas remplacer le 1/2 verre d'eau par un 1/2 verre de vin blanc sec. 
+
+url	http://www.marmiton.org/recettes/recette_tourte-bretonne_311668.aspx
+recipe_name	Tourte bretonne
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	90
+cook_time	30
+ingredients	beurre-demi-sel|galette|huile|oignon|poitrine-fumee|poivre|sel|sucre|thym
+instructions	Faire fondre doucement le beurre (100g) avec l'huile dans une casserole à fond épais. Ajoutez les oignons émincés, et faire fondre très lentement 30 minutes environ. Remuer le tout lorsque le mélange commence à être bien fondu et ajouter le sucre, le sel, le poivre et le thym. Laisser cuire encore 20 minutes environ en remuant souvent. Arrêter la cuisson lorsque ont pris une jolie couleur caramel. Couper la poitrine fumée en petits morceaux et les faire dorer dans un poêle dans laquelle on aura mis une cuillerée à soupe d'huile jusqu'à ce qu'ils soient bien croustillants. Jeter le tout (morceaux de poitrine avec leur graisse) dans la casserole d'oignons et mélanger le tout. Préparation de la tourte : Préchauffer le four thermostat 6 ou 200°C. Beurrer une tourtière ou un grand moule à manqué. Mettre dedans une galette, la recouvrir d'oignons, poser une autre galette la recouvrir également d'oignons et ainsi de suite jusqu'à la dernière galette qui ne sera pas recouverte. Parsemer le dessus de petits morceaux de beurre. Faire cuire 30 minutes dans le four. Servir en découpant des parts comme pour une tarte. Accompagner d'une salade. 
+
+url	http://www.marmiton.org/recettes/recette_koulibiac-saumon-poireaux_313868.aspx
+recipe_name	Koulibiac saumon poireaux
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	7
+preparation_time	30
+cook_time	25
+ingredients	beurre-d-escargot|concentre-de-tomate|creme-fraiche-epaisse|crevette|epice-pour-pizza|lait|oeuf|oignon|pate-feuilletee|persil|piment|poireau|poivre|saumon|sel
+instructions	Dans une poêle faire cuire 1/2 oignon et les poireaux avec un peu de beurre d'escargot. Couper les filets de saumon dans la largeur. Dérouler la première pâte feuilletée. Frotter un peu d'épices à pizza sur la pâte (épices en poudre). Disposer au centre de la pâte une couche rectangulaire de poireaux puis de saumon et répéter l'opération. (Pensez à laisser une marge de sécurité de 2-3 cm pour pouvoir coller les bords après). Parsemer du persil sur la dernière couche. Recouvrir avec la 2ème pâte feuilletée. Coller les bords avec un jaune d''uf salé. Découper la pâte feuilletée en forme de poisson si vous vous sentez une âme d'artiste. Penser à dessiner les écailles et les yeux du poissons. Sinon un découpage rectangulaire fera l'affaire. Battre un jaune d''uf avec un peu de lait et badigeonner ce mélange sur la pâte feuilletée pour obtenir une jolie couleur à la cuisson. Enfourner 25 à 30 minutes à 200°C. Sauce crevettes: battre la crème fraîche + le concentré de tomate + 1cc piment doux + sel + poivre + crevettes et faire revenir à feu doux. Servir avec du riz. Remarques : Les restes: Pour ma part j'utilise les chutes de pâte pour faire quelques bouchées apéritives. Avec les 2 blancs en neige pourquoi ne pas faire de petites meringues à servir en dessert ou avec le café' Boisson conseillée : Bordeaux blanc (par exemple Baron de Lestac) 
+
+url	http://www.marmiton.org/recettes/recette_saumon-et-haricots-blancs-au-chorizo_165253.aspx
+recipe_name	Saumon et haricots blancs au chorizo
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	2
+preparation_time	5
+cook_time	10
+ingredients	beurre-d-escargot|chorizo|citron|haricot|huile-d-olive|piment-d-espelette|poivre|roquette|saumon|sel
+instructions	Cuire à l'unilatérale les pavés après avoir enduit ces derniers d'un mélange de jus d'un demi citron, piment, huile d'olive (à peine) et sel poivre. En parallèle, on laisse mousser le beurre d'escargot (l'équivalent d'une belle cuillère à soupe) pendant qu'on égoutte les haricots blancs. Les déposer dans le beurre et ajouter le chorizo finement coupé et la roquette qu'on laisse faner. Assaisonner. Servir en déposant les pavés sur la poêlée aux haricots. Boisson conseillée : Un Bandol 
+
+url	http://www.marmiton.org/recettes/recette_tourte-aux-escargots-a-l-alsacienne_34720.aspx
+recipe_name	Tourte aux escargots à l'alsacienne
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	10
+preparation_time	25
+cook_time	60
+ingredients	beurre-d-escargot|choucroute|escargot|lard-fume|oeuf|pate-brisee
+instructions	Préchauffer le four à thermostat 7 (210°C). Abaisser la moitié de la pâte dans un moule assez haut et piquer le fond avec une fourchette. Bien égoutter la choucroute, y ajouter le lard fumé en petits dés et la répartir dans la tarte, répartir dessus les escargots égouttés et parsemer de flocons de beurre d'escargots. Abaisser l'autre moitié de la pâte pour former le couvercle de la tourte. Dorer le dessus au jaune d'oeuf délayé avec un peu d'eau et dessiner quelques motifs. Enfourner à thermostat 7 au départ, puis baisser la température à  thermostat 6 (180°C) après 5 minutes. Remarques : Cette recette convient très bien pour utiliser un restant de choucroute. 
+
+url	http://www.marmiton.org/recettes/recette_truite-au-beurre-d-escargot_71575.aspx
+recipe_name	Truite au beurre d'escargot
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	8
+preparation_time	10
+cook_time	20
+ingredients	beurre-d-escargot|oignon|poivre|sel|tomate|truite
+instructions	Pour chaque truite: Au centre d'une feuille d'aluminum, déposer la truite. Mettre une cuillère à soupe de beurre d'escargot au centre (pas trop sinon c'est vraiment gras). Couper les tomates en fines rondelles et mettre deux rondelles de celle-ci pour chaque truite. Faire de même pour les oignons. Mettre une pincée de sel, de poivre et d'herbes de Provence justement répartie. Faire cuire dans un four, les truites emballées dans leur aluminium à 210°, thermostat 7, 20 à 30 min. Regarder si l'intérieur de votre poisson et bien blanc ou rosé suivant les truites, et servir chaud. Bon appétit!!! Remarques : Vous pouvez aussi utiliser cette recette l'été, en remplaçant le four par le barbecue. 
+
+url	http://www.marmiton.org/recettes/recette_aiguillettes-de-foie-gras-au-vinaigre-balsamique_19782.aspx
+recipe_name	Aiguillettes de foie gras au vinaigre balsamique
+type	Plat principal
+difficulty	Très facile
+cost	Assez Cher
+guests_number	4
+preparation_time	15
+cook_time	5
+ingredients	beurre-doux|farine|fleur-de-sel|foie-gras|orange|poivre|vinaigre-balsamique
+instructions	Pelez quatre oranges à vif puis séparez les quartiers. Tranchez le foie gras en 8 fines escalopes, puis farinez-les légèrement sur les deux faces. Cuisez-les à la poêle en deux fournées, avec chaque fois 10 g de beurre, pendant 1 mn de chaque côté. Réservez-les au chaud dans un plat couvert d'un papier d'alu. Jetez le gras de cuisson de la poêle, déglacez avec le vinaigre balsamique. Donnez un bouillon en grattant le fond à la cuillère de bois. Ajoutez les quartiers d'orange dans la poêle puis laissez-les chauffer pendant 2 min environ. Servez les aiguillettes sur des assiettes chaudes et entourez-les de quartiers d'orange. Nappez de sauce, saupoudrez de fleur de sel, poivrer et servez aussitôt. Remarques : Vous pouvez remplacer les oranges par des clémentines. Boisson conseillée : Un jurançon moelleux, servi à 8°C environ. 
+
+url	http://www.marmiton.org/recettes/recette_cailles-a-la-paysanne-faciles_311957.aspx
+recipe_name	Cailles à la paysanne faciles
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	30
+ingredients	beurre-doux|caille|echalote|gewurztraminer|herbes-de-provence|huile-de-tournesol|oignon|poivre|sel|tomate|vin-blanc
+instructions	Éplucher les oignons et échalotes. Les couper en lamelles et réserver pour la suite. Laver les tomates et les couper (grossièrement) en quartiers. Réserver pour la suite. S'assurer que les cailles sont propres, correctement déplumées et bien vidées. Ôter la tête si ça n'a pas été fait par votre boucher. Dans un fait-tout et à feu vif, mettre l'huile et le beurre coupé en morceaux. Lorsque le beurre est bien fondu, saisir les cailles. (Attention à ne pas les faire brûler, il faut les retourner tout le temps, jusqu'à obtenir une jolie coloration). Ajouter ensuite : Les oignons, les échalotes et les tomates. Au bout de quelques minutes, un jus va se former dans le fond du fait-tout. Ajouter le verre de vin blanc, saler (gros sel), poivrer et ajouter les herbes de Provence. Couvrir et laisser le tout mijoter à petit feu pendant 30 min. Remuer de temps en temps. (Il est important de couvrir, la condensation permet de garder l'eau et rend la viande plus tendre...) Pour accompagner ces cailles, je recommande une pomme-de-terre au four... C'est divin ! Bonne dégustation ! Remarques : Désolé je n'ai pas eu le temps de mettre ma photo, nous sommes passés à table avant que j'ai eu le temps de les photographier... Les convives ont A-DO-RÉ ! C'est un plat apprécié en ce début d'automne. Ça change des volailles types comme poulet et dinde ! Nettement plus fin en bouche ! Boisson conseillée : Le reste du vin blanc : Gewurztraminer ou bien évidemment un vin rouge 
+
