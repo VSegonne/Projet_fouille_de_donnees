@@ -55,9 +55,9 @@ class OkButton(Button):
             if self.model.exists_profile(self.frame.entree.get()):
                 res = askquestion("Attention!", "Ce profile existe déjà, voulez-vous le selectionner ?", icon="warning")
                 if res == "yes":
-                    sys.exit()
-                else:
-                    self.model.display_main_menu(self.model.root, self.model.DBM)
+                    self.model.load_profile_from_database(self.frame.listProfile.get_profile_name())
+                    self.frame.destroy()
+                    self.model.generate_recipes()
             else:
                 showinfo('Bienvenu !', "C'est la première fois que vous utilisez ce programme. Avant de faire votre menu, je dois apprendre à vous connaitre! Pour cela, je vais vous présenter des recettes aléatoires, à vous de me dire si elle vous plaît. Lorsque vous aurez atteint 20 recettes  \
                          je vous proposerai un menu!")

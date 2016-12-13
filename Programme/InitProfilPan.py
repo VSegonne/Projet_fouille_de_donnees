@@ -11,7 +11,7 @@ class InitProfilPan(tkinter.Frame):
 
         tkinter.Frame.__init__(self, root,  relief="groove")
 
-        root.geometry("+220+150")
+        root.geometry="+220+150"
 
         self.root = root
         self.model = model

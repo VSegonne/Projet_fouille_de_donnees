@@ -8,7 +8,7 @@ class MakeMenuPan(Frame):
     def __init__(self, root, model):
         Frame.__init__(self, root)
         self.root = root
-        root.geometry('+450+200')
+        root.geometry= "+450+200"
         self.model = model
 
 
