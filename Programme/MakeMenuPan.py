@@ -24,37 +24,13 @@ class MakeMenuPan(Frame):
         self.recommendFrame = RecommendFrame(self, model)
         self.recommendFrame.grid(row=0, column=1, padx=5)
 
-        #self.grid_columnconfigure(1, minsize=400)
+        self.userMenuFrame = UserMenuFrame(self, model)
+        self.userMenuFrame.grid(row=1, column=1, sticky="N")
+
+        self.grid_columnconfigure(1, minsize=400)
+        self.grid_rowconfigure(1, minsize=360)
         self.pack_propagate(False)
 
-
-
-class LeftFrame(Frame):
-    def __init__(self, root, model):
-        Frame.__init__(self, root)
-        self.root = root
-        self.model = model
-
-        self.random_menu_frame = RandomMenuFrame(root, model)
-        self.random_menu_frame.grid(row=0, column=0)
-
-
-
-class RightFrame(Frame):
-    def __init__(self, root, model):
-        Frame.__init__(self, root, width=400, borderwidth=2, relief ="raised")
-        self.root = root
-        self.model = model
-
-        recommendFrame = RecommendFrame(self, model)
-        recommendFrame.grid(row=0, pady=10)
-
-        userMenuFrame = UserMenuFrame(self, model)
-        userMenuFrame.grid(row=1, pady=10)
-
-        self.grid_rowconfigure(0, minsize=200)
-        self.grid_rowconfigure(1, minsize=200)
-        self.pack_propagate(False)
 
 
 class RecommendFrame(Frame):
@@ -63,12 +39,12 @@ class RecommendFrame(Frame):
         self.model = model
         Frame.__init__(self, frame, borderwidth=2, relief="ridge")
 
-        Label(self,text="Vous aimerez peut être !").grid(row=0, pady=10)
+        Label(self,text="Vous aimerez peut être !").grid(row=0)
 
         for i, recipe in enumerate(self.model.recommended_recipes):
-            if i <= 3:
+            if i < 3:
                 recommendRecipe = RecommendRecipeFrame(self, self.model, recipe)
-                recommendRecipe.grid(row=i+1, pady=5)
+                recommendRecipe.grid(row=i+1, pady=5, padx=5)
 
 
 class RecommendRecipeFrame(Frame):
@@ -81,7 +57,7 @@ class RecommendRecipeFrame(Frame):
 
 
         recipe_name = Label(self, text= recipe.get_name())
-        recipe_name.grid(row=0, column=0, sticky="W", padx=10, pady=10)
+        recipe_name.grid(row=0, column=0, sticky="W", padx=10, pady=5)
 
         likeButton = LikeButton(self, model)
         likeButton.grid(row=0, column=1)
@@ -122,10 +98,37 @@ class DislikeButton(Button):
 
 
 class UserMenuFrame(Frame):
-    def __init__(self, frame, model, ):
-        Frame.__init__(self, frame, borderwidth=2, relief="raised")
+    def __init__(self, frame, model ):
+        self.model = model
+        Frame.__init__(self, frame, width=300,height=90, borderwidth=2, relief="raised")
 
         Label(self, text="Votre Menu").grid(row=0)
+
+
+
+        self.grid_columnconfigure(0, minsize=510)
+        self.pack_propagate(False)
+
+    def update(self):
+        for i, recipe in enumerate(self.model.menu):
+            recipe = RecipeInMenuFrame(self, self.model, recipe)
+            recipe.grid(row=i+1)
+
+class RecipeInMenuFrame(Frame):
+    def __init__(self, frame, model, recipe):
+        self.frame = frame
+        self.model = model
+        self.recipe = recipe
+        Frame.__init__(self, frame)
+
+        Label(self, text=self.recipe.get_name()).grid(row=0, column=0)
+
+        SuppRecipeButton(self, self.model).grid(row=0, column=1)
+
+
+
+        self.pack_propagate(False)
+
 
 class RandomMenuFrame(Frame):
     def __init__(self, frame, model):
@@ -169,6 +172,7 @@ class AddRecipeButton(Button):
 
     def add(self):
         self.model.add_recipe_to_menu(self.frame.recipe)
+        self.frame.frame.frame.userMenuFrame.update()
         print(self.model.menu)
 
 
@@ -181,6 +185,7 @@ class SuppRecipeButton(Button):
 
     def sup(self):
         self.model.sup_recipe_from_menu(self.frame.recipe)
+        self.frame.destroy()
         print(self.model.menu)
 
 class InfoRecipeButton(Button):
