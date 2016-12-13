@@ -47,22 +47,25 @@ class ILikeButton(Button):
         Button.__init__(self, self.frame, text="J'aime!", command=self.action)
 
     def action(self):
-        if len(self.model.profile.liked_recipes) < 19:
-            self.addRecipe2likedRecipes()
+        #TODO
+        # Mettre à 20 repas
+        # changer condition : len(self.model.profile.liked_recipes) < 19 :
+        if self.frame.root.count < 3 :
+            # self.addRecipe2likedRecipes()
+            pass
         else:
+            print("ICI")
 
-            self.model.generate_recipes()
             self.frame.root.destroy()
+            self.model.generate_recipes()
 
     def addRecipe2likedRecipes(self):
-
 
         profile_name = self.model.profile.get_name()
         liked_recipe = self.model.recipes[self.frame.root.count]
         liked_recipe.set_opinion("like")
         liked_recipe.set_score(1)
         self.model.add_liked_recipe_to_profile(profile_name, liked_recipe)
-
 
 
         # Destroy previous frame
@@ -120,6 +123,10 @@ class NextButton(Button):
 
     def nextRecipe(self):
 
+        # TODO
+        # supprimer self.count+=1
+        print(self.frame.root.count)
+
         # Destroy previous frame
         self.frame.root.recipeNameFrame.destroy()
         self.frame.root.recipeFrame.destroy()
@@ -142,14 +149,12 @@ class RecipeNameFrame(LabelFrame):
 class RecipeDifficultyFrame(LabelFrame):
     def __init__(self, frame, model):
         tkinter.LabelFrame.__init__(self, frame, text="difficulté", relief="raised")
-        frame.root.count += 1
         tkinter.Label(self, text = frame.root.model.recipes[frame.root.count].get_difficulty(), background="white").pack(padx=5, pady=10)
         self.grid(row=1, column=0, padx=10, pady=10)
 
 class RecipeCostFrame(LabelFrame):
     def __init__(self, frame, model):
         tkinter.LabelFrame.__init__(self, frame, text="Coût")
-        frame.root.count += 1
         tkinter.Label(self, text = frame.root.model.recipes[frame.root.count].get_cost(), background="white").pack(padx=10, pady=10)
         self.grid(row=1, column=1, padx=10, pady=10)
 

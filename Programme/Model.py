@@ -1,5 +1,6 @@
 import tkinter as tk
 from MainMenuPan import *
+from MakeMenuPan import *
 from InitProfilPan import *
 from Profile import *
 class Model():
@@ -38,10 +39,13 @@ class Model():
 
 
     def generate_recipes(self):
+
+        makeMenu = MakeMenuPan(self.root, self)
+        makeMenu.pack()
         print("Affichage des recettes proposées")
 
     def create_new_profile(self, profile_name):
-        self.DBM.create_profile_table(profile_name)
+        #self.DBM.create_profile_table(profile_name)
         self.profile = Profile(profile_name)
 
 

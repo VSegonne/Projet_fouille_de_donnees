@@ -7,7 +7,7 @@ from Profile import *
 
 class DataBaseManager():
 
-    def __init__(self, recipes_database, profiles_database):
+    def __init__(self, recipes_database=None, profiles_database=None):
         self.recipes_database = recipes_database
         self.profiles_database = profiles_database
 

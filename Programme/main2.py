@@ -12,7 +12,7 @@ import random
 from ProfileManager import *
 from Profile import *
 
-
+# Creat DB
 
 #DBM = DataBaseManager("Recipes.db", "Profile.db")
 #recipes = DBM.load_recipes_from_database2("Recipes.db")
