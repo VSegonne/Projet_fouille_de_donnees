@@ -50,15 +50,13 @@ class ILikeButton(Button):
         #TODO
         # Mettre à 20 repas
         # changer condition : len(self.model.profile.liked_recipes) < 19 :
-        if self.frame.root.count < 3 :
-            self.frame.root.count += 1
+        if self.frame.root.count < 8 :
             self.frame.root.recipeNameFrame.update_name()
             self.frame.root.recipeFrame.update()
-            # self.addRecipe2likedRecipes()
-            pass
+            self.addRecipe2likedRecipes()
         else:
-            print("ICI")
 
+            self.addRecipe2likedRecipes()
             self.frame.root.destroy()
             self.model.generate_recipes()
 
@@ -72,14 +70,9 @@ class ILikeButton(Button):
 
 
         # Destroy previous frame
-        self.frame.root.recipeNameFrame.destroy()
-        self.frame.root.recipeFrame.destroy()
 
-        self.frame.root.recipeNameFrame = RecipeNameFrame(self.frame.root, self.model)
-        self.frame.root.recipeNameFrame.grid(row= 0, column=0)
-
-        self.frame.root.recipeFrame = RecipeFrame(self.frame.root, self.model)
-        self.frame.root.recipeFrame.grid(row=1, column=0, )
+        self.frame.root.recipeNameFrame.update_name()
+        self.frame.root.recipeFrame.update()
 
         self.frame.root.count += 1
 
@@ -125,15 +118,6 @@ class NextButton(Button):
         # Destroy previous frame
         self.frame.root.recipeNameFrame.update_name()
         self.frame.root.recipeFrame.update()
-        #self.frame.root.recipeNameFrame.destroy()
-        #self.frame.root.recipeFrame.destroy()
-        #self.frame.root.recipeNameFrame = RecipeNameFrame(self.frame.root, self.model)
-        #self.frame.root.recipeNameFrame.grid(row= 0, column=0)
-
-        #self.frame.root.recipeFrame = RecipeFrame(self.frame.root, self.model)
-        #self.frame.root.recipeFrame.grid(row=1, column=0, )
-
-
 
 class RecipeNameFrame(LabelFrame):
     def __init__(self, frame, model):

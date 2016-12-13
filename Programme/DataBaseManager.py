@@ -2,7 +2,7 @@
 
 import sqlite3 as sq
 import sys
-import chardet
+#import chardet
 from Recipe import  *
 from Profile import *
 

@@ -46,12 +46,17 @@ class OkButton(Button):
             else:
                 showinfo('Bienvenu !', "C'est la première fois que vous utilisez ce programme. Avant de faire votre menu, je dois apprendre à vous connaitre! Pour cela, je vais vous présenter des recettes aléatoires, à vous de me dire si elle vous plaît. Lorsque vous aurez atteint 20 recettes  \
                          je vous proposerai un menu!")
-                self.model.create_new_profile(new_profile)
                 self.frame.destroy()
                 self.model.init_cold_start(new_profile)
                 #print(self.frame.entree.get())
 
-        elif self.model.exists_profile(self.frame.v.get()):
+        elif self.model.exists_profile(self.frame.listProfile.get_profile_name()):
+
+            self.model.load_profile_from_database(self.frame.listProfile.get_profile_name())
+            print(self.model.profile.get_liked_recipes())
+            self.frame.destroy()
+            self.model.generate_recipes()
+
             print("Connection succeeds!")
 
 

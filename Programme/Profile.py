@@ -17,10 +17,10 @@ class Profile():
         return self.disliked_recipes
 
     def set_liked_recipes(self, liked_recipes):
-        self.liked_recipes
+        self.liked_recipes = liked_recipes
 
     def set_disliked_recipes(self, disliked_recipes):
-        self.disliked_recipes
+        self.disliked_recipes = disliked_recipes
 
     def add_liked_recipe(self, liked_recipe):
         self.liked_recipes.append(liked_recipe)

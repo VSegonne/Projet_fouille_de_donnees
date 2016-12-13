@@ -10,6 +10,7 @@ class Model():
         self.root = root
         self.profile = None
         self.recipes = self.DBM.load_recipes_from_database2(self.DBM.recipes_database)
+        self.menu= []
 
     def display_main_menu(self, window, DBM):
         label = tk.Label(window, text="u piss me off")
@@ -28,11 +29,15 @@ class Model():
         return self.DBM.getProfileNames()
 
     def init_cold_start(self, profile_name):
-        #self.DBM.create_profile_table(profile_name)
+        self.create_new_profile(profile_name)
 
 
         init = InitProfilPan(self.root, self)
         init.pack()
+
+
+    def load_profile_from_database(self, profile_name):
+        self.profile = self.DBM.load_profile_from_database(profile_name)
 
     def getRecipes(self):
         return self.DBM.load_recipes_from_database(self.DBM.database_file)
@@ -45,7 +50,7 @@ class Model():
         print("Affichage des recettes proposées")
 
     def create_new_profile(self, profile_name):
-        #self.DBM.create_profile_table(profile_name)
+        self.DBM.create_profile_table(profile_name)
         self.profile = Profile(profile_name)
 
 
@@ -57,3 +62,10 @@ class Model():
     def add_disliked_recipe_to_profile(self, profile_name, disliked_recipe):
         self.profile.add_disliked_recipe(disliked_recipe)
         self.DBM.add_disliked_recipe_to_profile(profile_name, disliked_recipe)
+
+    def add_recipe_to_menu(self, recipe):
+        if len(self.menu) < 7:
+            self.menu.append(recipe)
+        else:
+            showinfo('Attention!', 'Vous avez déjà 7 repas!')
+
