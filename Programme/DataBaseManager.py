@@ -96,7 +96,7 @@ class DataBaseManager():
         conn = sq.connect(database_file)
         cursor = conn.cursor()
 
-        col_names = ["url","recipe_name","type","difficulty","cost","guests_number", "preparation_time", "cook_time","ingredients","instructions" ]
+        col_names = ["url","name","type","difficulty","cost","guests_number", "preparation_time", "cook_time","ingredients","instructions" ]
         recipes = []
 
         for row in cursor.execute("SELECT * FROM Recipes"):
@@ -187,12 +187,12 @@ class DataBaseManager():
         """
         conn = sq.connect("Profile.db")
         cursor = conn.cursor()
-        loading = "SELECT url, recipe_name, type, difficulty, cost, guests_number,\
+        loading = "SELECT url, name, type, difficulty, cost, guests_number,\
             preparation_time, cook_time, ingredients, instructions FROM " + profile_name + \
             " WHERE opinion='like'"
 
         liked_recipes = []
-        col_names = ["url","recipe_name", "type", "difficulty","cost", "guests_number",\
+        col_names = ["url","name", "type", "difficulty","cost", "guests_number",\
             "preparation_time", "cook_time", "ingredients", "instructions"]
         for row in cursor.execute(loading):
             #TODO CHANGER dict pour obj
@@ -268,12 +268,12 @@ class DataBaseManager():
         """
         conn = sq.connect("Profile.db")
         cursor = conn.cursor()
-        loading = "SELECT url, recipe_name, type, difficulty, cost, guests_number,\
+        loading = "SELECT url, name, type, difficulty, cost, guests_number,\
             preparation_time, cook_time, ingredients, instructions FROM " + profile_name + \
             " WHERE opinion='dislike'"
 
         disliked_recipes = []
-        col_names = ["url","recipe_name", "type", "difficulty","cost", "guests_number",\
+        col_names = ["url","name", "type", "difficulty","cost", "guests_number",\
             "preparation_time", "cook_time", "ingredients", "instructions"]
         for row in cursor.execute(loading):
             #TODO CHANGER dict pour obj
@@ -360,7 +360,6 @@ class DataBaseManager():
         recipe_dict["score"] = recipe.get_score()
 
         return recipe_dict
-
 
     def getProfileNames(database_file):
         conn = sq.connect("Profile.db")

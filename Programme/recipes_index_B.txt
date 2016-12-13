@@ -22449,3 +22449,344 @@ cook_time	30
 ingredients	beurre-doux|caille|echalote|gewurztraminer|herbes-de-provence|huile-de-tournesol|oignon|poivre|sel|tomate|vin-blanc
 instructions	Éplucher les oignons et échalotes. Les couper en lamelles et réserver pour la suite. Laver les tomates et les couper (grossièrement) en quartiers. Réserver pour la suite. S'assurer que les cailles sont propres, correctement déplumées et bien vidées. Ôter la tête si ça n'a pas été fait par votre boucher. Dans un fait-tout et à feu vif, mettre l'huile et le beurre coupé en morceaux. Lorsque le beurre est bien fondu, saisir les cailles. (Attention à ne pas les faire brûler, il faut les retourner tout le temps, jusqu'à obtenir une jolie coloration). Ajouter ensuite : Les oignons, les échalotes et les tomates. Au bout de quelques minutes, un jus va se former dans le fond du fait-tout. Ajouter le verre de vin blanc, saler (gros sel), poivrer et ajouter les herbes de Provence. Couvrir et laisser le tout mijoter à petit feu pendant 30 min. Remuer de temps en temps. (Il est important de couvrir, la condensation permet de garder l'eau et rend la viande plus tendre...) Pour accompagner ces cailles, je recommande une pomme-de-terre au four... C'est divin ! Bonne dégustation ! Remarques : Désolé je n'ai pas eu le temps de mettre ma photo, nous sommes passés à table avant que j'ai eu le temps de les photographier... Les convives ont A-DO-RÉ ! C'est un plat apprécié en ce début d'automne. Ça change des volailles types comme poulet et dinde ! Nettement plus fin en bouche ! Boisson conseillée : Le reste du vin blanc : Gewurztraminer ou bien évidemment un vin rouge 
 
+url	http://www.marmiton.org/recettes/recette_conchigliones-farcies-sauce-parmesan_322606.aspx
+recipe_name	Conchigliones farcies sauce parmesan
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	3
+preparation_time	45
+cook_time	30
+ingredients	ail|beurre-doux|ciboulette|conchiglione|escalope-de-poulet|farine|fond-de-volaille|huile-d-olive|jus-de-citron|lait|mozzarella|muscade|oeuf|parmesan|poivre|sel
+instructions	Pour les pâtes : Cuire les pâtes 10 min dans une grande casserole d'eau salée. Égoutter les et passer les à l'eau froide. Placer les pâtes du côté de l'ouverture sur une plaque avec du papier absorbant, réserver. La farce : Hacher très finement les escalopes, la mozzarella, et l'ail (ou mixer, se sera plus rapide). Ajouter le jaune, l'huile, le jus de citron, le fond de volaille, le sel au céleri et les deux cuillères à soupe de ciboulette et persil.  Bien mélanger jusqu'à obtention d'une pâte homogène et souple. Farcir les pâtes d'une grosse cuillère à café de votre préparation, refermer en faisant en sorte que la farce soit bien serrée à l'intérieur, réserver. Pour la sauce: Dans une casserole, faire fondre le beurre à feu moyen, puis ajouter la farine en remuant énergiquement, faire sécher la pâte et retirer du feu. Ajouter le lait petit à petit afin d'éviter les grumeaux. Ajouter la muscade et le parmigiano. Faire de nouveau chauffer à petit feu, en remuant de manière constante jusqu'à ce que la sauce s'épaississe légèrement (elle doit rester plus ou moins liquide afin que les pâtes finissent de cuire une fois au four). Préchauffer le four à 180°C. Beurrer un plat à gratin et verser une fine couche de sauce dans le fond. Placer les pâtes farcies afin que l'ouverture sois placé vers le haut, serrer bien les rangs. Personnellement, je préfère ne faire qu'un niveau de pâtes, donc, s'il vous en reste les réserver pour plus tard. Une fois les pâtes placées dans le plat, verser le reste de la sauce afin qu'elle recouvre les pâtes et ajouter du gruyère ou encore plus de parmigiano si vous êtes fan. Cuire pendant 30 min. Laisser refroidir 5 min, et servir. Petit plus: S'il vous reste des pâtes farcies ajoutez une feuille fraîche de coriandre dans chacune d'elles et faites les cuire à la vapeur 10-15 min sur du papier cuisson. Laisser refroidir et manger les avec une sauce pimant ou soja selon votre goût. Bon appétit ! Boisson conseillée : Un Chablis ou un autre vin blanc sec se mariera très bien ! 
+
+url	http://www.marmiton.org/recettes/recette_cotes-de-veau-au-gorgonzola_63476.aspx
+recipe_name	Côtes de veau au gorgonzola
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	10
+cook_time	15
+ingredients	beurre|beurre-doux|gorgonzola|muscade|poivre|veau|vinaigre-balsamique
+instructions	Dans un bol, écraser le gorgonzola avec le beurre, vinaigre, muscade et poivre noir. Mélanger jusqu'à l'obtention d'une pâte bien homogène. Réserver. Faire revenir les côtes de veau dans 15 g de beurre, jusqu'aux 3/4 de la cuisson. Donner quelques tours de moulin de poivre sur votre viande. Allumez le grill du four. Déposer les côtes dans un plat allant au four, les tartiner de la préparation beurre/fromage. Placer le plat sous le grill du four pendant 5 à 6 min. La préparation va fondre et former une sauce et une croûte bien dorée, en plus ça sent bon le fromage gratiné et la sauce se fait toute seule !! A servir avec des pâtes fraîches et des tomates cerises confites. Remarques : Un vrai r é g a l ! Pour celles ou ceux qui aiment les fromages "forts". De préférence utiliser le gorgonzola "picante" (fort). Boisson conseillée : vin toscan ou osez un vin blanc moelleux ! 
+
+url	http://www.marmiton.org/recettes/recette_crevettes-a-l-ananas-et-noix-de-coco_30061.aspx
+recipe_name	Crevettes à l'ananas et noix de coco
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Assez Cher
+guests_number	4
+preparation_time	15
+cook_time	10
+ingredients	ananas|beurre-doux|citron-vert|coriandre|creme-fraiche-liquide|crevette|echalote|lait-de-coco|paprika
+instructions	La veille, décortiquer les crevettes en laissant le bout de la queue et les faire tremper dans le lait de coco avec une cuillère à soupe de paprika et une pincée de sel. Le lendemain, saisir les crevettes à feu moyen dans une poêle avec le beurre, l'échalote et l'ananas coupé en morceaux, pendant environ 5 minutes. Mettre ensuite dans la poêle le jus du citron vert, la crème liquide, la coriandre et le poivre. Réduire. Servir avec du riz basmati. Remarques : Plat assez léger. Boisson conseillée : Chablis 
+
+url	http://www.marmiton.org/recettes/recette_crevettes-gingembre-et-mangue_43368.aspx
+recipe_name	Crevettes gingembre et mangue
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	20
+cook_time	15
+ingredients	ail|beurre-doux|creme-liquide|crevette|gingembre|mangue|pates
+instructions	Bien rincer les crevettes à l'eau froide et les décortiquer. Faire fondre une grosse noix de beurre dans une sauteuse, ajouter du gingembre et y faire revenir les crevettes à feu assez vif. Réserver les crevettes. Dans la sauteuse, mettre la crème liquide et l'ail écrasé, laisser cuire la crème 2 minutes à feu vif toujours. Remettre les crevettes et laisser mijoter le temps de faire cuire des pâtes type capellini ou des nouilles chinoises. 2 minutes avant la fin de la cuisson des pâtes, ajouter des petits cubes de mangue. Servir bien chaud. Régalez-vous! 
+
+url	http://www.marmiton.org/recettes/recette_crumble-de-poulet-a-la-tomate_309583.aspx
+recipe_name	Crumble de poulet à la tomate
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	15
+ingredients	ail|beurre-doux|farine-de-ble|feuille-de-laurier|filet-de-poulet|huile-d-olive|oignon-nouveau|parmesan|poudre-d-amande|purée|thym
+instructions	Dans un récipient, mélanger du bout des doigts la farine, le beurre, la poudre d'amande et le parmesan jusqu'à obtenir un sable grossier. Réserver. Couper les filets de volaille en aiguillettes. Eplucher et hacher les oignons. Dans une poêle avec un filet d'huile d'olive, faire sauter le poulet jusqu'à ce qu'il soit doré, puis ajouter les oignons, les aromates (thym émietté et laurier) et la purée de tomate. Laisser mijoter pendant 5 minutes. Préchauffer le four à 180°C (thermostat 6). Garnir un plat ou des timbales de la préparation après avoir retiré la feuille de laurier. Parsemer de crumble. Enfourner ensuite pendant 15 minutes. Remarques : Une recette originale et ensoleillée qui fera le bonheur de vos proches et vos invités ! Succès garantit. Boisson conseillée : Eau plate ou gazeuse 
+
+url	http://www.marmiton.org/recettes/recette_crumble-poireaux-mache-et-lardons_41512.aspx
+recipe_name	Crumble poireaux mâche et lardons
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	20
+ingredients	beurre-doux|chapelure|farine|lardons|mache|parmesan|poireau|poivre
+instructions	Trier, nettoyer et couper les poireaux en petits morceaux. Laver la salade. Faire revenir les lardons, les poireaux et la salade jusqu'à ce qu'il n'y ait plus d'eau. Poivrer. Pendant ce temps, mêler le beurre ramolli avec la farine, la chapelure et le parmesan jusqu'à obtenir un mélange granuleux, sableux. Quand les légumes et les lardons sont cuits, les mettre au fond d'un plat allant au four et recouvrir de la pâte à crumble. Mettre au four (préchauffé à 200°C - thermostat 6-7) jusqu'à ce que le crumble soit doré. Déguster bien chaud. 
+
+url	http://www.marmiton.org/recettes/recette_emince-de-veau-a-la-creme-et-aux-petits-legumes_29223.aspx
+recipe_name	Émincé de veau à la crème et aux petits légumes
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	4
+preparation_time	30
+cook_time	10
+ingredients	ail|beurre-doux|champignon-de-paris|creme-fraiche|escalope|mais|muscade|oignon|persil|poivre|sel
+instructions	Peler, laver et émincer les champignons. Les faire suer. Réserver et jeter le jus. Émincer les escalopes en lamelles suivant votre goût. Les faire dorer dans le beurre (dans une poêle creuse), salez, poivrez. Ajouter l'oignon et l'ail émincés, faire revenir jusqu'à ce que l'oignon soit tendre. Ajouter les champignons et le maïs égoutté, laisser cuire encore une minute à feu moyen. Verser la crème, bien mélanger. Au premier bouillon, ramener à feu doux quelques minutes (mais pas trop, il ne faut pas que la sauce réduise...). Ajouter la muscade râpée selon votre goût, rectifier l'assaisonnement. Dresser dans un plat de service chaud. Saupoudrer de persil haché et servir de suite. Suggestion d'accompagnement : pâtes fraîches, riz ou haricots verts. Remarques : Plat rapide et délicieux pour repas en famille. Les enfants en redemandent ! le persil peut être incorporé à la sauce en fin de cuisson. Boisson conseillée : blanc d'alsace (riesling) 
+
+url	http://www.marmiton.org/recettes/recette_entrecote-de-boeuf-a-la-sauce-fromagere-aux-echalotes-et-son-riz-basmati_69248.aspx
+recipe_name	Entrecôte de boeuf à la sauce fromagère aux échalotes et son riz basmati
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	25
+cook_time	20
+ingredients	beurre-doux|boursin|echalote|entrecote|riz-basmati|sel
+instructions	Faire cuire le riz à l'eau. Nettoyer les entrecôtes du gras qu'elles ont autour et les rincer et sécher. Les saler. Dans une poêle, faire fondre le beurre et y ajouter les échalotes bien émincés. Laisser colorer 3 minutes. Ajouter les entrecôtes dans la poêle et les faire colorer sur chaque face pour qu'elles s'imprègnent bien de la sauce aux échalotes pendant 8 minutes. Retirer les entrecôtes de la poêle. Verser le jus de cuisson avec les morceaux d'échalotes dans un verre. Remettre les entrecôtes dans la poêle à griller sur un feu vif. Une fois les viandes bien grillées, les retirer et mettre dans la poêle 3 bonnes cuillères de boursin cuisine "3 poivres". Y ajouter le jus de cuisson et laisser mijoter 1 minute à feu doux. Dresser la viande et le riz dans les assiettes, napper de sauce et servir. 
+
+url	http://www.marmiton.org/recettes/recette_farandole-de-gnocchis-poeles_339597.aspx
+recipe_name	Farandole de gnocchis poêlés
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	2
+preparation_time	10
+cook_time	15
+ingredients	beurre-doux|emmental|gnocchi|lard|oeuf|poitrine-de-porc|sauce-tomate
+instructions	Placez une poêle à fond épais sur feu vif. Faites fondre le beurre doux et tendre, sans le faire roussir. Faites revenir les gnocchis, ils doivent légèrement se colorer. Baissez le feu à moyen. Ajoutez le lard que vous avez préparé en cubes. Placez les tranches de poitrines fumées au dessus de l'ensemble gnocchis-lard. Une fois la charcuterie cuite, cassez 2 oeufs dans la poêle. Remuez vivement afin de brouiller les oeufs, et les lier à l'ensemble. Ajoutez l'emmental et remuez. Laissez le tout couvert pendant 5 minutes. Servez avec la sauce de votre choix. Bon appétit ! Remarques : Ce genre de plat se déguste agréablement en compagnie d'épisodes facétieux de Kaamelott. Boisson conseillée : Une bonne bouteille "Evian Millésime 2015", ou "Volvic, Cuvée du Fondateur". 
+
+url	http://www.marmiton.org/recettes/recette_filet-de-truite-et-sa-julienne_86886.aspx
+recipe_name	Filet de truite et sa julienne
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	35
+cook_time	15
+ingredients	beurre-doux|carotte|courgette|echalote|huile-d-olive|navet|poireau|poivre|pomme-de-terre|sel|truite|vin-blanc
+instructions	Préparer la julienne en coupant les légumes en très fines lamelles, dans le sens de la longueur. Les faire cuire, sauf les courgettes, avec 3 cuillères à soupe d'huile d'olive (ou plus selon votre gout ) pendant 10 min à feu vif. Saler, poivrer et remuer régulièrement, afin que la julienne n'attache pas. Après 10 min de cuisson, incorporer les courgettes qui cuisent plus vite que les autres légumes et laisser cuire encore 5 min environ. Faire cuire les pommes de terre dans l'eau bouillante, 15 min à la cocotte par exemple, puis ôter la peau. Placer julienne et pommes de terre dans l'assiette et réserver au chaud. Faire confire les échalotes ciselées finement avec le beurre. Une fois les échalotes transparentes, y verser le vin blanc, puis mélanger un peu. Déposer les filets de truite coté peau et assaisonner avec sel et poivre blanc. Laisser cuire 5 min, retourner et laisser cuire 5 min à feu vif. Placer sur l'assiette et y déposer le confit d'échalotes. Boisson conseillée : Blanc sec. 
+
+url	http://www.marmiton.org/recettes/recette_foie-de-veau-aux-raisins_313373.aspx
+recipe_name	Foie de veau aux raisins
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	15
+cook_time	10
+ingredients	beurre-doux|echalote|farine|foie|poivre|raisin-blanc|sel|vinaigre-de-framboise
+instructions	Émincer les échalotes, les faire suer dans une noix de beurre en remuant régulièrement jusqu'à ce qu'elles deviennent translucides. Éplucher les grains de raisin. Saler, poivrer et fariner les tranches de foie de veau avant de les saisir au beurre à feu vif, 2 à 3 minutes par face. Sortir la viande du feu et la disposer sur deux assiettes. Dans la même poêle, arroser de vinaigre de framboise, ajouter les échalotes suées et les raisins épluchés. Faire prendre 15 sec puis verser le tout sur les foies. Servir immédiatement. Boisson conseillée : Vin blanc sec 
+
+url	http://www.marmiton.org/recettes/recette_gigot-en-croute-d-herbes-et-aux-legumes-confits_13800.aspx
+recipe_name	Gigot en croûte d'herbes et aux légumes confits
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	6
+preparation_time	15
+cook_time	60
+ingredients	agneau|ail|beurre-doux|coeur|coriandre|oignon-blanc|persil|thym
+instructions	Préchauffez le four à 240°C (thermostat 8). Mélangez 2 cuillères à soupe de moutarde, 5 de chapelure, le persil, la coriandre, le thym, l'ail, 50 g de beurre ramolli, le sel et poivre. Enduisez de cette préparation le gigot décongelé et assaisonné, puis déposez-le dans un grand plat à four. Versez les petits oignons surgelés autour de la viande et saupoudrez-les d'un peu de sucre. Ajoutez le beurre restant, 1/2 verre d'eau, salez, poivrez et enfournez 15 min. Déposez ensuite les c'urs d'artichaut, mouillez avec un peu d'eau et poursuivez la cuisson 45 min à 210°C (thermostat 7) en remuant les légumes de temps en temps. 
+
+url	http://www.marmiton.org/recettes/recette_gratin-de-poires-au-roquefort_28760.aspx
+recipe_name	GRATIN DE POIRES AU ROQUEFORT
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	20
+ingredients	beurre-doux|cognac|creme|jambon-blanc|jus-de-citron|oeuf|poire|poivre|roquefort
+instructions	Coupez les poires en quartiers. Eliminez le coeur et les pépins, pelez-les. Les détailler en lamelles épaisses. Arrosez-les du jus d'1 citron. Faîtes-les revenir, dans une poêle, 4 à 5 mn avec 30 g de beurre, à feu vif. Versez le Cognac. Hors du feu, flambez puis laissez tiédir. Préchauffez votre four à 210°C. Coupez le jambon en petits dés. Ecrasez grossièrement le roquefort. Dans un bol, battez les oeufs à l'aide d'une fourchette puis ajoutez la crème, le roquefort et le jus de cuisson des poires. Bien mélanger. Poivrez largement. Beurrez un plat à gratin. Disposez les lamelles de poires. Répartissez les dés de jambon. Garnissez avec la crème au roquefort. Placez au four et laissez gratiner pendant 15 mn Remarques : Vous pouvez servir ce gratin avec une salade verte accompagnée d'une vinaigrette à l'huile de noisette et au vinaigre de cidre 
+
+url	http://www.marmiton.org/recettes/recette_hamburgers-a-la-plancha_68689.aspx
+recipe_name	Hamburgers à  la plancha
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	25
+cook_time	20
+ingredients	beurre|beurre-doux|ciboulette|concentre-de-tomate|creme-fraiche-epaisse|curcuma|curry|echalote|fromages|huile-d-arachide|huile-d-olive|ketchup|oeuf|oignon|pain|persil|piment-d-espelette|poivre|sel|viandes|vinaigre-balsamique
+instructions	Préparation en cuisine : Eplucher et hacher l'oignon et les échalotes. Puis les faire cuire dans une casserole avec le beurre doux pendant 5 min à feu moyen. Réserver et laisser refroidir complètement. Préparer la sauce en mettant dans un bol : vinaigre, huile, curry, curcuma, sel, poivre et piment. Battre en vinaigrette. Ajouter la crème et la ciboulette, puis mélanger délicatement à la cuillère. Filmer la sauce et la réserver au congélateur 20 min. Dans un saladier : incorporer à la viande hachée le mélange oignon/échalotes, le concentré de tomate, le persil haché, l'oeuf et enfin sel et poivre ou piment à votre convenance. Mélanger à la main tous les ingrédients pour former 8 hamburgers qui seront déposés au fur et à mesure dans un plat. Filmer et réserver au réfrigérateur. Beurrer les 8 pains hambugers. Cuisson à la plancha : Huiler la plancha, faire chauffer 10 min à feu moyen. Faire cuire simultanément 4 hamburgers et 4 pains côté intérieur pendant 4 min chaque face. Penser à aplatir la viande et décoller les pains en cours de cuisson. Assembler les hamburgers sur la plancha de telle façon : - côté viande, mettre la sauce, poser la viande puis le fromage - côté chapeau, mettre le ketchup à la cuillère Fermer et servir illico presto. La deuxième tournée est pour les gourmands !! Remarques : Une variante sans plancha est possible : Pour la viande, utiliser une poêle avec très peu de matières grasses. Pour les pains, mettre au four sans dépasser les 150°, thermostat 3. Le temps de cuisson est variable selon les modèles : environ 15 min. 
+
+url	http://www.marmiton.org/recettes/recette_le-shahcath_71394.aspx
+recipe_name	Le Shahcath
+type	Plat principal
+difficulty	Difficile
+cost	Moyen
+guests_number	6
+preparation_time	60
+cook_time	30
+ingredients	beurre-doux|echalote|pain|poissons|poivre|riz-basmati|safran|sang|sucre|vinaigre-de-cidre|vin-blanc-sec
+instructions	La veille, mettez les baies dans un bol, recouvrez d'eau froide et laissez-les gonfler toute la nuit Le jour J: Dans une cocotte haute en Inox à couvercle, mettez le riz basmati à cuire dans de l'eau bouillante bien salée. Une fois le riz mi-cuit (al dente), égouttez-le et videz l'eau. Conservez le riz mi-cuit dans un linge (torchon propre). Préparez un beurre blanc, avec les trois échalotes hachées que vous ferez mijoter (au bain-marie, dans une saucière électrique ou non, ou dans une simple casserole à feux doux en surveillant bien) avec la cuillère à café de vinaigre et petit à petit le verre de vin blanc. Lorsque les échalotes sont cuites dans le vin et le vinaigre sans être sèches, ajoutez des noisettes de beurre jusqu'à former une boule odorante, continuez à ajouter au bain-marie de petites quantités de beurre jusqu'au volume de sauce nécessaire selon le nombre de vos convives. Gardez au chaud. Finissez votre riz à l'iranienne en tapissant le fond de votre cocotte haute en inox de fines tranches de pain blanc rassis, ajoutez de l'huile (olive ou arachide), quelques noix de beurre, puis jetez votre riz mi-cuit bien égoutté sur cette préparation. Faites cuire à feu doux, avec le couvercle enveloppé dans une serviette éponge humide. Le riz est cuit lorsque vous tapez de l'ongle à mi-cocotte et qu'un sifflement aigü se produit. Pendant que votre riz finit sa cuisson, préparez sa sauce. Faites revenir les baies égouttées dans une casserole avec du beurre. Pilez les filament de safran dans un mortier avec le carré de sucre blanc, jusqu'à obtention d'une poudre ocre. Mettez votre poisson à cuire, comme vous l'aimez: papillotte, four, court bouillon. Démoulez votre gâteau de riz (le fond a formé une sorte de croûte délicieuse, une sorte de "tatin de riz" que vous casserez et dont vous mettrez les morceaux autour du plat). Ajoutez sur le riz le beurre de safran, puis au milieu le beurre de baies rouges avec les baies elles-mêmes. Servez ce riz avec votre poisson au beurre blanc. Un peu long et difficile à coordonner mais un délice franco-iranien!!! Remarques : Cette recette est de mon cru. Je suis angevine, je m'appelle Catherine et j'adore le poisson au beurre blanc de ma région, et j'ai un ami iranien fin cuisinier portant le prénom de Shahram qui m'apprit à cuisiner le zereshk polo (riz aux baies) et en général tous les riz iraniens que j'adore! Il paraît que ma recette est un sacrilège car ce riz se mange avec du poulet, je crois, mais avec du poisson au beurre blanc, tous le monde se régale, iranien ou français! Le nom de la recette est le nom combiné catherine + Shahram que j'avais donné à ce plat le Shahcath !  Boisson conseillée : Un blanc sec 
+
+url	http://www.marmiton.org/recettes/recette_magrets-de-canard-aux-pommes-et-oignons-confits_35949.aspx
+recipe_name	Magrets de canard aux pommes et oignons confits
+type	Plat principal
+difficulty	Facile
+cost	Moyen
+guests_number	2
+preparation_time	10
+cook_time	20
+ingredients	beurre|beurre-doux|cannelle|magret-de-canard|oignon|poivre|pomme|sucre-vanille|vinaigre-balsamique
+instructions	Dans une sauteuse, mettre 1 sachet de sucre vanillé, du poivre (généreusement) et 1/2 tasse de vinaigre balsamique. Griffer (entailler) les magrets des 2 cotés à l'aide d'un couteau, les poser le gras vers le haut et soupoudrer avec du poivre et 1 sachet de sucre vanillé. Arroser de vinaigre balsamique. Couvrir et laisser reposer 1h minimum, 2h maximum. Eplucher et couper les pommes en lamelles pas trop fines. Mettre à chauffer les magrets, en ayant pris soin de les retourner, à feu doux. Mettre dans une grande poële anti-adhésive les pommes, 50 g de beurre salé et la cannelle, et enfin les sucres. Faire revenir tout cela tout en surveillant la cuisson des magrets. Préparer les oignons comme les pommes, mais avec du sel et du poivre et le beurre doux, à feu doux pour qu'ils fassent un confit. Servir 
+
+url	http://www.marmiton.org/recettes/recette_medaillons-de-filet-mignon-de-porc-au-cidre_38350.aspx
+recipe_name	Médaillons de filet mignon de porc au cidre
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	35
+ingredients	beurre-doux|cidre|creme-fraiche|filet-mignon|huile-de-tournesol|maizena|poitrine-fumee|poivre|sel
+instructions	Entourez chaque médaillons avec une tranche de poitrine. Fixez la grâce à un pic à brochette (cassez ce qui dépasse de trop du pic). Mettez de la farine dans une assiette plate et passez-y les médaillons de chaque côté. Faites fondre le beurre et l'huile dans une cocotte en fonte (ou une sauteuse anti-adhérente) sur feu plutôt vif. Déposez-y les médaillons bien à plat et faites les dorer des deux côtés. Poursuivez la cuisson au moins 25 minutes. N'hésitez pas à baisser un peu le feu, car la viande doit cuire sans brûler. Retirez la viande et maintenez la au chaud. Déglacez la cocotte avec le cidre. Laissez réduire 5 minutes avant de rajouter la crème. Salez un peu (attention la poitrine est salée) et poivrez cette sauce. Si vous trouvez la sauce trop liquide, vous pouvez délayer 2 cuillères à café rases de maïzena express dans 2 cuillères à soupe de sauce prélevées dans la cocotte. Le mélange délayé, versez le dans la cocotte et laissez reprendre le bouillon. Présentez dans chaque assiette 2 médaillons de viande que vous napperez avec un peu de sauce. Remarques : ce plat peut s'accompagner de haricots verts pour rester léger ou d'un gratin dauphinois pour les plus gourmands. Boisson conseillée : cidre 
+
+url	http://www.marmiton.org/recettes/recette_mega-mac-carbonacheese_340472.aspx
+recipe_name	Mega-Mac Carbonacheese
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	3
+preparation_time	30
+cook_time	20
+ingredients	beurre-doux|creme-liquide|lardons|oignon-jaune|pain-de-mie|pates
+instructions	Commencer par cuire les pâtes dans une casserole d'eau bouillante salée. Quand elles sont cuites, les égoutter et réserver.  Pendant ce temps, préparer la sauce carbonara : dans une poêle bien chaude, cuire les lardons. Ajouter les oignons préalablement pelés et émincés finement et laisser cuire 2-3 minutes de plus. Incorporer la crème liquide à la fin de la cuisson et mélanger.  Ajouter les pâtes cuites à la sauce carbonara et mélanger bien. Assaisonner.  Faire griller les tranches de pain de mie au four ou au grille-pain.  Disposer ensuite les tranches de pain grillées dans le fond d'un plat à gratin et recouvrir de pâtes à la carbonara.  Parsemer le tout de fromage râpé et enfourner pour 20 minutes de cuisson à 180°C (thermostat 6). 
+
+url	http://www.marmiton.org/recettes/recette_oeufs-parmentier-ameliores_232606.aspx
+recipe_name	?ufs parmentier améliorés
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	15
+ingredients	ail|beurre-doux|creme-fraiche-epaisse|gruyere-rape|lait|muscade|oeuf|poivre|pomme-de-terre|sel
+instructions	Faire cuire les pommes de terre dans l'eau, 30 min à couvert à partir de l'ébullition, en maintenant une petite ébullition. Hâcher finement l'ail. Éplucher les pommes de terre et les couper grossièrement. En mettre la moitié dans un saladier. Mouiller avec le lait, et ajouter 20 cl de crème fraîche et le beurre. Écraser à la fourchette et incorporer petit à petit le reste des pommes de terre, jusqu'à la consistance de purée souhaitée. Ajouter du lait si besoin mais il faut que la purée se "tienne". Mélanger ensuite avec le gruyère (en réserver une bonne poignée pour le gratin), l'ail, une pincée de sel, noix de muscade selon les goûts. Disposer la purée dans un plat large pas trop haut. Y creuser 4 trous. Casser et mettre un 'uf entier dans chaque trou. Recouvrir du reste de crème fraîche autour des 'ufs. Mettre le gruyère par dessus et poivrer. Mettre au four chaud 15 à 20 min. Servir avec une salade verte. Remarques : Recette adaptable avec d'autres fromages, ou encore des lardons, selon ce qu'il y a dans le frigo. 
+
+url	http://www.marmiton.org/recettes/recette_papillote-de-truite-au-roquefort_338442.aspx
+recipe_name	Papillote de truite au Roquefort
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredients	beurre-doux|herbes-de-provence|poivre|roquefort|sel|truite
+instructions	Poser vos truites vidées et nettoyées individuellement sur des feuilles de papier cuisson préalablement beurrées pour éviter l'accrochage. Dans le ventre des truites, y mettre le roquefort émietté environ 15 à 20 g par truite selon la grosseur. Sur les truites, y déposer le beurre par petite noix environ 15 à 20 g par truite. Saupoudrer d'herbes de Provence, saler, poivrer. Fermer hermétiquement chaque papillote afin de bien garder le jus de la cuisson à l'intérieur. Faire cuire au barbecue environ 15 minutes en tournant qu'une seule fois le gril pour éviter la perte de la sauce. Peut être accompagné de riz. 
+
+url	http://www.marmiton.org/recettes/recette_parmentier-de-joue-de-veau-a-la-coriandre-girolles-et-parmesan_41920.aspx
+recipe_name	Parmentier de joue de veau à la coriandre, girolles et parmesan
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	6
+preparation_time	60
+cook_time	180
+ingredients	beurre-doux|carotte|celeri|coriandre|echalote|farine|girolle|gros-sel|huile|joue|lait|parmesan-rape|poireau|pomme-de-terre|sel|vin-blanc-sec
+instructions	Emincer 2 échalotes. Dans une cocotte, faire chauffer 2 cuillères à soupe d'huile et y faire colorer les joues de veau. Réserver. Jeter l'excédent d'huile. Mettre 2 nouvelles cuillères à soupe d'huile dans la cocotte, y faire suer les échalotes émincées. Ajouter carotte, céleri et poireau. Poivrer légèrement. Mouiller au vin blanc. Porter à frémissement. Ajouter la coriandre en poudre. Bien mélanger. Baisser le feu au minimum. Remettre la viande dans la cocotte. Couvrir hermétiquement et oublier sur le réduit pendant 3 heures. Pendant ce temps, préparer la purée. Faire cuire les pommes de terre 35 minutes dans un grand volume d'eau bouillante assez salée. Une fois cuites, les passer au moulin à légumes ou les écraser à la fourchette ou au presse-purée, selon la consistance souhaitée. Incorporer le beurre en deux ou trois fois, mais assez rapidement. Rectifier la consistance au lait chaud. Bien lisser au fouet. Au bout de 3 heures, retirer la viande de la cocotte et la hacher pas trop finement. Réserver dans un bol recouvert d'une feuille d'aluminium. Filtrer le jus de cuisson. En conserver 25 cl. S'il en reste moins, l'allonger à l'eau. Emincer les deux échalotes restant. Emincer assez finement la coriandre fraîche. Faire chauffer une noisette de beurre et 2 cuillères à soupe d'huile dans une poêle. Y faire suer les échalotes émincées sans coloration. Quand elles deviennent translucides, singer avec la cuillère de farine. Laisser blondir 3 ou 4 minutes à feu moyen puis mouiller avec le jus de cuisson de la viande. Laisser réduire pendant environ 15 minutes en remuant régulièrement, jusqu'à l'obtention d'une consistance onctueuse. Pendant ce temps. Faire cuire les girolles pendant environ 10 minutes à feu moyen dans une noix de beurre. Les hacher assez grossièrement. Incorporer la crème d'échalotes et les girolles hachées à la viande. Bien mélanger. Saler. Disposer la préparation au fond de ramequins. Bien aplanir. Saupoudrer une couche d'environ 1 mm de parmesan rapé. Recouvrir de purée un peu en dessous du bord des ramequins. Bien lisser. Faire gratiner à four chaud (210°C - thermostat 7) en position plutôt haute. Environ 20 minutes pour un ramequin venant d'être préparé, 30 minutes sorti du réfrigérateur, 45 minutes à l'état congelé. Les girolles sont facultatives. Attention à ne pas trop les cuire avant de les incorporer à la viande. Elles termineront leur cuisson au four. Boisson conseillée : Beaune, Savigny rouge, Santenay 
+
+url	http://www.marmiton.org/recettes/recette_parmentier-de-lentilles_228031.aspx
+recipe_name	Parmentier de lentilles
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	60
+ingredients	beurre-doux|creme-fraiche|echalote|lait|lardons-fumes|lentille|muscade|poivre|pomme-de-terre|sel
+instructions	Cuire les lentilles et les pommes de terre séparément dans 2 grandes marmites d'eau bouillante. Lorsque les lentilles sont cuites, les égoutter. Faire revenir les lardons à feu vif, y ajouter les échalotes émincées (ajouter un peu de beurre s'il faut). Ajouter les lentilles, du sel et du poivre. Préchauffer le four à 180°C (thermostat 6). Purée: Eplucher les patates une fois cuites, les écraser à la fourchette ou les passer à l'ustensile à purée. Ajouter beurre, du lait selon vos désirs de consistance puis la muscade, la crème, du sel et du poivre. Dans un plat à gratin monter les lentilles puis la purée. mettre une noix de beurre sur le dessus et enfourner pour 20 min au four. Remarques : N.B: Plat du chasseur (Isabel A.), prévoyez une bonne hydratation et des fruits en dessert 
+
+url	http://www.marmiton.org/recettes/recette_pave-de-saumon-grille-a-la-confiture-de-safran_10548.aspx
+recipe_name	Pavé de saumon grillé à la confiture de safran
+type	Plat principal
+difficulty	Moyennement difficile
+cost	Moyen
+guests_number	4
+preparation_time	20
+cook_time	15
+ingredients	beurre|beurre-doux|citron-vert|echalote|noilly-prat|safran|saumon|sel
+instructions	Découper le filet de saumon en pavés de 150 g environ. Côté chair, saler au sel de Guérande, poivrer, et arroser d'un filet de citron vert. Réserver. Emincer les échalotes. Dans une casserole en cuivre assez large, les faire fondre dans le beurre salé. Mouiller progressivement avec le Noilly. Tout le Noilly doit être évaporé, en plusieurs fois, de façon à fondre complètement les échalotes dans le beurre. Ajouter un jus de citron vert et fouetter çà chaud avec 100 g de beurre doux. En fin de liaison, ajouter le safran. Poivrer et corriger l'assaisonnement. Tenir au chaud. Griller les pavés de saumon à l'unilatéral (côté peau ). Servir en nappant les pavés avec la confiture de safran. Remarques : Ne pas choisir de trop petits saumons : plus le saumon est gros, meilleur il est. Bien entendu le saumon de ligne est meilleur que le saumon d'élevage... Ecrivez-moi si vous avez aimé. Boisson conseillée : Chassagne Montraché blanc. 
+
+url	http://www.marmiton.org/recettes/recette_piece-de-boeuf-a-la-sauce-chocolat_320200.aspx
+recipe_name	Pièce de boeuf à la sauce chocolat
+type	Plat principal
+difficulty	Très facile
+cost	Moyen
+guests_number	1
+preparation_time	5
+cook_time	5
+ingredients	beurre-doux|chocolat-en-poudre|rumsteak|sucre-glace|thym|vin-rouge
+instructions	Verser le chocolat en poudre dans le fond d'un verre et ajouter le vin. Mélanger en prenant soin de bien dissoudre la poudre. Ajouter le sucre glace. A ce point, au goût on doit bien sentir les trois notes, chocolat, vin et sucre distinctement. Ajouter le thym, puis poivrer assez généreusement. Mettre une poêle à chauffer, y ajouter le beurre. Quand le beurre est bien fondu, verser le mélange au chocolat au milieu, puis poser la pièce de b'uf dessus. Retourner plusieurs fois pour bien saisir l'extérieur en conservant l'intérieur fondant. Servir immédiatement, avec un accompagnement du type frite, pommes de terre, riz... Remarques : On peut rajouter quelques écorces d'oranges confites. C'est mieux si on ne sale pas trop voire pas du tout... Boisson conseillée : Vin rouge 
+
+url	http://www.marmiton.org/recettes/recette_poelee-de-pates-aux-trois-poivrons-et-lardons_343011.aspx
+recipe_name	Poêlée de pâtes aux trois poivrons et lardons
+type	Plat principal
+difficulty	Très facile
+cost	Bon marché
+guests_number	4
+preparation_time	30
+cook_time	20
+ingredients	beurre-doux|huile-d-olive|lardons|oignon|pates|poivron|poivron-rouge|volailles
+instructions	Préparez vos pâtes alimentaires, à la cuisson qui vous sied le mieux, en ajoutant le cube de volaille et un peu de gros sel dans l'eau de cuisson. Je vous conseille de faire vos pâtes fondantes.  Pendant ce temps, après avoir ôter les tiges, les graines et les fibres blanches, coupez les poivrons en petits cubes.  Pelez et émincez l'oignon.  Dans une poêle mettez une noix de beurre et une cuillère d'huile d'olive et faites-y revenir à feu moyen les poivrons et l'oignon émincés.  Remuez de temps en temps et incorporez les lardons lorsque les poivrons commencent à être fondants et non craquants.  Incorporez cette préparation à vos pâtes, mélangez, poivrez et dégustez chaud.  Remarques : Recette très facile avec beaucoup de goût. Boisson conseillée : Vin rouge Côte du Rhône. 
+
+url	http://www.marmiton.org/recettes/recette_poulet-au-sirop-d-erable_11166.aspx
+recipe_name	Poulet au sirop d'érable
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	20
+cook_time	25
+ingredients	beurre-doux|bouillon-de-volaille|creme-fraiche|poireau|poivre|sel|sirop-d-erable|volailles
+instructions	Faire fondre le beurre à feu doux. Saler et poivrer les blancs de volaille, puis les faire revenir délicatement dans une poêle environ 6 minutes de chaque côté. Réserver au chaud. Dans la poêle de cuisson, faire cuire légèrement les poireaux émincés, puis ajouter le sirop d'érable et le bouillon de volaille. Laisser réduire de moitié le jus de cuisson. Ajouter la crème fraîche. Vérifier l'assaisonnement. Placer les blancs de volaille sur un plat de service et napper généreusement de sauce. 
+
+url	http://www.marmiton.org/recettes/recette_risotto-automnale-aux-fruits-secs_340689.aspx
+recipe_name	Risotto automnale aux fruits secs
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	1
+preparation_time	10
+cook_time	30
+ingredients	beurre-doux|carotte|creme-liquide|fleur-de-sel|huile-de-noix|jus-de-citron|noisette|oignon|parmesan|raisins-secs|riz|vin-blanc|volailles
+instructions	Faire chauffer le bouillon de volaille dans une casserole d'eau bouillante.  Éplucher l'oignon et le ciseler.  Concasser les noisettes.  Laver les carottes et les tailler en petites rondelles. Y ajouter un filet de jus de citron.  Faire revenir à la poêle les carottes, l'oignon, les noisettes et les raisins secs dans une casserole avec un peu d'huile de noix.  Ajouter dans la casserole le riz à risotto, et le déglacer au vin blanc.  Lorsque le riz est cuit, le verser dans une assiette creuse, y ajouter le contenu de la poêle avec un peu de crème liquide, du parmesan à volonté, et une pincée de fleur de sel.  Et : Buon appetito ! 
+
+url	http://www.marmiton.org/recettes/recette_risotto-oncteux-poulet-parmesan_344314.aspx
+recipe_name	Risotto oncteux poulet-parmesan
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	15
+cook_time	20
+ingredients	beurre-doux|bouillon|eau|oignon|parmesan|poulet|risotto|sauce-soja|vin-blanc
+instructions	Epluchez et coupez les oignons en lamelles. Puis faites-les fondre dans une poêle avec du beurre et de la sauce soja.  Ajoutez le riz et un peu de beurre et rendez les grains transparents. Puis ajoutez le verre de vin blanc.  Une fois évaporé, ajoutez l'eau avec le bouillon de cube, et répétez l'opération jusqu'à ce que le riz soit cuit (environ 20 min). N'oubliez pas de remuez de temps en temps.  Pour le poulet, vous pouvez acheter du poulet rôti et le coupez en fines tranches, ou achetez du poulet rôti déjà coupez dans le même rayon que les dés de jambon. Ou encore acheter des blancs de poulets, les faire cuire et les couper en tranches. Moi j'utilise le poulet rôti du rayon de dés de jambon !  J'ajoute, le parmesan (vous pouvez en mettre plus ou moins selon votre gourmandise !), puis le poulet et remuez, servez chaud et dégustez ! Buon appetito ! 
+
+url	http://www.marmiton.org/recettes/recette_super-chou-fleur-gratine-aux-oignons_343120.aspx
+recipe_name	Super chou-fleur gratiné aux oignons
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	20
+ingredients	beurre-doux|champignon|chou-fleur|creme-liquide|gruyere-rape|muscade|oeuf|oignon|poivre|sel|vin-blanc-sec
+instructions	Nettoyer le chou-fleur et détacher les bouquets.  Cuire le chou-fleur dans une casserole d'eau.  Peler et émincer les oignons et nettoyer les champignons blancs.  Pendant ce temps, faire revenir les oignons émincés et les champignons dans une sauteuse avec une noix de beurre.  Après 5 minutes, ajouter le vin blanc et la sauce chinoise. Mélanger et laisser mijoter 5 minutes de plus.  Une fois le chou-fleur cuit, l'égoutter puis le mélanger aux oignons et aux champignons et verser le tout dans un plat à gratin préalablement beurré.  Dans un bol, mélanger le gruyère, la crème, la muscade, le sel, le poivre et l''uf.  Verser le mélange sur le chou-fleur et parsemer le tout de gruyère râpé.  Enfourner pendant 20 minutes à 200°C (thermostat 6-7).  Boisson conseillée : Bière blonde ou vin blanc d'Alsace (Riesling). 
+
+url	http://www.marmiton.org/recettes/recette_tarte-aux-oignons-caramelises_201236.aspx
+recipe_name	Tarte aux oignons caramélisés
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	6
+preparation_time	30
+cook_time	20
+ingredients	beurre-doux|creme-fraiche|emmental|muscade|oeuf|oignon|pate-feuilletee|poivre|sel
+instructions	Émincez finement les oignons puis faites-les suer dans le beurre. Couvrez et laissez-les fondre à feu doux une vingtaine de minutes. Lorsqu'ils sont translucides, retirez-les du feu. Dans un grand bol, battre l''uf avec la crème fraîche. Salez, poivrez, ajoutez un peu de muscade selon votre goût (attention, la muscade en poudre a beaucoup de goût). Versez le mélange sur les oignons cuits et mélangez. Préchauffez votre four à 180°C (thermostat 6). Étalez la pâte feuilletée dans un plat à tarte et froncez-en les bords puis garnissez-la avec le mélange 'uf/crème/oignons. Enfin, recouvrez-la de fromage râpé et parsemez-la de quelques noisettes de beurre. Enfournez votre tarte et après 15 min de cuisson, passez en mode grill pour 5 min supplémentaires. Attention à ne pas laisser le fromage brûler. Une fois votre tarte bien dorée, servez-la bien chaude ou tiède avec une salade. Elle se marie particulièrement bien avec les endives et les cerneaux de noix mais une salade verte classique fait très bien l'affaire aussi. C'est selon vos goûts ! Bon appétit ! Remarques : Astuce : pour les gros gourmands, une cuillère à soupe de sucre blanc peut être ajoutée à l'étape 1 de la préparation, durant la cuisson des oignons pour une caramélisation et un goût encore plus intense. Boisson conseillée : Vin blanc moelleux type muscat 
+
+url	http://www.marmiton.org/recettes/recette_tarte-tomates-jambon-champignons_225309.aspx
+recipe_name	Tarte tomates, jambon, champignons
+type	Plat principal
+difficulty	Facile
+cost	Bon marché
+guests_number	4
+preparation_time	20
+cook_time	25
+ingredients	beurre-doux|champignon-de-paris|eau|farine|gruyere-rape|huile-d-olive|jambon-blanc|origan|poivre|pulpe-de-tomate|sel
+instructions	Préparez la pâte brisée : sur un plan de travail, mettez la farine, la pincée de sel et le beurre coupé en petits morceaux. Emiettez le beurre du bout des doigts afin qu'il se mélange à la farine. Ajoutez un peu d'eau à la préparation afin de former une boule souple. Enveloppez la pâte dans du film alimentaire et réservez-la une heure au frigo. Faites revenir dans l'huile d'olive, la pulpe de tomates. Assaisonnez selon votre goût (sel et poivre, origan). Etalez la pâte au rouleau. Piquez la pâte à l'aide d'une fourchette.  Mettez sur la pâte la préparation à la tomate, le jambon coupé en demi-tranche, les champignons, de l'origan. Parsemez du gruyère râpé sur l'ensemble de la tarte. Faites cuire la tarte 20 à 25 minutes. Bon appétit ! Remarques : Accompagné d'une salade verte et voilà, un petit plat du soir simple et convivial ! 
+
