@@ -7,52 +7,142 @@ class MakeMenuPan(Frame):
 
     def __init__(self, root, model):
         Frame.__init__(self, root)
+        root.geometry("+100+100")
         self.root = root
         self.model = model
 
 
-        self.topFrame = TopFrame(self, model)
-        self.topFrame.grid(row=0)
+        #self.leftFrame = LeftFrame(self, model)
+        #self.leftFrame.grid(row=0, column=0)
 
-        self.botFrame = BotFrame(self, model)
-        self.botFrame.grid(row=0)
+        #self.rightFrame = RightFrame(self, model)
+        #self.rightFrame.grid(row=0,column=1)
 
+        self.randomMenFrame = RandomMenuFrame(self, model)
+        self.randomMenFrame.grid(row=0, column=0, rowspan=2)
+
+        self.recommendFrame = RecommendFrame(self, model)
+        self.recommendFrame.grid(row=0, column=1, padx=5)
+
+        #self.grid_columnconfigure(1, minsize=400)
         self.pack_propagate(False)
 
 
 
-class TopFrame(Frame):
+class LeftFrame(Frame):
     def __init__(self, root, model):
         Frame.__init__(self, root)
         self.root = root
         self.model = model
 
-        Label(self, text = "CA MARCHE").pack()
         self.random_menu_frame = RandomMenuFrame(root, model)
         self.random_menu_frame.grid(row=0, column=0)
 
 
-class BotFrame(Frame):
+
+class RightFrame(Frame):
     def __init__(self, root, model):
-        Frame.__init__(self, root)
+        Frame.__init__(self, root, width=400, borderwidth=2, relief ="raised")
         self.root = root
         self.model = model
 
+        recommendFrame = RecommendFrame(self, model)
+        recommendFrame.grid(row=0, pady=10)
+
+        userMenuFrame = UserMenuFrame(self, model)
+        userMenuFrame.grid(row=1, pady=10)
+
+        self.grid_rowconfigure(0, minsize=200)
+        self.grid_rowconfigure(1, minsize=200)
+        self.pack_propagate(False)
+
+
+class RecommendFrame(Frame):
+    def __init__(self, frame, model):
+        self.frame = frame
+        self.model = model
+        Frame.__init__(self, frame, borderwidth=2, relief="ridge")
+
+        Label(self,text="Vous aimerez peut être !").grid(row=0, pady=10)
+
+        for i, recipe in enumerate(self.model.recommended_recipes):
+            if i <= 3:
+                recommendRecipe = RecommendRecipeFrame(self, self.model, recipe)
+                recommendRecipe.grid(row=i+1, pady=5)
+
+
+class RecommendRecipeFrame(Frame):
+    def __init__(self, frame, model, recipe):
+        self.frame = frame
+        self.model = model
+        self.recipe =recipe
+        Frame.__init__(self, frame, relief="raised", width=350, height=90, borderwidth=2)
+
+
+
+        recipe_name = Label(self, text= recipe.get_name())
+        recipe_name.grid(row=0, column=0, sticky="W", padx=10, pady=10)
+
+        likeButton = LikeButton(self, model)
+        likeButton.grid(row=0, column=1)
+
+        dislikeButton = DislikeButton(self, model)
+        dislikeButton.grid(row=1, column=1)
+
+        # info + Ajouter
+
+        infoButton = InfoRecipeButton(self, model)
+        infoButton.grid(row=1, column=0, sticky="W")
+
+        addRecipeButton = AddRecipeButton(self, model)
+        addRecipeButton.grid(row=1)
+
+        self.grid_columnconfigure(0, minsize=400)
+
+class LikeButton(Button):
+    def __init__(self, frame, model):
+        self.frame = frame
+        self.model = model
+        Button.__init__(self, frame, text="J'aime", command=self.like)
+
+    def like(self):
+        self.background="green"
+        self.frame.configure(bg="green")
+        print("Je like")
+
+class DislikeButton(Button):
+    def __init__(self, frame, model):
+        self.frame = frame
+        self.model = model
+        Button.__init__(self, frame, text="Je n'aime pas", command=self.dislike)
+
+    def dislike(self):
+        self.frame.configure(background="red")
+        print("Je n'aime pas")
+
+
+class UserMenuFrame(Frame):
+    def __init__(self, frame, model, ):
+        Frame.__init__(self, frame, borderwidth=2, relief="raised")
+
+        Label(self, text="Votre Menu").grid(row=0)
+
 class RandomMenuFrame(Frame):
     def __init__(self, frame, model):
-        Frame.__init__(self, frame)
+        Frame.__init__(self, frame, relief= "ridge", borderwidth=2)
         self.frame = frame
         self.model = model
 
+        Label(self, text="Le Menu que je vous propose!").grid(row=0)
         self.random_recipes = random.sample(self.model.profile.get_liked_recipes(), len(self.model.profile.get_liked_recipes()))
         print(len(self.random_recipes))
         for i in range(7):
             recipe = RandomRecipeFrame(self, model, self.random_recipes[i])
-            recipe.grid(row=i, padx=10, pady=10)
+            recipe.grid(row=i+1, padx=10, pady=5)
 
 class RandomRecipeFrame(Frame):
     def __init__(self, frame, model, recipe):
-        Frame.__init__(self, frame, relief="raised", width=400, height=140, borderwidth=2)
+        Frame.__init__(self, frame, relief="raised", width=350, height=90, borderwidth=2)
         self.frame = frame
         self.model = model
         self.recipe = recipe
@@ -65,7 +155,7 @@ class RandomRecipeFrame(Frame):
         addButton.grid(row=0, column=1)
 
         suppButton =SuppRecipeButton(self, model)
-        suppButton.grid(row=0, column=2)
+        suppButton.grid(row=1, column=1)
 
         infoButton = InfoRecipeButton(self, model)
         infoButton.grid(row=1, sticky="W")

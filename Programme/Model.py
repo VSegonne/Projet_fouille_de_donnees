@@ -11,6 +11,7 @@ class Model():
         self.profile = None
         self.recipes = self.DBM.load_recipes_from_database2(self.DBM.recipes_database)
         self.menu= []
+        self.recommended_recipes =[]
 
     def display_main_menu(self, window, DBM):
         label = tk.Label(window, text="u piss me off")
@@ -45,6 +46,9 @@ class Model():
 
     def generate_recipes(self):
 
+        # TODO
+        # Enlever model.recommended recipes
+        self.recommended_recipes = self.profile.get_liked_recipes()
         makeMenu = MakeMenuPan(self.root, self)
         makeMenu.pack()
         print("Affichage des recettes proposées")
