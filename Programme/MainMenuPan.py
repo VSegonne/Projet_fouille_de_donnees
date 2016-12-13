@@ -6,16 +6,33 @@ from tkinter.messagebox import *
 class MainMenuPan(Frame):
 
     def __init__(self, root, DBM, model):
-        Frame.__init__(self, root, width=400, height=200, relief="groove")
+        Frame.__init__(self, root, width=400, height=200, relief="raised")
         self.DBM = DBM
         self.model = model
+
+        root.geometry="+100+100"
+
+
+        titre = Label(self, text="Bienvenue dans EatAweek!\n Entrez votre nom ou selectionnez un profil existant")
+        titre.grid(row=0, column=0)
+
         self.okButton = OkButton(self, self.model)
+        self.okButton.grid(row=4, column=0)
+
         self.profile = ''
         self.entree = Entry(self, width = 30)
-        self.entree.pack()
+        self.entree.grid(row=1, column=0)
 
         self.listProfile = ListeProfile(self, self.model.getProfileNames())
-        self.listProfile.pack()
+        self.listProfile.grid(row=2, column=0)
+
+        self.grid_rowconfigure(0, minsize=100)
+
+        self.grid_rowconfigure(1, minsize=100)
+        self.grid_rowconfigure(2, minsize=100)
+        self.grid_rowconfigure(3, minsize=100)
+
+        self.grid_columnconfigure(0, minsize=300)
 
         self.pack_propagate(False)
 
@@ -25,7 +42,6 @@ class OkButton(Button):
         self.frame = frame
 
         Button.__init__(self, self.frame, text="Faire mon menu!",command=self.makeMenu)
-        self.pack(side="bottom")
 
     def makeMenu(self):
         new_profile = self.frame.entree.get()
@@ -33,7 +49,6 @@ class OkButton(Button):
         # If no Profile chosen
         if new_profile == "" and self.frame.listProfile.get_profile_name() == "Choisissez votre profil":
             showerror("Attention!", "Vous devez choisir un profil", icon="warning")
-            self.model.display_main_menu(self.model.root, self.model.DBM)
 
         # If new profile
         elif new_profile:

@@ -225,7 +225,7 @@ class DataBaseManager():
             for i, col in enumerate(row):
                 recipe_attributes.append(col)
             liked_recipe = Recipe(*recipe_attributes)
-            liked_recipe.set_opinion("like")
+
             liked_recipes.append(liked_recipe)
 
 
@@ -331,6 +331,10 @@ class DataBaseManager():
             if exists[0] == "dislike":
                update = " update "+ profile_name + " set opinion = 'like' where name = " + "\"" +recipe["name"] + "\""
                cursor.execute(update)
+
+               update = " update "+ profile_name + " set score = '1' where name = " + "\"" +recipe["name"] + "\""
+               cursor.execute(update)
+
         conn.commit()
         conn.close()
 
@@ -404,7 +408,22 @@ class DataBaseManager():
 
         return profile
 
+    def increment_score_by_one(self, profile_name, recipe):
+        score = int(recipe.get_score()) + 1
+        recipe.set_score(score)
+
+        conn = sq.connect("Profile.db")
+        cursor = conn.cursor()
+
+        update = " update "+ profile_name + " set score = "+ str(recipe.get_score()) +  " where name = " + "\"" + recipe.get_name() + "\""
+        cursor.execute(update)
+
+        conn.commit()
+        conn.close()
+
+
 if __name__ == "__main__":
     newDB = DataBaseManager()
     newDB.create_recipes_database_from_textFile("Recipes3.db","recipes_index_B.txt")
     newDB.clean_database("Recipes3.db","Recipes")
+

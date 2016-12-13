@@ -7,16 +7,10 @@ class MakeMenuPan(Frame):
 
     def __init__(self, root, model):
         Frame.__init__(self, root)
-        root.geometry("+100+100")
         self.root = root
+        root.geometry('+450+200')
         self.model = model
 
-
-        #self.leftFrame = LeftFrame(self, model)
-        #self.leftFrame.grid(row=0, column=0)
-
-        #self.rightFrame = RightFrame(self, model)
-        #self.rightFrame.grid(row=0,column=1)
 
         self.randomMenFrame = RandomMenuFrame(self, model)
         self.randomMenFrame.grid(row=0, column=0, rowspan=2)
@@ -29,6 +23,7 @@ class MakeMenuPan(Frame):
 
         self.grid_columnconfigure(1, minsize=400)
         self.grid_rowconfigure(1, minsize=360)
+
         self.pack_propagate(False)
 
 
@@ -54,8 +49,6 @@ class RecommendRecipeFrame(Frame):
         self.recipe =recipe
         Frame.__init__(self, frame, relief="raised", width=350, height=90, borderwidth=2)
 
-
-
         recipe_name = Label(self, text= recipe.get_name())
         recipe_name.grid(row=0, column=0, sticky="W", padx=10, pady=5)
 
@@ -73,7 +66,8 @@ class RecommendRecipeFrame(Frame):
         addRecipeButton = AddRecipeButton(self, model)
         addRecipeButton.grid(row=0, column=2)
 
-        Button(self, text="Switch").grid(row=1, column=2)
+        switchButton = SwitchButton(self, model)
+        switchButton.grid(row=1, column=2)
 
         self.grid_columnconfigure(0, minsize=400)
 
@@ -87,7 +81,6 @@ class LikeButton(Button):
         self.background="green"
         self.frame.configure(bg="green")
         self.model.add_liked_recipe_to_profile(self.model.profile.get_name(), self.frame.recipe)
-        print("Je like")
 
 class DislikeButton(Button):
     def __init__(self, frame, model):
@@ -104,6 +97,7 @@ class DislikeButton(Button):
 class UserMenuFrame(Frame):
     def __init__(self, frame, model ):
         self.model = model
+        self.frame =frame
         Frame.__init__(self, frame, width=300,height=90, borderwidth=2, relief="raised")
 
         Label(self, text="Votre Menu").grid(row=0)
@@ -112,6 +106,9 @@ class UserMenuFrame(Frame):
 
         self.grid_columnconfigure(0, minsize=510)
         self.pack_propagate(False)
+
+        finishButton = FinishButton(self, model)
+        finishButton.grid(row=8)
 
     def update(self):
         for i, recipe in enumerate(self.model.menu):
@@ -168,7 +165,8 @@ class RandomRecipeFrame(Frame):
         infoButton = InfoRecipeButton(self, model)
         infoButton.grid(row=1, sticky="W")
 
-        Button(self, text="Switch").grid(row=3, column=1)
+        switchButton = SwitchButton(self, model)
+        switchButton.grid(row=3, column=1)
 
 
 class AddRecipeButton(Button):
@@ -180,7 +178,6 @@ class AddRecipeButton(Button):
     def add(self):
         self.model.add_recipe_to_menu(self.frame.recipe)
         self.frame.frame.frame.userMenuFrame.update()
-        print(self.model.menu)
 
 
 
@@ -213,6 +210,67 @@ class InfoRecipeButton(Button):
 
 
         showinfo(self.frame.recipe.get_name(), text)
+
+
+class SwitchButton(Button):
+    def __init__(self, frame, model):
+        self.frame = frame
+        self.model = model
+        Button.__init__(self, frame, text="Switch", command=self.switch)
+
+    def switch(self):
+
+        if isinstance(self.frame, RandomRecipeFrame):
+            grid_info = self.frame.grid_info()
+            i = random.randint(1, len(self.model.profile.get_liked_recipes()))-1
+            randomRecipe = RandomRecipeFrame(self.frame.frame, self.model, self.model.profile.get_liked_recipes()[i])
+            randomRecipe.grid(row=grid_info['row'], column=grid_info["column"])
+            self.frame.destroy()
+        else:
+            grid_info = self.frame.grid_info()
+            i = random.randint(1, len(self.model.recommended_recipes))-1
+            recommendRecipe = RecommendRecipeFrame(self.frame.frame, self.model, self.model.recommended_recipes[i])
+            recommendRecipe.grid(row=grid_info['row'], column=grid_info["column"])
+            self.frame.destroy()
+
+
+class FinishRecipeFrame(Frame):
+    def __init__(self, frame, model, recipe):
+        self.frame = frame
+        self.model = model
+        self.recipe = recipe
+        Frame.__init__(self, frame, width=400, height=700, borderwidth=2, relief="raised")
+
+        name = Label(self, text= recipe.get_name())
+        name.grid(row=0, column=0)
+
+        infoButton = InfoRecipeButton(self, self.model)
+        infoButton.grid(row=0, column=1)
+
+        self.grid_columnconfigure(0, minsize=400)
+
+        self.pack_propagate(False)
+
+class FinishButton(Button):
+    def __init__(self, frame, model):
+        self.frame = frame
+        self.model = model
+        Button.__init__(self, frame, text="Terminer!", command=self.validate)
+
+    def validate(self):
+        if len(self.model.menu) < 7:
+            showinfo('Attention!', "Nombre de repas insuffisant")
+        else:
+            for i, recipe in enumerate(self.model.menu):
+                self.model.increment_score_by_one(self.model.profile.get_name(), recipe)
+                root = self.frame.frame.root
+                self.frame.frame.destroy()
+                root.geometry("+300+400")
+                for recipe in self.model.menu:
+                    f = FinishRecipeFrame(root, self.model, recipe)
+                    f.grid(row= i+1, pady=15, padx=15)
+                    f.grid_rowconfigure(i+1, minsize=10)
+
 
 
 

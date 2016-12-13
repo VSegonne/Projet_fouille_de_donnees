@@ -47,10 +47,7 @@ class ILikeButton(Button):
         Button.__init__(self, self.frame, text="J'aime!", command=self.action)
 
     def action(self):
-        #TODO
-        # Mettre à 20 repas
-        # changer condition : len(self.model.profile.liked_recipes) < 19 :
-        if self.frame.root.count < 8 :
+        if self.frame.root.count < 20 :
             self.frame.root.recipeNameFrame.update_name()
             self.frame.root.recipeFrame.update()
             self.addRecipe2likedRecipes()

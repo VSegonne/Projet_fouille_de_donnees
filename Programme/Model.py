@@ -65,6 +65,7 @@ class Model():
 
     def add_liked_recipe_to_profile(self, profile_name, liked_recipe):
         liked_recipe.set_opinion("like")
+        liked_recipe.set_score(1)
         self.profile.add_liked_recipe(liked_recipe)
         self.DBM.add_liked_recipe_to_profile(profile_name, liked_recipe)
 
@@ -87,3 +88,6 @@ class Model():
 
     def sup_recipe_from_menu(self, recipe):
         self.menu.remove(recipe)
+
+    def increment_score_by_one(self, profile_name, recipe_name):
+        self.DBM.increment_score_by_one(profile_name, recipe_name)

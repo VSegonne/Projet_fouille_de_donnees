@@ -8,6 +8,8 @@ from collections import defaultdict
 import math
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.cluster import KMeans
+from sklearn.metrics.pairwise import cosine_similarity
 
 
 
@@ -102,6 +104,30 @@ def vectorize_recipes2(recipes):
 
 
 def weight_recipe_with_score(v_recipe, score):
+
     return v_recipe*score
+
+def get_best_k(v_liked_recipes) :
+
+    best_sim = 0
+    best_k = 0
+    for i in range(2,10):
+        kmeans = KMeans(n_clusters=i).fit(v_liked_recipes)
+        centers =[x for x in kmeans.cluster_centers_]
+        scores = []
+
+        for recipe in v_liked_recipes:
+            matrix = centers + recipe
+            cos_matrix = cosine_similarity(matrix)
+            score_best_sim = max(cos_matrix[0][1:])
+            scores.append(score_best_sim)
+
+        global_sim = sum(scores)
+        if global_sim > best_sim:
+            best_sim = global_sim
+            best_k = i
+
+    return best_k
+
 
 

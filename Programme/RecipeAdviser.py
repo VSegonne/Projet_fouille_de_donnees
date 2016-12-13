@@ -21,14 +21,19 @@ class RecipeAdviser():
         weighted_v_liked_recipes = []
 
         # Pondération des recettes préférées
+        l = float(len(v_liked_recipes))
+
         for i, recipe in enumerate(v_liked_recipes):
-            recipe = weight_recipe_with_score(recipe, int(liked_recipes[i].get_score()))
+            score = int(liked_recipes[i].get_score()) / l
+            recipe = weight_recipe_with_score(recipe, score)
             weighted_v_liked_recipes.append(recipe)
 
 
+        best_k = get_best_k(weighted_v_liked_recipes)
+
 
         # Modélisation du profil utilisateur
-        kmeans = KMeans(n_clusters=5).fit(v_liked_recipes)
+        kmeans = KMeans(n_clusters=best_k).fit(weighted_v_liked_recipes)
         centers =[x for x in kmeans.cluster_centers_]
 
 
