@@ -4,14 +4,15 @@ from MakeMenuPan import *
 from InitProfilPan import *
 from Profile import *
 from RecipeAdviser import  *
+import numpy as np
 class Model():
 
     def __init__(self, root, DBM):
-        print("ICI", root)
         self.DBM = DBM
         self.root = root
         self.profile = None
         self.recipes = self.DBM.load_recipes_from_database2(self.DBM.recipes_database)
+        np.random.shuffle(self.recipes)
         self.menu= []
         self.recommended_recipes =[]
 

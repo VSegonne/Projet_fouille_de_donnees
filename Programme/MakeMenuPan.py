@@ -266,10 +266,9 @@ class FinishButton(Button):
                 root = self.frame.frame.root
                 self.frame.frame.destroy()
                 root.geometry="+300+400"
-                for recipe in self.model.menu:
-                    f = FinishRecipeFrame(root, self.model, recipe)
-                    f.grid(row= i+1, pady=15, padx=15)
-                    f.grid_rowconfigure(i+1, minsize=10)
+                f = FinishRecipeFrame(root, self.model, recipe)
+                f.grid(row= i+1, pady=15, padx=15)
+                f.grid_rowconfigure(i+1, minsize=10)
 
 
 

@@ -9,7 +9,7 @@ class InitProfilPan(tkinter.Frame):
 
     def __init__(self, root, model):
 
-        tkinter.Frame.__init__(self, root,  relief="groove")
+        tkinter.Frame.__init__(self, root,  relief="groove", height=500)
 
         root.geometry="+220+150"
 
@@ -228,11 +228,17 @@ class RecipeInstructionsFrame(LabelFrame):
         instructions = ""
         self.frame = frame
         self.model = model
-        for i, word in enumerate(frame.root.model.recipes[frame.root.count].get_instructions().split(" ")):
-            if i%15 ==0:
-                instructions += "\n"
+        for i, word in enumerate(frame.root.model.recipes[frame.root.count].get_instructions().split(" ")[:100]):
+            if i < 150:
+                if i%15 == 0:
+                    instructions += "\n"
+                else:
+                    instructions += " "+ word
+
+
             else:
-                instructions += " "+ word
+                instructions += "\n" + "..."
+                break
 
         self.label = tkinter.Label(self, text =instructions ,  background="white")
         self.label.pack(padx=10, pady=15)
